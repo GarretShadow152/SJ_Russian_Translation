@@ -5663,156 +5663,156 @@ what meaning you hold?
 # ---------------- SCRAPS ----------------
 SJ2021_1_ACCEPTANCE=
 	[BADELINE left upset]
-	Hey, {+MADELINE}?
+	Эй, {+MADELINE}?
 	[MADELINE right distracted]
-	Yeah?
+	Да?
 	[BADELINE left normal]
-	I like it.
+	Мне нравится это.
 	[MADELINE right sad]
 	...
 	[MADELINE right normal]
-	I like it too.
+	Мне тоже.
 
 SJ2021_1_DESYNC=
-	This memorial dedicated to those who perished by the cassette desync bug
+  Данный мемориал посвящен погибшим при баге с рассинхронизацией касеты
 
 SJ2021_1_SORRYMISS=
-Sorry, miss, but I'm already using this one.
-There's another right over there!
+Простите, мисс, но этот уже использую я.
+И прямо здесь же есть другой!
 
 SJ2021_1_ALMOST=
-I can almost see my house from here!
-I wonder if I could get a better view from the bus stop at the top of the hill...
+Отсюда я почти вижу свою лошадь!
+Если бы я только могла забраться на остановку на вершине того холма...
 
 ###SCRAPPED
 #baddy needs to apologize for criticizing at some point b4 the resolution
 #or maybe baddy's tone should be less criticizing and more just not wanting to make any art bc she doesn't like it?
 SJ2021_1_SMTHN_ABT_ART_100=
-	so. theres a script its just not done lol /n for now pretend you're reading a framing story abt creative block /n wow, captivating!
-	[BADELINE left worriedAlt] Oh. You're working on this again? [MADELINE right sad] Yeah. [BADELINE left scoff] No wonder your room's such a mess. [BADELINE left normal] I thought you gave this up. [MADELINE right upset] Yeah, well I'm trying it again. [BADELINE left sigh] ... missing dialogue idk [MADELINE right upset] Oh forget it, this is awful. [BADELINE left upset] Come on {+MADELINE}, you're being too hard on yourself. [DEFAULT normal] {+MADELINE} crumples up the paper and throws it into the garbage.
+  в общем. здесь сценарий мы ещё не прописали лол /n поэтому сделай вид что читаешь душещипительную историю о творческом кризисе /n о, как завораживающе!
+	[BADELINE left worriedAlt] Оу. Ты опять работаешь над этим? [MADELINE right sad] Да. [BADELINE left scoff] Не удивительно у тебя тут так грязно. [BADELINE left normal] Я думала, ты бросила это дело. [MADELINE right upset] Да, но видишь, снова пытаюсь. [BADELINE left sigh] ... пропущенная фраза хз [MADELINE right upset] Лан забудь, это просто ужасно. [BADELINE left upset] Да лан, {+MADELINE}, ты же так старалась. [DEFAULT normal] {+MADELINE} смяла лист и кинула его в мусорку.
 
 SJ2021_1_SMTHN_ABT_ART_2= 
 	[MADELINE left panic]
-	BADELINE: Remember when we baked that awful strawberry pie?
+	BADELINE: Помнишь, как мы испекли тот ужасный клубничный пирог?
 	[MADELINE left panic]
-	MADELINE: Oh, the first time we climbed Celeste Mountain?
+	MADELINE: А, когда мы первый раз забрались на Селесту?
 	[MADELINE left panic]
-	BADELINE: Yeah! And Granny put more pie crust on top because we barely had enough strawberries.
+	BADELINE: Да! И Старушка клала всё больше коржей, потому что у нас банально не хватало клубники.
 
-	MADELINE: You were the one who kept eating them on the hike back.
+	MADELINE: Ага, а кто его доедал на обратной дороге?
 
-	BADELINE: Finders keepers.
+	BADELINE: Кто нашёл, берёт себе.
 
-	MADELINE: Hey, I found them!
+	MADELINE: Эй, ведь я их собирала!
 
-	BADELINE: And I’m you!
+	BADELINE: А я это ты!
 
-	MADELINE: Haha, yeah. That was fun.
+	MADELINE: Хаха, ладно.
 
 # === MousseMoose
 SJ2021_MousseMoose_1=
   [MADELINE right sad]
-  Hey Theo, is it just me, or does something feel a bit off about the temple?
+  Эй, Тео, это я, тебе ничего не кажется странным в этом храме?
   [MADELINE right distracted]
-  I don't remember it being this plain.
+  Не помню чтобы он был таким простым.
   [THEO left serious]
-  Who is Theo?
+  Кто такой Тео?
   [MADELINE right sad]
-  Uhh... you are?
+  Эмм... ты?
   [THEO left serious]
-  No, this is Dr\. Thompson speaking.
+  Нет, говорит Доктор Томпсон.
 
 SJ2021_MousseMoose_2=
   [MADELINE right surprised]
-  What!?
+  Что!?
   [THEO left serious]
-  It seems that you've forgotten what I've told you since you fell asleep. Let me remind you.
+  Кажется, вы забыли, что я говорил вам, после того, как уснули. Позвольте мне напомнить вам.
   [THEO left serious]
-  You volunteered to try a new form of psychotherapy known as Synthetic Sleep Therapy.
+  Вы волонтер в испытаниях новой формы психотерапии, известной как Терапия Синтетического Сна.
   [THEO left serious]
-  Right now, you are in an induced dream-like state, while retaining partial cognizance of the outside world.
+  Прямо сейчас вы находитесь в состоянии, подобном искусственному сну, сохраняя при этом частичное осознание внешнего мира.
   [THEO left serious]
-  That is why you are able to hear me. I am here to act as your guide through this experience.
+  Вот почему вы можете слышать меня. Я здесь для того, чтобы сопровождать вас в течение терапии.
   [MADELINE right distracted]
-  That's right, I'm starting to remember now.
+  Да, кажется я начинаю вспоминать.
   [THEO left serious]
-  You must have attached my voice to someone you know from your memories. Is that correct?
+  Должно быть вы связали мой голос с кем-то хорошо вам знакомым. Верно?
   [MADELINE right sad]
-  Yeah, that's right.
+  Да, всё верно.
   [THEO left serious]
-  I figured as such.
+  Так я и думал.
   [THEO left serious]
-  So are you ready to begin therapy?
+  Итак, вы готовы начать терапию?
   [MADELINE right sad]
-  I suppose so.
+  Я полагаю, что да.
   [THEO left serious]
-  Good. Let me send your brain an impulse and we will talk in a little bit.
+  Хорошо. Позвольте мне послать импульс в ваш мозг,{n}а затем мы немного поговорим.
   [MADELINE right sad]
-  Ok.
+  Ладно.
 
 SJ2021_MousseMoose_3=
   [THEO right serious]
-  {+MADELINE}, can you hear me? How are you doing?
+  {+MADELINE}, слышишь меня? Как ощущения?
   [MADELINE left sad]
-  I can hear you. I'm doing all right. It sure is weird in here.
+  Слышу. Я нормально. Хотя здесь конечно, странновато.
   [THEO right serious]
   ...
   [THEO right serious]
-  {+MADELINE}, are you there?
+  {+MADELINE}, вы зедсь?
   [MADELINE left sad]
-  Dr\. T? Hello?
+  Доктор? Вы меня слышите?
   [THEO right serious flip]
-  {# 666666}Huh, she's not responsive... Why not?{#}
+  {# 666666}Что, она не реагирует... Но почему?{#}
   [MADELINE left sad]
-  Dr\. T?
+  Доктор?
   [THEO right worried pop flip]
-  {# 666666}WHAT THE {!}HECK?{/!} The numbers... They're completely off!{#}
+  {# 666666}КАКОГО {!}ЧЁРТА?{/!} Числа... Они полностью выключены!{#}
   [MADELINE left surprised]
   ...
 
 SJ2021_MousseMoose_4=
   [THEO right worried flip]
-  {# 666666}{>> 6}What do I do? What do I do?{>>}
+  {# 666666}{>> 6}Что мне делать? Что мне делать?{>>}
   [THEO right worried flip]
-  I have to fix this myself, no matter the cost.{#}
+  Я должен лично исправить это, не важно какой ценой.{#}
   [THEO right worried]
-  {!}{+MADELINE}!{/!} If you can hear me, I'm going to send myself into your dream and pull you out of this!
+  {!}{+MADELINE}!{/!} Если вы слышите меня, я сейчас отправлю себя в ваш сон, чтобы вытащить вас от сюда!
   [MADELINE left sadder]
-  I hope you know what you're doing.
+  Надеюсь вы знаете, что делаете.
 
 SJ2021_MousseMoose_5=
   [MADELINE right surprised]
-  What a fall! I can't believe I'm not hurt!
+  Что за падение! Не верю, что осталась цела!
 
 SJ2021_MousseMoose_6=
   [normal]
-  *oh gosh, where am I*
+  *о боги, где я*
   [normal]
-  *i took one wrong turn and my gps landed me here*
+  *я всего лишь раз повернула не туда, и мой джипиэс завёл меня чёрт знает куда*
   [normal]
-  *ok if I keep looking at my phone maybe I'll blend in and no one will notice*
+  *ладно, может если я просто буду пялиться в свой телефон, никто и незаметит*
 
 SJ2021_MousseMoose_10=
   [MADELINE right normal]
-  SAMPLE TEXT?
+  ПРИМЕР ТЕКСТА?
   [MADELINE left sad]
-  Wh-what?
+  Ч-что?
   [MADELINE right normal]
-  SAMPLE TEXT?
+  ПРИМЕР ТЕКСТА?
   [MADELINE left sad]
-  What is "sample text"?
+  Да что за "пример текста"?
   [MADELINE right normal]
-  SAMPLE TEXT?
+  ПРИМЕР ТЕКСТА?
   [MADELINE left sad]
-  I'm sorry, I don't know what you mean.
+  Прости, я без понятия о чём ты.
   [MADELINE right normal]
-  SAMPLE TEXT?
+  ПРИМЕР ТЕКСТА?
   [MADELINE left sad]
   ...
   [MADELINE right normal]
-  SAMPLE TEXT?
+  ПРИМЕР ТЕКСТА?
   [MADELINE left distracted]
-  Well... all right, then. I'm leaving.  
+  Что ж... тогда, я просто уйду. 
   
 # === NotYourBadeline
   SJ2021_NotYourBadeline_Badeline_1=
