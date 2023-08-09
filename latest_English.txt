@@ -1,3 +1,6 @@
+# Это самая последняя версия английского файла, постараюсь обновлять, если будут выходить новые
+# Используйте её, чтобы вспомнить затертый оригинал
+
 modname_StrawberryJam2021=
   Strawberry Jam Collab
 endscreen_collabname_StrawberryJam2021= 
