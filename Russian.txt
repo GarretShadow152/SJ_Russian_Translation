@@ -3652,35 +3652,35 @@ im in your walls
 # === JustJulia
 
 StrawberryJam2021_3_Advanced_Start=
-  [Badeline right upset] Hey, {+MADELINE}, I don't think this is a good idea.
-  [Badeline right worried] We’re in {~}reeeeeeeeal{/~} hot water here.
-  [Madeline left upset] Ha ha. Very funny.
-  [Badeline right yell] I’m serious!
-  [Badeline right yell] This is a volcanic reef at the bottom of the ocean,{n}not some fancy hot spring.
-  [Badeline right concerned] We'll be lucky to escape with just burns.
-  [Madeline left sad] Yes, and we came here fully knowing that.
-  [Badeline right worried] But...
-  [Madeline left angry] I don’t need you worrying about me right now!
-  [Badeline right sad] Fine...
+  [Badeline right upset] Хей, {+MADELINE}, Я не думаю, что это хорошая идея.
+  [Badeline right worried] Здесь мы будем в {~}реааааально{/~} горячей воде.
+  [Madeline left upset] Ха ха. Очень смешно.
+  [Badeline right yell] Я серьёзна!
+  [Badeline right yell] Это вулканический риф на дне океана,{n} а не какой-то горячий источник.
+  [Badeline right concerned] Нам сильно повезёт, если мы вернёмся лишь с ожогами.
+  [Madeline left sad] Да, и мы пришли сюда полностью осозновая это.
+  [Badeline right worried] Но...
+  [Madeline left angry] Мне не нужно, чтобы ты сейчас за меня беспокоилась!
+  [Badeline right sad] Хорошо...
 
 StrawberryJam2021_3_Advanced_Final=
-  [Madeline left upset] Again? Seriously?
-  [Badeline right yell] {+MADELINE}, {!}STOP.{/!}
-  [Badeline right sad] Please.
-  [Madeline left angry] I can’t stop here, we’re almost there!
-  [Badeline right sad] The water is scalding.{n}It feels like we're splitting in two.
-  [Badeline right concerned] I don’t think we can make it.
-  [Madeline left distracted] We can’t turn back now...
-  [Badeline right FreakA] We HAVE to turn back now!
-  [Badeline right FreakB] {*}We’re barely keeping ourself together.{/*}
-  [Madeline left panic] We can’t stop. I can’t stop.
+  [Madeline left upset] Опять? Серьёзно?
+  [Badeline right yell] {+MADELINE}, {!}ОСТАНОВИСЬ.{/!}
+  [Badeline right sad] Пожалуйста.
+  [Madeline left angry] Я не могу остановиться здесь, мы почти пришли!
+  [Badeline right sad] Вода кипит.{n}Такое ощущение, что нас разделяют на части.
+  [Badeline right concerned] Я не думаю, что мы сможем это сделать.
+  [Madeline left distracted] Мы не можем вернуться сейчас...
+  [Badeline right FreakA] Мы ДОЛЖНЫ вернуться!
+  [Badeline right FreakB] {*}Мы едва держимся вместе.{/*}
+  [Madeline left panic] Мы не можем остановиться. Я не могу сдаться.
 
 StrawberryJam2021_3_Advanced_Heart=
-  [Madeline left surprised] What the- what just happened!? Did we make it?
-  [Badeline right sad] I’m sorry, it all just started slipping and I couldn’t-
-  [Madeline left sad] No, I’m sorry, I pushed us too far.
-  [Badeline right sigh] Well, we’re here now. Might as well claim our reward.
-  [Madeline left normal] And get out of here!
+  [Madeline left surprised] Что за- что сейчас произошло!? Мы сделали это?
+  [Badeline right sad] Прости меня, всё начало идти по наклонной и я не могла-
+  [Madeline left sad] Нет, это я должна извиниться, Я слишком сильно надавила на нас.
+  [Badeline right sigh] Ну, мы сейчас здесь. Можем забрать свою награду.
+  [Madeline left normal] И выбираться отсюда!
   
 # === KAERRA
 
