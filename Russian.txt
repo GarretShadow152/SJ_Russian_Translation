@@ -2989,165 +2989,165 @@ The chaser concept is based off of {# 66FFFF}Greg{#}!
 [MADELINE left normal]
 By the way, shoutouts to {# 66FF66}Archiethon{#}!
 
-# === fishtank
+# === fishtank = перевод trueScript
 
 SJ2021_fishtank_gondola=
 [MADELINE left distracted]
-The gondola seems to be out of order...
+Не похоже, что кабина исправна...
 
 SJ2021_fishtank_reception=
 [OSHIRO right worried]
-Welcome to {~}{# ff3e92}Hotel 74{#}{/~}...
+Добро пожаловать в {~}{# ff3e92}Отель "Семьдесят Четыре"{#}{/~}...
 [MADELINE left distracted]
-Why is there ice everywhere?
+Почему здесь всё покрыто льдом?
 [OSHIRO right nervous]
-My deepest apologies.
+Приношу вам глубочайшие извенения.
 [OSHIRO right serious]
-You see, severe climate change has caused some parts of the hotel to freeze over.
+Видите ли, значительная часть здания замёрзла из-за сильного изменения климата. 
 [OSHIRO right worried]
-The damage was so bad, in fact, that we decided to close the hotel for good.
+Ущерб настолько велик, что мы были вынуждены остановить работу отеля.
 [OSHIRO right serious]
-Our official {# FFFF4C}InstaPix{#} account sent the notice two months ago.
+Два месяца назад наш официальный аккаунт в {# FFFF4C}InstaPix{#} уведомлял об этом.
 [MADELINE left sad]
-I don't use any social media except {# 2CBA00}WeTalk{#}.
+Но я не пользуюсь другими соцсетями кроме {# 2CBA00}WeTalk{#}.
 [OSHIRO right worried]
-Wow, I've never heard of that.
+Никогда не слышал о такой.
 [OSHIRO right nervous]
-Um, may I ask how you got here?
+Эм, позвольте уточнить, каким образом вы сюда попали?
 [MADELINE left normal]
-The gondola wasn't working, so I climbed up to the hotel myself.
+Я не смогла воспользоваться подъёмником, так что я забралась по скалам.
 [OSHIRO right sideworried]
-{+thought}This girl is insane.{+endthought}
+{+thought}Она сошла с ума.{+endthought}
 [OSHIRO right sidehappy]
-{+thought}Maybe I can escape this place with her help!{+endthought}
+{+thought}Однако с её помощью я смогу выбраться отсюда!{+endthought}
 [OSHIRO right nervous]
-Ice seems to have sealed the entrance. I'm afraid we're trapped.
+По всей видимости дверь больше не откроется из-за льда. Боюсь нам отсюда не выйти.
 [MADELINE left sad]
-There's no one around to save us?
+Неужели здесь некому прийти на помощь?
 [OSHIRO right worried]
-The other staff members already left for a farewell hike up the mountain.
+Остальной персонал ушёл вверх по склону, прочь от холода.
 [OSHIRO right nervous]
-I was only staying here to make sure that everything was in order.
+Прежде чем отправиться за ними, я только лишь хотел удостовериться, что отель в порядке.
 [OSHIRO right worried]
-I never imagined the blizzard would come so quickly.
+Я не подозревал, что мороз достигнет этого места настолько быстро.
 [MADELINE left sad]
-So what can we do?
+И какой у нас план?
 [OSHIRO right worried]
-Perhaps we could get out through the ventilation ducts.
+Вполне возможно что мы выберемся через вентиляцию.
 [OSHIRO right nervous]
-Could you go check if the ducts are clear of ice? I'll follow you.
+Не могли бы вы узнать, есть ли лёд в воздуховоде? Я последую за вами.
 [MADELINE left normal]
-Let's go!
+Хорошо, не отставайте!
 
 SJ2021_fishtank_nakaniwa=
 [OSHIRO right normal]
-Thanks to your help, we've safely made it to the courtyard!
+Спасибо, с вашей помощью мы безопасно добрались до внутреннего двора!
 [MADELINE left normal]
-Ah, don't mention it! We're in this together.
+Ага, всегда пожалуйста! Нас ничто не остановит!
 [OSHIRO right worried]
-That's the spirit!
+Именно так!
 [OSHIRO right serious]
-The path ahead is frozen solid, though.
+Однако проход перед нами также перекрыт льдом.
 [MADELINE left sad]
-Are there any other routes we could take?
+Что вы можете предложить?
 [OSHIRO right nervous]
-Well, we could always try the sewers...
+Ну, мы можем попробовать спуститься в канализацию...
 [OSHIRO right serious]
-I don't know their exact location, though.
+К сожалению я не знаю, где именно находится спуск вниз.
 [MADELINE left normal]
-In that case, we should look for a watchtower.
+В таком случае нам нужно найти бинокль.
 [MADELINE left sad]
-The sewer entrance won't be able to hide from its scrutiny.
+Водосток не скроется от его взгляда.
 [OSHIRO right normal]
-Good idea! There's one right above us on the observation platform.
+Отличная идея! Прямо над нами находится смотровая площадка, там обязательно найдётся бинокль.
 
 SJ2021_fishtank_elevate=
 [MADELINE left distracted]
-The elevator has fallen here...
+Кабина лифта оборвалась и упала сюда...
 
 SJ2021_fishtank_sewers=
 [OSHIRO right normal]
-Ahead of us lie the sewers.
+Канализация прямо перед нами.
 [OSHIRO right worried]
-Although it's dark inside, there are plenty of torches, so visibility shouldn't be a problem.
+Там достаточно темно, но везде зажжены свечи, так что мы не столкнёмся с проблемами с видимостью.
 [MADELINE left normal]
-That's good to hear.
+Рада слышать.
 [OSHIRO right worried]
-That said, footing may be scarce, so we'll need to move carefully and follow the {~}{# 639BFF}blue torches{#}{/~}.
+Тем не менее нужно смотреть под ноги и следовать за {~}{# 639BFF}синими огнями{#}{/~} чтобы не столкнуться со всеми остальными препятствиями. 
 [MADELINE left peaceful]
-Okay, I'm used to that.
+Хорошо, я готова.
 [OSHIRO right normal]
-As always, you go first.
+Как всегда, ты пойдёшь впереди.
 [OSHIRO right nervous]
-I'll follow you... Haa...
+А я последую за тобой... Фух...
 [MADELINE left sad]
-If you feel like taking a break, just tell me, okay?
+Если силы вас покинут, то обязательно сообщите мне, ладно?
 [MADELINE left distracted]
-I wouldn't mind carrying you for a bit.
+Я вполне способна донести вас до следующего привала.
 [OSHIRO right normal]
-Thank you so much...
+Благодарю вас...
 
 SJ2021_fishtank_passenger=
 [OSHIRO right worried]
-We're reaching the end of the sewers now. Above us is the exit to the surface.
+Канализация здесь заканчивается, над нашими головами - выход на поверхность.
 [OSHIRO right nervous]
-However, I'm afraid the last part of this journey will also be the most treacherous.
+Однако мне кажется, что финал этого путешествия будет самой сложной его частью.
 [OSHIRO right serious]
-We'll have to perform dangerous maneuvers with the feather, followed by precise climbing...
+Нам предстоит провернуть невероятно сложные манёвры с пером, и следом аккуратно забраться по стене...
 [MADELINE left normal]
-Don't scare yourself before you've even tried it!
+Стоит сначала попробовать, это не может быть настолько сложно!
 [MADELINE left distracted]
-Besides, you're no ordinary hotel manager, are you?
+Между тем, вы не просто менеджер отеля, не так ли?
 [OSHIRO right worried]
-How did you know?
+Как вы это поняли?
 [MADELINE left sad]
-You're quick to react. Every move of yours is calculated. You also have considerable stamina.
+У вас очень хорошая реакция. Каждое ваше движение просчитано, кроме того вы обладаете внушительной выносливостью.
 [OSHIRO right worried]
-Well, I too was a mountain climber in my youth. I suppose I wasn't too bad at it...
+На самом деле я тоже увлекался скалолазанием в юношестве. По всей видимости я был не так уж и плох...
 [MADELINE left normal]
-See? You're doing great. There's nothing to worry about. Just breathe.
+Видите? У вас отлично получается. Не о чем волноваться. Просто дышите.
 [MADELINE left together]
-We can do this together.
+Мы выберемся отсюда вместе.
 
 SJ2021_fishtank_ending=
 [MADELINE left normal]
-We did it!
+Мы сделали это!
 [OSHIRO right worried]
-That was a close call!
+Это было недалеко от провала... 
 [MADELINE left normal]
-Yeah, but we succeeded because we believed in each other.
+Да, но мы были уверены друг в друге, и поэтому достигли цели.
 [OSHIRO right serious]
-I'd probably be dead if it wasn't for you...
+Без вашей помощи я наверняка был бы покойником...
 [OSHIRO right drama]
-You know, before you got here, I was wondering if I would become a ghost after I died.
+Знаете, перед вашим приходом я представлял, что стану призраком если не покину то место. 
 [OSHIRO right worried]
-A ghost that would cling to the past, filled with bitter regrets...
+Только подумать, я - призрак, связанный своим прошлым и переполненный сожалениями...
 [MADELINE left peaceful]
-Don't be silly.
+Это глупость.
 [MADELINE left distracted]
-We made it out alive, which is what matters.
+Мы живы, и мы выбрались наружу - это самое главное.
 [MADELINE left normal]
-Now then, shall we go catch up with the other staff members?
+Ну а теперь, пойдём и догоним остальных работников отеля?
 [OSHIRO right worried]
-That would be great!
+Это было бы прекрасно!
 [OSHIRO right normal]
-I can't wait to see Charlotte and tell her about our adventure.
+Мне не терпится увидеть Шарлотту и рассказать ей о наших приключениях.
 [OSHIRO right worried]
-But before we set out, I want to show you something. 
+Но прежде чем мы отправимся, обратите внимание на это. 
 [MADELINE left sad]
-What is it?
+Что это такое?
 [OSHIRO right worried]
-You see, this mountain has mysterious powers that are beyond our understanding.
+Видите ли, эта гора обладает особенной силой, которая находится за границей нашего понимания.
 [OSHIRO right normal]
-Ahead of us lies the {~}"dash refill"{/~}.
+Перед вами - {~}"Кристалл Рывка"{/~}.
 [OSHIRO right worried]
-It's said that those capable of controlling its power can pierce the {~}"crystal heart"{/~} in the sky.
+Говорят, что нужно управлять его силой, чтобы пронзить {~}"кристальное сердце"{/~}, висящее в воздухе.
 [OSHIRO right normal]
-Many come to the mountain just to attempt such a feat, but none have succeeded.
+Многие приходят к горе только чтобы попытаться совершить такой подвиг, но это ещё никому не удавалось.
 [OSHIRO right worried]
-Maybe you'll be the one?
+Сможете ли вы?
 [MADELINE left normal]
-Thanks! I'll give it a try.
+Спасибо, я попробую! 
 
 # === Flagpole1up
 
