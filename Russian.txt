@@ -3643,44 +3643,44 @@ Comf comf!
 
 SJ2021_Jolly_secret=
 [MADELINE right normal]
-Pizza
+Пицца
 
 SJ2021_Jolly_PowerAvUltimateSecret=
 [MADELINE right normal]
-im in your walls
+Я в твоих стенах
 
 # === JustJulia
 
 StrawberryJam2021_3_Advanced_Start=
-  [Badeline right upset] Хей, {+MADELINE}, Я не думаю, что это хорошая идея.
-  [Badeline right worried] Здесь мы будем в {~}реааааально{/~} горячей воде.
-  [Madeline left upset] Ха ха. Очень смешно.
-  [Badeline right yell] Я серьёзна!
+  [Badeline right upset] Эй, {+MADELINE}, не думаю, что это хорошая идея.
+  [Badeline right worried] Здесь {~}реааааально{/~} горячая вода.
+  [Madeline left upset] Ха-ха. Очень смешно.
+  [Badeline right yell] Я серьёзно!
   [Badeline right yell] Это вулканический риф на дне океана,{n} а не какой-то горячий источник.
   [Badeline right concerned] Нам сильно повезёт, если мы вернёмся лишь с ожогами.
   [Madeline left sad] Да, и мы пришли сюда полностью осозновая это.
   [Badeline right worried] Но...
-  [Madeline left angry] Мне не нужно, чтобы ты сейчас за меня беспокоилась!
-  [Badeline right sad] Хорошо...
+  [Madeline left angry] Не нужно сейчас обо мне беспокоиться!
+  [Badeline right sad] Ладно...
 
 StrawberryJam2021_3_Advanced_Final=
   [Madeline left upset] Опять? Серьёзно?
   [Badeline right yell] {+MADELINE}, {!}ОСТАНОВИСЬ.{/!}
   [Badeline right sad] Пожалуйста.
   [Madeline left angry] Я не могу остановиться здесь, мы почти пришли!
-  [Badeline right sad] Вода кипит.{n}Такое ощущение, что нас разделяют на части.
-  [Badeline right concerned] Я не думаю, что мы сможем это сделать.
-  [Madeline left distracted] Мы не можем вернуться сейчас...
-  [Badeline right FreakA] Мы ДОЛЖНЫ вернуться!
+  [Badeline right sad] Вода бурлит всё больше.{n}Ощущение, что нас вот-вот отделит друг от друга.
+  [Badeline right concerned] Я не думаю, что у нас получится.
+  [Madeline left distracted] Мы не можем повернуть назад сейчас...
+  [Badeline right FreakA] Мы ДОЛЖНЫ вернуться сейчас же!
   [Badeline right FreakB] {*}Мы едва держимся вместе.{/*}
-  [Madeline left panic] Мы не можем остановиться. Я не могу сдаться.
+  [Madeline left panic] Мы не можем закончить сейчас. Я не могу.
 
 StrawberryJam2021_3_Advanced_Heart=
-  [Madeline left surprised] Что за- что сейчас произошло!? Мы сделали это?
-  [Badeline right sad] Прости меня, всё начало идти по наклонной и я не могла-
-  [Madeline left sad] Нет, это я должна извиниться, Я слишком сильно надавила на нас.
-  [Badeline right sigh] Ну, мы сейчас здесь. Можем забрать свою награду.
-  [Madeline left normal] И выбираться отсюда!
+  [Madeline left surprised] Что за- что сейчас произошло!? У нас получилось?
+  [Badeline right sad] Прости меня, всё начало идти по наклонной, и я не смогла-
+  [Madeline left sad] Нет, это я должна извиниться, я завела нас слишком далеко.
+  [Badeline right sigh] Ну, раз уж мы здесь. Можем забрать нашу награду.
+  [Madeline left normal] И выбраться отсюда!
   
 # === KAERRA
 
