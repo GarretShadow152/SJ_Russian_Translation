@@ -2989,7 +2989,7 @@ The chaser concept is based off of {# 66FFFF}Greg{#}!
 [MADELINE left normal]
 By the way, shoutouts to {# 66FF66}Archiethon{#}!
 
-# === fishtank = перевод trueScript
+# === fishtank
 
 SJ2021_fishtank_gondola=
 [MADELINE left distracted]
@@ -3099,7 +3099,7 @@ SJ2021_fishtank_passenger=
 [MADELINE left distracted]
 Между тем, вы же не просто менеджер отеля, не так ли?
 [OSHIRO right worried]
-Но как вы узанли?
+Но как вы узнали?
 [MADELINE left sad]
 У вас очень хорошая реакция. Каждое ваше движение просчитано, кроме того вы обладаете внушительной выносливостью.
 [OSHIRO right worried]
@@ -3155,489 +3155,489 @@ SJ2021_Flagpole1up_PipeJump= На выходе из трубы
 
 SJ2021_Flagpole1up_Neat=
 [MADELINE left normal]
-Huh... Neat.
+Ого... Шикарно.
 
 # === Flamecrafter113
 
 SJ2021_Flamecrafter113_TutorialText_BouncyReboundA=
 [MADELINE left distracted]
-What am I supposed to do here?
+И что я должна тут делать?
 [MADELINE left sad]
-No magic crystals or objects...
+Нет ни кристаллов, ни каких-либо других объектов...
 [MADELINE left distracted]
-There's no spring to {# FFFFE7}bounce{#} me, either.
+Даже ни одной пружины чтобы {# FFFFE7}запустить{#} себя в воздух. 
 [MADELINE left sad]
-Whatever it is, it must be something new.
+Что бы это ни было, это что-то новое.
 
 SJ2021_Flamecrafter113_TutorialText_BouncyDreamSuper=
 [MADELINE left upset]
-Well this is just {# FFFFED}super{#}.
-There's no way a {~}dream hyper{/~} works there.
+Очевидно, что это {# FFFFED}супер{#}.
+{~}Дрим хайпер{/~} так не сработает.
 [MADELINE left sad]
-There has to be a way to do this.
+Должен же быть какой-то другой способ...
 [MADELINE left distracted]
-But what would work instead?
+Но что я могу сделать вместо хайпера? 
 
 SJ2021_Flamecrafter113_OvergrownLinn_AlcoveEdge=
 [MADELINE right normal]
-The sky is so bright tonight!
-I chose a good time to come here.
+Сегодня невероятно красивый закат!
+Это замечательное время чтобы оказаться здесь.
 [MADELINE right distracted]
-I just wish I wasn't here to find a{n}crystal heart and some strawberries...
+Жаль что я прибыла сюда только ради кристального сердца и пары ягод...
 
 SJ2021_Flamecrafter113_OvergrownLinn_ReturningPath=
 [MADELINE left distracted]
-I hope I can still find this trip enjoyable...
+Надеюсь здесь найдётся хоть что-нибудь интересное...
 
 SJ2021_Flamecrafter113_OvergrownLinn_AStart=
 [MADELINE left upset]
-I can't believe someone stained my {# 75fa69}jumper{#} in blueberry jelly.
+Надо же, кто-то измазал мою {# 75fa69}кофту{#} в черничном желе.
 
 SJ2021_Flamecrafter113_OvergrownLinn_A03a=
 [MADELINE left distracted]
-This moss doesn't feel cozy...
+В этом болоте совсем не уютно...
 
 SJ2021_Flamecrafter113_OvergrownLinn_A03b=
 {anchor bottom}
 [MADELINE left distracted]
-I thought a watchtower would be here...
+Я ожидала найти здесь бинокль...
 [MADELINE left sad]
-I guess I don't need it.
+Стало быть, он мне не пригодится.
 
 SJ2021_Flamecrafter113_OvergrownLinn_A04_A=
 [MADELINE left sad]
-This certainly isn't comfy.
+Здесь совершенно не уютно.
 
 SJ2021_Flamecrafter113_OvergrownLinn_A04_B=
 [MADELINE left normal]
-What a peaceful little spot!
+Какое классное место!
 
 SJ2021_Flamecrafter113_OvergrownLinn_A04_C=
 [MADELINE left distracted]
-What did I expect to find here?
+Что я здесь забыла?
 
 SJ2021_Flamecrafter113_OvergrownLinn_A04a=
 [MADELINE right distracted]
-This alcove has so many of these small spaces...
+В этом болоте много подобных углублений...
 
 SJ2021_Flamecrafter113_OvergrownLinn_A05a=
 [MADELINE left upset]
-Why did I try to get here?
+Зачем я попыталась сюда попасть?
 
 SJ2021_Flamecrafter113_OvergrownLinn_A06=
 [MADELINE right sad]
-A bonfire?
+Костёр?
 [MADELINE right distracted]
-I wonder who left it behind...
+Кто мог оставить его здесь...
 [MADELINE right sad]
 ...
 [MADELINE right distracted]
-This feels like something I shouldn't worry about.
+Я думаю мне не стоит об этом беспокоиться.
 
 SJ2021_Flamecrafter113_OvergrownLinn_Secretstart=
 [MADELINE left distracted]
-A sign? Up here?
+Табличка? Что она здесь делает?
 [MADELINE left sad]
-"Attention: The metallic object known as the Intro Car{n}has been moved elsewhere due to collab guidelines."
+"Обратите внимание: металлический объект, зарегистрированный как "Машина из Интро", был перемещён в другое место согласно правил коллаба."
 [MADELINE left upset]
-Great, so my car is still missing.
+Прекрасно, значит и здесь её нет.
 [MADELINE left sad]
-"These guidelines state a soft ban on the entity itself.{n}You may spot quotes of this in other maps."
+"А именно, правилами утверждён запрет на использование вышеупомянутого объекта. Этот же пункт упоминается во множестве других карт."
 [MADELINE left distracted]
-I wonder how much that guideline backfired...
+Насколько же сильны последствия этого запрета...
 
 SJ2021_Flamecrafter113_OvergrownLinn_Secretend=
 [MADELINE left sad]
-A sign...
+Табличка...
 [MADELINE left distracted]
-Looks like most of the text has been washed away.
+Похоже, что большую часть надписи смыло.
 [MADELINE left sad]
-I can barely make out one line...
-"Corners and speed powerfully augment the downwards direction."
+Я могу разглядеть лишь одну строчку...
+"...углы и скорость, эти факторы значительно влияют на ускорение в вертикальной плоскости..."
 [MADELINE left distracted]
-I wonder if something like that has uses here...
+Неужели что-то подобное применимо здесь...
 
 SJ2021_Flamecrafter113_OvergrownLinn_StopSecret=
 [MADELINE left distracted]
-I don't think I can go any further...
+Это тупик...
 
 SJ2021_Flamecrafter113_OvergrownLinn_FinalSecret=
 [MADELINE left sad]
-There's nothing up here.
+Здесь абсолютно ничего нет.
 [BADELINE right scoff]
-How surprising.
+Удивительно, правда?
 [BADELINE right normal]
-Did you finally satisfy your explorative nature?
+Твой внутренний исследователь доволен?
 [MADELINE left distracted]
 ...
-Kinda?
+Типа того?
 [MADELINE left sad]
-I mean, something about this just feels... odd.
+На самом деле я всё ещё ощущаю что-то... необычное.
 [BADELINE right scoff]
-You {~}really{/~} think there's more to this alcove?
+Ты и правда {~}до сих пор{/~} ожидаешь найти нечто большее?
 [BADELINE right normal]
-{+MADELINE}, be realistic here.
-Not only are these maps decently limited...
+{+MADELINE}, посмотри вокруг.
+Эти карты серьёзно ограничены...
 [BADELINE right scoff]
-But the movement gets far too complex for a small map using an underused helper with crazy bounces that some people may call {~}weird bugs{/~}.
+Да и все остальные способы перемещения требуют слишком много пояснений для небольшой карты, построенной вокруг непопулярного мода с безумными прыжками от стен, которые можно вообще считать {~}багами{/~}.
 [MADELINE left upset]
-{0.625}Excuse me?
+{0.625}Что ты имеешь в виду?
 
 SJ2021_Flamecrafter113_Heartside_Secret=
 {anchor bottom}
 [MADELINE left upset]
-I bounced up here for this?
-Only for a blank sign?
+И это всё?
+Лишь табличка?
 [MADELINE left angry]
-{*}A blank sign on a heartside?!{/*}
+{*}На ней даже ничего не написано?!{/*}
 [BADELINE right scoff]
-You expected something more?
-You even said the reason yourself.
+Посмотри на себя, опять захотела исследовать болото?
+Ты ведь и сама понимаешь...
 [BADELINE right upset]
-It's a heartside.
+В этом месте нечего искать.
 [MADELINE left sadder]
-But not even any funny dialogue at least?
+Но мы нашли тему для разговора, ведь так?
 
 # === fonda1515
 
 SJ2021_fonda1515_watchtower_1=
-  When using these watchtowers,{0.15} you're able to remotely activate switch gates in the room.
-  If you press your {# 82ff8a}{~}climb button,{/~}{#}{0.15} a switch gate will activate while you're looking through the watchtower.
-  If you leave this area and come back,{0.15} all switch gates you activated will be back in their original positions.
-  Note:{0.15} Switch gates will be activated chronologically based on when they would actually be activated in the room.
+  Через эти бинокли{0.15} вы можете дистанционно управлять switch gates в этой комнате.
+  После нажатия на {# 82ff8a}{~}climb button,{/~}{#}{0.15}, switch gate активируется и начнёт движение по своей траектории.
+  Если вы покинете эту зону,{0.15} все switch gates вернутся на исходные позиции.
+  Обратите внимание:{0.15} Switch gates активируются в том же порядке, что и во время прохождения комнаты.
 
-SJ2021_fonda1515_bird_1=commendable scenery
+SJ2021_fonda1515_bird_1=достойный вид
 
-SJ2021_fonda1515_omg_1=omg
+SJ2021_fonda1515_omg_1=потрясно
 
 # === Frozenflygone & BeanJammin
 
-SJ2021_frozenflygone_labconsole= {#000000}{>>10000}---------------{>>}{#}{#FF0000}WARNING! {#} {n} Passing completely through white particle grating {n}may remove dash!
+SJ2021_frozenflygone_labconsole= {#000000}{>>10000}---------------{>>}{#}{#FF0000}ВНИМАНИЕ! {#} {n} После пересечения подобного поля белых частиц есть риск остаться без рывка!
 
 [MADELINE left upset]
-Now you tell me.
+Как всегда вовремя.
 
-SJ2021_frozenflygone_hubconsole_A= {anchor bottom}This is a test of the hub console system.
-{anchor bottom}We don't have anything funny to say at this time. Please come back later.
+SJ2021_frozenflygone_hubconsole_A= {anchor bottom}This is a test of the hub console system. #контекст, о чём речь?
+{anchor bottom}Запас смешных анекдотов истощён. Пожалуйста, зайдите позже.
 
 SJ2021_frozenflygone_hubconsole_B= {anchor bottom}This is a test of the hub console system.
-{anchor bottom}We don't have anything funny to say at this time. Please come back later.
+{anchor bottom}Запас смешных анекдотов истощён. Пожалуйста, зайдите позже.
 
 SJ2021_frozenflygone_hubconsole_C= {anchor bottom}This is a test of the hub console system.
-{anchor bottom}We still don't have anything funny to say at this time. Please come back later.
+{anchor bottom}Запас несмешных анекдотов также истощён. Пожалуйста, зайдите позже.
 
 [Madeline right upset]
 
 SJ2021_frozenflygone_hubconsole_D= {anchor bottom}This is a test of the hub console system.
-{anchor bottom}We still don't have anything funny to say at this time. Please come back later.
+{anchor bottom}Новых анекдотов мы придумать не можем. Пожалуйста, зайдите позже.
 
 SJ2021_frozenflygone_hubconsole_E= {anchor bottom}Hub console test complete.
-Loading joke {0.5}. {0.5}. {0.5}. {0.5}
-Joke Progress:{0.5} 1{0.25}0{0.25}%{0.5} Complete {0.5}. {0.5}. {0.5}.{0.5}
-Joke Progress:{0.5} 3{0.25}0{0.25}%{0.5} Complete {0.5}. {0.55}. {0.6}.{0.6}
-Joke Progress:{0.5} 3{0.25}8{0.25}%{0.5} Complete {0.6}. {0.65}. {0.7}.{0.7}
-Joke Progress:{0.5} 6{0.25}9{0.25}%{0.5} Complete {0.6}. {0.65}. {0.7}.{0.75}
-Joke Progress:{0.5} 9{0.25}5{0.25}%{0.5} Complete {0.7}. {0.75}. {0.8}.{0.85}
-{1.25}Battery Low. {0.5}Powering down device.
+Загрузка анекдота {0.5}. {0.5}. {0.5}. {0.5}
+Формулирование анекдота:{0.5} 1{0.25}0{0.25}%{0.5} Завершено {0.5}. {0.5}. {0.5}.{0.5}
+Формулирование анекдота:{0.5} 3{0.25}0{0.25}%{0.5} Завершено {0.5}. {0.55}. {0.6}.{0.6}
+Формулирование анекдота:{0.5} 3{0.25}8{0.25}%{0.5} Завершено {0.6}. {0.65}. {0.7}.{0.7}
+Формулирование анекдота:{0.5} 6{0.25}9{0.25}%{0.5} Завершено {0.6}. {0.65}. {0.7}.{0.75}
+Формулирование анекдота:{0.5} 9{0.25}5{0.25}%{0.5} Завершено {0.7}. {0.75}. {0.8}.{0.85}
+{1.25}Батарея разряжена. {0.5}Переход в спящий режим.
 [Madeline right deadpan]
 
-SJ2021_frozenflygone_heartsideconsole= {anchor bottom}{0.5}AREA SCAN COMPLETE: {1} {n} Inadequate levels of comfort.
+SJ2021_frozenflygone_heartsideconsole= {anchor bottom}{0.5}СКАНИРОВАНИЕ ПРОСТРАНСТВА ЗАВЕРШЕНО: {1} {n} Выявлен неудовлетворительный уровень комфорта.
 
 {anchor bottom}[MADELINE left upset]
-I agree.
+Так и есть.
 
-SJ2021_frozenflygone_SS2console= Welcome to the {#}{#66f9f8}Victor VI Space Station{#}!
+SJ2021_frozenflygone_SS2console= Добро пожаловать на {#}{#66f9f8}Космическую Станцию "Виктор-6"{#}!
 
-Our gravity stabilizers are currently experiencing technical difficulties. We apologize for the inconvenience.
+Гравитационные стабилизаторы неисправны. Приносим извенения за доставленные неудобства.
 
-SJ2021_frozenflygone_WZconsole= {anchor bottom} For your safety, please keep your hands, arms, feet, and legs inside the black hole at all times.
+SJ2021_frozenflygone_WZconsole= {anchor bottom} Для вашей безопасности, пожалуйста держите свои руки (ладони, локти) и ноги (ступни, колени) как можно ближе к чёрной дыре.
 
  {anchor bottom}
 [MADELINE left surprised]
-{*}I'll do my best.{/*}
+{*}Сделаю, что смогу.{/*}
 
 #ROOM NAMES
 
-SJ2021_frozenflygone_lvlend= Level Complete!
+SJ2021_frozenflygone_lvlend= Уровень пройден!
 
 # === Goldian
 
 SJ2021_Goldian_BIRB_DIALOGUE=
 [Madeline left distracted]
-Hey, uh, do you work here? Any idea how I can get off this thing?
+Эй, кхм, вы здесь работаете? Помогите мне выбраться с этой свалки!
 [BIRB right normal]
-Of course ma'am! There should be a helicopter just a bit farther out.
+С радостью, мадам, прошу проследовать к вертолётной площадке в непосредственной близости отсюда.
 [Madeline left sad]
-Thanks.
+Спасибо.
 
 SJ2021_Goldian_BIRB_DIALOGUE_2=
 [Madeline left normal]
-Hey uh, by the way, I found this fish down there, want it?
+Эй, взгляните, я там внизу подобрала эту рыбу, хотите поделюсь?
 [BIRB right normal]
 ...
 [Madeline left normal]
 ...
 [BIRB right normalB]
-...{0.5}Yes please.
+...{0.5}Не откажусь.
 
 SJ2021_Goldian_ESCAPE_DIALOGUE=
 [Madeline left angry]
-Helicopter my ass, looks like it's long gone. 
+Вертеть его налево, похоже что он давно свалил. 
 [Madeline left determined]
-Guess it's boat time!
+Время пересечь море на этой шлюпке!
 
 # === HankyMueller
 HankyMueller_Intro_Baddy_01=
 [BADELINE right freakA]
-BOO!
+БУ-У!
 [MADELINE left surprised]
 ...
 [MADELINE left upset]
-...Hilarious.
+...Очень смешно.
 [BADELINE right scoff]
-So, is there a reason we're out here in the middle of nowhere?
+Итак, это какая-то дыра, что мы в ней забыли? 
 [MADELINE left distracted]
-It's not the middle of nowhere. It's... a {#00c46f}{~}UFO Crash Site{/~}{#}.
+Ты ещё не видела настоящей дыры. Здесь... {#00c46f}{~}Место падения НЛО{/~}{#}.
 [BADELINE right sigh]
-You can't be serious...
+Ты же шутишь...
 [MADELINE left upset]
 ...
 [BADELINE right scoff]
-Climbing a mountain is one thing... but investigating a {#00c46f}{~}UFO Crash Site{/~}{#}? 
-This is ridiculous, even for you.
+Забираться на гору - это одно дело... но расследовать {#00c46f}{~}разбитую летающую тарелку{/~}{#}? 
+Это абсурдно, даже для тебя.
 [MADELINE left upset]
-...says "a {#d678db}{~}Part of Me{/~}{#}".
+...говорит "{#d678db}{~}Часть Меня{/~}{#}".
 [BADELINE right worried]
-I am not ridiculous...
+Но я не абсурдна...
 [MADELINE left sad]
-Listen, I wouldn't be here if it didn't feel important.
-Just... trust me.
+Слушай, я чувствую что это важно, иначе меня бы здесь не было.
+Давай ты... просто поверишь мне.
 [BADELINE right worried]
-...okay.
+...ладно.
 
 # === HiveMindsRule
-SJ2021_hivemind_TUTORIAL_TOUCHGRASS=Go Touch Grass
+SJ2021_hivemind_TUTORIAL_TOUCHGRASS=Выйди на улицу
 
 # === Hydro
 SJ2021_Hydro_FieldTutorial=
-  While inside one of these rune fields, certain attributes of your movement will be altered.
-  The red arrow field disables your dash.
-  The blue triangle field causes your dash to not refill when it normally would, similar to core mode.
-  The yellow square field causes your stamina to not refill when it normally would.
-  The purple "V" field combines the effects of the red and blue fields. 
-  The orange diamond field combines the effects of the red and yellow fields.
-  The green circle field combines the effects of the blue and yellow fields.
-  The white "X" field combines the effects of all three basic types of fields.
-  You can experiment with the fields in the area to the left.
+  Каждое из данных рунических полей негативно влияет на возможности вашего передвижения.
+  Красное поле (со стрелками) не даёт совершать рывки.
+  Синее поле (с треугольниками) не даёт восстанавливать рывки там, где это обычно происходит - аналогично Главе 8.
+  Жёлтое поле (с квадратами) не даёт стамине восстанавливаться там, где это обычно происходит.
+  Фиолетовое поле (с символами "V") объединяет эффекты красного и синего полей.
+  Оранжевое поле (с кристаллами) объединяет эффекты красного и жёлтого полей.
+  Зелёное поле (с кругами) объединяет эффекты синего и жёлтого полей.
+  Белое поле (с крестами) объединяет эффекты всех трёх базовых полей.
+  Пройдите налево, чтобы ощутить на себе все эти эффекты.
 
-SJ2021_Hydro_Return= Return?
+SJ2021_Hydro_Return= Вернуться?
 
 SJ2021_Hydro_holyshitomorireference=
-  There is nothing here.
+  Здесь ничего нет.
 
 # === Hyperlife
 SJ2021_hyperlife_book1=
   {anchor bottom}
-  [JOURNAL]
-  17th of May, 2072
-  This is the first entry of my log chronicling the establishment of our new settlement here.
-  We've found no evidence of any recent life in the area, and we feel ready to continue with construction.
-  We have a few temporary shelters set up until we finish permanent residences.
-  I have a good feeling about this one.
-  I will continue to report back on our progress in these journals.
+  [ЗАПИСЬ]
+  от 17 мая, 2072
+  Это - первая запись в журнале нашего поселения, которое мы разворачиваем в этой местности.
+  Мы всё ещё не наблюдаем никаких свежих признаков разумной жизни в секторе, и мы готовы продолжать конструкционные работы. 
+  Мы установили несколько временных укрытий до готовности постоянного жилья.
+  Я считаю, что это была отличная идея.
+  В моей ответственности - продолжать вести этот журнал.
 
 SJ2021_hyperlife_book2=
-  [JOURNAL]
-  30th of November, 2073
-  We've finally finished construction of the settlement!
-  I'm really proud of all the work that every member of the team has put in over the past year and a half.
-  The residents should be arriving in a little under a month from now.
-  This feels like the beginning of something amazing.
+  [ЗАПИСЬ]
+  от 30 ноября, 2073
+  Наконец мы завершили все конструкционные работы!
+  Я испытываю гордость за каждого члена нашей команды, все мы работали не покладая рук на протяжении полутора лет.
+  Поселение уже готово принять первых гражданских, которые должны прибыть сюда в течение месяца.
+  Меня переполняет ощущение того, что мы стоим у начала чего-то великого. 
 
 SJ2021_hyperlife_book3=
-  [JOURNAL]
-  28th of December, 2078
-  Today is the 5th anniversary of the arrival of the residents.
-  Most of our time has been put towards continued maintenance of the buildings, as they wear down over time.
-  Some residents have filed complaints about the structural integrity of the buildings, but we have full confidence in the work we did.
-  Oh, I almost forgot, Lieutenant Pedro found something that seemed like red paint seeping up from one of the basement floors.
-  I'm not going to worry about it too much, but we'll make sure to keep an eye out for anything else.
+  [ЗАПИСЬ]
+  от 28 декабря, 2078
+  Сегодня пятая годовщина заселения.
+  Нашей главной задачей всё ещё остаётся поддержание износившихся зданий в хорошем состоянии.
+  Поступали незначительные жалобы по поводу нарушения целостности построенных нами структур, однако мы абсолютно уверены в качестве своей работы.
+  А, чуть не забыл, Лейтенант Паул обнаружил нечто, напоминающее розовую краску, эта субстанция просочилась через пол одного из жилых модулей.
+  Нам не о чем волноваться, но мы будем присматривать за её распространением. 
 
 SJ2021_hyperlife_book4=
   {anchor bottom}
-  [JOURNAL]
-  4th of January, 2079
-  I don't know what to do.
-  The markings are everywhere.
-  Red paint has filled the streets.
-  More and more people are going missing every day.
-  Reality feels like it's slowly slipping away.
-  I don't know how much more time I have.
-  KINGDOM.
+  [ЗАПИСЬ]
+  от 4 января, 2079
+  Я понятия не имею что делать.
+  Все стены покрылись отметинами.
+  Розовая краска заполнила улицы.
+  С каждым днём всё больше и больше людей пропадают без вести.
+  Я ощущаю, что теряю связь с реальностью.
+  Не могу знать, насколько много времени у меня ещё есть. 
+  КОРОЛЬ.
 
 SJ2021_hyperlife_book5=
-  [JOURNAL]
-  9th of September, 2080
-  {# ab1005}PRAISE KINGDOM.{#}
-  {# ab1005}GIVE YOURSELF TO THE JETSTREAM.{#}
-  {# ab1005}OUR LIVES BELONG TO KINGDOM.{#}
-  {# ab1005}PRAISE KINGDOM.{#}
-  {# ab1005}PRAISE KINGDOM.{#}
-  {# ab1005}PRAISE KINGDOM.{#}
+  [ЗАПИСЬ]
+  от 9 сентября, 2080
+  {# ab1005}СЛАВА КОРОЛЮ.{#}
+  {# ab1005}ОТДАЙ СВОЮ ЖИЗНЬ ДВИГАТЕЛЮ.{#}
+  {# ab1005}КОРОЛЮ НУЖНА КАЖДАЯ ЖИЗНЬ.{#}
+  {# ab1005}СЛАВА КОРОЛЮ.{#}
+  {# ab1005}СЛАВА КОРОЛЮ.{#}
+  {# ab1005}СЛАВА КОРОЛЮ.{#}
 
 SJ2021_hyperlife_a2demo=
   [NOTE]
-  There's a note on the ground.
+  На полу что-то написано.
   
 SJ2021_hyperlife_a2demoafter=
   [MADELINE right panic]
-  What does this mean...
+  Что бы это значило...
 
 SJ2021_hyperlife_HSdemo=
   [MADELINE left peaceful] 
-  Nice demo
+  Хорошая работа!
 
 # === Indecx
-StrawberryJam2021_tutorial_fastfall=Fast Fall
-StrawberryJam2021_tutorial_fastfall2=After Fast Fall
-StrawberryJam2021_tutorial_fastfallLaunch=Fast Fall Launch
+StrawberryJam2021_tutorial_fastfall=Быстрое Падение
+StrawberryJam2021_tutorial_fastfall2=После Падения
+StrawberryJam2021_tutorial_fastfallLaunch=Сохранение Скорости Падения
 
 # === Jackal
 
 SJ2021_Jackal_Ferroshock_Cryobot=
   [CRYOBOT right normal flip]
-  Hello, my name is CryoBot. Welcome to the Walter Room.
-  Shoutout to Nano and Kahuna for playtesting this map.
+  Приветствую, меня называют CryoBot. Вы наблюдаете Комнату Уолтера.
+  Мы благодарим Nano и Kahuna за плейтест этой карты.
   {5}{~}uwu{/~}
   
 # === Jadeturtle
 
 SJ2021_jadeturtle_borrowed_jam=
   [MADELINE left normal]
-  There it is, this farm's signature jam!
+  Это оно, то самое фирменное варенье!
   [MADELINE left distracted]
-  If only I knew which ingredient made it taste so good...
+  Если бы только я знала, что делает его настолько вкусным...
   [MADELINE left determined]
-  I guess I'll just have to {~}"borrow"{/~} {.5} it and figure it out for myself.
+  Мне придётся {~}"позаимствовать"{/~} {.5} некоторое количество, и потом разобраться с этим самой.
   [MADELINE left normal]
-  All I have to do is bring it to my car.
+  План прост - всего лишь донести банку варенья до моей машины.
 
 SJ2021_jadeturtle_car=
   [MADELINE left surprised]
-  Wait, where did my {# eb5534}car{#} go?
-  It was right here when I parked!
+  Погоди, а куда делась моя{# eb5534}машина{#}?
+  Я же припарковала её прямо здесь!
   [MADELINE left upset]
-  Oh... I left the keys in it, didn't I...
+  Ах... Должно быть я оставила ключи внутри...
   [MADELINE left sad]
-  Looks like I'll have to walk home...
+  Похоже, что отсюда я пойду пешком...
 
 SJ2021_jadeturtle_bluegrass=
   [secret_character]
-  Say hi to the "band without {# 002ede}blue{#} grass" band,
-  {# a8a5a5}{~}who were forced to get rid of their blue grass and spriting because of budget limitations.{/~}{#}
-  Featuring:
-  Pip, the bear, on Drums,
-  Ella, the duck, on Harmonica,
-  Emmet, the otter, on Bass,
-  {# adbeff}Tillotman{#}, the beaver, on Banjo,
-  And {# adbeff}Thegur90{#}, the composer.
-  This music sure is a {# ff5e5e}{~}jam{/~}{#}.
+  Поприветствуйте группу "Мы не можем в {# 002ede}блюграсс{#}",
+  {# a8a5a5}{~}их заставили отказаться от блюграсса и остановили выпуск мерча из-за недостатка бюджета.{/~}{#}
+  В главных ролях:
+  Пип - медведь, барабанная установка,
+  Элла - утка, губная гармошка,
+  Эммет - выдра, бас-гитара,
+  {# adbeff}Тилотманн{#}, бобёр, банджо,
+  И конечно же {# adbeff}Thegur90{#}, композитор.
+  "This music sure is a {# ff5e5e}{~}jam{/~}{#}". #найти хороший перевод?
 
 SJ2021_jadeturtle_wisdom_turtle=
   {anchor bottom}
   [MADELINE left surprised]
-  Hey, there's a sign up here.
+  Эй, здесь что-то написано.
   [MADELINE left normal]
-  I wonder why it was so difficult to reach, let me read it...
+  Сюда тяжело забираться, наверняка это что-то важное...
   [secret_character]
-   {.5}{!}{big} {~}Stealing {.5} is {.5} wrong{/~}{/!}
+   {.5}{!}{big} {~}Красть {.5} плохо{/~}{/!}
   [MADELINE left deadpan]
-  Oh.
+  А, ну да.
 
 SJ2021_jadeturtle_cozy_chase=
   {anchor bottom}
   [MADELINE left normal]
-  Ah, this spot sure is cozy.
-  Also...
+  Ах, здесь и правда уютно.
+  Кроме того...
   {~}{big}{!}{# 8deafc}T{#}{# ffccec}R{#}{# ffffff}A{#}{# 8deafc}N{#}{# ffccec}S{#} {# ffffff}R{#}{!}{# 8deafc}I{#}{# ffccec}G{#}{# ffffff}H{#}{# 8deafc}T{#}{# ffccec}S{#}{# ffffff}!{#}{/big}{/!}{/~}
 
 SJ2021_jadeturtle_bluegrass_bear=
   [secret_character]
-  Careful, kid, we can't move or else it will cost the band more money. 
-  Just enjoy our music <3
+  Смотри куда идёшь, красотка, нам не позволяют двигаться, потому что анимации группе не по карману. 
+  Просто наслаждайся музыкой <3
 
 SJ2021_jadeturtle_boop=
   [secret_character]
-  {big}{~}{# f8001c}* {#}{# f27901}B {#}{# dee400}O {#}{# 5ee810}O {#}{# 07e97a}P {#}{# 0ae578}* {#}{n}{# 007fee}a {#}{# 2d1fd1}a {#}{# 8e10ec}a {#}{# f700e5}\a {#}{# fb008c}a {#}{# f51d62}a {#}  {/~}{/big}
+  {big}{~}{# f8001c}* {#}{# f27901}Б {#}{# dee400}И {#}{# 5ee810}- И {#}{# 07e97a}П {#}{# 0ae578}* {#}{n}{# 007fee}а {#}{# 2d1fd1}а {#}{# 8e10ec}а {#}{# f700e5}\а {#}{# fb008c}а {#}{# f51d62}а {#}  {/~}{/big}
 
 # === JAN
 
 SJ2021_JAN_LMAO=
   {anchor top}
   [MADELINE normal]
-  I did it.
+  Класс.
 
 SJ2021_JAN_LMAO2=
   {anchor top}
   [MADELINE sadder]
-  This isn't how you solve the puzzle.
+  Паззл решается совсем не так.
 
 
 SJ2021_JAN_LMAOHS=
   {anchor top}
   [MADELINE normal]
-  Whoopsie
+  Упс...
 
 # === Jems
 SJ2021_InFiltration_Start=
 [EX_PHONE right normal]
-You've just entered the facility grounds.
-Be careful. You'll have to go in through the vents.
+Ты проникла на на территорию этого комплекса.
+Будь осторожна. Твой дальнейший путь лежит через вентиляцию.
 [MADELINE left determined]
-Roger.
+Так точно.
 
 SJ2021_InFiltration_Seekers=
 [MADELINE left surprised]
-What are those things?
+Что это за штуки?
 [EX_PHONE right normal]
-Specialist security drones.
-If they see you, you're good as dead.
+Специализированные охранные дроны.
+Если заметят - считай труп.
 
 SJ2021_InFiltration_Warning=
 {anchor bottom}
 [EX_PHONE right normal]
-Hold up.
-You're entering their generator room.
-Disable that, and you'll get rid of the time{n}dilation, but their security will stay online.
+Постой.
+Здесь находится их электрогенератор.
+Выруби его, и ты избавишься от замедления времени, однако это не повлияет на местные системы безопасности.
 [MADELINE left distracted]
-Roger.
+Так точно, подумаю над этим.
 [EX_PHONE right normal]
-That's not my name.
+Как ты меня назвала?
 [MADELINE left normal]
-It is now.
-Thanks for the help, Roger!
+А, это твой новый позывной.
+Держи в курсе, Так Точно!
 
 SJ2021_InFiltration_Blue_Alarm=
 [EX_PHONE right normal]
-Look out.
-We're detecting a pair of drones above you.
-You won't stand a chance going up there{n}if you don't deal with them first.
-Make sure they can't see you.
+Пригнись.
+Я засёк сигнатуры дронов под потолком этой комнаты
+Тебе не выжить сверху, если прежде не разобраться с ними. 
+Но сначала убедись, что не попадёшь в их поле зрения.
 [MADELINE left determined]
-Understood.
+Поняла.
 
 SJ2021_InFiltration_Dropzle_Easter_Egg=
 [MADELINE left normal]
-Just like in Dropzle!
+Прямо как в Dropzle!
 
 SJ2021_InFiltration_NotComf=
 [MADELINE left sad]
-This isn't comf at all...
+Никакого намёка на уют...
 
 SJ2021_InFiltration_Comf=
 [MADELINE left normal]
-Comf spot!
-Comf comf!
+Тут уютно!
+Уютный уют!
   
 # === Jolly
 
@@ -3647,7 +3647,7 @@ SJ2021_Jolly_secret=
 
 SJ2021_Jolly_PowerAvUltimateSecret=
 [MADELINE right normal]
-Я в твоих стенах
+Я в твоих стенах!
 
 # === JustJulia
 
