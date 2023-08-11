@@ -3206,11 +3206,11 @@ SJ2021_Flamecrafter113_OvergrownLinn_A03b=
 
 SJ2021_Flamecrafter113_OvergrownLinn_A04_A=
 [MADELINE left sad]
-Здесь совершенно не уютно.
+Здесь совершенно неуютно.
 
 SJ2021_Flamecrafter113_OvergrownLinn_A04_B=
 [MADELINE left normal]
-Какое классное место!
+Какое уютное местечко!
 
 SJ2021_Flamecrafter113_OvergrownLinn_A04_C=
 [MADELINE left distracted]
