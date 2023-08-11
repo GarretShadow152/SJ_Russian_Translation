@@ -5816,52 +5816,52 @@ SJ2021_MousseMoose_10=
   
 # === NotYourBadeline
   SJ2021_NotYourBadeline_Badeline_1=
-  [Badeline left normal] Hey, NYB of Fur-Hire here. While not necessary, this map is intended to be played while blindfolded, with a friend guiding you through the level.
+  [Badeline left normal] Hey, NYB of Fur-Hire here. Это не обязательно, но карта расчитана на игру вслепую, вместе с другом ведущим тебя через весь уровень.
 
-  [Badeline left normal] If you choose not to, slam into my face! It will initiate singleplayer mode and I'll guide you through the level myself from my super secret room!
+  [Badeline left normal] Но если ты захочешь, всё равно подавись! В таком случае я просто включу одиночный режим и сама буду вести тебя через весь уровень прямо из моей супер секретной комнаты!
 
-  [Badeline left normal] If you're already getting ready to call up a friend and get the ol' pillowcase out though, then I hope you enjoy the unique experience. 
+  [Badeline left normal] Если же ты уже готов звонить дуругу и завязывать глаза первой попавшейся тряпкой, тогда, я надеюсь, тебе понравится этот уникальный опыт.
 
-  [Badeline left normal] NotYourBadeline out.
+  [Badeline left normal] NotYourBadeline уходит.
 
-  [Blindeline left surprised] ...y-yeah buddy, sure. I totally get it.
+  [Blindeline left surprised] ...ага-а малышка, конечно. Теперь я всё поняла.
 
-  [Blindeline left sad] What kind of name is "Fur-Hire" anyways?
+  [Blindeline left sad] Что это за имя то вообще? "Fur-Hire"?
 
   SJ2021_NotYourBadeline_Madeline_1=
-  [Blindeline left sad] Phew, that was something. 
+  [Blindeline left sad] Фух, это было нечто. 
 
-  [Blindeline left sad] Jeez, whatever is up ahead looks really tough, think it's best to take the heart and either leave or rest. 
+  [Blindeline left sad] Боже, это нечто впереди выглядит действительно трудным, так что наберись терпения или возьми перерыв. 
 
-  [Blindeline left sad] It's a shame such a pretty garden has to be so,{*} deadly{/*}.
+  [Blindeline left sad] Ужасно, что такой прекрасный сад должен быть одновременно {*} смертельным{/*}.
 
-  [Badeline left scoff] Hey there, NotYourBadeline hiding away in a secret room here! See if you can get the silver berry blindfolded!
+  [Badeline left scoff] Эй, NotYourBadeline скрывается отсюда в секретную комнату! Посмотрим, как ты будешь вслепую собирать серебряную ягоду!
 
-  [Badeline left scoff] Oh and, no peeking. Get that heart blindfolded too~
+  [Badeline left scoff] А, и это, не подглядывай. Заполучи это сердце так же вслепую~
 
-  [Blindeline left angry] Uh huh, yeah, sure.  Maybe if I decide to reject my sanity some time later in life.
+  [Blindeline left angry] Эмм, ага, конечно. Только если я когда-нибудь решу окончательно отвергнуть остатки своего мозга.
 
   SJ2021_NotYourBadeline_Badeline_2=
-  [Badeline left angry] Wh- {0.5}Hey! This is {~}my{/~} cool secret room! What do you want!?
+  [Badeline left angry] Чт- {0.5}Эй! Это {~}моя{/~} крутая секретная комната! Что тебе здесь нужно!?
 
-  [Badeline left upset] An apology? for what?
+  [Badeline left upset] Извиниться? За что?
 
-  [Badeline left angry] {1.0}.{1.0}.{1.0}.{1.0}Oh. Okay, I see how it is. Fine, since you demo'd all the way here.
+  [Badeline left angry] {1.0}.{1.0}.{1.0}.{1.0}Ох. Хорошо, теперь ясно. Ладно, раз уж ты добралась до сюда в присяди.
 
-  [Badeline left upset] I, NotYourBadeline, hereby formally apologize for the creation of {#81AAD3}climb{#}ing Blind II. It is a poor spike in difficulty in an otherwise fine map collection.
+  [Badeline left upset] Я, NotYourBadeline, приношу официальные извинения за создание {#81AAD3}подъема{#} Вслепую II. Это просто ужасный скачок в сложности в такой прекрасной в остальном коллекции карт.
 
-  [Badeline left angry] There, happy?
+  [Badeline left angry] Ну что, счастлива?
 
-  [Blindeline left normal] You have no idea.
+  [Blindeline left normal] Тебе не понять.
 
   SJ2021_NotYourBadeline_Badeline_3=
-  [Badeline left normal] Alright, NYB comin' in hot to tell you to put those blinders on! 
+  [Badeline left normal] Ладно, NYB спешит напомнить тебе надеть повязку! 
 
-  [Badeline left worried] Not that you have to, of course. Just recommended. You can uh, go without if you want.
+  [Badeline left worried] Ну хотя, ты, конечно, не обязан. Просто рекомендую. Можешь и без неё, если хочешь.
 
   [Badeline left sad] ...
 
-  [Badeline left sad] {*}imsorryforinterruptingthemapcarryon-{/*}
+  [Badeline left sad] {*}извиняюсьзапрекращениеработыприложения-{/*}
 
 #HELPER DIALOG
 #Climbing: {#81AAD3} {#}
@@ -5871,100 +5871,100 @@ SJ2021_MousseMoose_10=
 #Jumping: {#1ffa85} {#}
 
   SJ2021_NotYourBadeline_BadelineHelper_1=
-  [Badeline right normal] {>> 1.5}{#81AAD3}Climb up{#}!{>>}
+  [Badeline right normal] {>> 1.5}{#81AAD3}Взберись вверх{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_2=
-  [Badeline right normal] {>> 1.5}{#1ffa85}Jump up{#}, then {# F2F200}dash right{#}!{>>}
+  [Badeline right normal] {>> 1.5}{#1ffa85}Подпрыгни{#}, и сделай {# F2F200}рывок вправо{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_3=
-  [Badeline right normal] {>> 1.5}{#0069D5}Hold right{#}~{>>}
+  [Badeline right normal] {>> 1.5}{#0069D5}Иди вправо{#}~{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_4=
-  [Badeline right normal] {>> 1.5}{# F2F200}Dash right{#}, you’ll hit a spring, it’s bouncin’ you up!{>>}
+  [Badeline right normal] {>> 1.5}Сделай {# F2F200}рывок вправо{#}, а там пружина докинет тебя наверх!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_5=
-  [Badeline right normal] {>> 1.5}At the top of the spring bounce, {# F2F200}dash right{#} then {#0069D5}hold right{#}!{>>}
+  [Badeline right normal] {>> 1.5}На вершине отскока, сделай {# F2F200}рывок вправо{#} и {#0069D5}зажми вправо{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_6=
-  [Badeline right normal] {>> 1.5}Made it, {#0069D5}hold right{#} for next screen!{>>}
+  [Badeline right normal] {>> 1.5}Готово, теперь просто {#0069D5}зажми вправо{#} до следующего экрана!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_7=
-  [Badeline right normal] {>> 1.5}Okay, move a bit to the right. Not too much, though! You'll drop down.{>>}
+  [Badeline right normal] {>> 1.5}Хорошо, пройди чуток вправо. Но не слишком! Иначе ты упадёшь.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_7_1=
-  [Badeline right normal] {>> 1.5}Okay, we're good! {#0069D5}hold right{#}~{>>}
+  [Badeline right normal] {>> 1.5}Отлично, продолжаем! {#0069D5}Зажми вправо{#}~{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_8=
-  [Badeline right normal] {>> 2}{#1ffa85}Jump up{#}, then {# F2F200}dash right{#}. You’ll hit a spring, don't panic!{>>}
+  [Badeline right normal] {>> 2}{#1ffa85}Подпрыгни{#}, и сделай {# F2F200}рывок вправо{#}. Ты заденешь пружину, не пугайся!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_9=
-  [Badeline right normal] {>> 1.5}{# F2F200}Dash up{#}! Once you hit the spring, don't touch anything.{>>}
+  [Badeline right normal] {>> 1.5}Сделай {# F2F200}рывок вверх{#}! Как только коснешься пружины, ничего не трогай.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_10=
-  [Badeline right normal] {>> 1.5}Move a bit to the right, you'll drop down and land on a spring again. Sure you’re a big fan of them by now.{>>}
+  [Badeline right normal] {>> 1.5}Пройди чуток вправо, ты упадешь и снова приземлишься на пружину. Думаю, ты теперь их большая фанатка.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_11=
-  [Badeline right normal] {>> 1.5}At the peak of your bounce, {# F2F200}dash right{#} and {#0069D5}hold right{#} for next screen.{>>}
+  [Badeline right normal] {>> 1.5}На пике отскока, сделай {# F2F200}рывок вправо{#} и {#0069D5}зажми вправо{#} до следующего экрана.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_12=
-  [Badeline right normal] {>> 1.5}{# F2F200}Dash right{#} for another spring!{>>}
+  [Badeline right normal] {>> 1.5}{# F2F200}Рывок вправо{#} и снова пружина!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_12_1=
-  [Badeline right normal] {>> 1.5}At its peak, {# F2F200}dash right{#} and {#f04e4e}hold grab{#} to {#81AAD3}climb up{#}!{>>}
+  [Badeline right normal] {>> 1.5}На пике, сделай {# F2F200}рывок вправо{#} и {#f04e4e}ухватись{#}, чтобы {#81AAD3}забраться вверх{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_13=
-  [Badeline right normal] {>> 1.5}{#0069D5}Hold right{#} and {# F2F200}dash{#}, then {#f04e4e}grab the wall{#}!{>>}
+  [Badeline right normal] {>> 1.5}{#0069D5}Зажми вправо{#} и сделай {# F2F200}рывок{#}, после {#f04e4e}ухватись за стену{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_14=
-  [Badeline right normal] {>> 1.5}{#f04e4e}Release grab{#}, there’s a spring beneath you. {n}When you hit the spring, {#f04e4e}hold grab{#}.{>>}
+  [Badeline right normal] {>> 1.5}{#f04e4e}Отпусти захват{#}, прямо под тобой есть пружина. {n}Когда коснешься её, снова {#f04e4e}зажми захват{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_15=
-  [Badeline right normal] {>> 2.0}You’ll drop on a spring again. {n}Bounce off the spring and then {# F2F200}dash right{#}!{>>}
+  [Badeline right normal] {>> 2.0}Упади к очередной пружине. {n}После отскока сделай {# F2F200}рывок вправо{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_16=
-  [Badeline right normal] {>> 1.5}Release everything!{>>}
+  [Badeline right normal] {>> 1.5}Не нажимай ничего!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_17=
-  [Badeline right normal] {>> 1.5}{#81AAD3}Climb up{#} until you hit a spring, then only {#f04e4e}hold grab{#}.{>>}
+  [Badeline right normal] {>> 1.5}{#81AAD3}Карабкайся вверх{#} до пружины, затем зажимай только {#f04e4e}захват{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_18=
-  [Badeline right normal] {>> 1.5}{# F2F200}Dash up{#} to hit another spring, then {#0069D5}hold right{#} for next screen!{>>}
+  [Badeline right normal] {>> 1.5}Сделай {# F2F200}рывок вверх{#} к ещё одной пружине, затем {#0069D5}удерживай вправо{#} до следующего экрана!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_19=
-  [Badeline right normal] {>> 1.5}{# F2F200}Dash right{#}, don’t mind the moving platform it’s just here to spook you.{>>}
+  [Badeline right normal] {>> 1.5}Делай {# F2F200}рывок вправо{#} и не бойся движущейся платформы, она здесь только чтобы припугнуть тебя.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_20=
   [Badeline right normal] {>> 1.5}{#0069D5}Hold right{#} when the moving platform is at the top, you’ll end up on a platform.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_21=
-  [Badeline right normal] {>> 1.5}{#1ffa85}Jump right{#}! Then, {#f04e4e}grab the wall{#} on the right.{>>}
+  [Badeline right normal] {>> 1.5}{#1ffa85}Прыгни вправо{#}! Потому, {#f04e4e}уцепись{#} за правую стену.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_21_2=
-  [Badeline right normal] {>> 1.5}{#81AAD3}Climb up{#}!{>>}
+  [Badeline right normal] {>> 1.5}{#81AAD3}Взберись вверх{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_22=
-  [Badeline right normal] {>> 3.0}{# F2F200}Dash left{#}, you'll hit another spring. {n}After you bounce off of it, {# F2F200}dash right{#} for the end!{>>}
+  [Badeline right normal] {>> 3.0}Сделай {# F2F200}рывок влево{#}, и снова пружина. {n}После отскока, {# F2F200}рывок вправо{#} приведёт тебя к концу!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_23=
-  [Badeline right normal] {>> 1.75}Whoa, a blade. {# F2F200}Dash{#} whenever you don’t hear the “Shwing~!” and you should be okay!
+  [Badeline right normal] {>> 1.75}Оу, летающие клинки. Сделай {# F2F200}рывок{#} в момент когда ты не будешь слышать этого лязга!
 
   SJ2021_NotYourBadeline_BadelineHelper_24=
-  [Badeline right normal] {>> 1.5}Alright, {#1ffa85}jump right{#} and {# F2F200}dash right{#}. {n}You'll need to {#f04e4e}grab the wall{#} on the right too!{>>}
+  [Badeline right normal] {>> 1.5}Отлично, {#1ffa85}прыжок{#} и {# F2F200}рывок{#} по правому курсу. {n}А там {#f04e4e}зацепись за стену{#}, она тоже справа!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_25=
-  [Badeline right normal] {>>1.5}Okay, slowly {#81AAD3}climb down{#} to the {# F2F200}dash{#} crystal.{>>}
+  [Badeline right normal] {>>1.5}Так, тихонько {#81AAD3}спустись ниже{#} к {# F2F200}Кристаллу Рывка{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_26=
-  [Badeline right normal] {>> 1.5}Alright, {# F2F200}dash left{#} and you should be ok!{>>}
+  [Badeline right normal] {>> 1.5}{# F2F200}Рывок влево{#} не должен тебя убить!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_27=
-  [Badeline right normal] {>> 2.0}Alright, {# F2F200}dash left{#} and {#f04e4e}grab the wall{#}.{>>}
+  [Badeline right normal] {>> 2.0}Замечательно, сделай ещё один {# F2F200}рывок влево{#} и {#f04e4e}ухватись{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_28=
-  [Badeline right normal] {>> 2.0}Line of {# F2F200}dash{#} crystals, spam {# F2F200}dash right{#} to your heart’s content!{>>}
+  [Badeline right normal] {>> 2.0}Линия {# F2F200}Кристаллов Рывка{#}, просто лети {# F2F200}вправо{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_29=
-  [Badeline right normal] {>> 2.0}A-Alright buddy, you can stop now. {#81AAD3}Climb up{#}, and once you're on solid ground {#0069D5}hold right{#}!{>>}
+  [Badeline right normal] {>> 2.0}Всё, всё, притормози. {#81AAD3}Взбирайся нанаверх{#}, а как только заберешься, {#0069D5}шагай вправо{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_30=
   [Badeline right normal] {>> 2.0}{#0069D5}Hold right{#} for easy W~{>>}
