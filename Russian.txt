@@ -3180,8 +3180,8 @@ SJ2021_Flamecrafter113_TutorialText_BouncyDreamSuper=
 
 SJ2021_Flamecrafter113_OvergrownLinn_AlcoveEdge=
 [MADELINE right normal]
-Сегодня невероятно красивый закат!
-Это замечательное время чтобы оказаться здесь.
+Сегодня ночью невероятно красивое небо!
+Удачно я тут оказалась.
 [MADELINE right distracted]
 Жаль что я прибыла сюда только ради кристального сердца и пары ягод...
 
