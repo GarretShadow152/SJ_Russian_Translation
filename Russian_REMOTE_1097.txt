@@ -6075,7 +6075,7 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 2.0}{# F2F200}Dash down{#} and do another momentum {#1ffa85}jump right{#}, {#0069D5}hold right{#} to win~!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_15=
-  [Badeline right normal] {>> 2.0}{~}Удачи~{/~}{>>}
+  [Badeline right normal] {>> 2.0}{~}Good luck~{/~}{>>}
   
 # === nyan
 

@@ -2989,165 +2989,165 @@ The chaser concept is based off of {# 66FFFF}Greg{#}!
 [MADELINE left normal]
 By the way, shoutouts to {# 66FF66}Archiethon{#}!
 
-# === fishtank = перевод trueScript
+# === fishtank
 
 SJ2021_fishtank_gondola=
 [MADELINE left distracted]
-Не похоже, что кабина исправна...
+The gondola seems to be out of order...
 
 SJ2021_fishtank_reception=
 [OSHIRO right worried]
-Добро пожаловать в {~}{# ff3e92}Отель "Семьдесят Четыре"{#}{/~}...
+Welcome to {~}{# ff3e92}Hotel 74{#}{/~}...
 [MADELINE left distracted]
-Почему здесь всё покрыто льдом?
+Why is there ice everywhere?
 [OSHIRO right nervous]
-Приношу вам глубочайшие извенения.
+My deepest apologies.
 [OSHIRO right serious]
-Видите ли, значительная часть здания замёрзла из-за сильного изменения климата. 
+You see, severe climate change has caused some parts of the hotel to freeze over.
 [OSHIRO right worried]
-Ущерб настолько велик, что мы были вынуждены остановить работу отеля.
+The damage was so bad, in fact, that we decided to close the hotel for good.
 [OSHIRO right serious]
-Два месяца назад наш официальный аккаунт в {# FFFF4C}InstaPix{#} уведомлял об этом.
+Our official {# FFFF4C}InstaPix{#} account sent the notice two months ago.
 [MADELINE left sad]
-Но я не пользуюсь соцсетями, кроме {# 2CBA00}WeTalk{#}.
+I don't use any social media except {# 2CBA00}WeTalk{#}.
 [OSHIRO right worried]
-Никогда не слышал о такой.
+Wow, I've never heard of that.
 [OSHIRO right nervous]
-Эм, позвольте уточнить, а каким образом вы попали сюда?
+Um, may I ask how you got here?
 [MADELINE left normal]
-Я не смогла воспользоваться подъёмником, поэтому я просто забралась по скалам.
+The gondola wasn't working, so I climbed up to the hotel myself.
 [OSHIRO right sideworried]
-{+thought}Эта девушка сумасшедшая.{+endthought}
+{+thought}This girl is insane.{+endthought}
 [OSHIRO right sidehappy]
-{+thought}Однако с её помощью я смогу выбраться отсюда!{+endthought}
+{+thought}Maybe I can escape this place with her help!{+endthought}
 [OSHIRO right nervous]
-По всей видимости дверь больше не откроется из-за льда. Боюсь нам отсюда не выйти.
+Ice seems to have sealed the entrance. I'm afraid we're trapped.
 [MADELINE left sad]
-Неужели здесь некому прийти на помощь?
+There's no one around to save us?
 [OSHIRO right worried]
-Остальной персонал ушёл вверх по склону, прочь от холода.
+The other staff members already left for a farewell hike up the mountain.
 [OSHIRO right nervous]
-Прежде чем отправиться за ними, я только лишь хотел удостовериться, что отель в порядке.
+I was only staying here to make sure that everything was in order.
 [OSHIRO right worried]
-Я не подозревал, что мороз достигнет этого места настолько быстро.
+I never imagined the blizzard would come so quickly.
 [MADELINE left sad]
-И какой у нас план?
+So what can we do?
 [OSHIRO right worried]
-Вполне возможно что мы выберемся через вентиляцию.
+Perhaps we could get out through the ventilation ducts.
 [OSHIRO right nervous]
-Не могли бы вы узнать, есть ли лёд в воздуховоде? Я последую за вами.
+Could you go check if the ducts are clear of ice? I'll follow you.
 [MADELINE left normal]
-Хорошо, не отставайте!
+Let's go!
 
 SJ2021_fishtank_nakaniwa=
 [OSHIRO right normal]
-Спасибо, с вашей помощью мы безопасно добрались до внутреннего двора!
+Thanks to your help, we've safely made it to the courtyard!
 [MADELINE left normal]
-Ага, всегда пожалуйста! Нас ничто не остановит!
+Ah, don't mention it! We're in this together.
 [OSHIRO right worried]
-Именно так!
+That's the spirit!
 [OSHIRO right serious]
-Однако проход перед нами также перекрыт льдом.
+The path ahead is frozen solid, though.
 [MADELINE left sad]
-И что вы можете предложить?
+Are there any other routes we could take?
 [OSHIRO right nervous]
-Ну, мы можем попробовать спуститься в канализацию...
+Well, we could always try the sewers...
 [OSHIRO right serious]
-Но я не знаю, где именно находится люк.
+I don't know their exact location, though.
 [MADELINE left normal]
-В таком случае нам нужно найти бинокль.
+In that case, we should look for a watchtower.
 [MADELINE left sad]
-Водосток не скроется от его взгляда.
+The sewer entrance won't be able to hide from its scrutiny.
 [OSHIRO right normal]
-Отличная идея! Прямо над нами находится смотровая площадка, там обязательно найдётся бинокль.
+Good idea! There's one right above us on the observation platform.
 
 SJ2021_fishtank_elevate=
 [MADELINE left distracted]
-Кабина лифта оборвалась и упала сюда...
+The elevator has fallen here...
 
 SJ2021_fishtank_sewers=
 [OSHIRO right normal]
-Канализация прямо перед нами.
+Ahead of us lie the sewers.
 [OSHIRO right worried]
-Там достаточно темно, но везде зажжены факела, так что у нас не должно возникнуть проблем с видимостью.
+Although it's dark inside, there are plenty of torches, so visibility shouldn't be a problem.
 [MADELINE left normal]
-Рада слышать.
+That's good to hear.
 [OSHIRO right worried]
-Тем не менее нужно смотреть под ноги и следовать за {~}{# 639BFF}синими огнями{#}{/~}, чтобы не столкнуться со всеми остальными препятствиями. 
+That said, footing may be scarce, so we'll need to move carefully and follow the {~}{# 639BFF}blue torches{#}{/~}.
 [MADELINE left peaceful]
-Хорошо, я готова.
+Okay, I'm used to that.
 [OSHIRO right normal]
-Как всегда, ты пойдёшь впереди.
+As always, you go first.
 [OSHIRO right nervous]
-А я последую за тобой... Фуух...
+I'll follow you... Haa...
 [MADELINE left sad]
-Если силы вас покинут, то обязательно сообщите мне, ладно?
+If you feel like taking a break, just tell me, okay?
 [MADELINE left distracted]
-Я вполне способна донести вас до следующего привала.
+I wouldn't mind carrying you for a bit.
 [OSHIRO right normal]
-Благодарю вас...
+Thank you so much...
 
 SJ2021_fishtank_passenger=
 [OSHIRO right worried]
-Канализация заканчивается здесь, и над нашими головами - выход на поверхность.
+We're reaching the end of the sewers now. Above us is the exit to the surface.
 [OSHIRO right nervous]
-Однако мне кажется, что финал этого путешествия будет самой сложной его частью.
+However, I'm afraid the last part of this journey will also be the most treacherous.
 [OSHIRO right serious]
-Нам предстоит провернуть невероятно сложные манёвры с пером, и следом аккуратно забраться по стене...
+We'll have to perform dangerous maneuvers with the feather, followed by precise climbing...
 [MADELINE left normal]
-Стоит сначала попробовать, это не может быть настолько сложно!
+Don't scare yourself before you've even tried it!
 [MADELINE left distracted]
-Между тем, вы же не просто менеджер отеля, не так ли?
+Besides, you're no ordinary hotel manager, are you?
 [OSHIRO right worried]
-Но как вы узанли?
+How did you know?
 [MADELINE left sad]
-У вас очень хорошая реакция. Каждое ваше движение просчитано, кроме того вы обладаете внушительной выносливостью.
+You're quick to react. Every move of yours is calculated. You also have considerable stamina.
 [OSHIRO right worried]
-На самом деле я тоже увлекался скалолазанием в юношестве. По всей видимости, я был не так уж и плох...
+Well, I too was a mountain climber in my youth. I suppose I wasn't too bad at it...
 [MADELINE left normal]
-Видите? У вас отлично получается. Не о чем волноваться. Просто дышите.
+See? You're doing great. There's nothing to worry about. Just breathe.
 [MADELINE left together]
-Мы выберемся отсюда вместе.
+We can do this together.
 
 SJ2021_fishtank_ending=
 [MADELINE left normal]
-Мы сделали это!
+We did it!
 [OSHIRO right worried]
-Это было недалеко от провала... 
+That was a close call!
 [MADELINE left normal]
-Да, но мы были уверены друг в друге, и поэтому достигли цели.
+Yeah, but we succeeded because we believed in each other.
 [OSHIRO right serious]
-Без вашей помощи я наверняка был бы покойником...
+I'd probably be dead if it wasn't for you...
 [OSHIRO right drama]
-Знаете, перед вашим приходом я представлял, что стану призраком если не покину то место. 
+You know, before you got here, I was wondering if I would become a ghost after I died.
 [OSHIRO right worried]
-Только подумать, я - призрак, связанный своим прошлым и переполненный сожалениями...
+A ghost that would cling to the past, filled with bitter regrets...
 [MADELINE left peaceful]
-Это глупость.
+Don't be silly.
 [MADELINE left distracted]
-Мы живы, и мы выбрались наружу - это самое главное.
+We made it out alive, which is what matters.
 [MADELINE left normal]
-Ну а теперь, пойдём и догоним остальных работников отеля?
+Now then, shall we go catch up with the other staff members?
 [OSHIRO right worried]
-Это было бы прекрасно!
+That would be great!
 [OSHIRO right normal]
-Мне не терпится увидеть Шарлотту и рассказать ей о наших приключениях.
+I can't wait to see Charlotte and tell her about our adventure.
 [OSHIRO right worried]
-Но прежде чем мы отправимся, обратите внимание на это. 
+But before we set out, I want to show you something. 
 [MADELINE left sad]
-Что это такое?
+What is it?
 [OSHIRO right worried]
-Видите ли, эта гора обладает особенной силой, которая находится за границей нашего понимания.
+You see, this mountain has mysterious powers that are beyond our understanding.
 [OSHIRO right normal]
-Перед вами - {~}"Кристалл Рывка"{/~}.
+Ahead of us lies the {~}"dash refill"{/~}.
 [OSHIRO right worried]
-Говорят, что нужно управлять его силой, чтобы пронзить {~}"Кристальное Сердце"{/~}, висящее в воздухе.
+It's said that those capable of controlling its power can pierce the {~}"crystal heart"{/~} in the sky.
 [OSHIRO right normal]
-Многие приходят к горе только чтобы попытаться совершить такой подвиг, но это ещё никому не удавалось.
+Many come to the mountain just to attempt such a feat, but none have succeeded.
 [OSHIRO right worried]
-Сможете ли вы?
+Maybe you'll be the one?
 [MADELINE left normal]
-Спасибо, я попробую! 
+Thanks! I'll give it a try.
 
 # === Flagpole1up
 
@@ -3643,44 +3643,44 @@ Comf comf!
 
 SJ2021_Jolly_secret=
 [MADELINE right normal]
-Пицца
+Pizza
 
 SJ2021_Jolly_PowerAvUltimateSecret=
 [MADELINE right normal]
-Я в твоих стенах
+im in your walls
 
 # === JustJulia
 
 StrawberryJam2021_3_Advanced_Start=
-  [Badeline right upset] Эй, {+MADELINE}, не думаю, что это хорошая идея.
-  [Badeline right worried] Здесь {~}реааааально{/~} горячая вода.
-  [Madeline left upset] Ха-ха. Очень смешно.
-  [Badeline right yell] Я серьёзно!
-  [Badeline right yell] Это вулканический риф на дне океана,{n} а не какой-то горячий источник.
-  [Badeline right concerned] Нам сильно повезёт, если мы вернёмся лишь с ожогами.
-  [Madeline left sad] Да, и мы пришли сюда полностью осозновая это.
-  [Badeline right worried] Но...
-  [Madeline left angry] Не нужно сейчас обо мне беспокоиться!
-  [Badeline right sad] Ладно...
+  [Badeline right upset] Hey, {+MADELINE}, I don't think this is a good idea.
+  [Badeline right worried] We’re in {~}reeeeeeeeal{/~} hot water here.
+  [Madeline left upset] Ha ha. Very funny.
+  [Badeline right yell] I’m serious!
+  [Badeline right yell] This is a volcanic reef at the bottom of the ocean,{n}not some fancy hot spring.
+  [Badeline right concerned] We'll be lucky to escape with just burns.
+  [Madeline left sad] Yes, and we came here fully knowing that.
+  [Badeline right worried] But...
+  [Madeline left angry] I don’t need you worrying about me right now!
+  [Badeline right sad] Fine...
 
 StrawberryJam2021_3_Advanced_Final=
-  [Madeline left upset] Опять? Серьёзно?
-  [Badeline right yell] {+MADELINE}, {!}ОСТАНОВИСЬ.{/!}
-  [Badeline right sad] Пожалуйста.
-  [Madeline left angry] Я не могу остановиться здесь, мы почти пришли!
-  [Badeline right sad] Вода бурлит всё больше.{n}Ощущение, что нас вот-вот отделит друг от друга.
-  [Badeline right concerned] Я не думаю, что у нас получится.
-  [Madeline left distracted] Мы не можем повернуть назад сейчас...
-  [Badeline right FreakA] Мы ДОЛЖНЫ вернуться сейчас же!
-  [Badeline right FreakB] {*}Мы едва держимся вместе.{/*}
-  [Madeline left panic] Мы не можем закончить сейчас. Я не могу.
+  [Madeline left upset] Again? Seriously?
+  [Badeline right yell] {+MADELINE}, {!}STOP.{/!}
+  [Badeline right sad] Please.
+  [Madeline left angry] I can’t stop here, we’re almost there!
+  [Badeline right sad] The water is scalding.{n}It feels like we're splitting in two.
+  [Badeline right concerned] I don’t think we can make it.
+  [Madeline left distracted] We can’t turn back now...
+  [Badeline right FreakA] We HAVE to turn back now!
+  [Badeline right FreakB] {*}We’re barely keeping ourself together.{/*}
+  [Madeline left panic] We can’t stop. I can’t stop.
 
 StrawberryJam2021_3_Advanced_Heart=
-  [Madeline left surprised] Что за- что сейчас произошло!? У нас получилось?
-  [Badeline right sad] Прости меня, всё начало идти по наклонной, и я не смогла-
-  [Madeline left sad] Нет, это я должна извиниться, я завела нас слишком далеко.
-  [Badeline right sigh] Ну, раз уж мы здесь. Можем забрать нашу награду.
-  [Madeline left normal] И выбраться отсюда!
+  [Madeline left surprised] What the- what just happened!? Did we make it?
+  [Badeline right sad] I’m sorry, it all just started slipping and I couldn’t-
+  [Madeline left sad] No, I’m sorry, I pushed us too far.
+  [Badeline right sigh] Well, we’re here now. Might as well claim our reward.
+  [Madeline left normal] And get out of here!
   
 # === KAERRA
 
@@ -5681,7 +5681,7 @@ SJ2021_1_SORRYMISS=
 И прямо здесь же есть другой!
 
 SJ2021_1_ALMOST=
-Отсюда я почти вижу свой дом!
+Отсюда я почти вижу свою дом!
 Если бы я только могла забраться на остановку на вершине того холма...
 
 ###SCRAPPED
@@ -5889,7 +5889,7 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 1.5}Готово, теперь просто {#0069D5}зажми вправо{#} до следующего экрана!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_7=
-  [Badeline right normal] {>> 1.5}Хорошо, пройди чуток вправо. Но не слишком! Иначе ты упадёшь.{>>}
+  [Badeline right normal] {>> 1.5}Хорошо, пройди чуток вправо. Но не слишком! Тогда ты упадёшь.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_7_1=
   [Badeline right normal] {>> 1.5}Отлично, продолжаем! {#0069D5}Зажми вправо{#}~{>>}
@@ -5901,7 +5901,7 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 1.5}Сделай {# F2F200}рывок вверх{#}! Как только коснешься пружины, ничего не трогай.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_10=
-  [Badeline right normal] {>> 1.5}Пройди чуток вправо, ты упадешь и снова приземлишься на пружину. Думаю, ты теперь их большая фанатка.{>>}
+  [Badeline right normal] {>> 1.5}Пройди чуток вправо, ты упадешь и приземлишься снова на пружину. Думаю, ты теперь их большая фанатка.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_11=
   [Badeline right normal] {>> 1.5}На пике отскока, сделай {# F2F200}рывок вправо{#} и {#0069D5}зажми вправо{#} до следующего экрана.{>>}
@@ -5910,61 +5910,61 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 1.5}{# F2F200}Рывок вправо{#} и снова пружина!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_12_1=
-  [Badeline right normal] {>> 1.5}На пике, сделай {# F2F200}рывок вправо{#} и {#f04e4e}ухватись{#}, чтобы {#81AAD3}забраться вверх{#}!{>>}
+  [Badeline right normal] {>> 1.5}На пике, сделай {# F2F200}рывок вправо{#} и {#f04e4e}нажми ухватиться{#}, чтобы {#81AAD3}забраться вверх{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_13=
-  [Badeline right normal] {>> 1.5}{#0069D5}Зажми вправо{#} и сделай {# F2F200}рывок{#}, после {#f04e4e}ухватись за стену{#}!{>>}
+  [Badeline right normal] {>> 1.5}{#0069D5}Hold right{#} and {# F2F200}dash{#}, then {#f04e4e}grab the wall{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_14=
-  [Badeline right normal] {>> 1.5}{#f04e4e}Отпусти захват{#}, прямо под тобой есть пружина. {n}Когда коснешься её, снова {#f04e4e}зажми захват{#}.{>>}
+  [Badeline right normal] {>> 1.5}{#f04e4e}Release grab{#}, there’s a spring beneath you. {n}When you hit the spring, {#f04e4e}hold grab{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_15=
-  [Badeline right normal] {>> 2.0}Упади к очередной пружине. {n}После отскока сделай {# F2F200}рывок вправо{#}!{>>}
+  [Badeline right normal] {>> 2.0}You’ll drop on a spring again. {n}Bounce off the spring and then {# F2F200}dash right{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_16=
-  [Badeline right normal] {>> 1.5}Не нажимай ничего!{>>}
+  [Badeline right normal] {>> 1.5}Release everything!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_17=
-  [Badeline right normal] {>> 1.5}{#81AAD3}Карабкайся вверх{#} до пружины, затем зажимай только {#f04e4e}захват{#}.{>>}
+  [Badeline right normal] {>> 1.5}{#81AAD3}Climb up{#} until you hit a spring, then only {#f04e4e}hold grab{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_18=
-  [Badeline right normal] {>> 1.5}Сделай {# F2F200}рывок вверх{#} к ещё одной пружине, затем {#0069D5}удерживай вправо{#} до следующего экрана!{>>}
+  [Badeline right normal] {>> 1.5}{# F2F200}Dash up{#} to hit another spring, then {#0069D5}hold right{#} for next screen!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_19=
-  [Badeline right normal] {>> 1.5}Делай {# F2F200}рывок вправо{#} и не бойся движущейся платформы, она здесь только чтобы припугнуть тебя.{>>}
+  [Badeline right normal] {>> 1.5}{# F2F200}Dash right{#}, don’t mind the moving platform it’s just here to spook you.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_20=
   [Badeline right normal] {>> 1.5}{#0069D5}Hold right{#} when the moving platform is at the top, you’ll end up on a platform.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_21=
-  [Badeline right normal] {>> 1.5}{#1ffa85}Прыгни вправо{#}! Потому, {#f04e4e}уцепись{#} за правую стену.{>>}
+  [Badeline right normal] {>> 1.5}{#1ffa85}Jump right{#}! Then, {#f04e4e}grab the wall{#} on the right.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_21_2=
-  [Badeline right normal] {>> 1.5}{#81AAD3}Взберись вверх{#}!{>>}
+  [Badeline right normal] {>> 1.5}{#81AAD3}Climb up{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_22=
-  [Badeline right normal] {>> 3.0}Сделай {# F2F200}рывок влево{#}, и снова пружина. {n}После отскока, {# F2F200}рывок вправо{#} приведёт тебя к концу!{>>}
+  [Badeline right normal] {>> 3.0}{# F2F200}Dash left{#}, you'll hit another spring. {n}After you bounce off of it, {# F2F200}dash right{#} for the end!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_23=
-  [Badeline right normal] {>> 1.75}Оу, летающие клинки. Сделай {# F2F200}рывок{#} в момент когда ты не будешь слышать этого лязга!
+  [Badeline right normal] {>> 1.75}Whoa, a blade. {# F2F200}Dash{#} whenever you don’t hear the “Shwing~!” and you should be okay!
 
   SJ2021_NotYourBadeline_BadelineHelper_24=
-  [Badeline right normal] {>> 1.5}Отлично, {#1ffa85}прыжок{#} и {# F2F200}рывок{#} по правому курсу. {n}А там {#f04e4e}зацепись за стену{#}, она тоже справа!{>>}
+  [Badeline right normal] {>> 1.5}Alright, {#1ffa85}jump right{#} and {# F2F200}dash right{#}. {n}You'll need to {#f04e4e}grab the wall{#} on the right too!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_25=
-  [Badeline right normal] {>>1.5}Так, тихонько {#81AAD3}спустись ниже{#} к {# F2F200}Кристаллу Рывка{#}.{>>}
+  [Badeline right normal] {>>1.5}Okay, slowly {#81AAD3}climb down{#} to the {# F2F200}dash{#} crystal.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_26=
-  [Badeline right normal] {>> 1.5}{# F2F200}Рывок влево{#} не должен тебя убить!{>>}
+  [Badeline right normal] {>> 1.5}Alright, {# F2F200}dash left{#} and you should be ok!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_27=
-  [Badeline right normal] {>> 2.0}Замечательно, сделай ещё один {# F2F200}рывок влево{#} и {#f04e4e}ухватись{#}.{>>}
+  [Badeline right normal] {>> 2.0}Alright, {# F2F200}dash left{#} and {#f04e4e}grab the wall{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_28=
-  [Badeline right normal] {>> 2.0}Линия {# F2F200}Кристаллов Рывка{#}, просто лети {# F2F200}вправо{#}!{>>}
+  [Badeline right normal] {>> 2.0}Line of {# F2F200}dash{#} crystals, spam {# F2F200}dash right{#} to your heart’s content!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_29=
-  [Badeline right normal] {>> 2.0}Всё, всё, притормози. {#81AAD3}Взбирайся нанаверх{#}, а как только заберешься, {#0069D5}шагай вправо{#}!{>>}
+  [Badeline right normal] {>> 2.0}A-Alright buddy, you can stop now. {#81AAD3}Climb up{#}, and once you're on solid ground {#0069D5}hold right{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_30=
   [Badeline right normal] {>> 2.0}{#0069D5}Hold right{#} for easy W~{>>}
@@ -8502,8 +8502,8 @@ SJ2021_Gym_Bulletin1=
   Залы - это зоны туториалов, которые учат вас техникам, использующихся на картах Strawberry Jam.
   Каждая сложность имеет свой собственный зал, который обучает различным техникам.
   Секции делятся на части, каждая из которых показывает различную форму или использование техники.
-  Некоторые секции содержат один или два "финальных челленджа", которые проверяют вас на понимание изученных ранее техник.
-  После прохождения частей, вы можете активировать переключатель, чтобы разблокировать телепорт в эти части.
+  Некоторые секции содержат один или два "финальных челленджа", которые проверяют тебя на понимание изученных ранее техник.
+  После выполнения частей, вы можете активировать переключатель, чтобы разблокировать телепорт в эти части.
   В каждой секции есть воспроизведение, визуально показывающее технику.
   Вы можете использовать "Включить Воспроизведение" в Настроках Модов, чтобы включить их или выключить (стандартно на кнопку Back/Tab).
   Названия некоторых техник не переведены на русский язык, но в таких секциях будет пояснение к названию, объясняющее его происхождение с английского языка.
@@ -8591,8 +8591,8 @@ SJ2021_Gym_Intermediate_Lift3=
 
 #Intermediate Neutral Drop
 SJ2021_Gym_Intermediate_NeutralDrop1=
-  Чтобы выполнить сброс стоя на земле, нажмите вниз, пока держите объект.
-  Так вы положите объект вниз, а не кинете его в сторону.
+  Чтобы выполнить сброс, стоя на земле нажмите вниз, пока держите объект.
+  Это сбросит объект прямо вниз, вместо броска по-горизонтали.
   Здесь, возьмите Тео, чтобы активировать переключатель, а затем нажмите вниз, чтобы опустить его.
   Убедитесь, что отпускаете захват после сброса, чтобы избежать его повторного подъёма.
 SJ2021_Gym_Intermediate_NeutralDrop2=
