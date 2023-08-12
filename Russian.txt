@@ -3685,38 +3685,38 @@ StrawberryJam2021_3_Advanced_Heart=
 # === KAERRA
 
 SJ2021_KAERRA_stotch_outside=
-  What are you doing out here? I just welcomed you in, dummy.
+  Что ты здесь делаешь? Я только попривествовал тебя, дурачок.#я не знаю контекста данной секретки, так что хз как правильно вторую часть перевести
   ...
-  You want a strawberry? You're not getting one.
+  Ты хочешь клубнику? Ты не получишь её.
 
 SJ2021_KAERRA_stotch_funny=
-  It seems you have discovered our permanent containment chamber.
-  No, I have no method of saving you.
-  Not that you deserve it either way.
+  Кажется, вы нашли нашу вечную защитную камеру.
+  Нет, у меня нет способа вас спасти.
+  И не то чтобы вы этого заслуживали.
 
 SJ2021_KAERRA_stotch_berrysee=
-  Don't touch it. It's mine.
+  Не трогай её. Она моя.
 
 SJ2021_KAERRA_stotch_berrytake=
-  Wow. You're insufferable.
+  Вау. Ты невыносим.
 
 SJ2021_KAERRA_kaerra_berrypath=
-  taking a good look around, i see.
-  i suggest you watch out for those red fields if you come across any. they're quite volatile compared to the others.
-  it's highly recommended you stay away from them until you're familiar with the gentler ones.
+  хорошенько осматриваетесь вокруг, как я погляжу.
+  рекомендую, остерегаться вот этих красных полей. они довольно опасны по сравнению с другими.
+  я крайне рекомендую не приближаться к ним, пока вы не привыкните к более слабым полям.
 
 SJ2021_KAERRA_kaerra_end=
-  is this what you came here for?
-  go ahead and take it, we have quite a few.
+  это то зачем вы пришли сюда?
+  тогда вперёд забирайте его, у нас их много.
 
 SJ2021_KAERRA_kaerra_truepath=
-  i'm not quite sure how you gained access to this floor, but i'll let it pass.
-  i will warn you that these purple fields are extremely unstable. you should turn back and take a safer detour.
+  я не знаю, как вы получили доступ к этому этажу, но я закрою на это глаза.
+  хотя мне нужно вас предупредить, эти фиолетовые поля очень нестабильны, так что вам лучше вернуться назад и выбрать более безопасный путь.
 
 SJ2021_KAERRA_kaerra_trueend=
-  is this what you came here for?
-  i applaud your perseverance, but there's a much safer route to one of them below us.
-  regardless, you've earned it.
+  это то зачем вы пришли сюда?
+  я восхищаюсь вашим терпением, но под нами был более безопасный путь.
+  несмотря на это, вы заслужили его.
 
 SJ2021_KAERRA_kaerra_strangeroom=
   ???
