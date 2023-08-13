@@ -5656,68 +5656,68 @@ SJ2021_Maya_malfunction=
 # === Meario
 
 SJ2021_Meario_Hint=
-  Dash into the dream zip mover as it is finishing its movement and perform a dream jump to get the largest boost.
+  Рывок в движущийся дрим блок и дрим джамп на конце движения приведут к огромному ускорению!
 
 # === mosscairn
 
 # ---------------- INTRO ----------------
 SJ2021_1_PAINT_INTRO=
 	[MADELINE left distracted]
-	Ugh. How long was I asleep?
-	I'm exhausted.
+	Ах. Как долго я проспала?
+	Всё тело ломит.
 
 SJ2021_1_PAINT_INTRO_1=
 	[Badeline left scoff]
-	You were out for a while, darling.
+	Милая, да ты тут отключилась ненадолго.
 
 SJ2021_1_PAINT_INTRO_2=
 	[Badeline right normal]
-	Come on, it’s stuffy in here.
-	Why don’t you get out for some fresh air?
+	Давай же, здесь так душно.
+	Почему бы тебе не выйти подышать свежим воздухом?
 
 SJ2021_1_PAINT_INTRO_3=	
 	[BADELINE right scoff upsidedown]
-	Take a break from that {~}project{/~} for a while.
+	Оторвись от этого {~}проекта{/~} хоть на чуть-чуть.
 
 	[MADELINE left upset]
-	Alright...
+	Лааадно...
 
 	SJ2021_1_PAINT_OUTSIDE=	
 	[MADELINE left determined]
-	Just a quick walk, and then I'll get back to work.
+	Только небольшая прогулка, и я вернусь к работе.
 	
 # ---------------- ANXIETY ----------------
 SJ2021_1_PAINT_ANXIETY=
 {anchor bottom}
 	[BADELINE right upset]
-	{+MADELINE}, we need to slow down.
-	We can't keep up this pace.
+	{+MADELINE}, притормози ка.
+	С таким темпом ты себе сделаешь только хуже.
 
 SJ2021_1_PAINT_ANXIETY_1=
 {anchor bottom}
 	[MADELINE left sad]
-	I'm fine.{0.5} Really.
+	Я впорядке.{0.5} Честно.
 
 	[BADELINE right concerned]
-	No, we’re not.
+	Нет, мы не впорядке.
 
 SJ2021_1_PAINT_ANXIETY_2=
 {anchor bottom}
 	[MADELINE left upset]
-	This... isn't just about the walk, is it.
+	Ты ведь... не просто так меня сюда вытащила, не так ли?
 
 SJ2021_1_PAINT_ANXIETY_3=
 {anchor bottom}
 	[BADELINE right sigh]
-	This project isn’t healthy.{0.5} Maybe we should stop.
+	Этот твой проект тебя в могилу загонит.{0.5} Может ну его?
 
 SJ2021_1_PAINT_ANXIETY_4=
 {anchor bottom}
 	[MADELINE left angry]
-	After all we’ve done? I’m not just going to give up.
+	После всего, что мы уже сделали? Теперь я его уже так просто не брошу.
 	
 	[MADELINE left sad]
-	It needs to be good enough. I have to see this through.
+	Этот проект очень важен. Я должна его закончить.
 
 	[BADELINE right concerned]
 	{+MADELINE}...
@@ -5725,86 +5725,86 @@ SJ2021_1_PAINT_ANXIETY_4=
 # ---------------- BUS ----------------
 SJ2021_1_PAINT_AGAINST_THE_CURRENT_1=
 	[MADELINE left distracted]
-	That {+PART_OF_ME} was right. I can’t keep doing this.
-	Maybe I should just give up.
+	Может, {+PART_OF_ME} была права? Я больше не могу так.
+	Может мне и правда стоит сдаться.
 
 SJ2021_1_PAINT_AGAINST_THE_CURRENT_2=
 	[MADELINE left distracted]
-	I'm trying my best, but I just don't know if it's gonna go anywhere.
+  Я стараюсь изо всех сил, но я не уверена, получится ли у меня что-то стоящее в итоге.
 
 	[MADELINE left sad]
-	I've put so much time into this, {0.5}so much energy...
+	Я вложила в это так много сил, {0.5}так много времени...
 
 	[MADELINE left sad]
-	But right now I'm {~}fighting against the current{/~}-
+	Я будто {~}иду против течения{/~}
 
 	[MADELINE left distracted]
-	Every step of the way.
+	На каждом своём шагу.
 
 	[MADELINE left panic]
-	I'm {*}never{/*} going to make something that I can be happy with.
+	Я {*}никогда{/*} не создам нечто, чем буду довольна.
 
 	[MADELINE left sadder]
-	No matter how much I put into this...
+	И не важно, как сильно я буду стараться...
 
 	[MADELINE left sadder]
-	It will never be enough.
+	Этого никогда не будет достаточно.
 
 SJ2021_1_PAINT_AGAINST_THE_CURRENT_3=
 
 	[BADELINE right concerned]
-	Look. Maybe you’re right.
-	But…{0.5} we care about this.{0.5} A lot.
-	And {*}that{/*} is enough.
+	Послушай. Может ты и права.
+	Раз…{0.5} это тревожит нас.{0.5} Так сильно.
+	Тогда, {*}этого{/*} достаточно.
 
 	[BADELINE right normal]
-	We can do this, {0.1}together.
+	Мы сделаем это, {0.1}вместе.
 
 # ---------------- FINALE ----------------
 SJ2021_1_PAINT_FINALE=
         [BADELINE left normal]
-	Ready to try this again?
+	Готова попробовать ещё раз?
 
 	[MADELINE right peaceful]
-	Yeah, but let's grab lunch first.
+	Да, только давай сначала пообедаем.
 
 # ---------------- POEMS ----------------
 
 SJ2021_1_PAINT_PAPER_STATUE_A=
-Paper stars 
+Бумажные звездочки 
 
 SJ2021_1_PAINT_PAPER_STATUE_B=
-hold
+хранят
 
 SJ2021_1_PAINT_PAPER_STATUE_C=
-folded worries,
+сложенные тревоги,
 
 SJ2021_1_PAINT_PAPER_STATUE_D=
-And yet
+И все же
 
 SJ2021_1_PAINT_PAPER_STATUE_E=
-this dream
+этот сон
 
 SJ2021_1_PAINT_PAPER_STATUE_F=
-is restful.
+такой спокойный.
 
 SJ2021_1_PAINT_WOVEN_STATUE_A=
-The misty air 
+Туманный воздух 
 
 SJ2021_1_PAINT_WOVEN_STATUE_B=
-breathes life
+вдыхает жизнь
 
 SJ2021_1_PAINT_WOVEN_STATUE_C=
-into the quiet
+в тишину
 
 SJ2021_1_PAINT_WOVEN_STATUE_D=
-of an alley forgotten.
+забытого переулка.
 
 SJ2021_1_PAINT_ROOKERY_STATUE_A=
-Have you forgotten
+Неужели ты забыла,
 
 SJ2021_1_PAINT_ROOKERY_STATUE_B=
-what meaning you hold?
+как ты важна самой себе?
 
 
 
