@@ -2494,192 +2494,192 @@ Did you find the others ?
 # === Dav
 
 SJ_DAV_HEART_WARNING=
-Behind you lies the {# a705fe}heart{#}.
-If you proceed past this section, {!}there is no turning back.{/!}
+Там, откуда вы пришли, находится путь к {# a705fe}сердцу{#}.
+Ещё один шаг и {!}пути назад уже не будет.{/!}
 
 SJ_DAV_SECRET_00=
   [MADELINE right surprised]
-  What the...?
+  Какого...?
 
 SJ_DAV_SECRET_01=
   [LUGIA left normal]
-  Hmm?
+  Хм-м?
 
 SJ_DAV_SECRET_02=
   [LUGIA left normal flip]
-  Oh, greetings.
+  А, приветствую.
 
   [MADELINE right distracted]
-  Um, hi.
+  Эм, привет.
 
   [MADELINE right sad]
-  Who...{0.3} are you?
+  Кто...{0.3} вы?
 
   [LUGIA left normal flip]
-  I’m {# 91E7DB}Akershi{#}, descendant of Aurion, the Lugia.
+  Меня зовут {# 91E7DB}Акерши{#}, я Лугия, потомок Ауриона.
 
   [LUGIA left normal flip]
-  And you must be...?
+  Что насчёт вас...?
 
   [MADELINE right distracted]
-  Oh, I’m {+MADELINE}.
+  А, я {+MADELINE}.
 
   [LUGIA left normal flip]
-  How did you end up in such a cursed place?
+  И что же вас занесло в это проклятое место?
 
   [MADELINE right sad]
-  I was looking for Hearts...{0.3} and I kinda got lost.
+  Я просто пришла за очередным кристальным сердцем...{0.3} и похоже сбилась с пути.
 
   [LUGIA left worried flip]
-  You got lost in the {# C680DD}World Abyss{#}?
+  С пути? Во {# C680DD}Всемирной Бездне{#}?
 
   [MADELINE right upset]
-  Look, I never said I was good at navigation.
+  Я и не говорила, что сильна в ориентировании на местности.
 
   [MADELINE right distracted]
-  Anyway...
+  Так или иначе...
 
   [MADELINE right sad]
-  What are {~}you{/~} doing here? What’s with all this debris?
+  Чем {~}вы{/~} здесь занимаетесь? Зачем вам все эти обломки?
 
   [LUGIA left worried flip]
-  It's quite a long story. [LUGIA left normal flip]You see, there’s a place hidden in the Seas of Time, where time is governed from.
+  Позвольте начать издалека. [LUGIA left normal flip]Вы знаете, под поверхностью Часовых Морей есть постройка, управляющая самим ходом времени, которая так и называется...
   
   [LUGIA left normal flip]
-  Temporal Tower. 
+  Башня Времени. 
 
   [MADELINE right normal]
-  Oh, I think I’ve been there before.
+  О, я припоминаю такую.
 
   [LUGIA left normal flip]
-  You have?
+  Вы видели её своими глазами?
 
   [LUGIA left normal flip]
-  Then you must know the state the Tower was in right before it almost collapsed.
+  В таком случае вам несложно представить, в каком плачевном состоянии сейчас находится Башня.
 
   [MADELINE right distracted]
-  I didn’t really know it was collapsing,[MADELINE right sad] but it was definitely looking rough.
+  На мой взгляд она была достаточно устойчива,[MADELINE right sad] хоть и изрядно изношена.
 
   [LUGIA left normal flip]
-  Most likely after your visit, it went through more movement, as {# 005CFF}Dialga{#} almost lost control.
+  Надо полагать, что ваш визит стал для неё последним толчком, после которого {# 005CFF}Диалга{#} больше не смог удерживать Башню в равновесии.
 
   [LUGIA left normal flip]
-  As it crumbled, it released debris all around it, and nearly sent all you know into being forever frozen in time.
+  В результате, разлетевшиеся во все стороны обломки чуть не заморозили всю известную вам действительность во времени.
 
   [LUGIA left normal flip]
-  Thankfully, it was stopped by adventurers unknown to me. The Tower survived. 
+  К счастью, неизвестный мне странник предотвратил дальнейшие разрушения. Башня Времени выстояла. 
 
   [LUGIA left normal flip]
-  However, some remnants left the gap in Time where the Hidden Land is and ended up in random places, most of them here in the World Abyss.
+  Однако, некоторые обломки покинули границу временного периода, где существует Незримая Долина, и оказались в совершенно разных местах, включая Всемирную Бездну.
 
   [LUGIA left normal flip]
-  {# 005CFF}Dialga{#} tasked me with recovering as much - all, if possible - of this loose debris...
+  {# 005CFF}Диалга{#} поручил мне перевернуть здесь всё вверх дном чтобы найти все обломки до единого...
 
   [LUGIA left normal flip]
-  So they can rebuild it to keep Time flowing steadily and avoid further problems with {# B947CA}Giratina{#}.
+  Вернув их, они попытаются собрать фрагменты Башни воедино, стабилизируя этим ход времени и избегая будущих проблем с {# B947CA}Гиратином{#}.
 
   [LUGIA left worried flip]
-  {# 91CCE7}Dav{#} would have done it... but he wasn’t available.
+  {# 91CCE7}Dav{#} справился бы лучше меня... если бы мог находиться здесь.
 
 SJ_DAV_SECRET_03=
   [LUGIA left normal flip]
-  This is all I’ve collected so far.
+  Это - то, что я успел найти.
 
 SJ_DAV_SECRET_04=
   [MADELINE right normal]
-  Wow.
+  Ого.
 
 SJ_DAV_SECRET_05=
   [LUGIA left worried flip]
-  Well, there’s still plenty of it scattered all over the place. It’s going to take forever to finish.
+  На самом деле обломки всё ещё раскиданы повсюду. Пройдёт вечность, прежде чем я закончу собирать их.
 
   [LUGIA left normal flip]
-  I was planning my course of action when you walked up to me.
+  К вашему сведению, я запланировал всю эту речь пока вы подходили ко мне. 
 
   [LUGIA left normal flip]
-  Thankfully, this place isn’t affected by time almost at all.
+  Ведь в этом месте время почти никак не влияет на нас.
 
   [MADELINE right sad]
-  How long have you even been here?
+  И как долго вы здесь находитесь?
 
   [LUGIA left sad flip]
-  I’ve lost count. Too long. Maybe a year or two, if not more.
+  Я давно сбился со счёта. Очень давно. Наверное прошёл год, два, возможно больше.
 
   [LUGIA left normal flip]
-  This place is messed up. Time and Space are almost null.
+  Это место слишком запутано, здесь не имеет смысла ни Время, ни Пространство. 
 
   [LUGIA left normal flip]
-  It’s almost a maze.
+  Как в лабиринте.
 
   [LUGIA left sad flip]
-  It used to be beautiful... but...
+  Не таким я его помню... совсем не таким...
 
   [LUGIA left sad flip]
   ...
 
   [MADELINE right distracted]
-  Well,{0.3}[MADELINE right sad] I’ve definitely seen quite a few of these floating around before getting here.
+  Знаете,{0.3}[MADELINE right sad] я точно видела с десяток таких же штук по пути сюда.
 
   [MADELINE right sad]
-  Once I find a way out of this place,[MADELINE right normal] I can come back and help you with the ones I saw.
+  Как только я пойму, как отсюда выбраться,[MADELINE right normal] я смогу вернуться и помочь вам!
 
   [LUGIA left happy flip]
-  That would be wonderful![LUGIA left normal flip] I would finally be able to leave this place.
+  Было бы замечательно![LUGIA left normal flip] Тогда я наконец смогу покинуть Бездну.
 
   [LUGIA left worried flip]
-  I wish I could help you navigate this void or give you a token of appreciation, but I’m having that challenge myself.
+  Я был бы рад отблагодарить вас и показать обратный путь, но я тоже озадачен поиском каких-либо направлений. 
 
   [MADELINE right normal]
-  I understand.
+  Понимаю вас.
 
   [LUGIA left normal flip]
-  I will tell you this, however.
+  Но мне всё ещё есть, чем поделиться.
 
   [LUGIA left normal flip]
-  On such a place of despair and loneliness, don’t be tempted by things that appear good at first glance.
+  Бездна переполнена отчаянием и одиночеством. Здесь нельзя доверять вещам, которые кажутся правильными с первого взгляда.
 
   [LUGIA left normal flip]
-  Just because it’s within reach doesn’t mean it has to be reached at that moment.
+  Если ты можешь дотянуться до чего-либо, это не значит, что ты дейстительно дотянешься до этого в этот момент времени.
 
   [LUGIA left worried flip]
-  The Creation Trio has a thing for this mentality.
+  Это было основным принципом Трио Создателей.
 
   [MADELINE right normal]
-  Thank you, {# 91E7DB}Akershi{#}. I hope you can find all you need here.
+  Спасибо, {# 91E7DB}Акерши{#}. Надеюсь, что вы найдёте все, что вам нужно.
 
   [LUGIA left normal flip]
-  I hope you...[LUGIA left worried flip] find your Hearts, I suppose.
+  Я верю, что вы тоже...[LUGIA left worried flip] соберёте все "кристальные сердца".
 
   [LUGIA left happy flip]
-  Good luck!
+  Счастливого пути!
 
   [MADELINE right normal]
-  You too.
+  Взаимно.
   
 # === DeathKontrol
 
 SJ2021_DeathKontrol_00_start= 
   [MADELINE left sad]
-  awe jeez we back in it for the remix
+  прив ну я тут типа второй раз
 
 SJ2021_DeathKontrol_01_mid= 
   [OSHIRO left nervous]
-  ill get u this time...
+  слыш ты опять ты не сможешь...
 
 SJ2021_DeathKontrol_97_tv=
   [MADELINE left upset]
-  no more tv.... its bad for u
+  вырубай телек.... надоел
 
 SJ2021_DeathKontrol_98_cold=
   [MADELINE left sad]
-  its cold in here...
+  холодно блин...
 
 SJ2021_DeathKontrol_99_end= 
   [MADELINE right upset]
-  but why are there berrys in a b side?
+  что ягоды забыли в б части?
 
   [OSHIRO left sidesuspicious]
-  cuz its {~}cycle madness{/~}
+  прост это же {~}cycle madness{/~}
 
   [MADELINE right deadpan]
   ...
@@ -3283,20 +3283,20 @@ SJ2021_Flamecrafter113_OvergrownLinn_FinalSecret=
 [MADELINE left upset]
 {0.625}Что ты имеешь в виду?
 
-SJ2021_Flamecrafter113_Heartside_Secret=
+SJ2021_Flamecrafter113_Heartside_Secret= #исправить под херт сайд
 {anchor bottom}
 [MADELINE left upset]
 И это всё?
 Лишь пустая табличка?
 [MADELINE left angry]
-{*}Пустая табличка в месте как это?!{/*}
+{*}Пустая табличка в подобном месте?!{/*}
 [BADELINE right scoff]
-Посмотри на себя, опять захотела исследовать болото?
-Ты ведь и сама понимаешь...
+Слушай, здесь ничего и не должно быть.
+Ведь есть дела поважнее...
 [BADELINE right upset]
-В этом месте нечего искать.
-[MADELINE left sadder]
-Но мы нашли тему для разговора, ведь так?
+Тебе предстоит пройти ещё целых 25 флагов.
+[MADELINE left sad]
+Хорошо, лучше продолжу.
 
 # === fonda1515
 
@@ -3395,9 +3395,9 @@ HankyMueller_Intro_Baddy_01=
 [MADELINE left upset]
 ...Очень смешно.
 [BADELINE right scoff]
-Итак, это какая-то дыра, что мы в ней забыли? 
+Итак, что мы забыли в этой дыре? 
 [MADELINE left distracted]
-Это не какая-то там дыра. Это... {#00c46f}{~}Место падения НЛО{/~}{#}.
+Это не какая-то там "дыра". Это... {#00c46f}{~}Место падения НЛО{/~}{#}.
 [BADELINE right sigh]
 Ты же шутишь...
 [MADELINE left upset]
@@ -3460,7 +3460,7 @@ SJ2021_hyperlife_book3=
   Сегодня пятая годовщина заселения.
   Нашей главной задачей остаётся ремонт зданий от постоянного износа.
   Поступали незначительные жалобы по поводу нарушения целостности построенных нами структур, однако мы абсолютно уверены в качестве своей работы.
-  А, чуть не забыл, Лейтенант Паул обнаружил нечто, напоминающее красную краску, эта субстанция просочилась через пол одного из жилых модулей.
+  А, чуть не забыл, Лейтенант Паул обнаружил нечто, напоминающее алую краску, эта субстанция просочилась через пол одного из жилых модулей.
   Нам не о чем волноваться, но мы будем присматривать за её распространением. 
 
 SJ2021_hyperlife_book4=
@@ -3469,21 +3469,21 @@ SJ2021_hyperlife_book4=
   от 4 января, 2079
   Я понятия не имею, что делать.
   Все стены покрылись отметинами.
-  Эта карсная краска просто заполнила улицы.
+  Алая краска просто заполнила улицы.
   С каждым днём всё больше и больше людей пропадают без вести.
   Я чувство, будто я схожу с ума.
   Я без понятния, сколько нам ещё тут осталось. 
-  ЦАРСТВИЕ.
+  РЕЖИМ.
 
 SJ2021_hyperlife_book5=
   [ЗАПИСЬ]
   от 9 сентября, 2080
-  {# ab1005}СЛАВА ЦАРСТВИЮ.{#}
+  {# ab1005}СЛАВА РЕЖИМУ.{#}
   {# ab1005}ОТДАЙ СВОЮ ЖИЗНЬ ДВИГАТЕЛЮ.{#}
-  {# ab1005}ЦАРСТВИЮ НУЖНА КАЖДАЯ ЖИЗНЬ.{#}
-  {# ab1005}СЛАВА ЦАРСТВИЮ.{#}
-  {# ab1005}СЛАВА ЦАРСТВИЮ.{#}
-  {# ab1005}СЛАВА ЦАРСТВИЮ.{#}
+  {# ab1005}ВОЖДЮ НУЖНА КАЖДАЯ ЖИЗНЬ.{#}
+  {# ab1005}СЛАВА РЕЖИМУ.{#}
+  {# ab1005}СЛАВА РЕЖИМУ.{#}
+  {# ab1005}СЛАВА РЕЖИМУ.{#}
 
 SJ2021_hyperlife_a2demo=
   [NOTE]
