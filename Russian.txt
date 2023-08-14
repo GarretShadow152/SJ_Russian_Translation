@@ -2732,231 +2732,231 @@ SJ2021_Ecl1psed_see_theo=
   [MADELINE left surprised]
   {+THEO}?!
   [MADELINE left surprised]
-  What are you doing all the way out here???
+  Как ты оказался настолько далеко от входа???
   
   [THEO right excited]
-  Oh hello {+MADELINE}! Nice to see you out in the middle of nowhere!
+  А, привет{+MADELINE}! Рад встретить тебя в этом совсем-не-случайном месте!
   
   [MADELINE left upset]
-    Ah. I think I know what's going to happen now.
-  Let me guess, you're gonna ask me{n}to carry you, right?
+    Ага, я догадываюсь, что меня теперь ждёт. 
+  Мне придётся донести тебя до выхода, не так ли?
   
   [THEO right thinking]
-  Boy, do you ever know me.
+  Ну, ты же меня знаешь.
 SJ2021_Ecl1psed_see_theo_2=
   [MADELINE left surprised]
   {+THEO}?!
   [MADELINE left sad]
-  How did you get stuck in that... thing?{n}You were just fine when we met earlier!
+  Как ты опять застрял в этой... штуке?{n}Мы же только что попрощались, и ты был в порядке.
   
   [THEO right normal]
-  I thought I'd show up{n}to give you some moral support!
+  Я подумал, что тебе не помешает моральная поддержка с моей стороны.
   [THEO right excited]
-  I know you like challenges!
+  Тебе же нравятся дополнительные сложности!
   
   [MADELINE left upset]
-  Boy, do you ever know me.
+  Ну, ты же меня знаешь.
 SJ2021_Ecl1psed_puzzle_intro=
   [THEO_MIRROR right worried]
   {+MADELINE}?
   
   [MADELINE left normal]
-  {+THEO}?? Is that you?
+  {+THEO}?? Это и правда ты?
 
   [THEO_MIRROR right normal]
-  Indeed, it is me, {+THEO}, the one and only!
+  Так и есть, я тот самый {+THEO}, единственный и неповторимый!
 
   [MADELINE left sad]
-  Where {~}ARE{/~} you?
+  Ну и {~}ГДЕ{/~} тебя искать?
 
   [THEO_MIRROR right normal]
-  To be honest, I'm not really sure where I am.
-  I made a campfire.{n}I think I'm on some sort of floating island.
+  Если честно, то для меня это тоже загадка.
+  Я добрался до очередного парящего острова и развёл здесь костёр.
   [THEO_MIRROR right excited]
-  But hey. The view is {~}GORGEOUS{/~}.{n}You gotta get over here!
+  Но знаешь что, отсюда открывается просто {~}ВЕЛИКОЛЕПНЫЙ{/~} вид.{n}Тебе стоит тут побывать!
   
   [MADELINE left sad]
-  Uhh, I'm doing my best, but it's not easy...
+  Ух-х, я уже и так выкладываюсь на максимум, ты бы знал как это сложно...
   [THEO_MIRROR right normal]
-    Plus, I found a strawberry on my way here.{n}
-    I left it for you! I know you like those!
+    Кроме того, по пути сюда я видел клубнику. {n}
+    Я оставил её для тебя! Тебе ведь нравится клубника?
     
   [MADELINE left normal]
-  Oh? Now {!}THAT's{/!} motivation.
-    How do I get to you?
+  О, ну {!}ТЕПЕРЬ{/!} я точно в деле.
+    Как мне туда забраться?
 
   [THEO_MIRROR right worried]
-  Well, uhh, there {~}might{/~} be some {n} puzzles you'll have to solve.
+  Кстати об этом, тебе {~}вероятно{/~} придётся решить парочку головоломок.
 
   [MADELINE left surprised]
-  What????
+  Серьёзно???
 
   [MADELINE left angry]
-  {!}This isn't a puzzle map!!!{/!}
+  {!}Я не подписывалась на карту с пазлами!!!{/!}
 
   [THEO_MIRROR right worried]
-  Hey, wait, don't take this out on me!
+  Эй, не злись, не я это придумал!
 
   [MADELINE left determinedclosed]
-  Ok, ok.
+  Ладно, ладно.
   [MADELINE left sad]
-  I can do the puzzles.
+  Я и не против головоломок.
   [MADELINE left determined]
-    I got this.
+  Я справлюсь.
 
   [THEO_MIRROR right excited]
-  That's the spirit!
+  Так держать!
 
   [MADELINE left sad]
-  ... Wait a minute.
-    How did YOU get ... wherever you are? {n}
-    Did you do the puzzles too?
+  ...Минутку.
+    Тогда как же ТЫ забрался наверх?.. {n}
+    Ты уже разобрался с этой комнатой?
 
   [THEO_MIRROR right excited flip]
-  Whoops, I gotta go! I just found something interesting!
-    Catch you later!
+  Ого-о, какая удача! Я обязательно должен рассмотреть эту совсем-не-обычную штуку поближе!
+    Поговорим позже!
     
   [MADELINE left upset]
   ...
 SJ2021_Ecl1psed_hint=
   [MADELINE left sadder]
-  This is really hard...
+  Ничего не понимаю...
 
   [THEO_MIRROR right excited]
-  Hey, cheer up! You'll never believe what I found!
+  Эй, я в тебя верю! Кроме того, для тебя есть хорошие новости!
   [THEO_MIRROR right normal]
-    It's some {~}secret mapping documents{/~}{n}pertaining to this room!
+    Я обнаружил некие {~}секретные чертежи{/~}, относящиеся к твоей комнате!
 
   [MADELINE left normal]
-  Oh? What do they say?
+  Правда? И как они могут мне помочь?
 
   [THEO_MIRROR right thinking]
-  It says...
+  Ну, здесь кое-что написано...
 
   [THEO_MIRROR right wtf]
-  "This room contains many gaps that are just {~}barely{/~} wide enough to fit through."
-    "You'll need to use the move blocks to create setups for them."
+  "В этой комнате есть несколько очень узких проходов, в которые вы {~}всё равно{/~} сможете пролезть, имея план."
+    "Для этого вам необходимо воспользоваться мув-блоками"
 
   [THEO_MIRROR right normal]
-  "For the gap on the bottom center, you'll need to grab {n}
-    the {~}left{/~} side of a certain non-steerable block."
-    "However, the block that IS steerable also needs to be used to create the setup."
+  "Внизу посередине находится один из таких проходов. Чтобы попасть в него, вам необходимо держаться за... {n} 
+  {~}левую{/~} сторону определённого неуправляемого блока"
+    "Для этого вам понадобится другой, уже УПРАВЛЯЕМЫЙ блок."
   
   [MADELINE left sad]
-  Ummmm... ok? Does it just say what the solution is? {n}
-    I'm sure that would be more useful.
+  Эмм... хорошо? А они не могли просто написать, как решается головоломка? {n}
+    Это было бы намного полезнее.
 
   [THEO_MIRROR right worried]
-  Nope.
+  Не-а.
   [THEO_MIRROR right excited]
-    Hey, I'm sure you'll be able to figure it out!
+    Эй, я уверен, что ты разберёшься!
 
   [MADELINE left sad]
-  I guess...
+  Наверное...
 SJ2021_Ecl1psed_hint_2=
   [THEO_MIRROR right excited]
-    Oh, wait. I found another document!
+    О, погоди, у этого чертежа есть обратная сторона!
     
   [MADELINE left normal]
-  Awesome!
+  Отлично!
     
   [THEO_MIRROR right excited]
-    This one says...
+    Здесь написано...
     [THEO_MIRROR right normal]
-  "The player must make use of the block with trigger spikes many times... {n}
-    more times than one would think possible.
-  In fact, the player must use the right side of the block {n}
-    even after the trigger spikes are triggered."
+  "Испытуемому несколько раз потребуется блок с выдвигающимися шипами... {n}
+    больше раз, чем кажется.
+  На самом деле, ему будет нужна именно правая его сторона {n}
+    и после того, как шипы были активированы"
 
   [MADELINE left upset]
-  How am I supposed to do that?
+  Я не могу ходить по шипам, что мне делать?
   [THEO_MIRROR right wtf]
-  "to do this, the player must employ a forbidden technique, one that we do not speak the name of."
+  "Чтобы провернуть это, испытуемому придётся использовать запрещённую механику, название которой нельзя произносить согласно правилам коллаба."
 
   [MADELINE left upset]
-  Brilliant. Why is that so cryptic?
+  Превосходно. Они не могли выбрать менее загадочную формулировку?
 
   [THEO_MIRROR right wtf]
-    Beats me. I didn't write this.
+    Согласен, они слегка перегнули.
   [THEO_MIRROR right thinking]
-    There's not a whole lot of tech that's possible{n}
-    for a block with spikes on every side.
+    Между тем, есть не так много техник, которые возможно выполнить{n}
+    от блока с шипами со всех сторон.
   [THEO_MIRROR right excited]
-  Look. I believe in you. You got this!
+  Я уверен в тебе. Ты справишься!
 SJ2021_Ecl1psed_cheese=
     [MADELINE_MIRROR right sad upsidedown]
     {+MADELINE}.
-    You cheesed the room.
+    Ты неправильно прошла комнату.
     
     [MADELINE left surprised]
-    Wait! WHO are you?? What???
+    Что? ТЫ ещё кто?? Чего ты хочешь???
     
     [MADELINE_MIRROR right sad upsidedown]
-    Regardless, you have reached the strawberry.
-    However, this next challenge is not cheesable.
-    Good luck, {+MADELINE}.
+    Так или иначе, ты получила свою клубнику.
+    Но учти, следующую комнату тебе придётся пройти задуманным способом.
+    Покажи, на что способна, {+MADELINE}.
 SJ2021_Ecl1psed_why1=
   [MADELINE left deadpan]
-  Congratulations. There is no reward. You did this all for nothing.
+  Мои поздравления, вы сделали всё это зря и ничего не получили.
   [THEO_MIRROR right normal upsidedown]
-    You played yourself.
+    Вы переиграли самого себя.
 SJ2021_Ecl1psed_why2=
   [MADELINE left sad]
-  When the comf is lenient...
+  Тут уютно, кроме того это был отличный сетап...
 SJ2021_Ecl1psed_why3=
   [MADELINE left normal]
-  Comf!
+  Уютненько!
   [THEO right wtf]
-  Hey! This is MY comf!
+  Эй! Это была МОЯ реплика!
   [MADELINE left normal]
-  It's my comf now!
+  Теперь она моя.
 SJ2021_Ecl1psed_theo_berry_3=
   [THEO right excited]
-  {+MADELINE}?! You found me!
+  {+MADELINE}?! Вот мы и встретились!
   
   [MADELINE left normal]
   {+THEO}!!
 
   [MADELINE left normal]
-  You have no idea how relieved I am to have found you!
+  Ты не представляешь, как я рада наконец тебя найти! 
 
   [THEO right excited]
-  Isn't the view gorgeous?
+  Вид ведиколепный, не правда ли?
   
   [MADELINE left normal]
-  It sure is! It's incredible!
+  Конечно! Здесь безумно красиво!
   
   [MADELINE left sad]
-  {0.8}I feel kinda warm for some reason...
+  {0.8}А ещё тут значительно теплее...
 
   [THEO right worried]
-  Uhhhhh...
+  Эмм...
 
   [THEO right worried]
-  I might not be a thermodynamics expert, but I {~}think{/~} that's because you're standing in the fire.
+  Я не эксперт в области термодинамики, однако я {~} осмелюсь предположить{/~} что именно так работает огонь, в котором ты стоишь.
 
   [MADELINE left surprised pop]
-  AAAHHHH!!
+  А-А-А-ААХ!!
   
 # === Emik
 
 SJ2021_emik_madeline_1=
 [MADELINE left distracted]
-I don't think this was the right way at all...
-Now that I think about it{0.1}.{0.1}.{0.1}. [MADELINE left normal] I think I'm actually happy to have discovered this room.
+Я не думаю, что выбрала правильный путь...
+Хотя, если подумать{0.1}.{0.1}.{0.1}. [MADELINE left normal] Нет, на самом деле я рада, что обнаружила эту комнату.
 [MADELINE left normal]
-To think that I came up with such a creative solution in order to get here, it feels like I solved something difficult like {~}The Octadecayotton{/~}.
+Только подумать, я проявила смекалку и придумала креативный способ добраться сюда, наверняка так же себя ощущает например человек, визуализировавший Эннеракт.
 [MADELINE left sad]
-Even if there isn't anything here in this room.
+И хоть эта комната абсолютно пуста, я должны была побывать в ней.
 
 # === Expert Heartside
 
 SJ2021_EXHS_E00=
 	{anchor top}[MADELINE left distracted]
-	Hold on, there's a note wedged into this machine.
+	Стоп, из этой машины что-то торчит.
 	[MADELINE left normal]
 	....
-	Oh, it's a list of every English word beginning with S.
+	О, это список всех русских слов, начинающихся на букву М.
 	....
 	[MADELINE left sad]
 	....
@@ -2965,29 +2965,29 @@ SJ2021_EXHS_E00=
 	....
 	....
 	[MADELINE left sad]
-	Nah, I'm good.
+	Не, пожалуй обойдусь.
 
 SJ2021_EXHS_D03=
-shh!
-pepperoni
-secret
+Тс-с!
+Пепперони
+Это секрет! 
 
 SJ2021_EXHS_F07=
-	it's fine
-	i've been through this before
-	just go limp and enjoy the ride!
+	Спокойно
+	Я уже проходила через это
+	Нужно просто расслабиться и наслаждаться видом вокруг!
 
 # === Ezel
 
 sj2021_ezel_secret=
 [MADELINE left normal]
-This map's concept was inspired by {# FFFF66}EAT GIRL{#}, a small indie game created by tesselode!
+Эта карта концептуально вдохновлена небольшой инди-игрой {# FFFF66}EAT GIRL{#}, созданной tesselode!
 
 [MADELINE left normal]
-The chaser concept is based off of {# 66FFFF}Greg{#}!
+Концепт погони предложен {# 66FFFF}Greg{#}!
 
 [MADELINE left normal]
-By the way, shoutouts to {# 66FF66}Archiethon{#}!
+Кроме того, спасибо за {# 66FF66}Archiethon{#}!
 
 # === fishtank
 
