@@ -149,7 +149,7 @@ StrawberryJam2021_0_Lobbies_2_Intermediate_Credits=
   Макет разработал Holly в последствии с правками от Jadeturtle.
   Входы на карты сделали bryse0n, Dooshii, fonda1515, LegS, Liero, Phrog, и Rocketguy2.
   Графику нарисовали butcherberries, Chaotick, DanTKO, Gamation, LegS, Linj, mosscairn, MousseMoose, nerferd_, Phrog, PowerAV, Scroogle, tobyaaa, и vexastrae, задний фон нарисовали DanTKO and nerferd_.
-  Композитор BeanJammin.
+  Композитор BeanJammin
   Декораторы BossSauce, Coffe, fonda1515, Gamation, LegS, Phrog, Scroogle, и xolimono.
   Плейтестеры BossSauce, MousseMoose, и Rocketguy2.
   Кастомный энтити лифта сделал catapillie, кастомный энтити зиппера сделал Samah.
