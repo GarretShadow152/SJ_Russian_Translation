@@ -125,68 +125,68 @@ StrawberryJam2021_0_Lobbies_Warp_Ch5_GM_main_6=
 # === Lobby Credits
 
 StrawberryJam2021_0_Lobbies_0_Prologue_Credits=
-  Разработка Пролога - Aiden, Coffe, nerferd_ и snolls.
-  The art was created by Bissy, Circumplex, Coffe, Earthwise, mosscairn, neo_zoid, nerferd_, Phrog, PowerAV, and snolls.
-  The monument sprites were both created by neo_zoid.
-  The stylegrounds were created by nerferd_.
-  The music was composed by BeanJammin, Bipmo Bopmo, catapillie, and Ceph.
-  The decoration was done by Bissy and Coffe.
-  The camera was designed by Coffe.
-  Additional polish was done by Aiden, bryse0n, and LegS.
-  Special thanks to Coffe for the layout design, nerferd_ for the logo, and Aiden for code.
+  Разработкой Пролога занимались Aiden, Coffe, nerferd_ и snolls.
+  Графику нарисовали Bissy, Circumplex, Coffe, Earthwise, mosscairn, neo_zoid, nerferd_, Phrog, PowerAV, и snolls.
+  Спрайты монумента нарисовал neo_zoid.
+  Задний фон нарисовал nerferd_.
+  Музыку сочинили BeanJammin, Bipmo Bopmo, catapillie, и Ceph.
+  Декораторы Bissy и Coffe.
+  Над камерой работал Coffe.
+  Дополнительную полировку сделали by Aiden, bryse0n, и LegS.
+  Специальная благодарность посвящается Coffe за дизайн макета, nerferd_ за лого, и Aiden за код.
 
 StrawberryJam2021_0_Lobbies_1_Beginner_Credits=
-  The development of the Beginner Lobby was led by Ceph, Coffe, and Owen Shirrell.
-  The map entrances were made by ABuffZucchini, Asterisk, Circumplex, Earthwise, Flagpole1up, Linj, Mnstrman06, mosscairn, Owen Shirrell, Quinnigan, Ru, and Worldwaker2.
-  The art was created by Bissy, Chaotick, Circumplex, citrea, Coffe, Earthwise, the gbman, mosscairn, nerferd_, and PowerAV, with stylegrounds by Earthwise and ansimuz.
-  The music was composed by Ceph.
-  The lobby was decorated by Bissy, Coffe, Circumplex, Earthwise, fonda1515, Mnstrman06, TyKim, and Xplosives.
-  The camera was designed by Aiden, Bissy, and BossSauce.
-  Special thanks to Alisticious for playtesting; Bissy, mosscairn, and PowerAV for conceptual design; and Cruor, JaThePlayer, and Xaphan for additional code.
+  Разработку лобби для новичков возглавили Ceph, Coffe, и Owen Shirrell.
+  Входы на карты сделали ABuffZucchini, Asterisk, Circumplex, Earthwise, Flagpole1up, Linj, Mnstrman06, mosscairn, Owen Shirrell, Quinnigan, Ru, и Worldwaker2.
+  Графику нарисовали Bissy, Chaotick, Circumplex, citrea, Coffe, Earthwise, the gbman, mosscairn, nerferd_, и PowerAV, задний фон нарисовали Earthwise и ansimuz.
+  Композитор Ceph.
+  Декораторы лобби Bissy, Coffe, Circumplex, Earthwise, fonda1515, Mnstrman06, TyKim, и Xplosives.
+  Над камерой работали Aiden, Bissy, и BossSauce.
+  Специальная благодарность посвящается Alisticious за плейтестинг; Bissy, mosscairn, и PowerAV за концепт дизайн; и Cruor, JaThePlayer, и Xaphan за дополнительный код.
 
 StrawberryJam2021_0_Lobbies_2_Intermediate_Credits=
-  The development of the Intermediate Lobby was led by fonda1515, Holly, Phrog, and Scroogle.
-  The layout was planned by Holly with later adjustments from Jadeturtle.
-  The map entrances were made by bryse0n, Dooshii, fonda1515, LegS, Liero, Phrog, and Rocketguy2.
-  The art was created by butcherberries, Chaotick, DanTKO, Gamation, LegS, Linj, mosscairn, MousseMoose, nerferd_, Phrog, PowerAV, Scroogle, tobyaaa, and vexastrae, with stylegrounds by DanTKO and nerferd_.
-  The music was composed by BeanJammin.
-  The lobby was decorated by BossSauce, Coffe, fonda1515, Gamation, LegS, Phrog, Scroogle, and xolimono.
-  The lobby was playtested by BossSauce, MousseMoose, and Rocketguy2.
-  The custom elevator entity was coded by catapillie and the custom zip platform entity was coded by Samah.
-  The camera was designed by Aiden, Gamation, and fonda1515.
-  Special thanks to Gamation for assisting with management responsibilities.
+  Разработку промежуточного лобби возглавили fonda1515, Holly, Phrog, и Scroogle.
+  Макет разработал Holly в последствии с правками от Jadeturtle.
+  Входы на карты сделали bryse0n, Dooshii, fonda1515, LegS, Liero, Phrog, и Rocketguy2.
+  Графику нарисовали butcherberries, Chaotick, DanTKO, Gamation, LegS, Linj, mosscairn, MousseMoose, nerferd_, Phrog, PowerAV, Scroogle, tobyaaa, и vexastrae, задний фон нарисовали DanTKO and nerferd_.
+  Композитор BeanJammin.
+  Декораторы BossSauce, Coffe, fonda1515, Gamation, LegS, Phrog, Scroogle, и xolimono.
+  Плейтестеры BossSauce, MousseMoose, и Rocketguy2.
+  Кастомный энтити лифта сделал catapillie, кастомный энтити зиппера сделал Samah.
+  Над камерой работали Aiden, Gamation, и fonda1515.
+  Специальная благодарность посвящается Gamation за помощь с руковождением.
 
 StrawberryJam2021_0_Lobbies_3_Advanced_Credits= 
-  The development of the Advanced Lobby was led by bryse0n, Ceph, and Jadeturtle.
-  The layout was planned by bryse0n, Ceph, Goldian, Jadeturtle, and MousseMoose.
-  The map entrances were made by BossSauce, bryse0n, Earthwise, Meario, Nic, and Worldwaker2.
-  The art was created by bryse0n, Chaotick, Circumplex, Coffe, Earthwise, M1n3c4rt, MousseMoose, nerferd_, 
-  Nikko, Phrog, PowerAV, snolls, the_gb, Worldwaker2, and xolimono, with stylegrounds by the_gb and nerferd_.
-  The music was composed by Ceph.
-  The lobby was decorated by bryse0n, Gamation, Jadeturtle, and Worldwaker2.
-  The camera was designed by Worldwaker2.
-  Special thanks to Alisticious, Bigkahuna, JaThePlayer, Scroogle, and Xaphan for code fixes, debugging, and playtesting.
+  Разработку продвинутого лобби возглавили bryse0n, Ceph, и Jadeturtle.
+  Макет разработали bryse0n, Ceph, Goldian, Jadeturtle, и MousseMoose.
+  Входы на карты сделали BossSauce, bryse0n, Earthwise, Meario, Nic, и Worldwaker2.
+  Графику нарисовали bryse0n, Chaotick, Circumplex, Coffe, Earthwise, M1n3c4rt, MousseMoose, nerferd_, 
+  Nikko, Phrog, PowerAV, snolls, the_gb, Worldwaker2, и xolimono, задний фон нарисовали the_gb and nerferd_.
+  Композитор Ceph.
+  Декораторы bryse0n, Gamation, Jadeturtle, и Worldwaker2.
+  Над камерой работал Worldwaker2.
+  Специальная благодарность посвящается Alisticious, Bigkahuna, JaThePlayer, Scroogle, и Xaphan за исправление кода, отладку и плейтестинг.	
 
 StrawberryJam2021_0_Lobbies_4_Expert_Credits= 
-  The development of the Expert Lobby was led by Agent, Quinnigan and Ru.
-  The layout was planned by Quinnigan with later adjustments from Agent, Lyra and Ru.
-  The map entrances were made by Agent, Appels, BossSauce, butcherberries, DanTKO, Flamecrafter113, Lyra, Phrog, PowerAV, Ru, Scroogle, Valkyria, Vina and Yoshachobi7.
-  The art was created by butcherberries, Chaotick, DanTKO, Glow Woomii, nerferd_, Phrog, PowerAV, Ru, Worldwaker2 and Yoshachobi7, with stylegrounds by Maildropfolder, nerferd_, and PowerAV.
-  The music was composed by catapillie.
-  The lobby was decorated by Appels, butcherberries, Lyra, PowerAV, Worldwaker2, and Yoshachobi7.
-  The camera was designed by Agent, butcherberries and Worldwaker2.
-  Special thanks to Cruor, JaThePlayer and Xaphan.
+  Разработку экспертного лобби возглавили Agent, Quinnigan и Ru.
+  Макет разработали Quinnigan с исправлениями от Agent, Lyra и Ru.
+  Входы на карты сделали Agent, Appels, BossSauce, butcherberries, DanTKO, Flamecrafter113, Lyra, Phrog, PowerAV, Ru, Scroogle, Valkyria, Vina и Yoshachobi7.
+  Графику нарисовали butcherberries, Chaotick, DanTKO, Glow Woomii, nerferd_, Phrog, PowerAV, Ru, Worldwaker2 и Yoshachobi7, задний фон нарисовали Maildropfolder, nerferd_, and PowerAV.
+  Композитор catapillie.
+  Декораторы by Appels, butcherberries, Lyra, PowerAV, Worldwaker2, и Yoshachobi7.
+  Над камерой работали Agent, butcherberries и Worldwaker2.
+  Специальная благодарность посвящается Cruor, JaThePlayer и Xaphan.
 
 StrawberryJam2021_0_Lobbies_5_Grandmaster_Credits=
-  The development of the Grandmaster Lobby was led by tobyaaa and valkyria.
-  The layout was planned by tobyaaa and valkyria.
-  The map entrances were made by BossSauce, Maya, Soloiini, tobyaaa, valkyria, Vina, and Xplosives.
-  The art was created by Bissy, Coffe, citrea, DanTKO, Dr\. Pufferfeesh, KAERRA, kat, nerferd_, Nikko, tobyaaa, and valkyria, with stylegrounds by citrea.
-  The music was composed by BeanJammin, with a live horn performance by Eric Steele.
-  The lobby was decorated by Gamation, tobyaaa, valkyria, and Xplosives.
-  The camera was designed by tobyaaa and valkyria.
-  The original styleground mask code was created by lilybeevee, and this credits monument sprite was created by neo_zoid.
-  Special thanks to Alisticious for playtesting and to JaThePlayer, Vexatos, Viv, and Xaphan for code fixes and debugging.
+  Разработку грандмастер лобби возглавили tobyaaa и valkyria.
+  Макет разработали tobyaaa и valkyria.
+  Входы на карты сделали BossSauce, Maya, Soloiini, tobyaaa, valkyria, Vina, иXplosives.
+  Графику нарисовали Bissy, Coffe, citrea, DanTKO, Dr\. Pufferfeesh, KAERRA, kat, nerferd_, Nikko, tobyaaa, and valkyria, with stylegrounds by citrea.
+  Композитор BeanJammin, с живым исполнением на музыкальном роге от Eric Steele.
+  Декораторы Gamation, tobyaaa, valkyria, and Xplosives.
+  Над камерой работали tobyaaa and valkyria.
+  Маску для заднего фона кодил lilybeevee, и спрайт монумента с кредитами сделал neo_zoid.
+  Специальная благодарность посвящается Alisticious за плейтестинг, и JaThePlayer, Vexatos, Viv, и Xaphan за исправления кода и отладку.
 
 # === Heartside Credits
 
