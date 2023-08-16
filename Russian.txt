@@ -5628,30 +5628,30 @@ It's {~}"lenient"{/~}!
 
 # === Maya
 
-SJ2021_maya_bird_1= Demo Dash
+SJ2021_maya_bird_1= рывок в присяди
 
 SJ2021_Maya_moonboost=
-  {# d678db}{~}This map uses moonboosts{/~}
-  {# FFFFFF}Demohyper into the top 3 pixels on the side of a moon block for an extra boost.
-  {# d678db}{~}You should probably go to the gym if you aren't familiar with this{/~}
+  {# d678db}{~}Эта карта использует мунбусты{/~}
+  {# FFFFFF}Используйте демохайпер в три верхних пикселя угла лунного блока, чтобы получить дополнительный буст.
+  {# d678db}{~}Если вы не знакомы с этим, вам лучше пойти в зал{/~}
 
 SJ2021_Maya_greenspring=
-    Green springs conserve the player's momentum in addition to giving the regular boost from a spring. 
-    For example, hyperdashing right into a green spring will give you the momentum of the hyper plus the boost from the spring.
+    Зелёные пружины сохраняют ускорение игрока, в дополнении давая буст от обычной пружины. 
+    Например, если вы используете хайпер прямо в зелёную пружину, вы получите ускорение от хайпера плюс буст от пружины.
 
 SJ2021_Maya_photosensitivity=
-    This map has lighting and effects that may bother some players. Enabling photosensitive mode will lower brightness and remove light pulses.
+    Эта карта использует световые эффекты, которые могут побескоить некоторых игроков. Включив режим светочувствительности, понизиться яркость и пропадёт пульсация света.
 
 SJ2021_Maya_moonspringboost=
-  After dashing into a moonblock spring, dash back into the spring for an additional boost. You can jump when hitting the spring the second time to get a slower but higher boost.
+  После рывка в пружину на лунном блоке сделайте ещё один для дополнительного буста. Вы можете прыгнуть, когда поподаете в пружину во второй раз, чтобы получить менее быстрый, но более высокий буст.
 
 SJ2021_Maya_Theoberry=
-  When hitting a bumper while holding Theo, release grab before freeze frames. 
-  If done properly, you will briefly be able to dash while holding Theo after the dash cooldown ends.
-  The blue barriers in this room will block Theo but not the player, so Theo can pass through these barriers while being held.
+  Ударяясь о бампер и держа Тео, отпустите кнопку хватания до замороженных кадров. 
+  Если всё сделано правильно, вы сможете использовать рывок после его отката с Тео в руках.
+  Синие барьеры в этой комнате будут блокировать Тео, но не игрока, так что он сможет проходить сковозь барьеры, пока вы держите Тео в руках.
 
 SJ2021_Maya_malfunction=
-  This room has no freeze frames, stronger bumpers, and no dash cooldown after hitting a bumper.{n}Good luck!
+  В этой комнате нет замороженных кадров, бамперы более сильные и нет отката рывка после удара об бампер.{n}Удачи!
 
 # === Meario
 
