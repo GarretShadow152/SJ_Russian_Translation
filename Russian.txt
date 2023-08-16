@@ -180,7 +180,7 @@ StrawberryJam2021_0_Lobbies_4_Expert_Credits=
 StrawberryJam2021_0_Lobbies_5_Grandmaster_Credits=
   Разработку грандмастер лобби возглавили tobyaaa и valkyria.
   Макет разработали tobyaaa и valkyria.
-  Входы на карты сделали BossSauce, Maya, Soloiini, tobyaaa, valkyria, Vina, иXplosives.
+  Входы на карты сделали BossSauce, Maya, Soloiini, tobyaaa, valkyria, Vina, и Xplosives.
   Графику нарисовали Bissy, Coffe, citrea, DanTKO, Dr\. Pufferfeesh, KAERRA, kat, nerferd_, Nikko, tobyaaa, and valkyria, with stylegrounds by citrea.
   Композитор BeanJammin, с живым исполнением на музыкальном роге от Eric Steele.
   Декораторы Gamation, tobyaaa, valkyria, and Xplosives.
