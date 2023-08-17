@@ -2684,48 +2684,48 @@ SJ2021_DeathKontrol_99_end=
   [MADELINE right deadpan]
   ...
 
-# === Dooshii
+ # === Dooshii
 
 SJ2021_DOOSHII_Frostmap_Jan_27=
-  Week 1 of the project has concluded with no major issues, despite the obstacles to traversal. I wrote my thesis on these oddities, but to study one in person... I shiver at the thought.{n}But that may be due to the temperature. The other researchers were stunned at the sight of snowflakes in summer, although this is not unusual behavior for the subject. Personally, the cold suits me better.{n}We should be able to locate the source within a month, if all goes according to plan.
+  Первая неделя экспедиции завершилась без серьёзных проишествий, несмотря на значительные трудности с перемещением.{n}Я рассматривал эти аномалии издалека, но чтобы подойти к ним ближе... Только от мысли у меня мороз по коже. Впрочем, здесь и без того холодно.{n}Остальные исследователи сильно удивились, увидев летний снег, хотя это стандартный вид осадков здесь. Собственно, поэтому я и выбрал это место - мне нравится холод.{n}Если всё пройдёт по плану, то мы достигнем источника через месяц.
 
 SJ2021_DOOSHII_Frostmap_Feb_4=
-  We just came back from another expedition. This cave seems to be getting colder and colder by the minute.{n}The growth of the vines and the crystals is relentless, especially further into the cave. Interestingly, they don’t seem to be growing on our equipment, even if they've started taking over the outposts. The rate of expansion is faster than our models predict, but nothing we can't handle.{n}Some people have requested to pull back. But with what stands to be gained from this project? I won't allow it. 
+  Мы только что вернулись из очередной вылазки.{n}Похоже, что в пещере с каждой минутой становится только холоднее. Кристаллы и корни вокруг нас продолжают свой беспощадный рост, особенно много их в глубинах пещеры. Стоит отметить, что хоть они и начали покрывать собой постройки, наше оборудование остаётся нетронутым. Скорость распространения несколько превосходит расчётную, но мы способны справиться с этим.{n}Мне поступали предложения свернуть работу и вернуться - и это учитывая потенциальную научную ценность нашей экспедиции? Недопустимо. 
 
 SJ2021_DOOSHII_Frostmap_Feb_9=
-  Half of the outposts have been abandoned. The crystal growth increased exponentially, completely taking over most of the outposts close to the source.{n}Conditions are getting more and more dangerous, and some people are asking to leave entirely. I won't let them - not when we're so close to it.{n}I have a theory of why the crystals are growing, but I don't like it.{n}I've instructed teams to disassemble their equipment before abandoning the outposts. The problem is they're built to last for decades, so I doubt they'll have time to deactivate even half of them.{n}Every moment we waste means the journey back will be even more treacherous.
+  Каждая вторая постройка стала непригодной для проживания и какой-либо другой деятельности. Кристаллы распространяются с экспоненциально растущей скоростью, несколько зданий ближе к источнику были просто раздавлены ими.{n}В целом здесь становится опасно находиться, и многим кажется, что нам стоит уйти прямо сейчас. Очевидно, что они переоценивают наши проблемы, ведь мы подошли так близко к разгадке.{n}Я размышлял о том, почему кристаллов становится больше, но мне жутко от собственных теорий.{n}Командам было отдано распоряжение покидая здания забирать с собой оборудование. Загвоздка в том, что оно вмонтировано с расчётом на десятилетия эксплуатации, так что я сомневаюсь, что найдётся время спасти и половину.{n}С каждой потерянной минутой обратная дорога выглядит всё менее проходимой.
   
 SJ2021_DOOSHII_Frostmap_Feb_14=
-  There was a collapse further in, and I heard a whole outpost was taken out in one blow. The rumblings have been getting more and more frequent, and nobody knows what’s going on. It’s as if the cave itself is trying to keep us out.{n}Our numbers have been cut in half since this started. Most of them left within the past few days following the incident.{n}Despite these issues, we have received more information on what may be happening.{n}We believe the source converts the heat surrounding it into its crystals, which is why they appear to grow so quickly.{n}{n}An energy to mass converter.{n}{n}If we can get to it, maybe we can find a way to reverse the process.
+  Где-то внизу произошёл обвал, и по всей видимости он похоронил подо льдом целую станцию. Частота местного подземного гула продолжает увеличиваться, а мы не можем даже установить его причину. Создаётся ощущение, что пещера пытается выгнать нас отсюда.{n}Изначальный штат работников уже сократился вдвое, большинство покинуло нас позавчера, услышав о вышеупомянутом проишествии.{n}Несмотря на это, мы смогли выяснить больше о природе всех этих явлений. Судя по всему, источник конвертирует окружающее его тепло в кристаллы, и именно поэтому последние растут так быстро.{n}{n}Это - преобразователь энергии в массу.{n}{n}Если мы сможем добраться до него, то у нас будет шанс обратить процесс.
   
 SJ2021_DOOSHII_Frostmap_Feb_16=
-  This will likely be my final report. Too much has happened in the last two days.{n}My team was the last one remaining, stubbornly holding out hope that we could turn things around. I should have given the order to turn back, but we were so close...{n}Yesterday, the outpost we were in collapsed from the weight of the crystals. They didn't make it out in time.{n}It's so cold now, without everyone.{n}I was a fool. The source could never have been contained or harnessed, and now that we've fed it, it's growing out of control.{n}If you're reading this, our findings indicate that this source lies at the bottom of this ravine. Please, if you are able, find a way to stop it.{n}As for me, I won't last much longer in these conditions. Serves me right, I suppose.{n}My project.{n}My life's work.{n}All finished.{n}And only fragments remain. 
+  Похоже, что эта запись в журнале будет последней. Слишком много всего произошло за эти два дня.{n}Оставалась только моя команда, но мы упорно верили, что сможем перевернуть ситуацию. Нам стоило развернуться, несмотря на то, как близко к цели мы были...{n}Пока мои спутники были внутри, произошёл очередной обвал. Кристаллы мгновенно уничтожили нашу станцию, все здания до единого. Никто не выжил.{n}Здесь так холодно и одиноко.{n}Я идиот. Мы не имели ни единого способа контролировать или хотя бы сдерживать активность источника, мы лишь нагрели его, и теперь кристаллы забирают последние жизни.{n}По нашим данным, источник покоится на глубине этого оврага. Читатель, если это письмо нашло тебя, и если ты способен закончить начатое, найди способ остановить процесс.{n}Что касается меня, в подобном состоянии я долго здесь не протяну. Достойный меня конец, я полагаю.{n}Моя экспедиция.{n}Цель всей моей жизни.{n}Она останется здесь.{n}Порезанной на тысячи кусочков. 
   
 SJ2021_DOOSHII_Frostmap_Feb_17=
-  It called to me and I answered. Somehow, with the last bit of energy in my legs, I made my way here. And I can see now how wrong I was. It was never just thermodynamics. 
-  Tiny white lights, flickering on its surface. Calling my name. Asking how I could let them die. 
-  Inviting me to join them.
-  I can't leave. Not with them still in there.
-  I can't destroy the heart, at least until I find a way to let them out.
-  But every moment I spend here, the voices grow louder. And I feel colder.
-  It would be so warm inside.
+  Услышав зов, я поднялся и пошёл за ним. Из последних сил, мои ноги смогли донести меня до сюда, и теперь я наблюдаю всю ошибочность своих теорий. Это и не могло объясняться исключительно термодинамикой.
+  Крохотные белые огоньки мерцали на его поверхности. Они и звали меня, недоумевая, почему я оставил их там умирать. 
+  Они звали меня к себе.
+  Теперь я не уйду. Я их здесь больше не брошу.
+  Я не стану разрушать кристальное сердце, пока не увижу, что они свободны.
+  Проходит секунда за секундой. Их голоса переходят в крик, а мне всё холоднее.
+  Мне было бы так тепло, там, внутри.
 
 SJ2021_DOOSHII_Frostmap_CelesteHistory101=
-  Higher beings, these words are for you alone.
-  My brethren and my children wish to see you.
-  Visit the {#CB83D1}Enchanted Canyon{#}. They await your arrival.
-  They are wiser than I.
+  Высшие существа, эти слова лишь для вас.
+  Вы приглянулись моим братьям и сыновьям.
+  Проследуйте в {#CB83D1}Зачарованное Ущелье{#}. Вашего прибытия ждут.
+  Им известно больше, чем мне.
 
 SJ2021_DOOSHII_Frostmap_NotUnlikeUs=
-  Higher beings, these words are for you alone.
-  The world you have traversed is dangerous.
-  The worlds you may travel to more so.
-  If you have ventured through my home already, I believe you can do many great things.
-  Stay safe out there, {+MADELINE}.
+  Высшие существа, эти слова лишь для вас.
+  Мир, пересекаемый вами, опасен.
+  Миры, в которых вам предстоит побывать, тем более.
+  Если ваш путь прошёл через моё убежище, то вы способны даже дотянуться до звёзд.
+  И тогда - не забывайте смотреть под ноги, {+MADELINE}.
 
 SJ2021_DOOSHII_Frostmap_Weewooweewoo=
   [GRANNY left mock]
-  The birds let me free.
+  Птицы спасли меня.
 
 # === Ecl1psed
 SJ2021_Ecl1psed_see_theo=
