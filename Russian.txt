@@ -7916,7 +7916,7 @@ SJ2021_thebreadstick1_Text5=WAVEDASH
 
 # === The Cookie Monster
 SJ2021_tcookiem_spike_wallbounce_tutorial=
-  SPIKE WALLBOUNCE
+  СПАЙК ВОЛБАУНС
 
 # === tobyaaa
 
@@ -7931,59 +7931,59 @@ To collect this berry, perform a heart ultra, jump off the ground a little after
 If you do all of that, you'll appear to jump off thin air into the berry.
 The 1-frame jump-off-nothing nature of the trick, combined with the fact that it is only possible at the end of a map, have earned this tech the name "{# dbdb83}yump{\#}."
 
-SJ2021_tobyaaa_gameing=gameing
+SJ2021_tobyaaa_gameing=гейминг
 SJ2021_tobyaaa_ImInDanger=
-[madeline right normal] Haha! I'm in danger.
+[madeline right normal] Ха-ха! Я в опасности.
 SJ2021_tobyaaa_madeline_gameing=
-[madeline right determined] gameing
+[madeline right determined] гейминг
 
-SJ2021_tobyaaa_bird=I do not believe that it is statistically possible to get every golden strawberry without using assist mode, or cheating in some way.
-I kinda think that Maddy Thorson was trolling us by putting these strawberries in the game, 
-and having no way to tell if someone is using assist mode just by looking at the screen footage.
-I think they know full well that it's impossible, and the whole thing is little more than a social experiment 
-to see how many people will cheat and then try to pass their work off as legitimate.
-There is no achievement or reward for getting these strawberries. You don't unlock a special ending where Theo chips a tooth on the gold strawberries in your pie.
-You do get a stamp of a gold strawberry on your save file if you succeed in getting all 25 gold strawberries.
-But PC players have already learned to hack their save slot to manipulate these stamps - including removing the assist stamp.
-Certain youtubers who shall remain nameless claim to have gotten every golden strawberry legitimately within a week of the game's release - 
-even going so far as to say that it was fairly easy to do compared to other games they've played.
-Having carefully inspected their videos and held extensive conversations with them and hearing their conflicting stories about why they were forced 
-to use an assist mode enabled save to make their videos, but did not have an assist mode enabled save slot to show 
-at the beginning of the videos, I am 100% certain that these are doctored videos made by nerdowells.
-That's not to say these people aren't good at the game. Even making a doctored video to look like you got the gold strawberries without cheating 
-requires a tremendous amount of skill at the game. Please do not take this as a personal attack against anyone for their videos.
-Rather, consider this a cautionary note to you. Do not take these videos as proof that it's possible to get these strawberries and decide that you too 
-are going to accomplish this, because if soandsoyoutuber can do it, so can you. I have yet to see a legitimate video that convinces me that it's possible.
-In the hunt for clicks and subscribers, youtubers sometimes deceive their audiences and end up wasting their time.
-If you're going to attempt these golden strawberries - understand that if you want recognition for 
-the feat, you're going to have to make sure that you have proof that you're not cheating.
-If you're just doing this for your own personal sense of self-satisfaction that's great.
-But nobody is going to believe that you got all the gold strawberries if you tell them that you did.
-Don't even attempt to tell people you accomplished this unless you have video to back it up. Do not play on an assist mode
- enabled save slot, and then expect people to believe that you just didn't use any assist options.
-Play on a non-assist enabled save slot, or don't bother. Show the full experience, from title screen to level. Play with the game clock turned on.
-Pause the game on occasion so that people can see that you don't have assist mode available in your options. 
-Play with the original music on. Don't make up some excuse about how you had to turn the music off because it was distracting.
-Anything to make it difficult to doctor the video. And even that might not be enough. The only surefire way to prove you did this is to livestream your accomplishment.
+SJ2021_tobyaaa_bird=Я не верю, что статистически возможно собрать все золотые клубнички без использования режима помощи, или своего рода читерства.
+Я думаю, что Maddy Thorson просто троллил всех нас, добавляя эти клубнички в игру,
+так как невозможно просто взгялнув на статистику, сказать, сжульничал кто-то или нет.
+Я думаю они прекрасно знали, что это невозможно, и вся эту шнягу задумали просто как социальный эксперимент,
+чтобы посмотреть, сколько людей сначала считерит, а потом попытается выдать это за реальное достижение.
+За их сбор даже нет награды или достижения. Ты не увидишь никакой секретной концовки, как Тео поедает пирог из золотой клубники.
+Ты получишь лишь пометку с золотой клубничкой на своём сохранении, если собрёшь все 25.
+Но пк игроки быстро научились манипулировать этими отметками на сохранении, включая метод снятия пометки помощи.
+Все эти безызвестные ютуберы, легально собравшие все золотые клубнички через неделю после выхода игры
+и даже говорящие, что это было намного легче, по сравнению с другими играми, в которые они играли.
+Внимательно посмотрев такие видео и выслушав противоречивые истории их авторов о том,
+как они были вынуждены включить режим помощи, чтобы доснять видео, хотя в самом видео режим отключён,
+я на 100% убедился в том, что все эти отредактированные ролики сделаны никчемными жуликами.
+При этом я не хочу сказать, что эти люди не хороши в игре. Ведь сделать видео, которое будет выглядеть так,
+будто ты собрал эти клубнички без читерства тоже требует хорошего знания игры. Не думайте так о людях с такими видео.
+Просто воспринимайте это как предупреждение. Не воспринимайте такие видео, как доказательство того, что эти клубнички возможно получить,
+и тем более не думайте, что "раз ютубер смог, то и я смогу". Мне ещё предстоит увидеть настоящее видеоподтверждение того, что это возможно.
+В погоней за лайками и подписками, ютуберы иногда обманывают собственную аудиторию, попусту тратя её время.
+Если же вы всё таки хотите попробовать собрать золотые клубнички так, чтобы это стало признанным достижением,
+знайте, что вам понадобятся доказательства того, что вы никак не жульничали.
+Если вы делаете это просто для себя, то это здорово.
+Но тогда, говоря что вы собрали все золотые клубнички, не ждите, что вам поверят на слово.
+Даже не заикайтесь об этом, если у вас нет видеоподтверждения.
+Не играйте на сохранении с включенным режимом помощи, ожидая, что люди поверят в то, что ты просто не использовал его.
+Играйте на сохранении без этого режима и не утруждайте себя. Покажите всё, от захода в игру до самого прохождения. Включите таймер.
+Время от времени ставьте паузу, чтобы показать, что у вас не включён режим помощи в настройках.
+Играйте с оригинальной музыкой. И не придумывайте ничего про то, что она мешает вам, или что вы от неё устали.
+Всё для того, чтобы затруднить монтаж на видео. И даже этого порой недостаточно. Ведь единственный действительно верный способ - прохождение на стриме.
 
 # === tofu
 
-SJ2021_tofu_TUTORIAL_DBB= DOUBLE BLOCK BOOST
-SJ2021_tofu_TUTORIAL_DIE= PLAY A BETTER MAP
-SJ2021_tofu_TUTORIAL_JANK=      JANK
-SJ2021_tofu_TUTORIAL_TOFOOST= NEUTRAL DROP
+SJ2021_tofu_TUTORIAL_DBB= ДАБЛ БЛОК БУСТ
+SJ2021_tofu_TUTORIAL_DIE= СХОДИ ПОИГРАЙ В ЧТО-ТО ЛУЧШЕЕ
+SJ2021_tofu_TUTORIAL_JANK=      МУСОР
+SJ2021_tofu_TUTORIAL_TOFOOST= СБРОС
 SJ2021_tofu_strangeinsect= 
-If you grab a lantern immediately after dashing, holding the jump button may cause you to get a height boost.
-When trying to do some radical moves, it's a good idea to avoid these boosts by letting go of jump as soon as possible.
-SJ2021_tofu_TUTORIAL_HS=HOLD
+Если после рывка вы сразу схватите фонарь, при этом держа кнопку прыжка, вы можете получить вертикальный буст.
+Для некоторых точных движений, дабы избежать этого буста, отпускайте прыжок как можно раньше.
+SJ2021_tofu_TUTORIAL_HS=ЗАЖМИТЕ
 
 sj21_tofu_tykim_0=
   [TYKIM left normal]
-  Welcome to my home.
+  Приветсвую у себя дома.
   [TYKIM left normal]
-  Enjoying the music?
+  Нравится музыка?
   [TYKIM left side]
-  I worked really hard on the vocals.
+  Я очень постарался над вокалом.
 
 sj21_tofu_tykim_1=
   [TYKIM left happy]
@@ -8094,14 +8094,14 @@ sj21_tofu_tykim_1=
   Magmaline's Castle...
   and Jackhammer Jamboree.
   [TYKIM left happy]
-  The rest of them all suck!!!
+  Но оставшиеся полная фигня!!!
 
 sj21_tofu_zigzagtroll=
-  please keep playing my map :(
+  Пожалуйста, продолжайте играть в мою карту :(
 
 SJ2021_tofu_XPLOSIVES_GRAVE=
-Here lies Xplosives
-He worked himself to death decorating most of the map
+Здесь покоится Xplosives
+Он скончался при героическом декорировании большей части этой карты
 
 # === Tortoise
 
