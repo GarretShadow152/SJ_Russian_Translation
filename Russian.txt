@@ -191,81 +191,81 @@ StrawberryJam2021_0_Lobbies_5_Grandmaster_Credits=
 # === Heartside Credits
 
 StrawberryJam2021_1_Beginner_Heartside_Credits=
-  The Beginner Heartside was planned and merged by Quinnigan. 
-  Transitions and checkpoint rooms were decorated by Bissy, Coffe, Earthwise, and TyKim.
-  All gameplay and non-lobby decoration was the work of the original creators, with a few exceptions: 
-  The flag for Azure Caverns was made by SpiritDragon.
-  The flag for Midnight Spire was decorated by Gamation.
-  The flag for paint was made by mosscairn and Worldwaker2, with decoration by Gamation and recolors by nerferd_.
-  The flag for The Squeeze was made by Owen Shirrell.
-  The flag for Treehive was made by Skeleton.
-  The flag for Troposphere was made by Bissy and Eclipse.
-  Stylegrounds were created by Earthwise, with recolors by nerferd_.
-  Music was composed and implemented by Ceph.
-  Playtesting was provided by butcherberries, LegS, MousseMoose, and Owen Shirrell.
-  Special thanks to valkyria for additional polish.
+  Beginner Heartside проектировал и объединил Quinnigan. 
+  Переходы и чекпоинт комнаты декорировали Bissy, Coffe, Earthwise, и TyKim.
+  Геймплей и декорации, не связанные с лобби, были сделаны их оригинальными создателями, за некоторыми исключениями:
+  Флаг для Azure Caverns сделал SpiritDragon.
+  Флаг для Midnight Spire декорировал Gamation.
+  Флаг для paint сделал mosscairn и Worldwaker2, декорировал Gamation и перекрасил nerferd_.
+  Флаг для The Squeeze сделал Owen Shirrell.
+  Флаг для Treehive сделал Skeleton.
+  Флаг для Troposphere сделали Bissy и Eclipse.
+  Задний фон нарисовал Earthwise и перекрасил nerferd_.
+  Композитор Ceph.
+  Плейтестинг провели butcherberries, LegS, MousseMoose, и Owen Shirrell.
+  Специальная благодарность посвящается valkyria за дополнительную полировку.
 
 StrawberryJam2021_2_Intermediate_Heartside_Credits=
-  The Intermediate Heartside was planned and merged by Holly, Phrog, Rocketguy2, and Scroogle.
-  The transitions between flags were made by Phrog, Scroogle, Worldwaker2, and Xplosives.
-  The checkpoint rooms were made and decorated by butcherberries, Firefox529, fonda1515, Gamation, LegS, Phrog, and xolimono. 
-  The gameplay and non-lobby decoration were made by their original creators, with one exception:
-  The flag for In Filtration was made by Jems and Rocketguy2.
-  Heartside-specific art was created by Bissy, nerferd_, Phrog, and Worldwaker2.
-  The music was composed by BeanJammin.
-  Playtesting was provided by Xplosives.
-  Special thanks to Worldwaker2 and Xplosives for helping with lots of visual and camera tweaks. 
+  Intermediate Heartside проектировали и объединили Holly, Phrog, Rocketguy2, и Scroogle.
+  Переходы между флагами сделали Phrog, Scroogle, Worldwaker2, и Xplosives.
+  Чекпоинт комнаты сделали и декорировали butcherberries, Firefox529, fonda1515, Gamation, LegS, Phrog, и xolimono. 
+  Геймплей и декорации, не связанные с лобби, были сделаны их оригинальными создателями, за одним исключением:
+  Флаг для In Filtration сделали Jems и Rocketguy2.
+  Графику нарисовали Bissy, nerferd_, Phrog, и Worldwaker2.
+  Композитор BeanJammin.
+  Плейтестинг провел Xplosives.
+  Специальная благодарность посвящается Worldwaker2 и Xplosives за помощь с визуалом и настройкой камеры. 
 
 StrawberryJam2021_3_Advanced_Heartside_Credits=
-  The Advanced Heartside was planned and merged by Aiden, Oppen_heimer, and Worldwaker2.
-  The transitions between flags were made by Aiden, bryse0n, Gamation, and Worldwaker2.
-  The checkpoint rooms were made by bryse0n, Gamation, and Worldwaker2.
-  The gameplay and non-lobby decoration were made by their original creators, with a few exceptions:
-  The flag for Golden Dawn was made by bryse0n and Worldwaker2, and decorated by Worldwaker2.
-  The flag for The Lab was made by and decorated by Worldwaker2.
-  The flag for Rightside-Down Cavern was made by Vamp and Worldwaker2.
-  The flag for Slime Time\! was made by TiltTheStars.
-  The flag for Starlight Station was made by bryse0n, and decorated by Earthwise and Phrog.
-  The flag for Superstructure was made by Aiden and Worldwaker2, and decorated by Worldwaker2.
-  The flag for Tectonic Trenches was made by Aiden.
-  The flag for Thinking With Portals was made by Owen Shirrell and sp1029, and decorated by PowerAV.
-  The flag for Toggle Theory was made by Citrea and Worldwaker2.
-  Heartside-specific art was created by Bissy, bryse0n, nerferd_, and Worldwaker2.
-  Heartside-specific coding and bugfixing was done by Aiden, Bigkahuna, and Viv.
-  The music was composed by Ceph.
-  Playtesting was provided by Alisticious, butcherberries, LegS, and MousseMoose.
+  Advanced Heartside проектировали и объединили Aiden, Oppen_heimer, и Worldwaker2.
+  Переходы между флагами сделали Aiden, bryse0n, Gamation, и Worldwaker2.
+  Чекпоинт комнаты сделали bryse0n, Gamation, и Worldwaker2.
+  Геймплей и декорации, не связанные с лобби, были выполнены их оригинальными создателями, за некоторыми исключениями:
+  Флаг для Golden Dawn сделали bryse0n и Worldwaker2, декорировал Worldwaker2.
+  Флаг для The Lab сделал и декорировал Worldwaker2.
+  Флаг для Rightside-Down Cavern сделали Vamp и Worldwaker2.
+  Флаг для Slime Time\! сделал TiltTheStars.
+  Флаг для Starlight Station сделал bryse0n, декорировал Earthwise и Phrog.
+  Флаг для Superstructure сделали Aiden и Worldwaker2, декорировал Worldwaker2.
+  Флаг для Tectonic Trenches сделал Aiden.
+  Флаг для Thinking With Portals сделали Owen Shirrell и sp1029, декорировал PowerAV.
+  Флаг для Toggle Theory сделали Citrea и Worldwaker2.
+  Графику для Advanced Heartside нарисовали Bissy, bryse0n, nerferd_, и Worldwaker2.
+  Кодом занимались Aiden, Bigkahuna, и Viv.
+  Композитор Ceph.
+  Плейтестинг провели Alisticious, butcherberries, LegS, и MousseMoose.
 
 StrawberryJam2021_4_Expert_Heartside_Credits=
-  The Expert Heartside was planned and merged by Agent, butcherberries, Cabob, Moladan, and Ru.
-  The transitions between flags were made by butcherberries, LegS, Moladan, and Yoshachobi7.
-  The checkpoint rooms were made by butcherberries, LegS, and Yoshachobi7.
-  The start and end sequences were made by Agent, Aiden, butcherberries, catapillie, Moladan, and Yoshachobi7, with help from LegS and Xplosives.
-  The gameplay and non-lobby decoration were made by their original creators, with a few exceptions:
-  The flag for Garden of Khu'tara was made by DanTKO and Cabob.
-  The flag for Golden Alleyway was decorated by BossSauce.
-  The flag for Hydroshock was made by Moladan and Ru.
-  The flag for Lunar Pagoda was decorated by butcherberries.
-  The flag for Mosaic Garden was decorated by Appels and butcherberries.
-  The flag for Plasma Reactor was decorated by butcherberries and LegS.
-  Heartside-specific stylegrounds were created by DanTKO, Maildropfolder, and nerferd_.
-  Other heartside-specific art was created by butcherberries, Cabob, LegS, xolimono, and Yoshachobi7.
-  Heartside-specific coding and bugfixing was done by Agent, JaThePlayer, and max480.
-  The music was composed and implemented by catapillie.
-  Playtesting was provided by 0dot006prcnts, Rin_Jagste, and Moladan.
-  Special thanks to butcherberries, their sanity forever lost to the depths of Kahuna portals. Rest in peace, wherever you might be.
+  Expert Heartside проектировали и объединили Agent, butcherberries, Cabob, Moladan, и Ru.
+  Переходы между флагами сделали butcherberries, LegS, Moladan, и Yoshachobi7.
+  Чекпоинт комнаты сделали butcherberries, LegS, и Yoshachobi7.
+  Переходы в начале и в конце сделали Agent, Aiden, butcherberries, catapillie, Moladan, and Yoshachobi7, помощь предоставили LegS и Xplosives.
+  Геймплей и декорации, не связанные с лобби, были выполнены их оригинальными создателями, за некоторыми исключениями:
+  Флаг для Garden of Khu'tara сделали DanTKO и Cabob.
+  Флаг для Golden Alleyway декорировал BossSauce.
+  Флаг для Hydroshock сделали Moladan и Ru.
+  Флаг для Lunar Pagoda декорировал butcherberries.
+  Флаг для Mosaic Garden декорировали Appels и butcherberries.
+  Флаг для Plasma Reactor декорировали butcherberries и LegS.
+  Задний фон для Expert Heartside нарисовали DanTKO, Maildropfolder, и nerferd_.
+  Графику для Expert Heartside нарисовали butcherberries, Cabob, LegS, xolimono, и Yoshachobi7.
+  Написанием и отладкой кода для Expert Heartside занимались Agent, JaThePlayer, и max480.
+  Композитор catapillie.
+  Плейтестинг провели 0dot006prcnts, Rin_Jagste, и Moladan.
+  Специальная благодарность посвящается butcherberries, его рассудок навсегда утерян в глубинах порталов Кахуны. Покойся с миром, где бы ты ни был.
 
 StrawberryJam2021_5_Grandmaster_Heartside_Credits=
-  The Grandmaster Heartside was planned and merged by valkyria.
-  The transitions between flags and the checkpoint rooms were made by valkyria.
-  The gameplay and non-lobby decoration were made by their original creators, with a few exceptions:
-  The flag for Shattersong was made by Ecl1psed and Xplosives, with decoration by valkyria and Xplosives.
-  The flag for summit was made by Ecl1psed and Soloiini, with decoration by Soloiini and valkyria.
-  The flag for World Abyss was made by Ecl1psed and Maya.
-  Heartside-specific art was created by Citrea and nerferd_.
-  Heartside-specific coding and bugfixing was done by catapillie, JaThePlayer, max480, Vexatos, and Viv.
-  The music was composed by BeanJammin and quadratic97. 
-  Playtesting was provided by 0dot006prcnts, Ecl1psed, Fraz, Gamation, Rin_Jagste, Topaz, and Xplosives.
-  Special thanks to quadratic97 for composing the cassette remix.
+  Grandmaster Heartside проектировал и объединил valkyria.
+  Переходы между флагами и чекпоинт комнаты сделал valkyria.
+  Геймплей и декорации, не связанные с лобби, были выполнены их оригинальными создателями, за некоторыми исключениями:
+  Флаг для Shattersong сделали Ecl1psed и Xplosives, декорировали valkyria и Xplosives.
+  Флаг для summit сделали Ecl1psed и Soloiini, декорировали Soloiini и valkyria.
+  Флаг для World Abyss сделали Ecl1psed и Maya.
+  Графику для Grandmaster Heartside нарисовали Citrea и nerferd_.
+  Написанием и отладкой кода для Grandmaster Heartside занимались catapillie, JaThePlayer, max480, Vexatos, и Viv.
+  Композиторы BeanJammin и quadratic97. 
+  Плейтестинг провели 0dot006prcnts, Ecl1psed, Fraz, Gamation, Rin_Jagste, Topaz, и Xplosives.
+  Специальная благодарность посвящается quadratic97 за написание кассет-ремикса.
 
 # === Gym Credits
 
