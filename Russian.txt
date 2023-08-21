@@ -8427,117 +8427,117 @@ SJ2021_Tortoise_x6=
 SJ2021_Vina_lolnub=
   
   [MADELINE left normal]
-  you died?
-  lol what a noob 
-  (you can just retry btw)
+  ты умер?
+  ну что за неумеха
+  (ты кстати можешь просто "повторить")
 
 SJ2021_Vina_bruh=
 
   [MADELINE left deadpan]
-  bruh
+  брух
 
 SJ2021_Vina_Theo01=
   
   [MADELINE left normal]
-  Theo: The Bubble.
+  Тео: Шар.
   [THEO_MIRROR right wtf]
-  What?
+  Что?
   [MADELINE left normal]
-  Theo: The Bubble.
+  Тео: Шар.
 
 SJ2021_Vina_Theo02=
 
   [THEO right wtf]
-  h
+  э
 
 
 SJ2021_Vina_StickerSecret=
   
-  Madeline: The Bubble 
-  Sticker
+  Madeline: Шар
+  Стикер
 
 # === Viv
 
 SJ2021_Viv_Intro0=
   [EX_PHONE right normal]
-  Okay, {+MADELINE}. This is gonna be tough, but we need you to get the {# EFE405}{~}power source{/~}{#} from the other wrecked ship in order to make it home.
+  Хорошо, {+MADELINE}. Это будет непросто, но чтобы суметь вернуться домой, нам необходимо, чтобы ты извлекла {# EFE405}{~}источник питания{/~}{#} с другого разрушенного корабля.
 
   [MADELINE left surprised]
-  We can't make it home?
+  Мы не можем вернуться домой?
   [MADELINE left panic]
-  We need to get home...
+  Но мы должны туда вернуться...
 
   [EX_PHONE right normal]
-  {~}Shhh{/~} {0.5}it's alright, just breathe.
+  {~}Чшшш{/~} {0.5}тише-тише, просто дыши.
   [EX_PHONE right normal]
-  I believe you can do this {+MADELINE}, let's just run through everything you'll need to know once again, okay sweetheart?
+  Я верю, что ты справишься с этим, {+MADELINE}. Давай просто еще раз пробежимся по всему, что тебе нужно знать, хорошо, милая?
 
   [MADELINE_MIRROR right determinedclosed flip]
-  I can do this. I have to do this and I can do this.
+  У меня получится. Я должна и у меня всё получится.
 
   [MADELINE left determined]
-  Alright. Let's run through this one last time.
+  Отлично. И так, повторяем в последний раз...
 
   [EX_PHONE right normal]
-  Okay. So first off, you're going to space. That means you can't control yourself while not on some surface without dashing.
+  Во-первых, ты выходишь в открытый космос. Это значит, что ты не сможешь управлять собой без рывка, если ты не касаешься земли.
   [EX_PHONE right normal]
-  You also don't have gravity out there, so be very careful where you go and how you get yourself there.
+  Также снаружи нет притяжения, поэтому двигайся крайне осторожно и просчитывай то, где окажешься.
   [EX_PHONE right normal]
-  Try going up that Zero Gravity path to your right.
+  Пытайся сделать так, чтобы эта Невесомость помогала тебе в продвижении.
 # Mini Textbox here
 SJ2021_Viv_Intro1=
   [EX_PHONE right normal]
-  {>> 2}You'll notice that the air is pulled out of the no-gravity zones to the areas with gravity.{>>}
+  {>> 2}Ты заметишь, как воздух вырывается наружу в местах перепада давления.{>>}
 # Main Dialog after completing first jump
 SJ2021_Viv_Intro2=
   [EX_PHONE right normal]
-  These springs are weakened to help you navigate throughout the facility, but in space, they'll be giving you a slower push.
+  Эти пружины специально ослаблены для передвижения внутри комплекса, однако в условиях открытого космоса они работают ещё хуже.
   [EX_PHONE right normal]
-  Some of them shoot you {# a15f1b}upward{#}, while others shoot you {# 1b5da1}downward{#}, but they'll always shoot you away from them.
+  Некоторые запустят тебя {# a15f1b}вверх{#}, другие же {# 1b5da1}вниз{#}, но все они точно запустят тебя далеко от себя.
 # Dialog after collecting Touch Switch
 SJ2021_Viv_Intro3=
   [EX_PHONE right normal]
-  Finally, normally when you climb on top of a ledge you can climb up, but here in space we can't fall back down on the ground.
+  И наконец, обычно, когда ты поднимаешься на уступ, то ты встаёшь на него, однако тут у тебя не получится так забраться, не улетев прямо в космос.
   [EX_PHONE right normal]
-  So you'll be sent flying through space forward and up whenever you try to do that. Try that on this ledge to your right.
+  Поэтому ты отправишься по-диагонали вверх, если попытаешься так сделать. Можешь испытать этот эффект на выступе справа от тебя.
 
 SJ2021_Viv_Intro4=
   [MADELINE left normal]
-  I think I'm ready for this. I just hope I can make it back okay.
+  Думаю, что я готова. Я искренне надеюсь, что смогу спокойно вернуться назад.
   [EX_PHONE right normal]
-  I know you can. I love you sweetheart. Please just be safe for me.
+  Я знаю, ты сможешь. Люблю тебя, милая. Просто будь аккуратна ради меня.
   [MADELINE left determined]
-  Don't worry. This won't take long.
+  Не беспокойся. Это не займёт так много времени.
 
 SJ2021_Viv_Hint_A=
-  This gives the solution to this berry room. Don't use it unless you want the answer given to you!
+  Этот текст дарует прочитавшему знание, необходимое для поимки клубнички. Не читай его, коли не ищешь лёгкого пути.
 SJ2021_Viv_Hint_B=
-  To complete this berry, you need to first hold grab through a dash into the Asteroid Block. After the dash ends, release grab, and you should go at the speed of the block moving back to its original position\. 
+  И клубничка поддастся тому, кто, сделав рывок, ухватится за Блок Астероида, а после рывка отпустив блок, познает силу Мунбуста!
 
 SJ2021_Viv_viv1_1=
   [EX_PHONE left normal flip]
-  Be wary of that {# 7800b5}Dark Matter!{#} It's what we use for our fuel, but it is also extremely dangerous.
+  Будь осторожна с {# 7800b5}Тёмной Материей!{#} Мы используем её в качестве топлива, но это не отменяет того факта, что она крайне опасна.
 
 SJ2021_Viv_viv3x=
   [EX_PHONE right normal flip]
-  The sig{>> 2}--------{>>} breaking up {>> 0.5}------{>>} you'll have t{>> 3}-------------- a--{>>}
+  Сигн{>> 2}--------{>>} пропадает {>> 0.5}------{>>} ты должна {>> 3}-------------- а--{>>}
 
 # === voliver9
 SJ2021_Meario_Poem=
-  Half chilled, cold-hearted{n}
-  Half burned, scorched earth{n}
-  Keep one's polarity{n}
-  To achieve true harmony{n}
+  Часть спокойна, хладнокровна,{n}
+  Часть пылает беспокойно,{n}
+  Ты же будь одним покорно,{n}
+  Чтоб обрести баланс.
 
 # === Worldwaker2
 
-SJ2021_WORLDWAKER2_BIRD_1=Umbrella
+SJ2021_WORLDWAKER2_BIRD_1=Зонтик
 
 # === xlibiza
 
 SJ2021_xlibiza_funwaa=
   [MADELINE left normal]
-  I am drifting.
+  Я дрифтую.
 
 # === Yoshachobi7
 
