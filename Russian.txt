@@ -8101,68 +8101,68 @@ sj21_tofu_zigzagtroll=
 
 SJ2021_tofu_XPLOSIVES_GRAVE=
 Здесь покоится Xplosives
-Он скончался, героически декорируя эту карту.
+Он скончался, героически декорируя эту карту
 
 # === Tortoise
 
 SJ2021_Tortoise_1=
   [Madeline left panic]
-  {!}OUCH!{/!}
+  {!}АУЧ!{/!}
   [Madeline left angry]
-  Well, that was uncalled for...
+  Хотя, выражусь по-другому...
   [Madeline left distracted]
-  {!}What{/!} in the Wizarding World of Unkempt Catacombs {~}is{/~} this place?
+  {!}Что{/!}, во имя всего Волшебного Мира Грёбаных Катакомб, {~}это{/~} за место?
   [Madeline left upset]
-  {#AA55CC}{!}Java!{/!}{\#} I know you did this. {0.4}{!}Jerkhead!{/!}
+  {#AA55CC}{!}Джава!{/!}{\#} Я знаю, что это ты. {0.4}{!}Придурок!{/!}
 
   [None]
-  {#AA55CC}{big}Sorry, {+MADELINE}. 
-  But your{\#} {#9999FF}{~}magical powers...{/~}{\#}
-  {#AA55CC}They belong in the hands of a {!}Powerful{/!} Necromancer.{/big}{\#}
+  {#AA55CC}{big}Прости, {+MADELINE}. 
+  Но твои{\#} {#9999FF}{~}магические спосбности...{/~}{\#}
+  {#AA55CC}Должны пренадлежать {!}Могущественному{/!} Некроманту.{/big}{\#}
 
   [Madeline left distracted]
-  Powerful? {0.4}Cowardful maybe...
+  Могущественному? {0.4}Может трусливому...
   [Madeline left sad]
-  {!}Wait{/!}{0.2} a {0.2}second{0.2}, what have you done to me?
+  {!}Погоди{/!}{0.2} ка {0.2}секунду{0.2}, ты что сделал со мной?
   [Madeline left surprised]
-  {big}{!}I'M SMALL?!{/!}{/big}
+  {big}{!}ПОЧЕМУ Я ТАКАЯ МАЛЕНЬКАЯ?!{/!}{/big}
   [Madeline left upset]
-  ... but I was already small enough.
+  ...хотя я и так не очень большой была.
 
 SJ2021_Tortoise_x1=
   [Madeline left sad]
-  {#AA55CC}Java{\#}, {#AA55CC}Java{\#}, {#AA55CC}Java{\#}. What's the purpose of this?
+  {#AA55CC}Джава{\#}, {#AA55CC}Джава{\#}, {#AA55CC}Джава{\#}. Зачем же тебе всё это?
 
   [None]
-  {#AA55CC}Locking you up? Shrinking you down?
-  It's my only option, I must study you.{\#}
+  {#AA55CC}Запереть? Уменьшить в размерах?
+  Это единственный способ, чтобы я мог изучить тебя.{\#}
 
   [Madeline left surprised]
-  Study me?!
+  Изучить!?
   [Madeline left sad]
-  Do I look like a guinea pig?
+  Я тебе что, морская свинка?
   [Madeline left angry]
-  Don't answer that.
+  Не отвечай.
 
 SJ2021_Tortoise_1b=
   [Madeline left determined]
-  A {#55DD55}potion{\#}, eh? Would be a shame if someone were to {~}{!}smash{/!}{/~} it.
+  {#55DD55}Зелье{\#}, э? Вот было бы обидно, если бы кто-то случайно {~}{!}разбил{/!}{/~} его.
 
 SJ2021_Tortoise_1c=
   [Madeline left normal]
-  Just your typical Big-Goopy-Mutant-Skull, lurking in a random cave I guess.
+  Похоже, это просто очередной Огромный-Липкий-Череп-Монстра запрятанный в случайной дыре.=
 
 SJ2021_Tortoise_2b=
   [Madeline left surprised]
-  BLECH! It spilled on me!
+  ЗАРАЗА! Оно пролилось на меня!
   
 SJ2021_Tortoise_2=
   [Madeline left distracted]
-  Where is he hiding? Maybe I can talk some sense into him.
+  Где же он прячется? Может я смогу научить его уму разуму.
 
 SJ2021_Tortoise_2c=
   [Madeline left determined]
-  I found him! Oh wait, it was just a piece of dirt, easy mistake.
+  Нашла! Ой, погодите, это же просто кучка грязи, ну как их не спутать.
 
 SJ2021_Tortoise_2d=
   [Madeline left determined]
@@ -8171,38 +8171,38 @@ SJ2021_Tortoise_2d=
 SJ2021_Tortoise_x2=
   {anchor bottom}
   [Madeline right determined]
-  Found you.
+  Нашла.
   [Madeline right distracted]
-  With these {#55DD55}potions{\#} lying around...
+  С этими {#55DD55}зельями{\#} разбросанными по округе...
   [Madeline right sad]
-  It's almost like you {~}want{/~} me to try and escape.
+  Это, как если бы ты {~}хотел{/~}, чтобы я попыталась сбежать.
 
   [None]
-  {#AA55CC}Yes, well.{0.2}.{0.2}. escaping gives you an incentive to {!}risk{/!} your life.
-  And when your life is at risk, let's just say,
-  It's the most {~}fascinating{/~} process.
-  Tell me, does it hurt when you explode and then re-coagulate?{\#}
+  {#AA55CC}Просто отлично.{0.2}.{0.2}. Побег даёт тебе стимул {!}рисковать{/!} своей жизнью.
+  А когда твоя жизнь в опасности, как бы это сказать,
+  Начинается самая {~}интересная{/~} часть.
+  Расскажи, это больно, когда тебя разрывает на кусочки, а потом собирает обратно?{\#}
 
   [Madeline right surprised]
-  {big}{!}!!WHAT!!{/big}{/!}
+  {big}{!}!!ЧТО!!{/big}{/!}
 
   [Madeline right upset]    
-  I'm certain I don't know what you mean.   
+  Боюсь, я совсем не понимаю о чём ты.
 
   [None]
-  {#AA55CC}{!}Oh!{/!} I see{\#} {#663388}{~}(...she doesn't realize...){/~}{\#}
+  {#AA55CC}{!}Оу!{/!} Понятно{\#} {#663388}{~}(...она даже не осознаёт этого...){/~}{\#}
 
 SJ2021_Tortoise_3=
   [Madeline left sad]
-  How am I gonna get the {#C6AB05}Small-Big Key{\#} ... out of the {#C6AB05}Big-Big Key{\#}?
+  Как же мне сделать {#C6AB05}Маленький-Большой Ключ{\#} ... из этого {#C6AB05}Большого-Большого Ключа{\#}?
 
 SJ2021_Tortoise_3b=
   [Madeline left normal]
-  Nice, first try!
+  Да-а, с первой попытки!
 
 SJ2021_Tortoise_3c=
   [Madeline left normal]
-  I bet I could just climb out through that keyhole.
+  Уверена, что могла бы просто пролезть сквозь замочную скважину.
 
 SJ2021_Tortoise_3d=
   [Madeline left determined]
@@ -8210,106 +8210,106 @@ SJ2021_Tortoise_3d=
 
 SJ2021_Tortoise_3e=
   [Madeline left sad]
-  On second thought, I'd better not leave yet... I'm still bite-sized.
+  Если подумать, то лучше пока попридержаться... Я ведь все ещё очень маленькая.
 
 SJ2021_Tortoise_x3=
   {anchor bottom}
   [Madeline left sad]
-  So let me get this straight,
-  Why... or rather, When... Umm,{0.2} how is it...  
-  You said that I'm {!}exploding{/!}???
+  А могу я поинтересоваться,
+  Почему... или, точнее, когда, эмм,{0.2} как его там...
+  Ты говорил, что я {!}взрываюсь{/!}???
 
   [None]
-  {#AA55CC}Ah yes, and you are not aware of this fact.
-  Well, you see, one second you are flying through the air,
-  In that unexplainable way that you do,
-  And you're heading face first into {!}spiky DOOM{/!},
-  And {!}KAPOW!{/!} You're transmogrifying into 8 glowing orbs, which swiftly zoom across the room,
-  At which time, the orbs just sort of... {!}*SCHWOOMP*{/!} ...and become YOU again!{\#}
+  {#AA55CC}Ах да, ты же не осознаёшь этого.
+  Ну, знаешь, ты можешь по секунде летать по воздуху,
+  Этим необъяснимым способом, которым ты это делаешь,
+  А когда ты задеваешь {!}шипы БУУМ{/!},
+  А потом {!}БА-БАХ!{/!} И ты превращаешься в 8 светящихся сфер, которые разлетаются по комнате,
+  А потом, эти сферы типа... {!}*ВЖУХ*{/!} ...и становятся снова ТОБОЙ!{\#}
   
   [Madeline left distracted]
-  Wow. You're nuttier than a squirrel's nest.
+  Воу. Что, дружок, белочка пришла?
 
   [None]
-  {#AA55CC}No {+MADELINE}, this is hands down, the most important discovery in all of human history.
-  {~}The Secret to Eternal Life{/~}.{0.2}.{0.2}.
-  Just think... I could upgrade to a mausoleum.{\#}
+  {#AA55CC}Нет, {+MADELINE}, это, на минуточку, важнейшее открытие за всю историю человечества.
+  {~}Секрет Вечной Жизни{/~}.{0.2}.{0.2}.
+  Просто представь... I could upgrade to a mausoleum.{\#}
 
 SJ2021_Tortoise_x4=
   [Madeline left determined]
-  Kidnapping, these delusions you have, that home-made Skeletor costume you're always wearing... {0.5} All pretty big red flags.
+  Похищение, бредни сумасшедшего, и постоянно ходит в костюме Скелета... {0.5} Прекрасные тревожные звоночки.
   [Madeline left distracted]
-  Whatever {!}this{/!} is, you're going about it {~}ALLLL{/~} wrong.
+  Чем бы {!}это{/!} ни было, у тебя {~}ВСЁ{/~} пошло на перекосяк.
   [Madeline left sad]
-  You have to let me go, {#AA55CC}Java{\#}.
-  I want to go home.
+  Ты должен отпустить меня, {#AA55CC}Джава{\#}.
+  Я домой хочу.
 
   [None]
-  {#AA55CC}Yes, yes, yes, in due time.
-  This is {!}bigger{/!} than you or me.{\#}
+  {#AA55CC}Да, да, да, всему своё время.
+  Здесь есть нечто {!}намного большее{/!}, чем ты или я.{\#}
   
   [Madeline left angry]
-  You're not acting like {0.2}{~}anything{/~} is bigger than you.
+  Ты не ведёшь себя так, будто есть {0.2}{~}нечто{/~} большее, чем ты.
 
   [None]
-  {#AA55CC}Listen up, pipsqueak.
-  This internal defense mechanism of yours...
-  It's something never {!}imagined{/!} before in a biological lifeform!
-  Instantaneous cellular mitosis, teleportation, and reconstruction!{\#}
+  {#AA55CC}Послушай, пупсик.
+  Этот твой внутренний защитный механизм...
+  Нечто, что и {!}представить{/!} себе не могла ни одна биологическая форма жизни.
+  Мгновенный клеточный митоз, телепортация и реконструкция!{\#}
   
   [Madeline left distracted]
-  Okay pal, that's making all kinds of sense.
+  Ладно, в этом действительно что-то есть.
 
   [None]
-  {#AA55CC}I get it, {+MADELINE} , you think that I'm crazy.{\#}
+  {#AA55CC}Я же вижу, {+MADELINE}, ты думаешь, что я сумасшедший.{\#}
 
   [Madeline left upset]
-  No, I just think that you're being a huge pain.
+  Нет, я думаю, что ты просто боль в моя дырка задница.
   [Madeline left sad]
-  Even if I do have these magical powers, that means they're an innate quality of mine. 
+  Даже если у меня действительно есть эти магические способности, это значит, что они являются моими врожденными качествами.
   [Madeline left determined]    
-  So no matter what, you have no right to experiment upon me.
+  Так что, несмотря ни на что, ты не имеешь права ставить эксперименты надо мной.
 
   [None]
-  {#AA55CC}Normally I'd say that's a valid point.
-  And I guess I can see what you mean.
-  But...
-  I just need to get a blood sample, and then I promise I'll stop.{\#}
+  {#AA55CC}Обычно я бы сказал, что это действительно важное замечание.
+  И я даже могу понять тебя.
+  Однако...
+  Просто дай мне образец своей крови, и я обещаю, что остановлюсь.{\#}
 
   [Madeline left angry]
-  Un-{0.5}believable
+  Не-{0.5}вероятно
 
 SJ2021_Tortoise_4b=
   [Madeline left distracted]
-  I'm imprisoned in a deadly crypt, and I'm still chasing after strawberries.
+  Я заключена в смертельном склепе, но всё ещё гоняюсь за клубничками.
 
 SJ2021_Tortoise_4c=
   [Madeline left upset]
-  {#AA55CC}Java{\#}, someone needs to shrink you down and lock you away.
+  {#AA55CC}Джава{\#}, кто-то должен точно так же уменьшить тебя и запереть подальше от белого света.
 
 SJ2021_Tortoise_4d=
-  {#AA55CC}You won't find me down there, {+MADELINE}.{\#}
+  {#AA55CC}Ты не найдешь меня там, внизу, {+MADELINE}.{\#}
   
 SJ2021_Tortoise_4e=
   [Madeline left sad]
-  Oooh... The meta key.
+  Ооо... Мета-Ключ.
 
 SJ2021_Tortoise_4f=
   [Madeline left normal]
-  Onward! My mighty friend!
+  Вперед! Мой мощный друг!
 
 SJ2021_Tortoise_4g=
   [Madeline left normal]
-  Where were we then? Oh right, back to the level.
+  Где мы были то тогда? Ах да, вернемся же к уровню.
 
 SJ2021_Tortoise_4h=
-  A note that reads: 12 11 2 3 25 11 4 24 16 25 18 23 21 6 24 3 25 13 25 11 11 23 26 24 4 18 24 23 2 
+  Записка, в которой говорится: 12 11 2 3 25 11 4 24 16 25 18 23 21 6 24 3 25 13 25 11 11 23 26 24 4 18 24 23 2 
 
 SJ2021_Tortoise_x5=
   {anchor bottom}
   [None]
   {#AA55CC}...the {#8888DD}Cellular Expulsion{\#} of a {#8888DD}Localized Entity{\#} resulting in a {#8888DD}Spontaneous Teleportation Event{\#} and...
-  Oh! H-Hello {+MADELINE}, how've you been? Ha-ha{\#}
+  О! П-привет, {+MADELINE}, ну, как ты? Ха-ха{\#}
 
   [Madeline right upset]
   ...
