@@ -2032,238 +2032,238 @@ I could really use a wish right now, wish right now, wish right now
 SJ2021_Cabob_DreamJump=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #2
-Dream jumping before the next dash into a dream block really boosts speed! 
-This might be useful if I ever plan to get out of here and do something other than write messages in a log.
+Сообщение в Ка-блоге #2
+Дрим-джамп перед следующим дэшем в дрим-блок и правда даёт больше скорости!
+Я могу воспользоваться этой информацией, если мне надоест просто печатать сообщения в блог и я решу заняться чем-либо другим.
 {#}
 
 SJ2021_Cabob_DreamJump2=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #2
-Dreem jumping before the next dash into a dreem block reelly boosts spead! 
-This might be useful if {5} I ever plan to get out of here and do something other than write messages in a log.
+ Сообщение в Ка-блоге #2
+Дррем-джеамп перред следуюуующим дэашем в дррем-блоак и прравда даёот болльшеи сскоррости! 
+Я могу воспользоваться этой информацией, если {5} мне надоест печатать сообщения в блог и я решу заняться чем-либо другим.
 {#}
 
 SJ2021_Cabob_DreamDash=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #-6
-Due to the large quantity of momentum I have received from these blocks of movement inducing jelly I have determined it 
-is beneficial for me to dash as soon as possible after exiting these previously mentioned blocks when attempting to maximize my velocity! 
-This might be useful if I ever plan to get out of here and do something other than write messages in a log.
+Сообщение в Ка-блоге #-6
+Учитывая, насколько много импульса я получаю от этих блоков, предназначенных для наращивания импульса, я заключила, что
+в моих интересах совершить дэш как можно быстрее после выхода из вышеупомянутого блока, если я хочу развить максимальную скорость.
+Я могу воспользоваться этой информацией, если мне надоест просто печатать сообщения в блог и я решу заняться чем-либо другим.
 {#}
 
 SJ2021_Cabob_DreamDash2=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #-6
-Due to the large quantity of momentum I have received from these blocks of movement inducing jelly I have determined it
-{~}it{/~}
-{~}it{/~}
-{~}it{/~}
-is beneficial {1} beneficial {1} for me to dash as soon as possible after exiting these previously mentioned blocks when attempting to maximize my velocity! 
-This might be useful {1} useful.
+Сообщение в Ка-блоге #-6
+Учитывая, насколько много импульса я получаю от этих блоков, предназначенных для наращивания импульса, я заключила, что 
+{~}что{/~}
+{~}что{/~}
+{~}что{/~}
+в моих интересах {1} интересах {1} дэш как можно быстрее после выхода из вышеупомянутого блока, если я хочу развить максимальную скорость.
+Я могу воспользоваться этой {1} этой.
 {#}
 
 SJ2021_Cabob_Badinga=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #3.15
-Wow this room only took me 5 seconds to beat, where did the rest go?
-I must further investigate to find the missing pieces.
-Badinga.{60} {n} Badinga.
+Сообщение в Ка-блоге #3.15
+Круто, мне понадобилось лишь 5 секунд чтобы пройти эту комнату, что же я делала всё остальное время?
+Мне необходимо исследовать этот вопрос.
+Батарейка.{60} {n} Батарейка.
 {#}
 
 SJ2021_Cabob_DreamJumpe=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #e
-Dream jumping before the next dash into a dream block really boosts speed! {big}Wait{/big} I've written this before, haven't I?
-Ah whatever.
-Here, let me tell you some jokes since you're already listening.
-I'll even use my madeline voice.
+Сообщение в Ка-блоге #е
+Дрим-джамп перед следующим дэшем в дрим-блок и правда даёт больше скорости! {big}Стоп{/big} я уже печатала это, не так ли?
+А, какая разница.
+Слушайте, вам же нечем заняться, давайте я расскажу пару анекдотов.
+Чтобы было смешнее, я даже буду говорить голосом Мэдлин.
 [Madeline Left normal]
-Did you hear about the circus fire? 
-It was in tents.
+Штирлиц увидел кучу грузовиков и танков за забором.
+"Это база" - подумал Штирлиц.
 ...
-Wanna hear a joke about paper? 
-Never mind—it’s tearable.
+В дверь постучали два раза и хлопнули.
+"Queen" - догадался Штирлиц
 ...
-Why did the scarecrow win an award? 
-Because he was outstanding in his field.
+Гестапо обложило все выходы, 
+но Штирлиц вышел через вход.
 ...
-Did you hear about the guy who invented the knock-knock joke? 
-He won the ‘no-bell’ prize.
+Штирлиц топил печку.
+Через час печка утонула.
 ...
-Why can’t you hear a psychiatrist using the bathroom? 
-Because the ‘P’ is silent.
+Из окна дуло.
+Штирлиц закрыл окно, и дуло исчезло.
 ...
-I like telling Dad jokes. 
-Sometimes he laughs!
+Штирлиц долго смотрел в одну точку. Потом в другую.
+"Двоеточие!" — наконец догадался Штирлиц.
 ...
-Laugh.
+Смейтесь.
 {#}
 
 SJ2021_Cabob_DreamJumpe2=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #e
-At first, i jumped and dashed and grabbed the wall, then didnt see where i could go so i go
-"ahhh, i should do extended".
-I do an extended jump and try to grab the other side of the wall but i slip!!
-There's ice there.
-Then i go maybe it can be done with wall-bounce ? corner boost?
-i have no idea and couldn't get past here so this is the end for me.
+Сообщение в Ка-блоге #е
+Прикинь, я прыгнула и дэшнула и даже грабнула стенку, потом не поняла что дальше и такая
+"а, ну мне тут нужен дэш".
+я пришла туда с дэшем и хотела грабнуть ту сторону стены, но упала!!
+там же сбоку лёд.
+ну и я типа "может тут сделать воллбаунс? или корнербуст?"
+что от меня хотят вообще, я не могу пройти дальше, я ливаю отсюда.
 {#}
 
 SJ2021_Cabob_Jumppp=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #6
-I used to use dream hypers like you, then I took an arrow in the knee.
-I think I'll just stick to dream jumps to avoid excessive speed loss.
-This might be useful if I ever plan to get out of here and do something other than write messages in a log.
+Сообщение в Ка-блоге #6
+Когда-то и мне нравились дримхайперы, а потом мне прострелили колено.
+Я думаю мне стоит избегать дримхайперов, чтобы не терять скорость.
+Я могу воспользоваться этой информацией, если мне надоест просто печатать сообщения в блог и я решу заняться чем-либо другим.
 {#}
 
 SJ2021_Cabob_Jumppp2=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #6
-Skyrim reference.
-Dream hypers do not conserve speed.
-This information is useful.
+Сообщение в Ка-блоге #6
+Отсылка на Скайрим.
+Дримхайперы не сохраняют скорость.
+Я использую эту информацию.
 {#}
 
 SJ2021_Cabob_Escape=
 [MADELINE left peaceful]
-{big}{!}Ape Escape!{/!}{/big}
+{big}{!}Спасение обезьян!{/!}{/big}
 
 SJ2021_Cabob_RevDream=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #25
-Redacted
+Сообщение в Ка-блоге #25
+Информация удалена.
 {~}.{/~}
 {~}.{/~}
 {~}.{/~}
 {~}.{/~}
 {~}.{/~}
-This might be useful if I ever plan to get out of here and do something other than write messages in a log.
+Я могу воспользоваться этой информацией, если мне надоест просто печатать сообщения в блог и я решу заняться чем-либо другим.
 {#}
 
 SJ2021_Cabob_ShroomRefill=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #2
-Looks like these refills multiply the speed of my next dash...
-They work well with these strange dreamy blocks and my signature wavedash technique!
-This might be useful if I ever plan to get out of here and do something other than write messages in a log.
+Сообщение в Ка-блоге #2
+Похоже, что эти прикольные штуки увеличивают скорость моего следующего дэша...
+Они отлично работают в паре с этими странными дрим-блоками и моими фишечными вейвдэшами!
+Я могу воспользоваться этой информацией, если мне надоест просто печатать сообщения в блог и я решу заняться чем-либо другим.
 {#}
 
 SJ2021_Cabob_ShroomRefill2=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #2
-Looks like these refills multiply the speed of my next dash...
-They work well with these strange dreamy blocks and my signature wavedash technique!
-This might be useful if I ever plan to get out of here and do something other than write messages in a log.
+Сообщение в Ка-блоге #2
+Похоже, что эти прикольные штуки увеличивают скорость моего следующего дэша...
+Они отлично работают в паре с этими странными дрим-блоками и моими фишечными вейвдэшами!
+Я могу воспользоваться этой информацией, если мне надоест просто печатать сообщения в блог и я решу заняться чем-либо другим.
 {#}
 
 SJ2021_Cabob_ShroomRefill3=
 [COMPUTER]
 {# 65e354}
-Cable Tree #2
-Looks like these refills multiply the speed of my next dash...
-Looks like these refills multiply the speed of my next dash...
-Looks like these refills multiply the speed of my next dash...
-They work well with these strange dreamy blocks and my signature!
-Wow.
-This might be useful if I ever plan to get out of here and do something other than write messages in a log.
+Общение в логе #2
+Похоже, что эти прикольные штуки увеличивают скорость...
+Похоже, что эти прикольные штуки увеличивают скорость...
+Похоже, что эти прикольные штуки увеличивают скорость...
+Они отлично работают в паре с этими странными дрим-блоками и!
+Класс.
+Я могу воспользоваться этой информацией, если мне надоест просто печатать сообщения в блог и я решу заняться чем-либо другим.
 {#}
 
 SJ2021_Cabob_RevDreamDirection=
 [COMPUTER]
 {# 65e354}
-Cablog Entry?
-If player moving right, need hit reverse jelly block right or diagonal right dash make zoom.
-If player moving left, need hit reverse jelly block left or diagonal left dash make zoom.
-Player chain reverse jelly block make funny zoom.
-This might be useful if I ever plan to get out of here and do something other than write messages in a log.
+Сообщение в Ка-блоге?
+Если игрок летит вправо в перевёрнутый блок, дэш вправо или диаг дэш вправо делает ВЖЖЖ.
+Если игрок летит влево в перевёрнутый блок, дэш влево или диаг дэш влево делает ВЖЖЖ.
+Игрок влетает подряд в блоки и тогда делает БРРР.
+Я могу воспользоваться этой информацией, если мне надоест просто печатать сообщения в блог и я решу заняться чем-либо другим.
 {#}
 
 SJ2021_Cabob_RevDreamDirection2=
 [COMPUTER]
 {# 65e354}
-Cablog Entry?
-What?
-You didn't understand that?
-Ugh.
-If the player is moving right, they need to hit the reverse dream block with a right dash or diagonal right dash to keep speed.
-Same for left.
-Repeat this to win.
-Go win.
-This might be useful if I ever plan to get out of here and do something other than write messages in a log.
+Сообщение в Ка-блоге?
+Лол?
+Вам всё ещё не понятно?
+Кхм.
+Если персонаж движется направо, то вам надо попасть в ревёрс-дримблок (в белый блок) с прямого или диагонального дэша направо, так вы сохраните скорость.
+Работает налево.
+Повторяйте до выхода.
+Выход направо.
+Я могу воспользоваться этой информацией, если мне надоест просто печатать сообщения в блог и я решу заняться чем-либо другим.
 {#}
 
 SJ2021_Cabob_DreamSuper=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #<3
-Woah there I bet you're sick of dream hypers huh?
-Maybe you can try out a dream super instead?
-To perform a dream super, first input a dream hyper but without the hyper.
-Then, input a super instead of the hyper.
-Make sure you do the super when you do the dream block!
-Don't do it incorrectly or else you won't be able to do it correctly.
-This might be useful if I ever plan to get out of here and do something other than write messages in a log.
+Сообщение в Ка-блоге #<3
+Вы же наверняка устали от дрим-хайперов?
+Попробуйте новую технику: дрим-супер!
+Чтобы выполнить дрим-супер, сначала совершите дрим-хайпер, но без хайпера.
+Затем, сделайте супер вместо хайперa.
+Обратите внимание, что супер нужно делать тогда же, когда раньше нужно было делать хайпер!
+Не делайте дрим-супер неправильно, во избежание невозможности сделать его правильно.
+Я могу воспользоваться этой информацией, если мне надоест просто печатать сообщения в блог и я решу заняться чем-либо другим.
 {#}
 
 SJ2021_Cabob_DreamSuper2=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #<3
-Woah there I bet you're sick of dream hypers huh?
-Maybe you can try out a dream super instead?
-To perform a dream super, first input a dream hyper but without the hyper.
-Then, input a super instead of the hyper.
-Make sure you do the super when you do the dream block!
-Don't do it incorrectly or else you won't be able to do it correctly.
-This might be useful if I ever plan to get out of here and do something other than write messages in a log.
+Сообщение в Ка-блоге #<3
+Вы устали от дрим-хайперов?
+Попробуйте новую технику: дрим-супер!
+Чтобы выполнить дрим-супер, сначала совершите дрим-хайпер, но без хайпера.
+Затем, сделайте супер вместо хайперa.
+Обратите внимание, что супер нужно делать тогда же, когда раньше нужно было делать хайпер!
+Не делайте дрим-супер неправильно, во избежание невозможности сделать его правильно.
+Я могу воспользоваться этой информацией, если мне надоест просто печатать сообщения в блог и я решу заняться чем-либо другим.
 {#}
 
 SJ2021_Cabob_DreamSuper3=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #<3
-Woah there I bet you're sick of dream hypers huh?
-Maybe you can try out a dream super instead?
-To perform a dream super, first input a dream hyper but without the hyper.
-Then, input a super instead of the hyper.
-Make sure you do the super when you do the dream block!
-Don't do it incorrectly or else you won't be able to do it correctly.
-This might be useful if I ever plan to get out of here and do something other than write messages in a log.
+Сообщение в Ка-блоге #<3
+Слушай, ты же наверняка устал от дрим-хайперов, а?
+Так зацени другой прикол: дрим-супер!
+Короче, чтобы выполнить дрим-супер, сначала сделай дрим-хайпер, но без хайпера.
+И потом прожми супер вместо хайперa, понял?
+Не забудь, что супер нужно делать тогда же, когда раньше нужно было делать хайпер!
+Не делай эту штуку неправильно, а то у тебя не получится сделать её правильно.
+Я могу воспользоваться этой информацией, если мне надоест просто печатать сообщения в блог и я решу заняться чем-либо другим.
 {#}
 
 SJ2021_Cabob_DreamSuper4=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #<3
-{~}Hello there{/~}, avid Cablog reader!
+Сообщение в Ка-блоге #<3
+{~}Приветствую тебя{/~}, читатель Ка-блога!
 {#}
 
 SJ2021_Cabob_Shrek=
 [COMPUTER]
 {# 65e354}
-Cablog Entry #-0
-You have demonstrated shrexcellent skill.
-For that, you deserve a reward!
-How about I sing you a song.{#}
+Сообщение в Ка-блоге #-0
+Вы - шрексперт в области спидтека.
+Вам полагается награда!
+Что насчёт песни?{#}
 [Madeline Left normal]
-Ahem...
-I know what you're thinking
-I've known it since you tuned in
-You're thinking...
+Кхм...
+У меня новое хобби.
+Это, так сказать, современное искусство.
+Вы ведь всегда думали, что...
 I CAN'T FREESTYLE RAP!
 Well I've had it up to here with people {n} assuming ogres can't break it down
 SOMEBODY LAY DOWN A BEAT!
@@ -2299,197 +2299,193 @@ Don't forget to subscribe
 If you do I'll give you a headbutt
 That's ogre for thank you!
 ...
-This
-might
-be
-useful
-if
-I
-ever
-plan
-to
-get
-out
-of
-here
-and
-do
-something
-other
-than
-write
-messages
-in
-a
-tree?
+Я
+могу
+воспользоваться
+этой
+информацией
+если
+мне
+надоест
+просто
+чертить
+надписи
+на
+деревьях?
+и
+я
+решу
+заняться
+чем-либо
+другим.
 
 SJ2021_Cabob_Shrek2=
 [Madeline Left angry]
-I am NOT reading that again![]
+Я ни за что НЕ БУДУ читать это во второй раз!
 
 SJ2021_Cabob_GarveyardIntro=
 [granny right creepB]
-Sorry, there was a {~}weird bug{/~} and we couldn't transfer your berry correctly. 
-Please wait here along with the others.
+Прости, из-за {~}непонятного бага{/~} мы не можем выдать тебе клубнику.
+Пожалуйста, прими позу ожидания программиста с прямыми руками.
 
 SJ2021_Cabob_GarveyardDan=
 [COMPUTER]
 {# 65e354}
-Here lies DanTKO
-He couldn't read the adequate dosage for the shrooms due to being clobbered several months back... Poor thing.
-My tiny brain cells mustered dia
-log
+Здесь покоится DanTKO
+Он не смог прочесть инструкцию к грибам, поскольку был избит за два месяца до этого... Жаль его. 
+Я, со своей одной извилиной, дод
+умался до
 {#}
 
 SJ2021_Cabob_GarveyardSoloiini=
 [COMPUTER]
 {# 65e354}
-Here lies Soloiini
-Wow this map only took 2 months to deco where did the rest go?
-At least I have the solace of having built my own graveyard!
+Здесь покоится Soloiini
+Круто, мне понадобилось лишь 2 месяца чтобы сделать декорации для этой карты, что же я делал всё остальное время?
+Впрочем, мне выпала честь построить самому себе надгробие!
 {#}
 
 SJ2021_Cabob_GarveyardKataiser=
 [COMPUTER]
 {# 65e354}
-Here lies Kataiser
-Died of too much bass
+Здесь покоится Kataiser
+Он умер от переизбытка басов.
 {#}
 [granny right creepB]
-It seems he couldn't think of anything funny for his gravestone.
+Похоже, что он не придумал никакой смешной надписи для своего надгробия.
 
 SJ2021_Cabob_GarveyardRu=
 [COMPUTER]
 {# 65e354}
-Ru died lmao
-I wallbounce wholesomely and it is lenient
-PK bloosted reverse cornercoost chained demo ultra room shouldn't have gotten removed
+Ru сдох лмао
+Я грациозно выполнил воллбаунс, и он был прекрасен
+Комнату с ббущенным ревёрс-кбустом и демо-ультрой нужно было оставить
 {#}
 
 SJ2021_Cabob_TheoThe=
 [Theo right excited]
 
 SJ2021_Cabob_wowepicsecret=
-Wow you are so epic you found this epic secret omg {!}epic!!!{/!} You are epic because you found this secret which is pretty darn {big}epic{/big} if I do say so myself did I mention you are very epic?
+Круто! Ты настолько крут, ведь ты нашёл этот крутой секрет. {!}Круто же!!!{/!} Ты крут, потому что найти этот крутой секрет - это очень {big}круто!{/big} Я уже упоминал, что ты невероятно крут?
 
 # === CaptainCarpensir
 
 SJ2021_aiden_dialog_oshiro=
-[Oshiro right normal] You're awake! 
-[Oshiro right normal] We're here! The beast is just ahead.
-[Madeline left upset] So what's the plan again?
-[Oshiro right normal] I already shot the cannon ball in its mouth! All you need to do is take it to the heart.
-[Madeline left upset] It's always me that has to do the hard part.
-[Madeline left determined] Well, let's do this. 
-[Madeline left determinedclosed] They don't call me a {~}Grandmaster{/~} for nothing.
-[Oshiro right normal] Just hop on the spring I attached to the front of the boat.
-[Oshiro right normal] {~}Good luck!{/~}
+[Oshiro right normal] Доброе утро! 
+[Oshiro right normal] Мы уже прибыли на место, чудище прямо по курсу.
+[Madeline left upset] Итак, какой там у нас был план?
+[Oshiro right normal] Я уже выстрелил из пушки и попал ядром ему прямо в пасть! Вам всего лишь надо донести это ядро до сердца.
+[Madeline left upset] Как обычно, мне достаётся всё самое сложное?
+[Madeline left determined] Хорошо, за работу.
+[Madeline left determinedclosed] Я покажу, за что меня зовут {~}Грандмастером{/~}.
+[Oshiro right normal] Тогда воспользуйтесь пружиной на носу яхты.
+[Oshiro right normal] {~}Счастливого пути!{/~}
 
 # === citrea
 
 SJ2021_citrea_return_tt=
-  Return?
+  Вернуться?
 
 SJ2021_LordCitrea_intro= 
   [MADELINEBW left sad]
-  Something feels off.
+  Что-то тут не так.
   [MADELINEBW left distracted]
-  I don't like it here.
+  Мне здесь не нравится.
   [MADELINEBW left panic]
-  I don't feel like myself.
+  Я будто бы не в себе.
 
 SJ2021_LordCitrea_end= 
   {trigger 1 Badeline Appears}
   [BADELINE left upset]
-  You sure were out for a while.
+  Ты тут довольно долго лежала без сознания.
   [BADELINE left worried]
-  You okay?
+  Ты в порядке?
   [MADELINE right sad]
-  I think so.
+  Да, наверное.
   [MADELINE right normal]
-  It's good to be back. It's good to see you again.
+  Здорово, что я выбралась оттуда. Рада видеть тебя.
   [BADELINE left scoff]
-  You too.
+  Я тоже.
   {trigger 0 Badeline turns}
   [BADELINE left normal]
-  Come on, now. Let's get going.
+  Давай, вставай. Надо идти.
   {trigger 1 Badeline Vanishes}
   
 # === Coup Critik
 SJ2021_textforfools=
-You're not getting back there.
+Пути назад нет.
 
 SJ2021CoupCritikNest1=
-You found a nest ! (1/8)
+Вы нашли гнездо! (1/8)
 
 SJ2021CoupCritikNest2=
-You found a nest ! (2/8)
+Вы нашли гнездо! (2/8)
 
 SJ2021CoupCritikNest3=
-You found a nest ! (3/8)
+Вы нашли гнездо! (3/8)
 
 SJ2021CoupCritikNest4=
-You found a nest ! (4/8)
+Вы нашли гнездо! (4/8)
 
 SJ2021CoupCritikNest5=
-You found a nest ! (5/8)
+Вы нашли гнездо! (5/8)
 
 SJ2021CoupCritikNest6=
-You found a nest ! (6/8)
+Вы нашли гнездо! (6/8)
 
 SJ2021CoupCritikNest7=
-You found a nest ! (7/8)
+Вы нашли гнездо! (7/8)
 
 SJ2021CoupCritikNest8=
-You found the last nest ! A hidden secret that doesn't unlock anything ! Yay !
-Did you find the others ?
+Вы нашли последнее гнездо! И ничего за это не получили! Класс!
+Нашли ли вы все остальные?
 
 # === DanTKO
 
 # ***PARALLAX DIALOG***
    
    BLUE_FLOWERS_TIP=
-                                  Reminder:{n}Drone Indicators are your friends. Pay attention to them.
+                                  Помните:{n}Индикаторные Дроны - это ваши друзья. Доверяйте своим друзьям. 
 
 # ***KHU'TARA FUNNY DIALOG***
 
    HELLO_GAMER=
                         {anchor bottom}
-                         Hello gamer!
-                         Welcome to Apeture Mountain! (funny mispelling)
-                         A map concept for Spring Collab 2020 that never came to fruition.
-                         And became the precursor for both Portal Reef of WC2021 and Garden of Khu'tara (the map you're playing right now).
-                         Enjoy this funny easter egg! (ya little baby boy :])
+                         Приветствую, геймер!
+                         Добро пожаловать в  Apeture Mountain! (классное название?)
+                         Это - концепт карты для Spring Collab 2020, который я так и не довёл до ума.
+                         Я продолжил идеи отсюда в Portal Reef (карта из WC2021), и в Garden of Khu'tara (карта, в которую вы играете). 
+                         Веселитесь! (вам ведь нравятся сюрпризы :])
 
    CABLOG_MOMENT=
                              {anchor top}
-                             {>> 0.8} There's some sort of black, rotten box residing inside the old, decrepit...{0.55} plane?{>>}
-                             {>> 0.5}You dust away the moss, pull out a pair of earphones, {>>} {0.5}{>> 0.5}and tune into {>>}{0.6}{>> 0.5}one single recording left behind.{>>}
-                             {1.0}Cablog entry #80085:
-                             {~}{# 999999}E-Bay {0.4}MK.2 {0.2}has crash landed,{0.4} but that was expected.{#}{/~}
-                             {~}{# 999999}What surprises me,{0.3} however,{0.3} is that this land I find myself in looks to be crafted by an artist.{#}{/~}
-                             {~}{# 999999}There's no way anything about this place is natural.{#}{/~}
+                             {>> 0.8} Это - изрядно помятая чёрная коробка, и она лежит среди уже давно проржавелых частей... {0.55}фюзеляжа самолёта?{>>}
+                             {>> 0.5}Вы смахиваете пыль и мелкую растительность с его поверхностей, аккуратно расправляете провода наушников, {>>} {0.5}{>> 0.5}и вслушиваетесь в содержание {>>}{0.6}{>> 0.5}одной-единственной аудиозаписи.{>>}
+                             {1.0}Сообщение в Ка-блоге #80085:
+                             {~}{# 999999}E-Bay {0.4}MK.2 {0.2}совершил аварийную посадку,{0.4} но это было ожидаемо.{#}{/~}
+                             {~}{# 999999}Напротив, я не ожидала узнать,{0.3} что местность,{0.3} в которой я нахожусь, по всей видимости была полностью создана человеком.{#}{/~}
+                             {~}{# 999999}Я не нахожу здесь никаких объектов природного происхождения.{#}{/~}
                              {~}{# 999999}...{#}{/~}
-                             {~}{# 999999}I found a logbook detailing the life of a crazed individual who allegedly modeled this place based on a few of their {~}"quick sketches."{#}{/~}
-                             {~}{# 999999}Have they lost accurate perception of time?{#}{/~}
+                             {~}{# 999999}Обнаружила дневник, похоже что это мемуары безумца, якобы спроектировавшего эту локацию, основываясь на собственных {~}"эскизах."{#}{/~}
+                             {~}{# 999999}Сколько же ему потребовалось времени на подобное?{#}{/~}
                              {~}{# 999999}...{#}{/~}
-                             {~}{# 999999}They also mentioned that they were blessed with such grand visions after consuming some mushrooms they found far in the south.{#}{/~}
-                             {~}{# 999999}Surely this person was mad,{0.4} but I can't deny their genius.{#}{/~}
-                             {~}{# 999999}Maybe{0.3} I'll head south as well.{#}{/~}
-                             {~}{# 999999}This might be useful if I ever plan to get out of here and do something other than write messages in a log.{#}{/~}
-                             **RECORDING TERMINATED**
+                             {~}{# 999999}Ещё там написано, что его посетили настолько великолепные мысли в результате действия грибов, растущих южнее этого места.{#}{/~}
+                             {~}{# 999999}Очевидно, что этот человек сошёл с ума,{0.4} но и гениальности ему не занимать.{#}{/~}
+                             {~}{# 999999}Возможно,{0.3} мне тоже стоит отправиться на юг.{#}{/~}
+                             {~}{# 999999}Я могу воспользоваться этой информацией, если мне надоест просто печатать сообщения в блог и я решу заняться чем-либо другим.{#}{/~}
+                             **ЗАПИСЬ УДАЛЕНА**
 
    CABLOG_MOMENT_2=
                              {anchor top}
-                             You gaze upon the shattered interior of the plane's once pristine chassis.
-                             There {0.4}you noticed an engraving,{0.4} marking a spot on the far bottom-right side of a planetary silhouette.
-                             This means nothing to you.
+                             Вы обводите взглядом ржавые металлические конструкции - это всё, что осталось от некогда цельного каркаса самолёта.
+                             Опустив глаза, {0.4}вы обнаруживаете нацарапанный рисунок,{0.4} отмечающий некое место с правого нижнего края объекта, напоминающего планету.
+                             Вы понятия не имеете, что бы это значило.
 
 # ***TUTORIALS***
 
-   APE_EXIT= EXIT
-   TUTORIAL_ZIPP= ZIP LAUNCH
-   TUTORIAL_BLUEFLOWERS= RELEASE
+   APE_EXIT= ВЫХОД
+   TUTORIAL_ZIPP= БЛОКБУСТ
+   TUTORIAL_BLUEFLOWERS= ОТПУСТИ
 
 # === Dav
 
