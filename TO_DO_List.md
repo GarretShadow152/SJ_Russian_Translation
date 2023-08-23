@@ -18,5 +18,4 @@
   - по возможности вместить все реплики в три строчки на экране
 * StrawberryJam2021_2_Intermediate_vitellary_postcard добавить запятую
 * SJ2021_Tortoise_2d спросить про возможность адаптации
-* SJ2021_Tortoise_3d умаляю дверь???
-* SJ2021_Tortoise_x3 "I could upgrade to a mausoleum" - я бы мог ставть мавзолеем???
+* SJ2021_Tortoise_x4= тут была шутка про "red flags", поэтому я перевел её как "тревожные звоночки"
