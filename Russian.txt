@@ -249,7 +249,7 @@ StrawberryJam2021_4_Expert_Heartside_Credits=
   Флаг для Plasma Reactor декорировали butcherberries и LegS.
   Задний фон для Expert Heartside нарисовали DanTKO, Maildropfolder, и nerferd_.
   Графику для Expert Heartside нарисовали butcherberries, Cabob, LegS, xolimono, и Yoshachobi7.
-  Написанием и отладкой кода для Expert Heartside занимались Agent, JaThePlayer, и max480.
+  Написанием и отладкой кода для Expert Heartside занимались Agent, JaThePlayer, и maddie480.
   Композитор catapillie.
   Плейтестинг провели 0dot006prcnts, Rin_Jagste, и Moladan.
   Специальная благодарность посвящается butcherberries, его рассудок навсегда утерян в глубинах порталов Кахуны. Покойся с миром, где бы ты ни был.
@@ -262,7 +262,7 @@ StrawberryJam2021_5_Grandmaster_Heartside_Credits=
   Флаг для summit сделали Ecl1psed и Soloiini, декорировали Soloiini и valkyria.
   Флаг для World Abyss сделали Ecl1psed и Maya.
   Графику для Grandmaster Heartside нарисовали Citrea и nerferd_.
-  Написанием и отладкой кода для Grandmaster Heartside занимались catapillie, JaThePlayer, max480, Vexatos, и Viv.
+  Написанием и отладкой кода для Grandmaster Heartside занимались catapillie, JaThePlayer, maddie480, Vexatos, и Viv.
   Композиторы BeanJammin и quadratic97. 
   Плейтестинг провели 0dot006prcnts, Ecl1psed, Fraz, Gamation, Rin_Jagste, Topaz, и Xplosives.
   Специальная благодарность посвящается quadratic97 за написание кассет-ремикса.
@@ -275,7 +275,7 @@ StrawberryJam2021_0_Gyms_1_Beginner_collabcredits=
   Геймплей:{# 2a2a2a} bryse0n, Circumplex, 
   Ecl1psed, Jadeturtle, PowerAV{#}
   Доработка:{# 2a2a2a} bryse0n{#}
-  Код:{# 2a2a2a} Bigkahuna, max480, Viv, WEGFan{#}
+  Код:{# 2a2a2a} Bigkahuna, maddie480, Viv, WEGFan{#}
   Спрайты:{# 2a2a2a} Circumplex, Maildropfolder, nerferd_, Nikko, Vexastrae{#}
   Музыка:{# 2a2a2a} Ceph{#}
   Screen Wipe:{# 2a2a2a} Vamp{#}
@@ -290,7 +290,7 @@ StrawberryJam2021_0_Gyms_2_Intermediate=
 StrawberryJam2021_0_Gyms_2_Intermediate_collabcredits=
   Геймплей:{# 2a2a2a} Aiden, bryse0n, fonda1515, Ecl1psed{#}
   Доработка:{# 2a2a2a} bryse0n{#}
-  Код:{# 2a2a2a} Bigkahuna, max480, Viv, WEGFan{#}
+  Код:{# 2a2a2a} Bigkahuna, maddie480, Viv, WEGFan{#}
   Спрайты:{# 2a2a2a} Circumplex, Maildropfolder, nerferd_, Nikko, Vexastrae{#}
   Музыка:{# 2a2a2a} Ceph{#}
   Screen Wipe:{# 2a2a2a} Vamp{#}
@@ -305,7 +305,7 @@ StrawberryJam2021_0_Gyms_3_Advanced=
 StrawberryJam2021_0_Gyms_3_Advanced_collabcredits=
   Геймплей:{# 2a2a2a} Aiden, bryse0n, fonda1515, Owen Shirrell{#}
   Доработка:{# 2a2a2a} bryse0n{#}
-  Код:{# 2a2a2a} Bigkahuna, max480, Viv, WEGFan{#}
+  Код:{# 2a2a2a} Bigkahuna, maddie480, Viv, WEGFan{#}
   Спрайты:{# 2a2a2a} Circumplex, Maildropfolder, nerferd_, Nikko, Vexastrae{#}
   Музыка:{# 2a2a2a} Ceph{#}
   Screen Wipe:{# 2a2a2a} Vamp{#}
@@ -321,7 +321,7 @@ StrawberryJam2021_0_Gyms_4_Expert_collabcredits=
   Геймплей:{# 2a2a2a} Aiden, Alisticious, bryse0n, Cabob,
   DeathKontrol, Pedrocrb, Soloiini{#}
   Доработка:{# 2a2a2a} bryse0n{#}
-  Код:{# 2a2a2a} Bigkahuna, max480, Viv, WEGFan{#}
+  Код:{# 2a2a2a} Bigkahuna, maddie480, Viv, WEGFan{#}
   Спрайты:{# 2a2a2a} Circumplex, Maildropfolder, nerferd_, Nikko, Vexastrae{#}
   Музыка:{# 2a2a2a} Ceph{#}
   Screen Wipe:{# 2a2a2a} Vamp{#}
@@ -337,7 +337,7 @@ StrawberryJam2021_0_Gyms_5_Grandmaster_collabcredits=
   Геймплей:{# 2a2a2a} Agent, bryse0n, DeathKontrol, Ecl1psed,
   elio, Soloiini, Todd, valkyria{#}
   Доработка:{# 2a2a2a} bryse0n{#}
-  Код:{# 2a2a2a} Bigkahuna, max480, Viv, WEGFan{#}
+  Код:{# 2a2a2a} Bigkahuna, maddie480, Viv, WEGFan{#}
   Спрайты:{# 2a2a2a} Circumplex, Maildropfolder, nerferd_, Nikko, Vexastrae{#}
   Музыка:{# 2a2a2a} Ceph{#}
   Screen Wipe:{# 2a2a2a} Vamp{#}
@@ -557,7 +557,7 @@ StrawberryJam2021_1_Beginner_Owen_Shirrell=
 StrawberryJam2021_1_Beginner_Owen_Shirrell_author=
   от Owen Shirrell
 StrawberryJam2021_1_Beginner_Owen_Shirrell_collabcredits=
-  Код:{# 2a2a2a} aridai, max480, Samah, Thomasdb05{#}
+  Код:{# 2a2a2a} aridai, maddie480, Samah, Thomasdb05{#}
   Спрайты:{# 2a2a2a} Circumplex, mintberry, mosscairn, PowerAV{#}
   Музыка:{# 2a2a2a} Alisticious{#}
   Screen Wipe:{# 2a2a2a} EllaTAS, Vamp{#}
@@ -707,7 +707,7 @@ StrawberryJam2021_2_Intermediate_Ezel=
 StrawberryJam2021_2_Intermediate_Ezel_author=
   от Ezel
 StrawberryJam2021_2_Intermediate_Ezel_collabcredits=
-  Код:{# 2a2a2a} max480{#}
+  Код:{# 2a2a2a} maddie480{#}
   Музыка:{# 2a2a2a} Rikri{#}
   Стикер:{# 2a2a2a} Phrog{#}
   Плейтесты:{# 2a2a2a} frozenflygone,
@@ -759,7 +759,7 @@ StrawberryJam2021_2_Intermediate_LegS=
 StrawberryJam2021_2_Intermediate_LegS_author=
   от LegS
 StrawberryJam2021_2_Intermediate_LegS_collabcredits=
-  Код:{# 2a2a2a} Cruor, max480, Scroogle{#}
+  Код:{# 2a2a2a} Cruor, maddie480, Scroogle{#}
   Спрайты:{# 2a2a2a} DanTKO, LegS, mintberry, Phrog, PowerAV{#}
   Музыка:{# 2a2a2a} Ceph{#}
   Стикер:{# 2a2a2a} nerferd_{#}
@@ -939,7 +939,7 @@ StrawberryJam2021_3_Advanced_Goldian_author=
   от Goldian
 StrawberryJam2021_3_Advanced_Goldian_collabcredits=
   Геймплей:{# 2a2a2a} Aiden, Goldian, Worldwaker2{#}
-  Код:{# 2a2a2a} max480, Thomasdb05{#}
+  Код:{# 2a2a2a} maddie480, Thomasdb05{#}
   Спрайты:{# 2a2a2a} Asgord, Charkol, Chaotick, Earthwise, Kayden Fox, 
   nerferd_, Phrog, Ren, tobyaaa, Worldwaker2, xolimono{#}
   Музыка:{# 2a2a2a} Ceph{#}
@@ -1049,7 +1049,7 @@ StrawberryJam2021_3_Advanced_MousseMoose=
 StrawberryJam2021_3_Advanced_MousseMoose_author=
   от MousseMoose
 StrawberryJam2021_3_Advanced_MousseMoose_collabcredits=
-  Код:{# 2a2a2a} catapillie, max480, Vexatos{#}
+  Код:{# 2a2a2a} catapillie, maddie480, Vexatos{#}
   Музыка:{# 2a2a2a} Minecire, MousseMoose{#}
   Стикер:{# 2a2a2a} Elsira{#}
   Плейтесты:{# 2a2a2a} MaxSchnell43, SpiritDragon{#}
@@ -1080,7 +1080,7 @@ StrawberryJam2021_3_Advanced_Nic_collabcredits=
   Плейтесты:{# 2a2a2a} Calamay, Lollyde{#}
   Капитан:{# 2a2a2a} Oppen_heimer{#}
   Отдельная Благодарность:{# 2a2a2a} globglogabgalab, Holly,
-  max480, RealZeb{#}
+  maddie480, RealZeb{#}
   
 StrawberryJam2021_3_Advanced_Oppen=
   Lost Woods
@@ -1148,7 +1148,7 @@ StrawberryJam2021_3_Advanced_TiltTheStars=
 StrawberryJam2021_3_Advanced_TiltTheStars_author=
   от TiltTheStars
 StrawberryJam2021_3_Advanced_TiltTheStars_collabcredits=
-  Код:{# 2a2a2a} Lyra, Majora320, max480, tobyaaa{#}
+  Код:{# 2a2a2a} Lyra, Majora320, maddie480, tobyaaa{#}
   Спрайты:{# 2a2a2a} Eeveeisepic, elrupio, Flagpole1up, kat, mintberry,
   nerferd_, Peteksi, phant, SpoopySoup{#}
   Музыка:{# 2a2a2a} Maladroit{#}
@@ -1177,7 +1177,7 @@ StrawberryJam2021_3_Advanced_Roborb_author=
   от YaGrillRoborb
 StrawberryJam2021_3_Advanced_Roborb_collabcredits=
   Доработка:{# 2a2a2a} Oppen_heimer{#}
-  Код:{# 2a2a2a} max480{#}
+  Код:{# 2a2a2a} maddie480{#}
   Спрайты:{# 2a2a2a} garbo111, snolls{#}
   Музыка:{# 2a2a2a} Sonar, Tillotman, TyKim{#}
   Стикер:{# 2a2a2a} nerferd_{#}
@@ -1205,7 +1205,7 @@ StrawberryJam2021_3_Advanced_Viv=
 StrawberryJam2021_3_Advanced_Viv_author=
   от Viv
 StrawberryJam2021_3_Advanced_Viv_collabcredits=
-  Код:{# 2a2a2a} max480, Viv{#}
+  Код:{# 2a2a2a} maddie480, Viv{#}
   Стикер:{# 2a2a2a} Polythesia{#}
   Декорации:{# 2a2a2a} BossSauce{#}
   Плейтесты:{# 2a2a2a} Citrea, Ezel,
@@ -1217,7 +1217,7 @@ StrawberryJam2021_3_Advanced_Worldwaker2=
 StrawberryJam2021_3_Advanced_Worldwaker2_author=
   от Worldwaker2
 StrawberryJam2021_3_Advanced_Worldwaker2_collabcredits=
-  Код:{# 2a2a2a} Bloom, Lollyde, max480,
+  Код:{# 2a2a2a} Bloom, Lollyde, maddie480,
   Mechless Infiltrators, Viv{#}
   Спрайты:{# 2a2a2a} mintberry, Worldwaker2, xolimono{#}
   Музыка:{# 2a2a2a} BeanJammin{#}
@@ -1277,7 +1277,7 @@ StrawberryJam2021_4_Expert_Appels_collabcredits=
   Музыка:{# 2a2a2a} JemyJemy{#}
   Стикер:{# 2a2a2a} the_gb{#}
   Плейтесты:{# 2a2a2a} Nearl, Ru, Snolls{#}
-  Отдельная Благодарность:{# 2a2a2a} max480, tobyaaa{#}
+  Отдельная Благодарность:{# 2a2a2a} maddie480, tobyaaa{#}
   
 StrawberryJam2021_4_Expert_Archire=
   Chromatic Complex
@@ -1429,7 +1429,7 @@ StrawberryJam2021_4_Expert_Linj=
 StrawberryJam2021_4_Expert_Linj_author=
   от Linj
 StrawberryJam2021_4_Expert_Linj_collabcredits=
-  Код:{# 2a2a2a} Cruor, max480{#}
+  Код:{# 2a2a2a} Cruor, maddie480{#}
   Музыка:{# 2a2a2a} quadratic97{#}
   Стикер:{# 2a2a2a} nerferd_{#}
 
@@ -1683,7 +1683,7 @@ StrawberryJam2021_5_Grandmaster_fishtank=
 StrawberryJam2021_5_Grandmaster_fishtank_author=
   от fishtank
 StrawberryJam2021_5_Grandmaster_fishtank_collabcredits=
-  Код:{# 2a2a2a} max480{#}
+  Код:{# 2a2a2a} maddie480{#}
   Стикер:{# 2a2a2a} Phrog{#}
   Текст:{# 2a2a2a} fishtank, valkyria{#}
   Плейтесты:{# 2a2a2a} Bigkahuna, BossSauce, Cabob,
@@ -1837,7 +1837,7 @@ StrawberryJam2021_5_Grandmaster_tofu_author=
   от tofu
 StrawberryJam2021_5_Grandmaster_tofu_collabcredits=
   Доработка:{# 2a2a2a} Gamation, Topaz, valkyria, Xplosives{#}
-  Код:{# 2a2a2a} Cruor, JaThePlayer, max480, Samah, Viv{#}
+  Код:{# 2a2a2a} Cruor, JaThePlayer, maddie480, Samah, Viv{#}
   Спрайты:{# 2a2a2a} Chaotick, DanTKO, mintberry, draconikai, MiraLake, mosscairn,
   nerferd_, Nikko, Phrog, PowerAV, tofu, vexastrae, xolimono{#}
   Музыка:{# 2a2a2a} TyKim{#}
@@ -7804,10 +7804,10 @@ StrawberryJam2021_3_Advanced_TiltTheStars_credits=
   Eeveeisepic for the Badeline Boss resprite as a queen bee!
   nerferd_ for the bee retexture! phant for the bee plushie decal!
   elrupio for the spikes retexture! Peteksi and mintberry for the cherry tree decal!
-  max480 for putting the SJ bee entity together and writing the code for it!
+  maddie480 for putting the SJ bee entity together and writing the code for it!
   Lyra for creating hexagonal godrays!
   tobyaaa and Majora320 for putting together the honey wall entity!
-  Vamp and max480 for making the honeycomb death wipe!
+  Vamp and maddie480 for making the honeycomb death wipe!
   Helen and Aiden for helping me with deco!
   Moladan and Worldwaker2 for helping me with camera!
   Cabob for doing gameplay touch-ups!
@@ -9838,7 +9838,7 @@ SJ2021_Credits_Names_Captains_Gym=
 SJ2021_Credits_Names_Captains_Coding=
   Cruor
   Jade
-  max480
+  maddie480
   Samah
   Viv
   
@@ -10064,7 +10064,7 @@ SJ2021_Credits_Names_Teams_Coding=
   Lyra
   Majora320
   MathHacker
-  max480
+  maddie480
   Mechless Infiltrators
   Samah
   Skunkynator
@@ -10408,7 +10408,7 @@ SJ2021_Credits_Names_Helpers=
   Lönn
   Lua Cutscenes
   Lunatic Helper
-  max480's Helping Hand
+  maddie480's Helping Hand
   Memorial Helper
   More Dasheline
   Outback Helper
