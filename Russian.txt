@@ -6942,90 +6942,90 @@ SJ2021_1_Beginner_snassecret=
 
 	SJ2021_SOLOIINI_CONDUCTOR=
 		[MADELINE left distracted]
-		Um\.\.\.{0.4} hello?
+		Эм\.\.\.{0.4} привет?
 		
 		[CONDUCTOR right normal]
-		{>> 0.7}Hmm?
-		Oh. {0.1}You shouldn't be here.{>>}
+		{>> 0.7}Хмм?
+		О. {0.1}Вы не должны здесь находиться.{>>}
 		
 		[MADELINE left upset]
-		Do you think I {!}want{/!} to be stuck in this\.\.\.{0.3} floating space train?
+		Ты думаешь, я {!}хочу{/!} застрять на этом\.\.\.{0.3} летающем космическом поезде?
 		
 		[MADELINE left distracted]
-		\.\.\.Actually, why {!}is{/!}{0.1} it just floating here? {0.2}Don't you have places to be?
+		\.\.\.Погоди, почему {!}он{/!}{0.1} просто парит здесь? {0.2}Тебе разве никуда не нужно?
 		
 		[CONDUCTOR right normal]
-		{>> 0.7}Well, yes, but\.\.\.
-		You see, we hit a bit of a {0.05}{~}snag{/~} {0.2}some time ago.
-		Come to think of it, {0.1}I'm not sure how long it's been\.\.\.
-		Regardless, you're free to find a lounge and sit tight until the engineers get us moving again.{>>}
+		{>> 0.7}Конечно, но\.\.\.
+		Как видишь, мы попали в довольно {0.05}{~}затруднительное{/~} положение {0.2}некоторое время назад.
+		Хотя думая об этом, {0.1}я не уверен сколько уже прошло\.\.\.
+		Несмотря на это, вы можете найти свободное кресло и остоваться там, пока инженеры не заставят двигаться поезд.{>>}
 		
 		[MADELINE left upset]
-		We're not going anywhere for a while, {0.1}are we?
+		Мы будем здесь довольно долго, {0.1}так ведь?
 		
 		[CONDUCTOR right normal]
-		{>> 0.7}I don't know.
-		If you're so impatient, you could try going out and looking for {0.05}{# F3B343}{~}something{/~}{#} {0.1}with enough power to restart the engines.
-		The asteroids in this region aren't exactly hospitable, {0.05}though.
-		Probably best to just bide your time like the rest of us.
+		{>> 0.7}Я не знаю.
+		Если вам так невтерпёж, то вы можете выйти и попытаться найти {0.05}{# F3B343}{~}что-нибудь{/~}{#} {0.1} с достачным количеством энергии, чтобы перезапустить двигатели.
+		Но,{0.05} астероиды в этом регионе довольно негостеприимные.
+		Будет лучше ждать своего времени, как и все мы.
 	
 		[MADELINE left upset]
-		I appreciate the concern, but I can handle myself.
+		Я ценю заботу, но я могу справиться сама.
 		
 	SJ2021_SOLOIINI_CONDUCTOR_CONV00_ASK=
 		[MADELINE left distracted]
-		I should probably get going.
+		Мне стоит отправляться.
 		
 	SJ2021_SOLOIINI_CONDUCTOR_CONV01_ASK=
 		[MADELINE left upset]
-		You don't seem very concerned about any of this.
+		Ты не кажешься обеспокоенным этой ситуацией.
 		
 	SJ2021_SOLOIINI_CONDUCTOR_CONV01_SAY=
 		[MADELINE left upset]
-		You don't seem very concerned about any of this.
+		Ты не кажешься обеспокоенным этой ситуацией.
 		
 		[CONDUCTOR right normal]
-		{>> 0.7}Correct.{>>}
+		{>> 0.7}Это правда.{>>}
 		
 		[MADELINE left upset]
-		Are you going to elaborate?
+		Может объяснишься?
 		
 		[CONDUCTOR right normal]
-		{>> 0.7}Oh, right. {0.1}I suppose you wouldn't know.
-		We don't exactly\.\.\.{0.3} how would you put it\.\.\. {0.5}{~}naturally expire.{/~}
-		Of course, we still need to rest occasionally.{>>}
+		{>> 0.7}Ох, конечно. {0.1}Я полагаю, вы не знаете об этом.
+		Мы, \.\.\.{0.3} как бы сказать\.\.\. {0.5}{~}, не разлагаемся.{/~}
+		Хотя, и нам переодически нужен отдых.{>>}
 		
 		[MADELINE left distracted]
-		So\.\.\. {0.3}how long have you been around?
+		Так\.\.\. {0.3}сколько уже ты здесь находишься?
 		
 		[CONDUCTOR right normal]
-		{>> 0.7}Long enough.{>>}
+		{>> 0.7}Достаточно долго.{>>}
 		
 	SJ2021_SOLOIINI_CONDUCTOR_CONV02_ASK=
 		[MADELINE left distracted]
-		Why hasn't anyone come to help yet?
+		Почему ещё никто не пришёл помочь?
 		
 	SJ2021_SOLOIINI_CONDUCTOR_CONV02_SAY=
 		[MADELINE left distracted]
-		Why hasn't anyone come to help yet? Shouldn't you have\.\.\.{0.3} I don't know, {0.1}a distress signal or something?
+		Почему ещё никто не пришёл помочь? Разве у тебя нет, \.\.\.{0.3} я не знаю, {0.1}сигнала бедствия или что-то в этом роде?
 		
 		[CONDUCTOR right normal]
-		{>> 0.7}{*}{# c71a42}They{#}{/*} insisted a failure of this magnitude was impossible.
-		Personally, though, I'm not worried. It's been a pleasant change of pace.
-		I suppose a window would be nice, though\.\.\.{>>}
+		{>> 0.7}{*}{# c71a42}Они{#}{/*} настояли на том, что поломка такого уровня невозможна.
+		Хотя, честно говоря, я не беспокоюсь. Это была прекрасная смена обстановки.
+		Но окно здесь не помешало бы\.\.\.{>>}
 		
 	SJ2021_SOLOIINI_CONDUCTOR_CONV03_ASK=
 		[MADELINE left distracted]
-		Do you have any advice?
+		У тебя есть совет?
 		
 	SJ2021_SOLOIINI_CONDUCTOR_CONV03_SAY=
 		[MADELINE left distracted]
-		Do you have any advice?
+		У тебя есть совет?
 		
 		[CONDUCTOR right normal]
-		{>> 0.7}Pay no mind to the others.
-		They might seem warm on the outside, but their hearts are as icy as they come.
-		I learned that the hard way.{>>}
+		{>> 0.7}Не обращай внимание на других.
+		Они могут показаться хорошими снаружи, но их сердца словно сделаны из льда.
+		Я понял это на своём собственном опыте.{>>}
 
 # ================== TUTORIALS ==================
 
