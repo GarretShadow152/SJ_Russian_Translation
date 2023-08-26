@@ -8311,28 +8311,28 @@ SJ2021_Tortoise_x5=
   ...
   
   [None]
-  {#AA55CC}Anyhow, I could not deduce where your powers originate, it's neither a biological mutation, encoded in your DNA...
-  Nor is it some enchantment cast upon you by a magical mountain {#6666DD}bird{\#}.
-  Perhaps nanotechnology?
-  If only I could run a few more tests! {\#}
+  {#AA55CC}Пока я так и не смог определить причину твоих способностей, это не какая-то биологическая мутация, заложенная в ДНК...
+  Но может та волшебная горная {#6666DD}птица{\#} наложила на тебя какое-то заклятие?
+  Или это нанотехнологии?
+  Если бы я только мог провести ещё парочку тестов...{\#}
 
   [Madeline right angry]
   ...
 
   [None]
-  {#AA55CC}Or I could leave well enough alone.{\#}
+  {#AA55CC}Ну или я бы мог просто оставить всё как есть.{\#}
 
 SJ2021_Tortoise_4=
   [Madeline left upset]
-  Dagnabit! {+MADELINE} want {#CC5577}Big Berry{\#}.
+  Чёрт! {+MADELINE} хотела {#CC5577}Большую Ягодку{\#}.
 
 SJ2021_Tortoise_5=
   [Madeline left normal]
-  Funny how this little hole in the floor is where this all started.
+  Забавно, что именно с этой маленькой дырочки в полу все и началось.
 
 SJ2021_Tortoise_5c=
   [Madeline left panic]
-  There's nothing here! Just {!}ME{/!} talking again...
+  Ничего! И только {!}Я{/!}, говорящая с воздухом...
 
 SJ2021_Tortoise_5d=
   [Madeline left sad]
@@ -8340,83 +8340,83 @@ SJ2021_Tortoise_5d=
 
 SJ2021_Tortoise_6a=
   [Madeline left distracted]
-  If this were New Zealand, Iceland or Ireland, there would be no snakes here!
+  Если бы это была Новая Зеландия, Исландия или Ирландия, здесь бы не было никаких змей!
 
 SJ2021_Tortoise_x6=
   [Madeline right distracted]
-  You know, you're inherently selfish.
+  Ты хоть понимаешь, насколько ты эгоист?
   [Madeline right sad]
-  And have almost no self control.
+  Ты вообще свои желания не контролируешь!
   [Madeline right distracted]
-  Well, and you also lack the compassion needed to prevent you from doing harm to innocent people.
+  У тебя и толики сострадания нет, чтобы понять, что ты вредишь невинным людям.
   [Madeline right sad]
-  Aside from that, {0.4}y'aren't such a bad person.
+  Но всё таки, {0.4}ты не такой уж и плохой.
 
   [None]
-  {#AA55CC}Well, I am sort of an Evil Necromancer.{\#}
+  {#AA55CC}Ну, я же всё таки Злой Некромант.{\#}
 
   [Madeline right angry]
-  Listen up, {#AA55CC}Java{\#}...
-  That was me {0.2}{!}being nice{/!} after what you've put me through.
+  Послушай, {#AA55CC}Джава{\#}...
+  Я {0.2}{!}была добра{/!} с тобой, даже несмотря на то, через что ты заставил меня пройти.
   [Madeline right sad]
-  Your whole {~}Evil{/~} persona, it's not who you really are, 
-  It's a series of conscious choices to remain that way.
+  Вся эта твоя {~}Злая{/~} натура, это не настоящий ты. 
+  Ты просто почему-то решил стать таким.
   [Madeline right determined]
-  It's never too late to change the path you're heading down.
+  Но никогда не поздно сменить путь, по которому ты идешь.
 
   [None]
-  {#AA55CC}But it's my path. My decision to make.
-  Who gets to say what is right, or what's best for me... 
-  {!}{big}You?{/big}{/!}{\#}
+  {#AA55CC}Но это мой выбор. Моё решение.
+  Кто решает, что есть добро, и что лучше для меня... 
+  {!}{big}Ты?{/big}{/!}{\#}
 
   [Madeline right distracted]
-  No, those are all your decisions. 
-  But at some point...
+  Конечно только ты в праве решать это. 
+  Но всё таки...
   [Madeline right sad]
-  Once you start inhibiting other people from living their best life,
+  Когда ты начинаешь мешать другим людям жить их спокойную жизнь,
   [Madeline right distracted]
-  Or from choosing their own path.
+  Или выбирать им собственные пути.
   [Madeline right sad]
-  Then at a minimum, you're being hypocritical.
+  Ты как минимум лицемеришь.
   [Madeline right determined]
-  And a bit immoral - and possibly illegal.
+  Это аморально, и даже немного незаконно.
   [Madeline right sad]
-  I mean, just imagine, if you had asked me nicely to help you in researching my powers. 
+  Вот представь, что ты бы просто вежливо попросил меня, помочь тебе в исследовании моих способностей. 
   [Madeline right distracted]
-  Maybe that's something I'd be curious about too.
+  Может мне бы тоже стало интересно.
   [Madeline right sad]
-  We could have worked together.
+  И мы бы спокойно работали над этим вместе.
 
   [None]
-  {#AA55CC}Ohhhh, so you think I haven't tried being polite, or {~}playing well with others{/~}.
-  {big}Well, you're wrong!{/big}
-  Being kind has only ever brought me betrayal and pain.
-  But look at me now! My powers have grown immensely since I gave all that up.{\#}
+  {#AA55CC}О-о, так ты думаешь что, что я не пытался быть вежливым или {~}вести себя хорошо{/~}.
+  {big}Ошибаешься!{/big}
+  Доброта всегда приносила мне только предательства и боль.
+  Но только взгляни на меня сейчас! Мои силы невероятно возросли с тех пор, как я отказался от всего этого.{\#}
 
   [Madeline right determined]
-  Waiiit, hold on a second, who do you think you are now? 
+  Притормози ка на секунду, кем ты себя сейчас возомнил?
   [Madeline right distracted]
-  Are you honestly satisfied with who you have become?
+  Тебе действительно нравится то, кем ты стал?
   [Madeline right sad]
-  You put me through a horrible ordeal today. And for what?
+  Сегодня ты заставил меня пройти ужаснейшее испытание. И ради чего?
   [Madeline right determined]
-  To increase your own power.
-  This illusion of Power, it's just a substitute for the more valuable things in life that you're missing out on.
+  Чтобы самому стать сильнее.{n}Замечательно.
+  За этой своей тягой к власти ты не видишь те ценности, которых тебе действительно не хватает в жизни.
   
   [None]
-  {#AA55CC}Holy Guacamole.
-  You didn't have to verbally destroy me there.
-  So yeah, I'm being a hypocrite... 
-  And I 100% agree, I hoped for a better outcome than this.
-  But I'd also be lying if I said: "I'm just going to change my ways, and be perfect from now on."
-  I dunno,
-  I'm just not sure how to make myself care again.
-  I {~}do{/~} need to work on it, though.{\#}
+  {#AA55CC}Японский городовой.
+  Можно было и не уничтожать меня словестно.
+  Да-а, может я тот ещё лицемер... 
+  И я на 100% согласен, что всё могло пойти намного лучшим путём.
+  Но я совру, если просто скажу: "Изменю ка я свой образ жизни и стану лучшей версией себя."
+  Не знаю,
+  Я просто не знаю, как снова заставить себя заботиться о себе.
+  Однако, мне {~}действительно{/~} нужно поработать над этим.{\#}
 
   [Madeline right normal]
-  That's really all anyone can ask.
+  Вот это настрой!
   [Madeline right determined]
-  That, and to please get me the heck outta here.
+  И, это, черт возьми, пожалуйста, вытащи меня уже отсюда.
 
 # === Vina
 
