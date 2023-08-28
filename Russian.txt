@@ -7717,28 +7717,28 @@ SJ2021_1_Beginner_snassecret=
 # === SpoopySoup
 
 StrawberryJam2021_SpoopySoup_soup0=
-  Note:{n}Room transitions will refill your dashes, but dashing is not required to beat this map.
-  A {~}{# DE2A2A}reward{#}{/~} is waiting for those who take the time!
+  Примечание:{n}Переход между комнатами восстанавливает рывки, но они не нужны, чтобы пройти карту.
+  {~}{# DE2A2A}Награда{#}{/~} ждёт тех, кто тише едет!
 
 SJ2021_SpoopySoup_soup1=
   [MADELINE left surprised]
-  Soup!
+  Суп!
 
 SJ2021_SpoopySoup_soup2=
   [MADELINE left normal]
-  Soup as far as the eye can see!
+  Один сплошной суп по всему горизонту!
 
 SJ2021_SpoopySoup_soup3=
   [MADELINE left normal]
-  {>> 0.3}{~}Wow!{/~}{0.2}{>>} This is beautiful!
+  {>> 0.3}{~}Вау!{/~}{0.2}{>>} Как же красиво!
   [BADELINE right normal]
-  Makes you hungry, doesn't it?
+  Даже покушать захотелось, не так ли?
   [MADELINE left peaceful]
-  Mmm, Yeah... 
+  Ммм, да-а... 
 
 SJ2021_SpoopySoup_soup4=
   [MADELINE left normal]
-  Ooh! this is a nice spot!
+  О! Отличное место!
 
 SJ2021_SpoopySoup_soup5=
   [MADELINE left sad]
@@ -7746,15 +7746,15 @@ SJ2021_SpoopySoup_soup5=
 
 SJ2021_SpoopySoup_soup5_2=
   [BADELINE right scoff]
-  Nope.
+  Не-а.
 
 SJ2021_SpoopySoup_egg1=
   [MADELINE left sad]
-  Oh.
+  Оу.
 
 SJ2021_SpoopySoup_egg2=
   [MADELINE left normal]
-  Glug Glug.
+  Бульк-бульк.
 
 SJ2021_SpoopySoup_egg3=
   [MADELINE left peaceful]
@@ -7762,23 +7762,23 @@ SJ2021_SpoopySoup_egg3=
 
 SJ2021_SpoopySoup_egg4=
   [MADELINE left normal]
-  Cozy!
+  Уют!
 
 SJ2021_SpoopySoup_egg5=
   {anchor bottom}
   [BADELINE right normal]
-  Yo.
+  Йо.
   
 # === Stotch
 
 SJ2021_Stotch_IT_1=
 [IT left normal]
-  To get across the spikes you need to use the zipper momentum to increase your dash's speed.
-  You can do this by letting go of the zipper when it gets to the end of the path, and dashing a short time after letting go.
+  Чтобы пройти через шипы, используйте блок-буст чтобы увеличить скорость рывка.
+  Вы можете исполнить это сразу, сделав рывок, как только блок остановится.
 
 SJ2021_Stotch_Secret_1=
 [Madeline left normal]
-  Shoutout to Donker19
+  Крикни Donker19
 
 SJ2021_Stotch_Secret_2=
 [Madeline left deadpan]
@@ -8619,7 +8619,7 @@ SJ2021_Gym_Hazards= Шипы
 SJ2021_Gym_Objects= Объекты
 SJ2021_Gym_On= Вкл
 SJ2021_Gym_Off= Выкл
-SJ2021_Gym_BlockBoosts= Блок Буст
+SJ2021_Gym_BlockBoosts= Блок-Буст
 SJ2021_Gym_Bouncing= Отскоки
 SJ2021_Gym_CollisionLeniency= Поблажки
 SJ2021_Gym_CornerCorrection= Корректировка
@@ -8637,7 +8637,7 @@ SJ2021_Gym_Friction= Трение
 SJ2021_Gym_InputBuffering= Буферинг
 SJ2021_Gym_JumpBoosts= Джамп Буст
 SJ2021_Gym_JumpControl= Контроль Прыжка
-SJ2021_Gym_MomentumCarrying= Отложенный Блок Буст
+SJ2021_Gym_MomentumCarrying= Отложенный Блок-Буст
 SJ2021_Gym_ScreenTransitions= Перемещение Экрана
 SJ2021_Gym_StaminaManagement= Выносливость
 SJ2021_Gym_UltraMechanics= Ультра Механики
