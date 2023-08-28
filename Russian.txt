@@ -125,7 +125,7 @@ StrawberryJam2021_0_Lobbies_Warp_Ch5_GM_main_6=
 # === Lobby Credits
 
 StrawberryJam2021_0_Lobbies_0_Prologue_Credits=
-  Разработкой Пролога занимались Aiden, Coffe, nerferd_ и snolls.
+  Разработкой пролога занимались Aiden, Coffe, nerferd_ и snolls.
   Графику нарисовали Bissy, Circumplex, Coffe, Earthwise, mosscairn, neo_zoid, nerferd_, Phrog, PowerAV, и snolls.
   Спрайты монумента нарисовал neo_zoid.
   Задний фон нарисовал nerferd_.
@@ -857,7 +857,7 @@ StrawberryJam2021_2_Intermediate_thebreadstick1_collabcredits=
 StrawberryJam2021_2_Intermediate_vitellary=
   Pointless Machines
 StrawberryJam2021_2_Intermediate_vitellary_postcard=
-  Данная карта основана на запоминании но для облегчения, вы можете включить вспомогательную настройку {# 44aa99}Отображать Последовательность Рывков{#}.
+  Данная карта основана на запоминании, но для облегчения, вы можете включить вспомогательную настройку {# 44aa99}Отображать Последовательность Рывков{#}.
 StrawberryJam2021_2_Intermediate_vitellary_author=
   от vitellary
 StrawberryJam2021_2_Intermediate_vitellary_collabcredits=
@@ -4139,7 +4139,7 @@ SJ2021_Linj_DownComfTwo=
   [Madeline left distracted]
   ....Так, на чём я там остановилась?
   [MADELINE left normal]
-  Oh right! {0.5}{>> 0.4}{~}ТАГАН{/~}{>>}!
+  О, точно! {0.5}{>> 0.4}{~}ТАГАН{/~}{>>}!
   ТАДЖИКИ
   ТАДЖИКСКИЙ
   ТАЕЖНИК
@@ -9727,7 +9727,7 @@ SJ2021_Credits_Category_Mapping= Карты
 SJ2021_Credits_Category_Lobby= Лобби
 SJ2021_Credits_Category_Gym= Залы
 SJ2021_Credits_Category_Coding= Код
-SJ2021_Credits_Category_Art= Арты
+SJ2021_Credits_Category_Art= Графика
 SJ2021_Credits_Category_Music= Музыка
 SJ2021_Credits_Category_Decoration= Декорации
 SJ2021_Credits_Category_Playtesting= Плейтесты
