@@ -19,3 +19,6 @@
 * SJ2021_Tortoise_2d спросить про возможность адаптации
 * SJ2021_Tortoise_x4= тут была шутка про "red flags", поэтому я перевел её как "тревожные звоночки"
 * SJ2021_Tortoise_5d i need a context to understand a joke
+* SJ2021_Gym_Bulletin3 - исправить названия сложностей
+* StrawberryJam2021_4_Expert_ZZ_Heartside_postcard - улучшить перевод
+* привести "Heartside" и "Heart Side" к одному стилю. Возможно стоит выбрать вариант через дефис?
