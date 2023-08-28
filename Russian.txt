@@ -1693,7 +1693,7 @@ StrawberryJam2021_5_Grandmaster_fishtank_collabcredits=
 StrawberryJam2021_5_Grandmaster_Hydro=
   Shattersong
 StrawberryJam2021_5_Grandmaster_Hydro_postcard=
-  {big}Слушай внимательно:{/big}{n}Эта карта основана на {# 4a8ef7}музыкальных подсказках{#}.{n}Рекомендуется гра в {# ca2e55}наушниках{#}.
+  {big}Слушай внимательно:{/big}{n}Эта карта основана на {# 4a8ef7}музыкальном ритме{#}!{n}Рекомендуется играть в {# ca2e55}наушниках{#}.
 StrawberryJam2021_5_Grandmaster_Hydro_author=
   от Hydro & more
 StrawberryJam2021_5_Grandmaster_Hydro_collabcredits=
@@ -7531,188 +7531,188 @@ SJ2021_1_Beginner_snassecret=
 	SJ2021_SOLOIINI_LUXURYSUITE_A=
 	#start zoomed in
 		[MADELINE left distracted]
-		Ugh\.\.\.
+		Мх-х\.\.\.
 	#pan over to Betelflame
 	
 	SJ2021_SOLOIINI_LUXURYSUITE_B=
 		[MADELINE left angry]
-		{!}{*}YOU!{/*}{/!}
+		{!}{*}ТЫ!{/*}{/!}
 	#walk over to him
 	
 	SJ2021_SOLOIINI_LUXURYSUITE_C=
 		[MADELINE left distracted]
-		\.\.\.saved me?
+		\.\.\.спас меня?
 		
 		[BETELFLAME right normal]
-		{!}{~}Yes!{/~}{/!} Say that again!
+		{!}{~}Да!{/~}{/!} Say that again!
 		
 		[MADELINE left upset]
-		\.\.\.Why? {0.5}\.\.\.Are you {*}recording me?{/*}
+		\.\.\.Почему? {0.5}\.\.\.Ты что, {*}снимаешь меня?{/*}
 		[MADELINE left angry]
-		{!}Is that all I am to you?{/!} Just another {!}{*}unpaid extra{/*}{/!} for some {!}{*}mediocre popcorn flick?{/*}{/!}
+		{!}И это все, чем я являюсь для тебя?{/!} Просто {!}{*}бесплатная добавка {/*}{/!} к {!}{*}кинцу под попкорн?{/*}{/!}
 		
 		[BETELFLAME right normal]
-		No, not at all. {0.2}I wish I had been, though — {0.4}what a performance!
-		I knew I was right to trust my intuition about you.
+		Вовсе нет. {0.2}Я бы хотел, чтобы это так, но это — {0.4}было прекрасное представление!
+    Я знал, что довериться тебе - хорошая идея.
 		
 		[BETELFLAME right smug]
-		With a little practice, you could be my next {0.05}{~}{# f0e73d}co-star{#}!{/~}
+    Немного практики и ты бы даже смогла стать моей {0.05}{~}{# f0e73d}напарницей{#}!{/~}-
 
 		[MADELINE left upset]
-		I didn't think your ego could surprise me after our fireside chat earlier, but {!}clearly{/!}{0.15} I underestimated you.
-		First of all, I would rather bathe in {0.1}{!}{~}battery acid{/~}{/!} {0.1}than work with you.
-		Secondly,
+    Не думала, что твоё эго будет способно снова удивить меня, особенно после нашего разговора у камина, но я {!}явно{/!}{0.15} тебя недооценила.
+    Во-первых, я бы предпочла искупаться в {0.1}{!}{~}аккумуляторной кислоте{/~}{/!}, {0.1} чем работать с тобой.
+		Во-вторых,
 		
 		[MADELINE left angry]
-		{big}{!}{*}What the hell is going on?{/*}{/!}{/big}
-		Was all of this an {!}act{/!}? Is the {# F3B343}{~}crystal{/~}{#} {0.1}just a {!}prop{/!}?
-		Why make me go to such lengths for a {!}performance{/!}?
+		{big}{!}{*}Что за цирк здесть творится?{/*}{/!}{/big}
+		Это всё просто {!}номер{/!}? А {# F3B343}{~}кристалл{/~}{#} {0.1}тупая {!}фальшифка{/!}?
+		Зачем заставлять меня заходить так далеко ради {!}выступления{/!}?
 		
 		[MADELINE left distracted]
-		{0.2}{+thought}I feel like I'm losing my mind...{+endthought}
+		{0.2}{+thought}Я сейчас просто с ума сойду...{+endthought}
 		
 		[BETELFLAME right serious]
-		Believe me, if this train was just a set, {0.1}I would've walked off {0.1}{!}{~}eons{/~}{/!} {0.1}ago.
+    Поверь мне, если бы этот поезд был лишь декорацией, {0.1}я бы ушёл от сюда {0.1}{!}{~}вечность{/~}{/!} {0.1}назад.
 		
 		[BETELFLAME right annoyed]
-		And the {# F3B343}{~}crystal{/~}{#} — do you think I would commit a {!}{*}felony{/*}{/!} to get my hands on a {!}{~}prop?{/~}{/!}
+		А {# F3B343}{~}кристалл{/~}{#}... Думаешь, я бы пошёл на {!}{*}уголовное преступлнеие{/*}{/!} ради какой-то {!}{~}фальшифки?{/~}{/!}
 		
 		[BETELFLAME right serious]
-		I really was stuck here, and you happened to find the {~}{# F3B343}golden ticket{#}.{/~}
-		But now, after everything I've seen\.\.\.
+		Я на самом деле застрял здесь, and you happened to find the {~}{# F3B343}golden ticket{#}.{/~}
+		Но теперь, после всего, что я увидел\.\.\.
 		
 		[BETELFLAME right normal]
-		You have potential, kid. My offer is still on the table.
-		Even beyond acting, though, your sheer {~}determination{/~} is commendable.
+		В тебе есть потенциал. И моё предложение всё ещё в силе.
+		Твоя {~}решимость{/~} достойна похвалы, ведь она выходит далеко за рамки простой игры.
 		
 		[BETELFLAME right thinking]
-		{+thought}It's almost concerning, honestly\.\.\.{+endthought}
+		{+thought}Подозрительно это всё\.\.\.{+endthought}
 		
 		[MADELINE left distracted]
-		Thanks?
+		Спасибо, наверное?
 		
 		[MADELINE left upset]
-		I still don't understand why you put me through that, though.
-		We could've just talked this over back on that asteroid.
+    Хотя я все еще не понимаю, зачем ты заставил меня пройти через это.
+    Мы могли бы просто обсудить это еще на том астероиде.
 		
 		[BETELFLAME right normal]
-		Why did I drop you into a malfunctioning engine room with a fuel leak?
-		{>> 99.0}                     {>>}Simple:
+		Почему я оставил тебя в неисправном машинном отделении с утечкой топлива?
+		{>> 99.0}                     {>>}Всё просто:
 		
 		SJ2021_SOLOIINI_LUXURYSUITE_D=
 		[BETELFLAME right smug]
-		{>> 99.0}                    {>>}{0.05}{>> 0.4}{~}Method acting.{/~}{>>}
+		{>> 99.0}                    {>>}{0.05}{>> 0.4}{~}Это прекрасная сцена.{/~}{>>}
 	
 		SJ2021_SOLOIINI_LUXURYSUITE_E=
 		[MADELINE left deadpan]
 		\.\.\.
 		
 		[MADELINE left upset]
-		I would tell you to burn, but\.\.\.
+		Я бы тебя послала куда подальше, но\.\.\.
 		
 		[BETELFLAME right thinking]
-		Yes, very funny.
+		Ага, очень смешно.
 		
 		[BETELFLAME right normal]
-		Anyways, this locomotive's boiler room is located directly across from my {0.1}{# c6a75a}{~}luxury suite{#}.{/~}
-		If the last time is any indication, {0.1}the {# F3B343}{~}crystal{/~}{#} should be just outside. {0.1}I think you can take it from there.
+    В любом случае, котельная локомотива находится аккурат напротив моего {0.1}{# c6a75a}{~}раскошного вагона{#}.{/~}
+    И судя по последней информации, {0.1}{# F3B343}{~}кристалл{/~}{#} должен быть снаружи. {0.1}Думаю, ты сможешь забрать его прямо от сюда.
 		
 		[MADELINE left upset]
-		You got that much right.
+		В этом ты прав.
 		
 	SJ2021_SOLOIINI_LUXURYSUITE_F=
 		[BETELFLAME right thinking]
-		Say, I never did catch your name\.\.\.
+		Слушай, я так и не узнал твоего имени\.\.\.
 		
 		[MADELINE left distracted]
 		{+MADELINE}.
-		I'm still trying to process\.\.\. {0.3}well, {0.1}all of this, really.
+		Знаешь, я все ещё пытаюсь переварить\.\.\. {0.3}Ну, {0.1}всю эту ситуацию.
 		
 		[MADELINE left upset]
-		But if you aren't trying to {!}{*}kill{/*}{/!} me anymore, {n}that's a start.
+		Но, если ты больше не пытаешься {!}{*}убить{/*}{/!} меня,{n}то это только начало.
 		
 		[BETELFLAME right normal]
-		I wouldn't use such\.\.\. {0.15}{~}belligerent{/~} {0.05}language, {0.1}but\.\.\.
+		Я бы не хотел.\.\. выражаться {0.15}{~}грубо{/~}{0.05}, {0.1}но\.\.\.
 		
 		[MADELINE left upset]
-		We should just move on.
+		Мы должны идти.
 		
 		[BETELFLAME right serious]
-		{>> 99.0}                     {>>}Agreed.
+		{>> 99.0}                     {>>}Принято.
 		
 	#start of choice cutscene below
 	
 	SJ2021_SOLOIINI_LUXURYSUITE_G=
 		[MADELINE left distracted]
-		I should probably get going now.
+		Ну, я пойду тогда.
 		
 	SJ2021_SOLOIINI_LUXURYSUITE_H_ASK=
 		[MADELINE left upset]
-		So you're done making me put up with your act?
+    Думаешь, я смирился с твоим притворством?
 		
 	SJ2021_SOLOIINI_LUXURYSUITE_H_SAY=
 		[MADELINE left upset]
-		So you're done making me put up with your {!}act?{/!}
+    А ты думаешь, я смирилась с {!}твоим?{/!}
 		
 		[BETELFLAME right normal]
-		Yes, yes, {0.1}that's all in the past.
-		I meant what I said about your acting ability, though.
-		Even if you're not ready now, maybe in the future you would be willing to—
+		Ладно, ладно, {0.1}всё это уже в прошлом.
+		Я говорил про твоё актерское мастерство.
+    Даже если ты не готова сейчас, может в будущем ты бы захотела-
 		
 		[MADELINE left upset]
-		{*}No.{/*}
+		{*}Нет.{/*}
 		
 		[BETELFLAME right serious]
-		Suit yourself. {0.1}It would be a shame to see such talent go to waste.
+		Как хочешь. {0.1}Но было бы обидно видеть, как такой талант пропадает даром.
 		
 		[BETELFLAME right normal]
-		At the very least, would you allow me to invite you back here if the occasion arose?
+    Но хотя бы, позволишь мне пригласить тебя сюда ещё раз при случае?
 		
 		[MADELINE left distracted]
-		Well\.\.\.
+		Ну-у\.\.\.
 		
 		[MADELINE left upset]
-		Maybe if you actually allowed me to leave without completing some {0.05}{~}ridiculous acrobatics routine.{/~}
+    Только если ты не заставишь меня снова выпонять всю эту {0.05}{~}"великолепную" акробатическую программу.{/~}
 		
 		[BETELFLAME right normal]
-		Yes, of course.
-		My parties were legendary, you know.
+		Конечно-конечно.
+		Ведь знаешь, мои роли были просто легендарными.
 		
 		[BETELFLAME right smug]
-		Every A-list actor in the galaxy would practically {~}crawl{/~} to me on their knees just to {~}beg{/~} for an invite!
+		Каждый первоклассный актер в галактике практически {~}приполз бы ко мне на коленях только для того, чтобы {~}умолять{/~} о приглашении!
 		
 		[MADELINE left distracted]
-		I guess a vacation would be nice after all this\.\.\.
+		Думаю, отдых после всего этого бы не помешал\.\.\.
 		
 		[MADELINE left upset]
-		And you {!}definitely{/!} owe it to me.
+		И ты теперь {!}определённо{/!} должен мне.
 		
 	SJ2021_SOLOIINI_LUXURYSUITE_I_ASK=
 		[MADELINE left sad]
-		Doesn't anyone miss you back home?
+		Неужели никто не скучает по тебе дома?
 		
 	SJ2021_SOLOIINI_LUXURYSUITE_I_SAY=
 		[MADELINE left sad]
-		Doesn't anyone miss you back home?
+		Неужели никто не скучает по тебе дома?
 		
 		[MADELINE left distracted]
-		Actually, where even {~}is{/~} your home?
+		Кстати, а {~}где{/~} вообще твой дом?
 		
 		[BETELFLAME right serious]
-		You can see it from this very window.
-		And yes, perhaps they do miss me by now.
+		Ты можешь видеть его из этого самого окна.
+    И да, возможно, там действительно скучают по мне.
 		
 		[BETELFLAME right smug]
-		After all, {~}who wouldn't?{/~}
+		После всего, {~}кто бы не стал?{/~}
 		
 		[MADELINE left upset]
-		I wonder.
+		Удивительно.
 		
 		[BETELFLAME right smug]
-		But no matter. Soon I shall return and shine brighter than ever before!
+		Хотя не важно. Скоро я вернусь и буду сиять ярче, чем когда-либо прежде!
 		
 		[BETELFLAME right serious]
-		\.\.\.In no small part thanks to your help here.
+		\.\.\.В не малой степени благодаря твоей помощи.
 
 # === SpoopySoup
 
@@ -7783,10 +7783,10 @@ SJ2021_Stotch_Secret_1=
 SJ2021_Stotch_Secret_2=
 [Madeline left deadpan]
   Sprint
-  by KAERRA
+  от KAERRA
 
 SJ2021_Stotch_Secret_3=
-  thank you kaerra .
+  Спасибо, kaerra .
 
 SJ2021_Stotch_TUTORIAL= HOLD
 
@@ -7904,11 +7904,11 @@ SJ2021_thebreadstick1_Cutscene3=
   I think it was the pink one up there.
   [MADELINE left determined]
   Let's do it.
-SJ2021_thebreadstick1_Text1=hi
-SJ2021_thebreadstick1_Text2=hello
-SJ2021_thebreadstick1_Text3=hey
-SJ2021_thebreadstick1_Text4=howdy
-SJ2021_thebreadstick1_Text5=WAVEDASH
+SJ2021_thebreadstick1_Text1=ку
+SJ2021_thebreadstick1_Text2=привет
+SJ2021_thebreadstick1_Text3=эй
+SJ2021_thebreadstick1_Text4=какты
+SJ2021_thebreadstick1_Text5=ВЕЙВДЭШ
 
 # === The Cookie Monster
 SJ2021_tcookiem_spike_wallbounce_tutorial=
