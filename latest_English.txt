@@ -1,6 +1,3 @@
-# Это самая последняя версия английского файла, постараюсь обновлять, если будут выходить новые
-# Используйте её, чтобы вспомнить затертый оригинал
-
 modname_StrawberryJam2021=
   Strawberry Jam Collab
 endscreen_collabname_StrawberryJam2021= 
@@ -5577,7 +5574,7 @@ SJ2021_maya_bird_1= Demo Dash
 
 SJ2021_Maya_moonboost=
   {# d678db}{~}This map uses moonboosts{/~}
-  {# FFFFFF}Demohyper into the top 3 pixels on the side of a moon block for an extra boost.
+  {# FFFFFF}Demohyper into the top 4 pixels on the side of a moon block for an extra boost.
   {# d678db}{~}You should probably go to the gym if you aren't familiar with this{/~}
 
 SJ2021_Maya_greenspring=
@@ -5591,7 +5588,7 @@ SJ2021_Maya_moonspringboost=
   After dashing into a moonblock spring, dash back into the spring for an additional boost. You can jump when hitting the spring the second time to get a slower but higher boost.
 
 SJ2021_Maya_Theoberry=
-  When hitting a bumper while holding Theo, release grab before freeze frames. 
+  When hitting a bumper while holding Theo, release grab immediately after hitting the bumper.
   If done properly, you will briefly be able to dash while holding Theo after the dash cooldown ends.
   The blue barriers in this room will block Theo but not the player, so Theo can pass through these barriers while being held.
 
@@ -9037,10 +9034,10 @@ SJ2021_Gym_Grandmaster_CrouchDash8=
 
 #Grandmaster Dream Double Jump
 SJ2021_Gym_Grandmaster_DreamDJs1=
-  If you jump on the frame you leave a dream block, you will remain in coyote state and can jump a second time.
-  This has no significant impact on the height gained from the technique, but the horizontal boost from jumping is applied twice.
+  If you jump on the frame you leave a dream block, you can jump a second time during coyote frames.
+  This has only a small impact on the height gained from the technique, but the horizontal boost from jumping is applied twice.
   As a result, dream double jumps give more speed and distance than normal dream jumps.
-  Both jumps can be buffered, so to perform a dream double jump, press jump once just before leaving the dream block and then quickly press jump again.
+  To perform a dream double jump, jump once just before leaving the dream block (buffering it), and jump once just after leaving it.
   To make these inputs more comfortable, it is recommended to bind a second jump button.
 SJ2021_Gym_Grandmaster_DreamDJs2=
   Dream double jumps can also be used to cancel momentum out of dream blocks.
@@ -9078,7 +9075,7 @@ SJ2021_Gym_Grandmaster_Grounded3=
   Gultras are commonly performed after ultras.
   Here, first perform an extended hyper followed by an ultra.
   After landing, dash down-right into the ground to gultra. This allows you to gain the ultra boost twice.
-  You do not need to jump between landing from the ultra and performing the gultra, as the resulting boost is negligible.
+  You often do not need to jump between landing from the ultra and performing the gultra, as the resulting boost is relatively small.
   Here, pick up the jelly to cancel the dash before jumping over the gap. With proper spacing, you can hold grab to pick up the jelly.
   If you gultra on the same frame you land or buffer the gultra, you will sometimes not get the first ultra boost.
   As a result, it is recommended to try to "slide" on the ground for at least one frame before performing a gultra.
