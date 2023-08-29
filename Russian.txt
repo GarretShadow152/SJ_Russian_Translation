@@ -7788,122 +7788,122 @@ SJ2021_Stotch_Secret_2=
 SJ2021_Stotch_Secret_3=
   Спасибо, kaerra .
 
-SJ2021_Stotch_TUTORIAL= HOLD
+SJ2021_Stotch_TUTORIAL= ЗАЖМИТЕ
 
-# == TiltTheStars
+# === TiltTheStars
 StrawberryJam2021_3_Advanced_TiltTheStars_hornet= [MADELINE left normal]The Vespa orientalis is a hornet that can photosynthesize! Pretty cool!
 
-StrawberryJam2021_3_Advanced_TiltTheStars_distract= [MADELINE right distracted]What am I doing up here?
+StrawberryJam2021_3_Advanced_TiltTheStars_distract= [MADELINE right distracted]Ну и что я здесь забыла?
 
 StrawberryJam2021_3_Advanced_TiltTheStars_credits=
-  Hey there, it's TiltTheStars! I'm so happy with what I was able to accomplish here with the help of the Celeste community!
-  I want to give a huge thank you to...
-  Drum roll please!
-  Maladroit for the song and remix! BeanJammin for the FMOD help!
-  mintberry and SpoopySoup for the foreground tileset! Flagpole1up for the background tileset!
-  Eeveeisepic for the Badeline Boss resprite as a queen bee!
-  nerferd_ for the bee retexture! phant for the bee plushie decal!
-  elrupio for the spikes retexture! Peteksi and mintberry for the cherry tree decal!
-  maddie480 for putting the SJ bee entity together and writing the code for it!
-  Lyra for creating hexagonal godrays!
-  tobyaaa and Majora320 for putting together the honey wall entity!
-  Vamp and maddie480 for making the honeycomb death wipe!
-  Helen and Aiden for helping me with deco!
-  Moladan and Worldwaker2 for helping me with camera!
-  Cabob for doing gameplay touch-ups!
-  elrupio and Lollyde for playtesting from the very beginning!
-  kat for creating the sticker!
-  Who knew that making a map could have so many people involved!
-  I appreciate all your help <3 Until next time!
+  Привет, это TiltTheStars! I'm so happy with what I was able to accomplish here with the help of the Celeste community!
+  Я бы хотел высказать огромную благодарность...
+  Барабанная дробь!..
+  Maladroit за музыку и её ремикс! BeanJammin за FMOD help!
+  mintberry и SpoopySoup за передний фон! Flagpole1up за задний фон!
+  Eeveeisepic за создание текстур босса Королевы Пчёл!
+  nerferd_ за текстуру пчёл! phant за спрайт плюшевой пчёлки!
+  elrupio за текстуру шипов! Peteksi и mintberry за спрайт вишневого дерева!
+  maddie480 за техническую сборку пчёл и написание для этого кода!
+  Lyra за создание атак босса!
+  tobyaaa и Majora320 за техническую сборку стены мёда!
+  Vamp и maddie480 за кастомный экран смерти!
+  Helen и Aiden за помощь с декорированием!
+  Moladan и Worldwaker2 за регулировку камеры!
+  Cabob за улучшение геймплея!
+  elrupio и Lollyde за плейтесты с начала разработки!
+  kat за создание стикера!
+  Кто же знал, что разработка карты потребует участия стольких людей!
+  Я очень ценю вашу помощь <3 Пока-пока!
 
 # === thebreadstick1
 SJ2021_thebreadstick1_Cutscene1=
   [MADELINE right normal]
-  There you are {# FF9523}Theo{#}! I came as soon as I could!
+  Вот ты где, {# FF9523}Тео{#}! Я пришла как только смогла!
   [THEO left excited]
-  {# F94A4A}{savedata Name}{#}, I'm so happy you're here! 
+  {# F94A4A}{savedata Name}{#}, Я так рад, что ты добралась до сюда! 
   [THEO left worried]
-  I'm in a bit of a pickle and could really use some help.
+  У меня тут возникли небольшие трудности, и мне не помешала бы некоторая помощь.
   [MADELINE right sad]
-  I might be able to help, what's going on?
+  Возможно, я смогу помочь, так что случилось то?
   [THEO left thinking]
-  Well, I snuck into this construction site while all of the workers were sleeping.
+  Ну, я пробрался на эту строительную площадку, пока все рабочие спали.
   [THEO left excited]
-  Probably wasn't the brightest idea but hey, {~}you only live once!{/~}
+  Наверное, это была не самая лучшая идея, но ведь мы {~}живём только один раз!{/~}
   [THEO left normal]
-  Anyways, I stumbled across some strange-looking {# ff74ff}crystals{#} that I wanted to check out.
-  As soon as I picked one up...
+  Короче, я наткнулся на несколько странно выглядящих {# ff74ff}кристаллов{#}, и я захотел рассмотреть их поближе.
+  Но как только я взял один из них в свои руки...
   [THEO left excited]
-  {~}{big}{!}BAM!!!{/!}{/big}{/~}
+  {~}{big}{!}БУМ!!!{/!}{/big}{/~}
   [THEO left normal]
-  The whole construction site exploded with {# ffff8f}electricity{#} and {# ff74ff}crystals{#}.
+  Вся строительная площадка взорвалась и покрылась {# ffff8f}электричеством{#} и этими {# ff74ff}кристаллами{#}.
   [MADELINE right normal]
-  Hey, I ran into one of those {# ff74ff}crystals{#} earlier! 
+  Я уже сталкивалась с такими {# ff74ff}кристаллами{#} ранее! 
   [THEO left serious]
-  Be careful with those {# ff74ff}crystals{#}.
+  Хорошо, но всё равно, будь осторожна.
   [THEO left thinking]
-  If they could cause this mess, who knows what other mystical powers they possess.
+  Если они смогли устроить такой беспорядок, кто знает, какими еще мистическими силами они обладают.
   [MADELINE right normal]
-  Yeah, you can really feel the power {~}oozing{/~} off of them.
+  Да, я прямо таки могу почувствовать нечто {~}исходящее{/~} от них.
   [THEO left normal]
-  Anyways, it's almost time for the construction workers to wake up.
+  Хм, совсем скоро здесь проснутся рабочие.
   [THEO left worried]
-  Who knows what could happen if they see this giant mess...
+  Кто знает, что произойдёт, если они увидят этот бардак...
   [MADELINE right distracted]
-  So you need help cleaning up all of this {# ffff8f}electricity{#}?
+  Тебе понадобится какая-то помощь, чтобы разобраться с этим {# ffff8f}электричеством{#}?
   [MADELINE right upset]
-  Fine, I guess I can help.
+  Нет, думаю я смогу сама разобраться с этим.
   [THEO left excited]
-  Awesome!
+  Отлично!
   [THEO left normal]
-  One last thing, you can use these lifts to get around the site easier.
+  И последнее. Тут есть специальные подъёмники, можешь использовать их для удобного перемещения.
   [MADELINE right normal]
-  Alright, I'll see what I can do.
+  Хорошо, сейчас посмотрим, что я смогу сделать.
 SJ2021_thebreadstick1_Cutscene2=
   [MADELINE left upset]
-  Jeez {# FF9523}Theo{#}, how much longer do we have to clean up this {# ffff8f}electricity{#}?
+  Господи, {# FF9523}Тео{#}, сколько ещё нам возиться с этим {# ffff8f}электричеством{#}?
   [THEO right normal]
-  Sorry, there's still a few more boxes to break just down here.
+  Прости, но тут осталось совсем немного, всего парочка коробок прямо под нами.
   [MADELINE left upset]
-  Great.
+  Ладно.
   [MADELINE left distracted]
-  Let's just both go down there and get this done.
+  Тогда давай спустимся вместе и покончим уже с этим.
   [THEO right thinking]
-  Well, about that...
+  Говоря об этом...
   [THEO right worried]
-  It looks really dangerous down there and {0.5}you know...
+  Понимаешь, {0.5}весь этот путь выглядит очень опасным для неподготовленного человека...
   [MADELINE left upset]
-  I guess I'll just go down there by myself.
+  Понятно, опять придётся делать всё самой.
   [THEO right worried]
-  Don't worry about me, I'll {0.5}uh {0.5}{~}stand guard{/~} {0.5}up here.
+  Но не волнуйся за меня, я буду... {0.5}э... {0.5}{~}стоять здесь на шухере{/~} {0.5}.
   [MADELINE left upset]
-  {0.5}{!}Thanks.{/!}
+  {0.5}{!}Спасибо.{/!}
 SJ2021_thebreadstick1_Cutscene3=
   [MADELINE left normal]
-  Looks like I reached the bottom.
-  That probably means I've almost gotten all of the {# ffff8f}electricity{#}!
+  Похоже, я успешно спустилась.
+  Значит я крайне близка к тому, чтобы закончить уже с этим!
   [MADELINE left distracted]
-  Just in time too, I can hear the construction workers arriving.
+  Я как раз могу слышать, как сюда потихоньку приближаются рабочие.
   SJ2021_thebreadstick1_Cutscene5=
   [MADELINE left surprised]
-  {# FF9523}Theo{#}! I thought you weren't coming down here!
+  {# FF9523}Тео{#}! Я думала ты не спустишься сюда!
   [THEO right thinking]
-  I may have gotten bored of... standing guard.
+  Да мне просто наскучило... стоять на шухере.
   [THEO right excited]
-  Hey, I recognize this place!
+  О, я помню это место!
   [THEO right normal]
-  This is where I picked up the {# ff74ff}crystal{#} that started this whole fiasco.
+  Здесь я и подобрал тот {# ff74ff}кристалл{#}, который и заварил всю эту кашу.
   [MADELINE left distracted]
-  I guess that would explain the mess.
+  Думаю, это объясняет весь этот беспорядок...
   [THEO right excited]
-  Wait, I have an idea.
-  What if we used the {# ff74ff}crystal{#} that started it all to finish the job and get rid of that last piece of electricity?
+  Погоди, у меня есть идея.
+  Что если мы используем {# ff74ff}кристалл{#} с которого всё началось, чтобы собственно и закончить с этим?
   [MADELINE left normal]
-  That's a great idea!
+  Отличная мысль!
   [THEO right normal]
-  I think it was the pink one up there.
+  Я думаю, это тот, розовый, что был там, наверху.
   [MADELINE left determined]
-  Let's do it.
+  Покончим же с этим!
 SJ2021_thebreadstick1_Text1=ку
 SJ2021_thebreadstick1_Text2=привет
 SJ2021_thebreadstick1_Text3=эй
