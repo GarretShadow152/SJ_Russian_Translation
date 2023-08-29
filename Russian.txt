@@ -7031,26 +7031,25 @@ SJ2021_1_Beginner_snassecret=
 
 	SJ2021_SOLOIINI_STAMINA_TUT00=
 		[SIGNPOST]
-		In space, climbing is easier! Thanks to the laws of gravity, {0.3}{# F94A4A}\[NEW USER\]{#}{0.2} can last 9.0909091% longer before exhaustion!
+		Карабкаться в космосе очень легко! Благодаря законам всемирного тяготения, {0.3}{# F94A4A}\[NEW USER\]{#}{0.2} модет продержаться на 9.0909091% дольше перед тем, как устать!
 		
 		[NONE]
-		{#696A6A}(You have been outfitted with an additional 10 stamina. This allows you to squeeze in an extra climbjump if you manage your stamina efficiently.){#}
+		{#696A6A}У вас есть дополнительные 10 выносливость. Это позволит вам сделать дополнительный прыжок по стене, если вы будете эффективно тратить выносливость.){#}
 
 	SJ2021_SOLOIINI_CLUMPS_TUT00=
 		[SIGNPOST]
-		To climb with the {# F3B343}crystal{#}, drop it straight down while moving up against a wall, then grab onto the wall.
-		After the payload's velocity begins to reverse, climbjump and reclaim your precious cargo.
+		Чтобы карабкаться с {# F3B343}кристаллом{#}, скиньте его вниз, пока двигаетесь вдоль стены, затем схватитесь за неё.
+		После того, как кристалл начнёт двигаться вниз, прыгните по стене и заберите ваш ценный груз.
 		
 		[NONE]
-		{# 696A6A}(If you regrab the crystal instead of climbjumping, you didn't fall far enough or pressed grab too soon.)
-		(This tutorial also has playback watchtowers if you're more of a visual learner.){#}
+		{# 696A6A}(Если вы заново подбираете кристалл вместо прыжка, значит вы не упали достаточно низко или нажали карабкаться слишком рано.)
+		(Также в бинокле вы можете увидить, как выпольнять жто движение.){#}
 
 	SJ2021_SOLOIINI_ADVSMUGGLE_TUT00=
 		[SIGNPOST]
-		If you don't know what a dream smuggle is, {n}we recommend you visit the {# E3A279}Expert Gym{#}.
-		When smuggling the {# F3B343}crystal{#} through dream blocks, it's important to consider novel approaches.
-		Take the dream block on the left, for instance — {0.1}there are two ways to go about it.
-		You could throw the {# F3B343}crystal{#} against the side of the dream block, dash up, then immediately dash towards the dream block while regrabbing the payload.
+		Если вы не знаете, как проносит объекты через дрим блоки, {n}мы рекомендуем пойти в {# E3A279}Экспертный Зал{#}.
+		Когда вы проносите {# F3B343}кристалл{#} через дрим блоки, это важно находить новаторские подхода.
+		Например, возьмите дримблока слева — {0.1}есть два способа пройти это препятствие.		You could throw the {# F3B343}crystal{#} against the side of the dream block, dash up, then immediately dash towards the dream block while regrabbing the payload.
 		Alternatively, if you feel like making your life harder, you could regrab the {# F3B343}crystal{#} after dashing up, drop it, then smuggle your cargo through the dream block.
 		This is less efficient than the first method and not endorsed by {# C71A42}Venus R&D{#}.
 		If you exit a spiked dream block while facing inwards and holding the {# F3B343}crystal{#}, you will die.
