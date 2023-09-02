@@ -2485,7 +2485,7 @@ SJ2021CoupCritikNest8=
 
    APE_EXIT= ВЫХОД
    TUTORIAL_ZIPP= БЛОКБУСТ
-   TUTORIAL_BLUEFLOWERS= ОТПУСТИ
+   TUTORIAL_BLUEFLOWERS= ОТПУСТИТЕ
 
 # === Dav
 
@@ -2977,13 +2977,13 @@ SJ2021_EXHS_F07=
 
 sj2021_ezel_secret=
 [MADELINE left normal]
-Эта карта концептуально вдохновлена небольшой инди-игрой {# FFFF66}EAT GIRL{#}, созданной tesselode!
+Эта карта концептуально основана на небольшой инди-игре {# FFFF66}EAT GIRL{#}, созданной tesselode!
 
 [MADELINE left normal]
 Концепт погони предложен {# 66FFFF}Greg{#}!
 
 [MADELINE left normal]
-Кроме того, спасибо за {# 66FF66}Archiethon{#}!
+Кроме того, спасибо {# 66FF66}Archiethon{#}!
 
 # === fishtank
 
@@ -3596,7 +3596,7 @@ SJ2021_InFiltration_Seekers=
 [MADELINE left surprised]
 Что это за штуки?
 [EX_PHONE right normal]
-Специализированные охранные дроны.
+Специальные охранные дроны.
 Если заметят - считай ты труп.
 
 SJ2021_InFiltration_Warning=
@@ -3611,7 +3611,7 @@ SJ2021_InFiltration_Warning=
 Как ты меня назвала?
 [MADELINE left normal]
 А, это твой новый позывной.
-Держи в курсе, Так Точно!
+Держи в курсе, так точно!
 
 SJ2021_InFiltration_Blue_Alarm=
 [EX_PHONE right normal]
@@ -3721,29 +3721,29 @@ SJ2021_KAERRA_kaerra_strangeroom=
 
 SJ2021_LegS_HS=
 [MADELINE left distracted]
-Are we even allowed to have {n}dialog in our heartside room?
+Нам даже разрешили вставить{n}диалог на нашем флаге?
 [MADELINE left determined]
-Well, here goes nothing..
+Тогда, здесь точно не произойдёт ничего плохого...
 [MADELINE left deadpan]
-{>> 2}Banned Entities/Other{>>}
+{>> 2}Запрещённые Сущности/Другое{>>}
 [MADELINE left deadpan]
-{>> 3}The following entities are banned in maps:{>>}
+{>> 3}Следующие сущности были запрещены к использованию:{>>}
 [MADELINE left deadpan]
-{>> 4}Intro Car (Soft ban, Secrets & Easter Eggs){>>}
+{>> 4}"Машина из Интро" (Не рекомендуется, Секреты и Пасхалки){>>}
 [MADELINE left deadpan]
-{>> 5}Moon Berry (Strawberries) & other “special” collectibles{>>}
+{>> 5}Лунная Ягода (Клубнички) и прочие подобные объекты{>>}
 [MADELINE left deadpan]
-{>> 6}Rainbow Berry (Strawberries){>>}
+{>> 6}Радужная Ягода (Клубнички){>>}
 [MADELINE left deadpan]
-{>> 7}Speed Berry (Strawberries){>>}
+{>> 7}Скоростные Ягоды (Клубнички){>>}
 [MADELINE left deadpan]
-{>> 8}Vanilla Summit Gems {n}(Use Communal Helper’s gems instead){>>}
+{>> 8}Кристаллы из "Веришины" {n}(Лучше использовать кристаллы из Communal Helper){>>}
 [MADELINE left deadpan]
-{>> 10}B-side Cassettes{>>}
+{>> 10}Кассеты Стороны Б{>>}
 [MADELINE left deadpan]
-{>> 100}“Fade” Death Swipe{>>}
+{>> 100}Экран смерти из “Fade”{>>}
 [MADELINE left togetherZoom]
-{>> 1}Thanks for listening to my ted talk,{0.5} {n}it helps me out{1} {~}a lot{/~}.{>>}
+{>> 1}Спасибо, что прослушали мой TED Talk,{0.5}{n}это {~}очень{/~} помогло мне.{>>}
 
 SJ2021_LegS_cs1=
 *You walk into a dimly lit room.
