@@ -1906,8 +1906,8 @@ SJ2021_Agent_Curiosity=
 # === Alisticious
 
 SJ2021_alisticious_bird_1= Рывок Полумесяц
-SJ2021_alisticious_bird_2= Вверх-вниз Ультра
-SJ2021_alisticious_bird_3= Сюрикен
+SJ2021_alisticious_bird_2= Вверх-Вниз Ультра
+SJ2021_alisticious_bird_3= Шорюкен
 
 SJ2021_alisticious_cablog= 
 Cablog #²
@@ -1918,12 +1918,12 @@ TheIceATheWallBounce
 
 SJ2021_alisticious_BlueBaron=
 Приветсвую тебя, друг! Не хочешь насладиться со мной несколькими мелодиями?
-Прости что не представился.{n}Я {# 7ad0e5}The Blue Baron{#}, уважаемый талисман Alisticious.
-Я бы хотел поблагодарить mintberry за то, что потратил время и усилия на то, чтобы я мог пообщаться с вами в этой форме. <3
-Feel free to relax here for as long as you want. I know the water appears reddish, but I assure you this is not blood. It is simply juice from some strawberries!
-Eh? You say you're going to head out now?
-Well then, best of luck to you my friend. I hope to talk to you again some time, whether it be here, in livestream chats, or on Discord.
-Thank you for stopping by!
+Ой, прости что не представился.{n}Я {# 7ad0e5}The Blue Baron{#}, уважаемый талисман Alisticious.
+Я бы хотел поблагодарить mintberry за то, что потратил столько времени и сил, чтобы я мог пообщаться с вами в этой форме. <3
+Можешь быть здесь столько, сколько душе угодно. Я знаю, что вода кажется красноватой, но будь уверен, это не кровь, а всего лишь клубничный сок!
+А? Говоришь, тебе уже нужно идти?
+Чтож, тогда лишь желаю удачи, мой друг. Надеюсь мы ещё встретимся, не важно где, в чате стримов или Дискорде.
+Спасибо, что забежал ко мне!
 
 SJ2021_alisticious_decode=
 Удивительно то, какие повороты мы совершаем, прокручивая 
@@ -1942,74 +1942,74 @@ SJ2021_alisticious_original=
 SJ2021_alisticious_practice= Практика
 
 SJ2021_alisticious_Bad1=
-Привет,
+Привет
 SJ2021_alisticious_Bad2=
 Computer Badger!
 
 # === Appels
 
-SJ2021_Appels_propellerboxbird= Propeller Box
-SJ2021_Appels_1984=  [MADELINE_PHONE left upset] The entity Intro Car is soft-banned.
-         [MOM_PHONE right concerned] It has a reputation of being a low-effort secret in the community.
-         [EX_PHONE left normal] Having good reason to include it{n} as a secret or easter egg should be{n} brought up to Captains for an exception.
-         [GRANNY right creepB] Re-sprites or more interesting uses of the Intro Car may be considered.
+SJ2021_Appels_propellerboxbird= Короб с Пропеллером
+SJ2021_Appels_1984=  [MADELINE_PHONE left upset] Внимание: ущность "Машина из Интро" не рекомендуется к использованию.
+         [MOM_PHONE right concerned] Причина: низкая репутация секрета в сообществе.
+         [EX_PHONE left normal] У вас должны быть веские причины,{n}а также разрешение Капитанов,{n}чтобы использовать это в качестве секрета.
+         [GRANNY right creepB] Но ре-спрайт или более интересное использование "Машины из Интро" всё ещё может быть рассмотрено.
 
 # === Archire
 
-SJ2021_archire_tutorial1= Reverse Auto Super
+SJ2021_archire_tutorial1= Ревёрс-Авто-Супер
 
 # === Aspar
 StrawberryJam2021_4_Expert_4_asparSJcollab_theo_dialogue=
 [THEO right serious]
-This place is kinda weird...
+Странноватое конечно местечко...
 [MADELINE left distracted]
-Yeah, I noticed already.
+Да, тоже обратила внимание.
 [THEO right serious]
-If you find yourself stuck for some reason, maybe you should try downloading the Stamina Meter mod.
+Если почувствуешь какие-либо трудности, попробуй использовать мод Stamina Meter.
 [MADELINE left normal]
-You should try minding your own business {+THEO}.
+Любопытной Варваре на базаре нос оторвали, {+THEO}.
 [THEO right worried]
-Woah, sorry...
+Оу, прости...
 
 StrawberryJam2021_4_Expert_4_asparSJcollab_theo_dialogue_2=
 [THEO left excited]
-That wasn't so hard, was it?
+Было довольно трудно, не так ли?
 [MADELINE right distracted]
 ...
 [THEO left excited]
-There were some tough rooms, sure, but once I noticed you can walljump twice off trigger spikes if you're fast enough, some parts became a little easier.
+Здесь было несколько душных комнат, но как только заметишь, что перед появлением шипов можно успеть прыгнуть ещё раз, некоторые части становятся проще.
 [THEO left normal]
-You know what I'm talking about, right?
+Ты же понимаешь, о чём я, верно?
 [MADELINE right distracted]
-I don't think that was intended, {+THEO}.
+Не думаю, что проходить таким способом это честно, {+THEO}.
 [THEO left yolo]
-Who cares!
+Да кому не пофиг!
 
 # === Astraxel
 
-SJ2021_astraxel_bird_1=Grey Time Crystal
-SJ2021_astraxel_bird_2=Blue Time Crystal
-SJ2021_astraxel_bird_3=Time Refill
+SJ2021_astraxel_bird_1=Серый Кристалл Времени
+SJ2021_astraxel_bird_2=Голубой кристалл Времени
+SJ2021_astraxel_bird_3=Продление Эффекта
 
 SJ2021_astraxel_birdnest=
 [MADELINE left normal]
-How can it nest with so much sand around?
+Как они могут гнездиться, когда вокруг столько песка?
 SJ2021_astraxel_comf=
 [MADELINE left peaceful]
-comf
+Уют!
 SJ2021_astraxel_comfnt=
 [MADELINE left sad]
-comfn't
+Не уют!
 SJ2021_astraxel_view=
 [MADELINE right surprised]
-Wait... that cactus was there all along?!?
+Здесь всё это время был кактус!?
 SJ2021_astraxel_noeasyway=
 [MADELINE right distracted]
 I guess the easy way would have been too simple...
          
 # === Banana23
 
-SJ2021_4_CobNob= Bubble Corner Boost
+SJ2021_4_CobNob= Бабл-Корнер-Буст
 
 
   SJ2021_4_TheCoreProblem= 
@@ -2019,13 +2019,13 @@ SJ2021_4_CobNob= Bubble Corner Boost
 
 # === BlueXans
 
-SJ2021_BlueXans_Why= why tho???
+SJ2021_BlueXans_Why= Да почему???
 
 SJ2021_BlueXans_ActuallyNotFunny= 
 [MADELINE left panic]
-Can we pretend that airplanes in the night sky are like shootin' stars?
+Мы можем притвориться, будто самолёты в небе это падающие звёздочки?
 [THEO left wtf]
-I could really use a wish right now, wish right now, wish right now
+Я бы и правда хотел, чтобы моё желание скорее исполнилось, исполнилось, исполнилось!
 
 # === Cabob
 
