@@ -22,3 +22,8 @@
 * SJ2021_Gym_Bulletin3 - исправить названия сложностей
 * StrawberryJam2021_4_Expert_ZZ_Heartside_postcard - улучшить перевод
 * привести "Heartside" и "Heart Side" к одному стилю. Возможно стоит выбрать вариант через дефис?
+* SJ2021_astraxel_bird_2 и 3 уточнить в игре
+* SJ2021_astraxel_birdnest уточнить местоимение в игре
+* SJ2021_4_TheCoreProblem шутка про core problem
+* SJ2021_LegS_secretClueless what is "wounce"? и вообще у этого LegS много странных диалогов, надо будет посмотреть как оно всё будет смотреться в игре
+* SJ2021_LegS_0-39 предлагаю не переводить
