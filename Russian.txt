@@ -3746,134 +3746,134 @@ SJ2021_LegS_HS=
 {>> 1}Спасибо, что прослушали мой TED Talk,{0.5}{n}это {~}очень{/~} помогло мне.{>>}
 
 SJ2021_LegS_cs1=
-*You walk into a dimly lit room.
-*You can see some carvings engraved into the wall.
-*Upon closer inspection you can make out:
+*Вы заходите в тускло освещённую комнату.
+*Вы замечаете что-то вырезанное на стене.
+*Подойдя ближе, вы можете прочитать:
 [MADELINE right determined]
-{>> 0.6}Special {0.3}thanks to my friends from ee{0.4}ny corner. {n}{1}I love you guys!{>>}
+{>> 0.6}Отдельное {0.3}спасибо моим друзьям в{0.4} том углу.{n}{1}Люблю вас, парни!{>>}
 [MADELINE right distracted]
-I wonder what that means...
+Чтобы это могло значить...
 SJ2021_LegS_cs2=
-*You can see a massive coral reef in the distance.
-*You wonder if there's a way to get to it.
+*Вдалеке вы замечаете огромный коралловый риф.
+*Вы задаетесь вопросом, есть ли способ добраться до него.
 SJ2021_LegS_Meomorial=
-This memorial is dedicated to
-all my homies who didn't get to
-make a map in this collab.
-You know who you are! <3
+Этот мемориал посвящается
+всем моим близким, кто не
+сделал карту в этом коллабе.
+Вы знаете, кто вы! <3
 SJ2021_LegS_secretClueless=
 [MADELINE left surprised]
-I didn't even know it was possible to get here!
+Даже не думала, что сюда можно забраться!
 SJ2021_LegS_ohno=
 [MADELINE left sadder]
-oh.
+Оу.
 SJ2021_LegS_secret=
 [MADELINE right deadpan]
-Why is there a jumpThru here?
+Почему здесь вообще можно стоять?
 SJ2021_LegS_secret69=
 [MADELINE left togetherZoom]
-Enough pipe rating, time for the stamina test!
+Хватит терпеть эти трубы, время проверить выносливость!
 SJ2021_LegS_fast=
 [MADELINE left normal]
-It's intermediate...
+Ох уж эти интовые карты...
 [MADELINE left peaceful]
-Go {~}fast{/~}!
+{~}Давай быстрее{/~}!
 SJ2021_LegS_secret2=
 [MADELINE right normal]
 I like to wounce.
 SJ2021_LegS_pointless=
 [MADELINE right distracted]
-Pointless Machines
+Бесполезные Машины
 SJ2021_LegS_Tutorial=
 [THEO_MIRROR left wtf]
-Aight look, all you gotta do is press the {~}jump button{/~}{n} as you're exiting the pipe...
+Смотри, всё что тебе нужно сделать, это нажать {~}кнопку прыжка{/~}{n} на выходе из трубы...
 SJ2021_LegS_fishtank=
 [THEO_MIRROR left serious]
-This next room is {0.3}{~}slightly{/~} more difficult than the rest of the map. Proceed at your own risk.
+Эта комната {0.3}{~}немнооожко{/~} так сложнее всей остальной карты. Продолжайте на свой страх и риск.
 SJ2021_LegS_secret3=
 [MADELINE right angry]
-{>> 2}This annoys me so much I can't adequately {n}describe how much.{>>}
+{>> 2}Она так сильно бесит, у меня просто {n}слов нет.{>>}
 [MADELINE right angry]
-{>> 2}Like in no capacity do I find it funny on any level.{>>}
+{>> 2}Я не вижу в ней ничего смешного.{>>}
 [MADELINE right angry]
-{>> 2}In any way whatsoever.{>>}
+{>> 2}Кто вообще посчитает такое забавным?{>>}
 [MADELINE right angry]
-{>> 2}And it's not even quite because of the subject matter.{>>}
+{>> 2}И дело даже не в самом изображении.{>>}
 [MADELINE right angry]
-{>> 2}It's just the aura of the image.{>>}
+{>> 2}Дух этой картинки просто...{>>}
 [MADELINE right angry]
-{>> 2}It seems to be screaming YES!!! {n}HAHAH FUNNYY!!!!!!!!!!!!!!!!!!!!!!!!!!!!{>>}
+{>> 2}Кажется, нужно кричать ДА!!! {n}ХА-ХА СМЕШНО!!!!!!!!!!!!!!!!!!!!!!!!!!!!{>>}
 [MADELINE right angry]
-{>> 2}When it's like chill it's mildly humorous at best.{>>}
+{>> 2}Но спустя пару секунд в лучшем случае остаётся просто хех.{>>}
 [MADELINE right angry]
-{>> 2}The emote thinks it's way too funny.{>>}
+{>> 2}Эта картинка думает, что она очень смешная.{>>}
 [MADELINE right angry]
-{>> 2}Trying much too hard.{>>}
+{>> 2}Слишком уж сильно она старается.{>>}
 [MADELINE right angry]
-{>> 2}On god the face annoys me so much {n}and the position of it.{>>}
+{>> 2}Боже, эта морда с её выражением {n}просто выбешивает меня.{>>}
 [MADELINE right angry]
-{>> 2}Every second I have to look at it is hellish cringe within.{>>}
+{>> 2}Каждый раз когда смотрю на неё, я просто умираю от кринжа.{>>}
 SJ2021_LegS_secret11=
 [MADELINE left peaceful]
-{>>10}I die now...{>>}
+{>>10}Я сейчас умру...{>>}
 SJ2021_LegS_secretLe=
 [MADELINE right normal]
-Hi lennygold!
+Привет, lennygold!
 SJ2021_LegS_secretCa=
 [MADELINE right deadpan]
-They don't know I'm in the walls...
+Они не знают, что я уже в их стенах...
 SJ2021_LegS_secret4=
 [MADELINE right deadpan]
-Luckily this fall didn't set me back by several minutes.
+Благо это падение не потратило много моего времени.
 SJ2021_LegS_secret5=
 [MADELINE right determined]
-You should play Hydroshock!
+Советую поиграть в Hydroshock!
 SJ2021_LegS_comf=
 [BADELINE right normal]
-Grandmaster is in a good spot right now, most gameplay is done and deco[BADELINE  right freakB] is going wholesomely.
+Грандмастер в лучшем своём положении, большая часть пройдена а декор[BADELINE  right freakB] становится только лучше.
 [BADELINE right normal]
-We do still have a couple of maps that need some extra work but they'll make it to the finish line.
+Нам всё ещё нужно доработать несколько карт, но они тоже будут закончены.
 [BADELINE  right freakA]
-Motivation levels, while somewhat inconsistent, {n}do generally seem high... 
+Мотивация, пусть порой и нестабильна,{n}всё равно помогает двигаться вперёд.
 [BADELINE  right freakA]
-And i hope we're able to turn {n}our[BADELINE  right freakB] pauses into[BADELINE  right freakC] grins as we {n}wrap up development.
+Надеюсь, в самом конце{n}мы[BADELINE  right freakB] все вместе[BADELINE  right freakC] насладимся{n}проделанной работой.
 [BADELINE right scoff]
-Shoutouts to all gm playtesters! 
+Отдельное спасибо всем гм плейтестерам! 
 [BADELINE right freakC]
-You've been doing fantastic work {n}and this difficulty wouldn't be nearly {n}as polished without you.
+Они проделали отличную работу.{n}Без них сложность этой комнаты {n}оставляла бы желать лучшего.
 [BADELINE right freakA]
-{!}{~}{big}I am moosting.{/big}{/~}{/!}
+{!}{~}{big}Поверь мне.{/big}{/~}{/!}
 SJ2021_LegS_secret7=
 [MADELINE right distracted]
 {>> 0.1}https://pastebin.com/nH25MzMx{>>}
 SJ2021_LegS_secretOMG=
 [MADELINE right peaceful]
-Wow, honestly congrats on getting here!
+Вау, поздравляю с попаданием сюда!
 SJ2021_LegS_secret8=
 [MADELINE right normal]
-Contrary to popular belief, you don't have to actually backboost to beat this map.
+Вопреки распространённому мнению, бэкбуст не нужен, чтобы пройти эту карту...
 SJ2021_LegS_secret9=
 [MADELINE right deadpan]
-Posture check.
+Выпрями спину.
 SJ2021_LegS_poofer=
 [MADELINE right distracted]
-If only there were any other maps that have puffers and pipes...
+Если бы только была ещё какая-нибудь карта с пуфферами и трубами...
 SJ2021_LegS_secretLel=
 [MADELINE right normal]
-Smh, I hate it when I have to do a tech{n}from higher difficulty for a secret.
+Я блин просто ненавижу, когда для секрета нужно использовать{n}механики с более высоких уровней сложности.
 SJ2021_LegS_Granny=
 [MADELINE right surprised]
-Oh, hey {# 66ea3a}Granny{#}.
+Ой, {# 66ea3a}Старушка{#}!
 [GRANNY left creepA]
-What did you do to my roof {+MADELINE}?
+Что ты натворила с моей крышей, {+MADELINE}?
 [MADELINE right sadder]
-Sorry, I couldn't ultra...
+Простите, я не смогла ультру...
 [GRANNY left normal]
-That's okay, you can just {~}retry{/~}.{trigger 0}
+Ничего, бывает, ты всё ещё можешь {~}повторить{/~}.{trigger 0}
 [MADELINE right distracted]
-Ok, I will.{n}{0.5} What about the ca~{trigger 1}
+Да, я знаю.{n}{0.5} О, что на счёт ко~{trigger 1}
 [GRANNY left creepB]
-{!}{>> 0.2}{big}do{0.3} not{0.3} the{0.3} cat{/big}{>>}{/!}
+{!}{>> 0.2}{big}только{0.3} попробуй{0.3} тронуть{0.3} котика{/big}{>>}{/!}
 SJ2021_LegS_GrannyIP=
 [GRANNY left normal]
 {>> 0.05}216.{0.3}58.{0.3}216.{0.3}164{>>}
@@ -3882,7 +3882,7 @@ SJ2021_LegS_secret6=
 \#StopLigamentHate
 SJ2021_LegS_secret116=
 [THEO_MIRROR right normal]
-This spring was part of the solution during an earlier build of the map, but it got replaced. I've kept the spring in as an homage to the original room idea. 
+Эта пружина была частью пути на ранней версии карты, но она была перемещена. Но я решил оставить её как дань уважения изначальной задумке.
 
 SJ2021_LegS_0=
 [MADELINE left together]
@@ -8292,7 +8292,7 @@ SJ2021_Tortoise_4e=
 
 SJ2021_Tortoise_4f=
   [Madeline left normal]
-  Вперед! Мой мощный друг!
+  Вперёд! Мой мощный друг!
 
 SJ2021_Tortoise_4g=
   [Madeline left normal]
