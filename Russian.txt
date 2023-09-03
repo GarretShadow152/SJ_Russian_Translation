@@ -7791,7 +7791,7 @@ SJ2021_Stotch_Secret_3=
 SJ2021_Stotch_TUTORIAL= ЗАЖМИТЕ
 
 # === TiltTheStars
-StrawberryJam2021_3_Advanced_TiltTheStars_hornet= [MADELINE left normal]The Vespa orientalis is a hornet that can photosynthesize! Pretty cool!
+StrawberryJam2021_3_Advanced_TiltTheStars_hornet= [MADELINE left normal]Восточная веспа - это шершень, способный к фотосинтезу! Довольно круто!
 
 StrawberryJam2021_3_Advanced_TiltTheStars_distract= [MADELINE right distracted]Ну и что я здесь забыла?
 
@@ -7916,16 +7916,15 @@ SJ2021_tcookiem_spike_wallbounce_tutorial=
 
 # === tobyaaa
 
-SJ2021_tobyaaa_yump= Yump
+SJ2021_tobyaaa_yump= Джямп
 
 SJ2021_tobyaaa_yumptutorial=
-Before you learn the tech needed to access this berry, you need to know how to "heart ultra".
-A heart ultra is best done by dashing upward near a heart, then, after your dash has ended, buffering a down-diagonal dash as you touch the side of the heart.
-For this heart, the best place to start all that from is in the hole in the ground to the right of the heart.
-When done here, a lone heart ultra will result in the player dashing into the trigger spikes then dying to a spinner shortly after.
-To collect this berry, perform a heart ultra, jump off the ground a little after you land, and then dash down-diagonally again immediately.
-If you do all of that, you'll appear to jump off thin air into the berry.
-The 1-frame jump-off-nothing nature of the trick, combined with the fact that it is only possible at the end of a map, have earned this tech the name "{# dbdb83}yump{\#}."
+Прежде чем вы научитесь механике, нужной для сбора клубнички, вы должны узнать про "харт ультру". (heart ultra - ультра от сердца)
+Самый простой способ сделать харт ультру, сделать рывок чуть выше сердца и при падении забуферить рывок вниз в сторону от сердца.
+Конкретно здесь, вы можете начать из ямки справа от сердца.
+Чтобы собрать ягоду, выполните харт ультру, отпрыгните от платформы и сразу сделайте ещё один рывок по-диагонали вниз.
+Если всё сделать правильно, вы сможете отпрыгуть от воздуха прямо к ягоде.
+Прыжок-от-ничего длиной в 1 кадр и факт того, что это возможно только в конце карты, и приводят к названию "{# dbdb83}джямп{\#}."
 
 SJ2021_tobyaaa_gameing=гейминг
 SJ2021_tobyaaa_ImInDanger=
@@ -8336,7 +8335,7 @@ SJ2021_Tortoise_5c=
 
 SJ2021_Tortoise_5d=
   [Madeline left sad]
-  You were so close, little buddy.
+  Ты был так близок, малыш.
 
 SJ2021_Tortoise_6a=
   [Madeline left distracted]
@@ -8449,7 +8448,7 @@ SJ2021_Vina_Theo02=
 
 SJ2021_Vina_StickerSecret=
   
-  Madeline: Шар
+  Мэдлин: Шар
   Стикер
 
 # === Viv
@@ -8537,7 +8536,7 @@ SJ2021_xlibiza_funwaa=
 
 # === Yoshachobi7
 
-SJ2021_yoshachobi7_TUTORIAL_Waterdash= Dash in water with bowl
+SJ2021_yoshachobi7_TUTORIAL_Waterdash= Рывок в воде с чашей
 
 # === Prologue
 StrawberryJam2021_Prologue_Cafe=
