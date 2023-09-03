@@ -6700,201 +6700,201 @@ Yeah sure Theo.{0.5} I’ll be your valentine.
 SJ2021_RG2_Introductions=
 
 [MADELINE left normal]
-Hello ma'am, I'm {+MADELINE}, and I'm here to deal with your pufferfish problems.
+Добрый день, мэм, я {+MADELINE}, я здесь, чтобы разобраться с проблемами от пуфферов.
 
 [GRANNY right normal]
-Ahh, you're the pufferfish transportation girl, right?
+Ах, ты, милочка, для трансопртировки пуфферов, верно?
 
 [MADELINE left upset]
-It's the {~}Pufferfish Transportation Co.{/~} girl, but yes.
+Да, я милочка из {~}Компании по Трансопртировке Пуфферов{/~}.
 
 [GRANNY right creepA]
 ...
 [GRANNY right normal]
-That's what I said.
-Anyways, I was storing some old stuff in my shed, old doo-dahs and what nots.
-When suddenly one of my old thingymawhatsits sprung to life!
-Then it proceeded to send a whole bunch of weird spiky things throughout my house!
+Я про это и сказала.
+Ну ладно, у меня тут в сарае скопилось много вещей и всяких безделушек.
+Как вдруг одна из моих старых штучек ожила!
+А потом она начала разбрасывать целую кучу странных колючек по всему моему дому!
 
 [MADELINE left surprised]
-Weird spiky things?
+Странные колючки?
 [MADELINE left distracted]
-What's that got to do with pufferfish and the transportation thereof?
+Какое это имеет отношение к трансопртировке пуфферов?
 
 [GRANNY right normal]
-Somehow all my pufferfish broke out, and are just floating around the place.
+А то, что из-за этого все мои пуфферы выбрались и разбрелись по округе.
 
 [MADELINE left upset]
-What.
-That's very much not how pufferfish work, they're not lighter than air, for one.
+Что.
+Это вообще не то, как обычно ведут себя пуфферы, они ведь не легче воздуха.
 
 [GRANNY right laugh]
-Don't ask me how it's happening, all I know is that it is!
+Не спрашивай меня, милочка, я лишь говорю как есть!
 [GRANNY right normal]
-If you're going to stop this, you'll have to get to the shed, that's where the item is.
-Also, for some reason {>> 0.2}these{>>} pufferfish act differently than normal.
-Normally, if you hold away as a pufferfish explodes, you get launched further.
-However{0.2}{# F94A4A} that interaction does not happen here.{#}
+Если ты здесь, чтобы помочь с этим, тебе нужно добраться до сарая, там лежит нужный тебе предмет.
+Вспомнила, ещё, по какой-то причине {>> 0.2}эти{>>} пуфферы ведут себя немного иначе.
+Обычно, когда пуффер взрывается, и ты нажимаешь в сторону от него, ты летишь дальше.
+Однако,{0.2}{# F94A4A} с ними этого почему-то не происходит.{#}
 
 [MADELINE left upset]
-Hold away? Explode?
-What on earth are you talking about?
+Погодите? Взрываются?
+Вы мне втираете какую-то дичь?
 
 [GRANNY right mock]
-Oh, I wasn't talking to you, don't worry.
+Ой, милочка, да это с тобой, не волнуйся.
 
 [MADELINE left angry]
-Who else would you be talking to? No-one else is here!
-I don't have to deal with this, I'm leaving.
+Да с кем вы ещё то можете разговаривать? Здесь кроме нас никого нет!
+Я не буду с этим разбираться, до свидания.
 
 [GRANNY right creepA]
-I'll give you $500,000 if you help me out.
+Я заплачу $500.000, если ты поможешь мне.
 
 [MADELINE left normal]
-Whereabouts is this shed again?
+Так где там, говорите, этот сарай?
 
 [GRANNY right normal]
-Just go through the house, then through the garden.
-I must warn you though, the spikes have complicated things.
-I'd highly recommend you come up with a plan before moving through each room.
-Anyways, reach the shed, stop the object doing what it's doing, then you'll get your payment.
+Просто пройди через дом, а потом через сад.
+Однако должна предупредить, что со всеми этими шипами, сделать это будет не так просто.
+Настоятельно рекомендую сначала обдумывать свои действия в каждой комнате, прежде чем что-то делать.
+В общем, милочка, доберись до сарая, приведи всё в норму, и я заплачу тебе.
 
 SJ2021_RG2_Info=
 [MADELINE left normal]
-What does this object look like by the way?
+Как хоть выглядит необходимая нам вещь?
 
 [GRANNY right normal]
-It's a bright red gemstone, in the shape of a heart.
+Это яркий красный кристалл, в форме сердца.
 
 [MADELINE left distracted]
-Huh, just got a weird feeling when you said that.
+Эм, какое-то у меня странное предчуствие на счёт ваших слов.
 [MADELINE left normal]
-I'm sure it's nothing.
+Ну хотя ладно, не важно.
 
 SJ2021_RG2_Disappear=
 [MADELINE left surprised]
-Woah!
-I think your door just disappeared!
+Воу!
+Ваша дверь по-видимому просто испарилась!
 
 [GRANNY left laugh]
-It does that sometimes, just keep pushing forwards.
+Да, милочка, иногда такое случается, но просто продолжай идти вперёд.
 
 [MADELINE left upset]
-Does that sometimes?
+В смысле иногда случается?
 [MADELINE left distracted]
-When she said spiky things, this wasn't what I expected...
-I was expecting to have to watch my step, not this.
+Когда она говорила про странные шипы, это явно не то, чего я ожидала...
+Я думала надо будет просто под ноги смотреть, а тут...
 [MADELINE left upset]
-I mean, I'm a marine biologist, not a platformer protagonist.
+Я вообще то морской биолог, а не протагонист какого-нибудь платформера.
 
 SJ2021_RG2_Bird=
 [MADELINE left surprised]
-Is that a bird?
+Птица?
 
 SJ2021_RG2_Strawberry=
 [MADELINE left distracted]
-Hmmm...
-Is that?
+Хмм...
+Что же это?
 [MADELINE left determined]
-I smell berry.
+Я чувствую ягоды?
 
 SJ2021_RG2_Toilet=
 [MADELINE left sad]
-I think I am about to throw up.
+Ещё чуть-чуть и меня просто вырвет.
 
 SJ2021_RG2_Physics=
 [MADELINE right distracted]
-I smell... a blatant disregard for the laws of physics?
+Я чувствую запах... вопиющего пренебрежения законами физики?
 
 SJ2021_RG2_Huh=
 [THEO left serious]
-Not that one either, onto the next one.
+Похоже, это тоже не то, следующий.
 
 [MADELINE right distracted]
-Hello? What are you doing here?
+Эм. Здравствуйте? Что вы здесь делаете?
 
 [THEO left wtf]
-Woah, didn't expect it to be that fast.
+Ого, не ожидал, что это будет так быстро.
 [THEO left normal]
-What's that thing you say right before{n}you do something irresponsible?
+Что ты обычно говоришь перед тем,{n}как сделать что-то безответственное?
 
 [MADELINE right distracted]
-Do I know you?
+Откуда мне знать?
 
 [THEO left serious]
-No, apparently not.
+Чтож, видимо нет.
 [THEO left normal]
-Anyways, what are you doing on this weird floating platform?
+А что ты делаешь на этой странной летающей платформе?
 
 [MADELINE right normal]
-I'm with the {~}Pufferfish Transportation Co.{/~} I transport pufferfish.
+Я из {~}Компании по Трансопртировке Пуфферов.{/~} И я транспортирую пуфферов.
 
 [THEO left thinking]
-Right, and being 30 feet in the air is normal for that kinda job?
+Понятно, а быть в 30 футах над землёй это типа нормально для вашего рода деятельноси?
 
 [MADELINE right sad]
-It's been one of those days.
+Такие уж времена.
 
 [THEO left normal]
-The transportation of pufferfish seems like a weirdly specific job, how'd you get it?
+Трансопртировка пуфферов довольно специфичная работа. Как ты устроилась на неё?
 
 [MADELINE right upset]
-Look, you try getting a job as an exotic fish expert in Vancouver, and tell me where you end up.
+А ты сам попробуй устроиться на работу экспертом по экзотическим рыбам в Ванкувере, а там посмотрим, где ты окажешься в итоге.
 
 [THEO left wtf]
-Why don't you just move somewhere where there's exotic fish?
+Почему бы тогда просто не переехать куда-то, где есть экзотические рыбы?
 
 [MADELINE right surprised]
-Ah!
+А!
 [MADELINE right distracted]
-I...
+Эм...
 [MADELINE right upset]
-Shut up.
+Заткнись.
 [MADELINE right normal]
-What about you? How'd you end up here?
+А что на счёт тебя? Что ты здесь делаешь?
 
 [THEO left serious]
-I'm looking for an old friend, I thought I'd find her here, but unfortunately not.
+Я ищу своего старого друга, думал найду её здесь, но пока как-то не сраслось.
 
 [MADELINE right sad]
-Oh, I hope you find her.
+Оу, надеюсь, ты найдёшь её.
 
 [THEO left serious]
-Me too, {+MADELINE}, me too.
+Я тоже, {+MADELINE}, я тоже.
 
 SJ2021_RG2_Outside=
 [MADELINE left determined]
-I'm out of the house, I must be nearly there.
+Так, наконец-то я выбралась из этого дома, сарай должен быть уже совсем близко.
 
 SJ2021_RG2_Floating=
 [MADELINE left distracted]
-Hold up, I'm fairly certain the land I'm on right now is floating.
+Погодите, какого чёрта земля, на которой я сейчас стою, летает?
 [MADELINE left normal]
-Wild.
+Просто безумие.
 [MADELINE left distracted]
-Wait, there's a note on the ground.
+Ой, здесь лежит какая-то записка.
 []
-KoKoDoKo? By fishtank_overflow
+KoKoDoKo? От fishtank_overflow
 [MADELINE left upset]
 ...
-I have no clue what that's meant to mean, and I don't think I want to.
+Без понятия, что это значит, и не думаю, что хочу знать.
 
 SJ2021_RG2_IntoTheShed=
 [MADELINE left determined]
-This is it, only the shed left between me and that $500,000.
-How hard can it be?
+Ну наконец-то, теперь только сарай отделяет меня от $500,000.
+Не будет же это сложно после всего, через что я прошла?
 
 SJ2021_RG2_OhNo=
 [MADELINE left upset]
-Oh, {0.5}oh no.
+Ой, {0.5}да ну нет.
 
 SJ2021_RG2_Feel=
 [MADELINE left distracted]
-There's something coming up, I can feel it.
+Что-то приближается, я прямо чувствую это.
 
 SJ2021_RG2_Nevermind=
 [MADELINE left distracted]
-I... I swear I've seen this before.
+Э... Клянусь, что я уже видела нечто подобное.
 
 # === Scroogle
 SJ2021_Scroogle_Sign=
