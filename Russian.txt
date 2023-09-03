@@ -1906,8 +1906,8 @@ SJ2021_Agent_Curiosity=
 # === Alisticious
 
 SJ2021_alisticious_bird_1= Рывок Полумесяц
-SJ2021_alisticious_bird_2= Вверх-вниз Ультра
-SJ2021_alisticious_bird_3= Сюрикен
+SJ2021_alisticious_bird_2= Вверх-Вниз Ультра
+SJ2021_alisticious_bird_3= Шорюкен
 
 SJ2021_alisticious_cablog= 
 Cablog #²
@@ -1918,12 +1918,12 @@ TheIceATheWallBounce
 
 SJ2021_alisticious_BlueBaron=
 Приветсвую тебя, друг! Не хочешь насладиться со мной несколькими мелодиями?
-Прости что не представился.{n}Я {# 7ad0e5}The Blue Baron{#}, уважаемый талисман Alisticious.
-Я бы хотел поблагодарить mintberry за то, что потратил время и усилия на то, чтобы я мог пообщаться с вами в этой форме. <3
-Feel free to relax here for as long as you want. I know the water appears reddish, but I assure you this is not blood. It is simply juice from some strawberries!
-Eh? You say you're going to head out now?
-Well then, best of luck to you my friend. I hope to talk to you again some time, whether it be here, in livestream chats, or on Discord.
-Thank you for stopping by!
+Ой, прости что не представился.{n}Я {# 7ad0e5}The Blue Baron{#}, уважаемый талисман Alisticious.
+Я бы хотел поблагодарить mintberry за то, что потратил столько времени и сил, чтобы я мог пообщаться с вами в этой форме. <3
+Можешь быть здесь столько, сколько душе угодно. Я знаю, что вода кажется красноватой, но будь уверен, это не кровь, а всего лишь клубничный сок!
+А? Говоришь, тебе уже нужно идти?
+Чтож, тогда лишь желаю удачи, мой друг. Надеюсь мы ещё встретимся, не важно где, в чате стримов или Дискорде.
+Спасибо, что забежал ко мне!
 
 SJ2021_alisticious_decode=
 Удивительно то, какие повороты мы совершаем, прокручивая 
@@ -1942,74 +1942,74 @@ SJ2021_alisticious_original=
 SJ2021_alisticious_practice= Практика
 
 SJ2021_alisticious_Bad1=
-Привет,
+Привет
 SJ2021_alisticious_Bad2=
 Computer Badger!
 
 # === Appels
 
-SJ2021_Appels_propellerboxbird= Propeller Box
-SJ2021_Appels_1984=  [MADELINE_PHONE left upset] The entity Intro Car is soft-banned.
-         [MOM_PHONE right concerned] It has a reputation of being a low-effort secret in the community.
-         [EX_PHONE left normal] Having good reason to include it{n} as a secret or easter egg should be{n} brought up to Captains for an exception.
-         [GRANNY right creepB] Re-sprites or more interesting uses of the Intro Car may be considered.
+SJ2021_Appels_propellerboxbird= Короб с Пропеллером
+SJ2021_Appels_1984=  [MADELINE_PHONE left upset] Внимание: ущность "Машина из Интро" не рекомендуется к использованию.
+         [MOM_PHONE right concerned] Причина: низкая репутация секрета в сообществе.
+         [EX_PHONE left normal] У вас должны быть веские причины,{n}а также разрешение Капитанов,{n}чтобы использовать это в качестве секрета.
+         [GRANNY right creepB] Но ре-спрайт или более интересное использование "Машины из Интро" всё ещё может быть рассмотрено.
 
 # === Archire
 
-SJ2021_archire_tutorial1= Reverse Auto Super
+SJ2021_archire_tutorial1= Ревёрс-Авто-Супер
 
 # === Aspar
 StrawberryJam2021_4_Expert_4_asparSJcollab_theo_dialogue=
 [THEO right serious]
-This place is kinda weird...
+Странноватое конечно местечко...
 [MADELINE left distracted]
-Yeah, I noticed already.
+Да, тоже обратила внимание.
 [THEO right serious]
-If you find yourself stuck for some reason, maybe you should try downloading the Stamina Meter mod.
+Если почувствуешь какие-либо трудности, попробуй использовать мод Stamina Meter.
 [MADELINE left normal]
-You should try minding your own business {+THEO}.
+Любопытной Варваре на базаре нос оторвали, {+THEO}.
 [THEO right worried]
-Woah, sorry...
+Оу, прости...
 
 StrawberryJam2021_4_Expert_4_asparSJcollab_theo_dialogue_2=
 [THEO left excited]
-That wasn't so hard, was it?
+Было довольно трудно, не так ли?
 [MADELINE right distracted]
 ...
 [THEO left excited]
-There were some tough rooms, sure, but once I noticed you can walljump twice off trigger spikes if you're fast enough, some parts became a little easier.
+Здесь было несколько душных комнат, но как только заметишь, что перед появлением шипов можно успеть прыгнуть ещё раз, некоторые части становятся проще.
 [THEO left normal]
-You know what I'm talking about, right?
+Ты же понимаешь, о чём я, верно?
 [MADELINE right distracted]
-I don't think that was intended, {+THEO}.
+Не думаю, что проходить таким способом это честно, {+THEO}.
 [THEO left yolo]
-Who cares!
+Да кому не пофиг!
 
 # === Astraxel
 
-SJ2021_astraxel_bird_1=Grey Time Crystal
-SJ2021_astraxel_bird_2=Blue Time Crystal
-SJ2021_astraxel_bird_3=Time Refill
+SJ2021_astraxel_bird_1=Серый Кристалл Времени
+SJ2021_astraxel_bird_2=Голубой кристалл Времени
+SJ2021_astraxel_bird_3=Продление Эффекта
 
 SJ2021_astraxel_birdnest=
 [MADELINE left normal]
-How can it nest with so much sand around?
+Как они могут гнездиться, когда вокруг столько песка?
 SJ2021_astraxel_comf=
 [MADELINE left peaceful]
-comf
+Уют!
 SJ2021_astraxel_comfnt=
 [MADELINE left sad]
-comfn't
+Не уют!
 SJ2021_astraxel_view=
 [MADELINE right surprised]
-Wait... that cactus was there all along?!?
+Здесь всё это время был кактус!?
 SJ2021_astraxel_noeasyway=
 [MADELINE right distracted]
 I guess the easy way would have been too simple...
          
 # === Banana23
 
-SJ2021_4_CobNob= Bubble Corner Boost
+SJ2021_4_CobNob= Бабл-Корнер-Буст
 
 
   SJ2021_4_TheCoreProblem= 
@@ -2019,13 +2019,13 @@ SJ2021_4_CobNob= Bubble Corner Boost
 
 # === BlueXans
 
-SJ2021_BlueXans_Why= why tho???
+SJ2021_BlueXans_Why= Да почему???
 
 SJ2021_BlueXans_ActuallyNotFunny= 
 [MADELINE left panic]
-Can we pretend that airplanes in the night sky are like shootin' stars?
+Мы можем притвориться, будто самолёты в небе это падающие звёздочки?
 [THEO left wtf]
-I could really use a wish right now, wish right now, wish right now
+Я бы и правда хотел, чтобы моё желание скорее исполнилось, исполнилось, исполнилось!
 
 # === Cabob
 
@@ -2485,7 +2485,7 @@ SJ2021CoupCritikNest8=
 
    APE_EXIT= ВЫХОД
    TUTORIAL_ZIPP= БЛОКБУСТ
-   TUTORIAL_BLUEFLOWERS= ОТПУСТИ
+   TUTORIAL_BLUEFLOWERS= ОТПУСТИТЕ
 
 # === Dav
 
@@ -2977,13 +2977,13 @@ SJ2021_EXHS_F07=
 
 sj2021_ezel_secret=
 [MADELINE left normal]
-Эта карта концептуально вдохновлена небольшой инди-игрой {# FFFF66}EAT GIRL{#}, созданной tesselode!
+Эта карта концептуально основана на небольшой инди-игре {# FFFF66}EAT GIRL{#}, созданной tesselode!
 
 [MADELINE left normal]
 Концепт погони предложен {# 66FFFF}Greg{#}!
 
 [MADELINE left normal]
-Кроме того, спасибо за {# 66FF66}Archiethon{#}!
+Кроме того, спасибо {# 66FF66}Archiethon{#}!
 
 # === fishtank
 
@@ -3596,7 +3596,7 @@ SJ2021_InFiltration_Seekers=
 [MADELINE left surprised]
 Что это за штуки?
 [EX_PHONE right normal]
-Специализированные охранные дроны.
+Специальные охранные дроны.
 Если заметят - считай ты труп.
 
 SJ2021_InFiltration_Warning=
@@ -3611,7 +3611,7 @@ SJ2021_InFiltration_Warning=
 Как ты меня назвала?
 [MADELINE left normal]
 А, это твой новый позывной.
-Держи в курсе, Так Точно!
+Держи в курсе, так точно!
 
 SJ2021_InFiltration_Blue_Alarm=
 [EX_PHONE right normal]
@@ -3721,159 +3721,159 @@ SJ2021_KAERRA_kaerra_strangeroom=
 
 SJ2021_LegS_HS=
 [MADELINE left distracted]
-Are we even allowed to have {n}dialog in our heartside room?
+Нам даже разрешили вставить{n}диалог на нашем флаге?
 [MADELINE left determined]
-Well, here goes nothing..
+Тогда, здесь точно не произойдёт ничего плохого...
 [MADELINE left deadpan]
-{>> 2}Banned Entities/Other{>>}
+{>> 2}Запрещённые Сущности/Другое{>>}
 [MADELINE left deadpan]
-{>> 3}The following entities are banned in maps:{>>}
+{>> 3}Следующие сущности были запрещены к использованию:{>>}
 [MADELINE left deadpan]
-{>> 4}Intro Car (Soft ban, Secrets & Easter Eggs){>>}
+{>> 4}"Машина из Интро" (Не рекомендуется, Секреты и Пасхалки){>>}
 [MADELINE left deadpan]
-{>> 5}Moon Berry (Strawberries) & other “special” collectibles{>>}
+{>> 5}Лунная Ягода (Клубнички) и прочие подобные объекты{>>}
 [MADELINE left deadpan]
-{>> 6}Rainbow Berry (Strawberries){>>}
+{>> 6}Радужная Ягода (Клубнички){>>}
 [MADELINE left deadpan]
-{>> 7}Speed Berry (Strawberries){>>}
+{>> 7}Скоростные Ягоды (Клубнички){>>}
 [MADELINE left deadpan]
-{>> 8}Vanilla Summit Gems {n}(Use Communal Helper’s gems instead){>>}
+{>> 8}Кристаллы из "Веришины" {n}(Лучше использовать кристаллы из Communal Helper){>>}
 [MADELINE left deadpan]
-{>> 10}B-side Cassettes{>>}
+{>> 10}Кассеты Стороны Б{>>}
 [MADELINE left deadpan]
-{>> 100}“Fade” Death Swipe{>>}
+{>> 100}Экран смерти из “Fade”{>>}
 [MADELINE left togetherZoom]
-{>> 1}Thanks for listening to my ted talk,{0.5} {n}it helps me out{1} {~}a lot{/~}.{>>}
+{>> 1}Спасибо, что прослушали мой TED Talk,{0.5}{n}это {~}очень{/~} помогло мне.{>>}
 
 SJ2021_LegS_cs1=
-*You walk into a dimly lit room.
-*You can see some carvings engraved into the wall.
-*Upon closer inspection you can make out:
+*Вы заходите в тускло освещённую комнату.
+*Вы замечаете что-то вырезанное на стене.
+*Подойдя ближе, вы можете прочитать:
 [MADELINE right determined]
-{>> 0.6}Special {0.3}thanks to my friends from ee{0.4}ny corner. {n}{1}I love you guys!{>>}
+{>> 0.6}Отдельное {0.3}спасибо моим друзьям в{0.4} том углу.{n}{1}Люблю вас, парни!{>>}
 [MADELINE right distracted]
-I wonder what that means...
+Чтобы это могло значить...
 SJ2021_LegS_cs2=
-*You can see a massive coral reef in the distance.
-*You wonder if there's a way to get to it.
+*Вдалеке вы замечаете огромный коралловый риф.
+*Вы задаетесь вопросом, есть ли способ добраться до него.
 SJ2021_LegS_Meomorial=
-This memorial is dedicated to
-all my homies who didn't get to
-make a map in this collab.
-You know who you are! <3
+Этот мемориал посвящается
+всем моим близким, кто не
+сделал карту в этом коллабе.
+Вы знаете, кто вы! <3
 SJ2021_LegS_secretClueless=
 [MADELINE left surprised]
-I didn't even know it was possible to get here!
+Даже не думала, что сюда можно забраться!
 SJ2021_LegS_ohno=
 [MADELINE left sadder]
-oh.
+Оу.
 SJ2021_LegS_secret=
 [MADELINE right deadpan]
-Why is there a jumpThru here?
+Почему здесь вообще можно стоять?
 SJ2021_LegS_secret69=
 [MADELINE left togetherZoom]
-Enough pipe rating, time for the stamina test!
+Хватит терпеть эти трубы, время проверить выносливость!
 SJ2021_LegS_fast=
 [MADELINE left normal]
-It's intermediate...
+Ох уж эти интовые карты...
 [MADELINE left peaceful]
-Go {~}fast{/~}!
+{~}Давай быстрее{/~}!
 SJ2021_LegS_secret2=
 [MADELINE right normal]
 I like to wounce.
 SJ2021_LegS_pointless=
 [MADELINE right distracted]
-Pointless Machines
+Бесполезные Машины
 SJ2021_LegS_Tutorial=
 [THEO_MIRROR left wtf]
-Aight look, all you gotta do is press the {~}jump button{/~}{n} as you're exiting the pipe...
+Смотри, всё что тебе нужно сделать, это нажать {~}кнопку прыжка{/~}{n} на выходе из трубы...
 SJ2021_LegS_fishtank=
 [THEO_MIRROR left serious]
-This next room is {0.3}{~}slightly{/~} more difficult than the rest of the map. Proceed at your own risk.
+Эта комната {0.3}{~}немнооожко{/~} так сложнее всей остальной карты. Продолжайте на свой страх и риск.
 SJ2021_LegS_secret3=
 [MADELINE right angry]
-{>> 2}This annoys me so much I can't adequately {n}describe how much.{>>}
+{>> 2}Она так сильно бесит, у меня просто {n}слов нет.{>>}
 [MADELINE right angry]
-{>> 2}Like in no capacity do I find it funny on any level.{>>}
+{>> 2}Я не вижу в ней ничего смешного.{>>}
 [MADELINE right angry]
-{>> 2}In any way whatsoever.{>>}
+{>> 2}Кто вообще посчитает такое забавным?{>>}
 [MADELINE right angry]
-{>> 2}And it's not even quite because of the subject matter.{>>}
+{>> 2}И дело даже не в самом изображении.{>>}
 [MADELINE right angry]
-{>> 2}It's just the aura of the image.{>>}
+{>> 2}Дух этой картинки просто...{>>}
 [MADELINE right angry]
-{>> 2}It seems to be screaming YES!!! {n}HAHAH FUNNYY!!!!!!!!!!!!!!!!!!!!!!!!!!!!{>>}
+{>> 2}Кажется, нужно кричать ДА!!! {n}ХА-ХА СМЕШНО!!!!!!!!!!!!!!!!!!!!!!!!!!!!{>>}
 [MADELINE right angry]
-{>> 2}When it's like chill it's mildly humorous at best.{>>}
+{>> 2}Но спустя пару секунд в лучшем случае остаётся просто хех.{>>}
 [MADELINE right angry]
-{>> 2}The emote thinks it's way too funny.{>>}
+{>> 2}Эта картинка думает, что она очень смешная.{>>}
 [MADELINE right angry]
-{>> 2}Trying much too hard.{>>}
+{>> 2}Слишком уж сильно она старается.{>>}
 [MADELINE right angry]
-{>> 2}On god the face annoys me so much {n}and the position of it.{>>}
+{>> 2}Боже, эта морда с её выражением {n}просто выбешивает меня.{>>}
 [MADELINE right angry]
-{>> 2}Every second I have to look at it is hellish cringe within.{>>}
+{>> 2}Каждый раз когда смотрю на неё, я просто умираю от кринжа.{>>}
 SJ2021_LegS_secret11=
 [MADELINE left peaceful]
-{>>10}I die now...{>>}
+{>>10}Я сейчас умру...{>>}
 SJ2021_LegS_secretLe=
 [MADELINE right normal]
-Hi lennygold!
+Привет, lennygold!
 SJ2021_LegS_secretCa=
 [MADELINE right deadpan]
-They don't know I'm in the walls...
+Они не знают, что я уже в их стенах...
 SJ2021_LegS_secret4=
 [MADELINE right deadpan]
-Luckily this fall didn't set me back by several minutes.
+Благо это падение не потратило много моего времени.
 SJ2021_LegS_secret5=
 [MADELINE right determined]
-You should play Hydroshock!
+Советую поиграть в Hydroshock!
 SJ2021_LegS_comf=
 [BADELINE right normal]
-Grandmaster is in a good spot right now, most gameplay is done and deco[BADELINE  right freakB] is going wholesomely.
+Грандмастер в лучшем своём положении, большая часть пройдена а декор[BADELINE  right freakB] становится только лучше.
 [BADELINE right normal]
-We do still have a couple of maps that need some extra work but they'll make it to the finish line.
+Нам всё ещё нужно доработать несколько карт, но они тоже будут закончены.
 [BADELINE  right freakA]
-Motivation levels, while somewhat inconsistent, {n}do generally seem high... 
+Мотивация, пусть порой и нестабильна,{n}всё равно помогает двигаться вперёд.
 [BADELINE  right freakA]
-And i hope we're able to turn {n}our[BADELINE  right freakB] pauses into[BADELINE  right freakC] grins as we {n}wrap up development.
+Надеюсь, в самом конце{n}мы[BADELINE  right freakB] все вместе[BADELINE  right freakC] насладимся{n}проделанной работой.
 [BADELINE right scoff]
-Shoutouts to all gm playtesters! 
+Отдельное спасибо всем гм плейтестерам! 
 [BADELINE right freakC]
-You've been doing fantastic work {n}and this difficulty wouldn't be nearly {n}as polished without you.
+Они проделали отличную работу.{n}Без них сложность этой комнаты {n}оставляла бы желать лучшего.
 [BADELINE right freakA]
-{!}{~}{big}I am moosting.{/big}{/~}{/!}
+{!}{~}{big}Поверь мне.{/big}{/~}{/!}
 SJ2021_LegS_secret7=
 [MADELINE right distracted]
 {>> 0.1}https://pastebin.com/nH25MzMx{>>}
 SJ2021_LegS_secretOMG=
 [MADELINE right peaceful]
-Wow, honestly congrats on getting here!
+Вау, поздравляю с попаданием сюда!
 SJ2021_LegS_secret8=
 [MADELINE right normal]
-Contrary to popular belief, you don't have to actually backboost to beat this map.
+Вопреки распространённому мнению, бэкбуст не нужен, чтобы пройти эту карту...
 SJ2021_LegS_secret9=
 [MADELINE right deadpan]
-Posture check.
+Выпрями спину.
 SJ2021_LegS_poofer=
 [MADELINE right distracted]
-If only there were any other maps that have puffers and pipes...
+Если бы только была ещё какая-нибудь карта с пуфферами и трубами...
 SJ2021_LegS_secretLel=
 [MADELINE right normal]
-Smh, I hate it when I have to do a tech{n}from higher difficulty for a secret.
+Я блин просто ненавижу, когда для секрета нужно использовать{n}механики с более высоких уровней сложности.
 SJ2021_LegS_Granny=
 [MADELINE right surprised]
-Oh, hey {# 66ea3a}Granny{#}.
+Ой, {# 66ea3a}Старушка{#}!
 [GRANNY left creepA]
-What did you do to my roof {+MADELINE}?
+Что ты натворила с моей крышей, {+MADELINE}?
 [MADELINE right sadder]
-Sorry, I couldn't ultra...
+Простите, я не смогла ультру...
 [GRANNY left normal]
-That's okay, you can just {~}retry{/~}.{trigger 0}
+Ничего, бывает, ты всё ещё можешь {~}повторить{/~}.{trigger 0}
 [MADELINE right distracted]
-Ok, I will.{n}{0.5} What about the ca~{trigger 1}
+Да, я знаю.{n}{0.5} О, что на счёт ко~{trigger 1}
 [GRANNY left creepB]
-{!}{>> 0.2}{big}do{0.3} not{0.3} the{0.3} cat{/big}{>>}{/!}
+{!}{>> 0.2}{big}только{0.3} попробуй{0.3} тронуть{0.3} котика{/big}{>>}{/!}
 SJ2021_LegS_GrannyIP=
 [GRANNY left normal]
 {>> 0.05}216.{0.3}58.{0.3}216.{0.3}164{>>}
@@ -3882,7 +3882,7 @@ SJ2021_LegS_secret6=
 \#StopLigamentHate
 SJ2021_LegS_secret116=
 [THEO_MIRROR right normal]
-This spring was part of the solution during an earlier build of the map, but it got replaced. I've kept the spring in as an homage to the original room idea. 
+Эта пружина была частью пути на ранней версии карты, но она была перемещена. Но я решил оставить её как дань уважения изначальной задумке.
 
 SJ2021_LegS_0=
 [MADELINE left together]
@@ -7790,7 +7790,7 @@ SJ2021_Stotch_Secret_3=
 SJ2021_Stotch_TUTORIAL= ЗАЖМИТЕ
 
 # === TiltTheStars
-StrawberryJam2021_3_Advanced_TiltTheStars_hornet= [MADELINE left normal]The Vespa orientalis is a hornet that can photosynthesize! Pretty cool!
+StrawberryJam2021_3_Advanced_TiltTheStars_hornet= [MADELINE left normal]Восточная веспа - это шершень, способный к фотосинтезу! Довольно круто!
 
 StrawberryJam2021_3_Advanced_TiltTheStars_distract= [MADELINE right distracted]Ну и что я здесь забыла?
 
@@ -7915,16 +7915,15 @@ SJ2021_tcookiem_spike_wallbounce_tutorial=
 
 # === tobyaaa
 
-SJ2021_tobyaaa_yump= Yump
+SJ2021_tobyaaa_yump= Джямп
 
 SJ2021_tobyaaa_yumptutorial=
-Before you learn the tech needed to access this berry, you need to know how to "heart ultra".
-A heart ultra is best done by dashing upward near a heart, then, after your dash has ended, buffering a down-diagonal dash as you touch the side of the heart.
-For this heart, the best place to start all that from is in the hole in the ground to the right of the heart.
-When done here, a lone heart ultra will result in the player dashing into the trigger spikes then dying to a spinner shortly after.
-To collect this berry, perform a heart ultra, jump off the ground a little after you land, and then dash down-diagonally again immediately.
-If you do all of that, you'll appear to jump off thin air into the berry.
-The 1-frame jump-off-nothing nature of the trick, combined with the fact that it is only possible at the end of a map, have earned this tech the name "{# dbdb83}yump{\#}."
+Прежде чем вы научитесь механике, нужной для сбора клубнички, вы должны узнать про "харт ультру". (heart ultra - ультра от сердца)
+Самый простой способ сделать харт ультру, сделать рывок чуть выше сердца и при падении забуферить рывок вниз в сторону от сердца.
+Конкретно здесь, вы можете начать из ямки справа от сердца.
+Чтобы собрать ягоду, выполните харт ультру, отпрыгните от платформы и сразу сделайте ещё один рывок по-диагонали вниз.
+Если всё сделать правильно, вы сможете отпрыгуть от воздуха прямо к ягоде.
+Прыжок-от-ничего длиной в 1 кадр и факт того, что это возможно только в конце карты, и приводят к названию "{# dbdb83}джямп{\#}."
 
 SJ2021_tobyaaa_gameing=гейминг
 SJ2021_tobyaaa_ImInDanger=
@@ -8291,7 +8290,7 @@ SJ2021_Tortoise_4e=
 
 SJ2021_Tortoise_4f=
   [Madeline left normal]
-  Вперед! Мой мощный друг!
+  Вперёд! Мой мощный друг!
 
 SJ2021_Tortoise_4g=
   [Madeline left normal]
@@ -8335,7 +8334,7 @@ SJ2021_Tortoise_5c=
 
 SJ2021_Tortoise_5d=
   [Madeline left sad]
-  You were so close, little buddy.
+  Ты был так близок, малыш.
 
 SJ2021_Tortoise_6a=
   [Madeline left distracted]
@@ -8448,7 +8447,7 @@ SJ2021_Vina_Theo02=
 
 SJ2021_Vina_StickerSecret=
   
-  Madeline: Шар
+  Мэдлин: Шар
   Стикер
 
 # === Viv
@@ -8536,7 +8535,7 @@ SJ2021_xlibiza_funwaa=
 
 # === Yoshachobi7
 
-SJ2021_yoshachobi7_TUTORIAL_Waterdash= Dash in water with bowl
+SJ2021_yoshachobi7_TUTORIAL_Waterdash= Рывок в воде с чашей
 
 # === Prologue
 StrawberryJam2021_Prologue_Cafe=
