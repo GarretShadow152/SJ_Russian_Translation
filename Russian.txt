@@ -7031,50 +7031,49 @@ SJ2021_1_Beginner_snassecret=
 
 	SJ2021_SOLOIINI_STAMINA_TUT00=
 		[SIGNPOST]
-		In space, climbing is easier! Thanks to the laws of gravity, {0.3}{# F94A4A}\[NEW USER\]{#}{0.2} can last 9.0909091% longer before exhaustion!
+		Карабкаться в космосе очень легко! Благодаря законам всемирного тяготения, {0.3}{# F94A4A}\[NEW USER\]{#}{0.2} вы можете взбираться на 9.0909091% дольше, прежде чем устать!
 		
 		[NONE]
-		{#696A6A}(You have been outfitted with an additional 10 stamina. This allows you to squeeze in an extra climbjump if you manage your stamina efficiently.){#}
+		{#696A6A}(У вас есть дополнительные 10 выносливости. Вы сможете сделать дополнительный прыжок по стене, если будете эффективно её использовать.){#}
 
 	SJ2021_SOLOIINI_CLUMPS_TUT00=
 		[SIGNPOST]
-		To climb with the {# F3B343}crystal{#}, drop it straight down while moving up against a wall, then grab onto the wall.
-		After the payload's velocity begins to reverse, climbjump and reclaim your precious cargo.
+		Чтобы карабкаться с {# F3B343}кристаллом{#}, скиньте его вниз, пока двигаетесь вдоль стены, затем схватитесь за неё.
+		После того, как кристалл начнёт падать, прыгните по стене и заберите ваш ценный груз.
 		
 		[NONE]
-		{# 696A6A}(If you regrab the crystal instead of climbjumping, you didn't fall far enough or pressed grab too soon.)
-		(This tutorial also has playback watchtowers if you're more of a visual learner.){#}
+		{# 696A6A}(Если вы заново подбираете кристалл вместо прыжка, значит вы не упали достаточно низко или нажали захват слишком рано.)
+		(Для тех, кто любит наглядность, в бинокле вы сможете посмотреть, как выполняется это движение.){#}
 
 	SJ2021_SOLOIINI_ADVSMUGGLE_TUT00=
 		[SIGNPOST]
-		If you don't know what a dream smuggle is, {n}we recommend you visit the {# E3A279}Expert Gym{#}.
-		When smuggling the {# F3B343}crystal{#} through dream blocks, it's important to consider novel approaches.
-		Take the dream block on the left, for instance — {0.1}there are two ways to go about it.
-		You could throw the {# F3B343}crystal{#} against the side of the dream block, dash up, then immediately dash towards the dream block while regrabbing the payload.
-		Alternatively, if you feel like making your life harder, you could regrab the {# F3B343}crystal{#} after dashing up, drop it, then smuggle your cargo through the dream block.
-		This is less efficient than the first method and not endorsed by {# C71A42}Venus R&D{#}.
-		If you exit a spiked dream block while facing inwards and holding the {# F3B343}crystal{#}, you will die.
-		To avoid such an unpleasant fate, we recommend buffering a dream jump away from the spikes.
-		One last thing — {0.1}if you drop the payload while moving upwards, you will be set up to dash in any direction and regrab it.
+		Если вы не знаете, как проносить объекты через дрим блоки, {n}мы рекомендуем пойти в {# E3A279}Экспертный Зал{#}.
+		Когда вы проносите {# F3B343}кристалл{#} через дрим блоки, важно учитывать различные варианты.
+		Например, посмотрите на дрим блок слева — {0.1}есть два способа пройти это препятствие.	Вы можете кинуть {# F3B343}кристалл{#} в дрим блок, сделать рывок вверх и ещё один в сторону дримблока, подхватывая в это время ваш груз.
+		Если же вы хотите усложнить себе жизнь, схватите {# F3B343}кристалл{#} после рывка вверх, скиньте его вниз, а затем пронесите груз через дрим блок.
+		Это менее эффективный способ, чем первый, и не поддерживается {# C71A42}Venus R&D{#}.
+		Если вы будете выходить из дримблока, смотря в его сторону и  держа {# F3B343}кристалл{#}, вы умрёте.
+		Также, чтобы избежать неприятных последствий, к концу дрим блока рекомендуется забуфферить дрим джамп.
+		И последнее — {0.1}если вы уроните груз, двигаясь вверх, вы сможете выполнить рывок, схватив кристалл, в любом направлении.
 
 	SJ2021_SOLOIINI_THREAMYHYPER_TUT00=
 		[SIGNPOST]
-		They said you couldn't hyper out of a dream block while holding a {# F3B343}crystal{#}. We proved them wrong.
-		While smuggling your cargo through a dream block, turn towards the side you entered from and hold grab.
-		When you emerge, wait for a split second, then turn around and perform a dream hyper.
-		We at {# C71A42}Venus R&D{#} call this maneuver a Turnaround Holdable Effective Orientation (THEO) dream hyper, and encourage the usage of this taxonomy.
+		Они говорили, что нельзя сделать хайпер из дрим блока, держа в руках {# F3B343}кристалл{#}. Мы доказали обратное.
+		Когда вы проносите груз через дрим блок, повернитесь в направлении входа в дрим блок и зажмите карабкаться.
+		Когда вы выйдите, подождите секунду, затем повернитесь и выполните дрим хайпер.
+		Мы в {# C71A42}Venus R&D{#} называем этот манёвр Turnaround Holdable Effective Orientation (THEO) дрим хайпер, и призываем использовать это название.
 		
 		[NONE]
-		{>> 5.0}{~}{# 696A6A}WARNING: Failure to move correctly may result in undesired outcomes\. Never attempt on unusually sharp surfaces\. Failure to comply may result in serious dismemberment or death.{#}{/~}{>>}
+		{>> 5.0}{~}{# 696A6A}ПРЕДУПРЕЖДЕНИЕ: Неправильное выполнение движений может привести к нежелательным результатам\. Никогда не пытайтесь это сделать на острых поверхностях\. Неудача приведёт к тяжёлым травмам или даже летальному исходу.{#}{/~}{>>}
 
 	SJ2021_SOLOIINI_CABLOGENTRY=
 		{anchor bottom}
 		[SIGNPOST]
-		Cablog entry #:SJ2021_Soloiini_100:
-		I broke my fingers dream jumping, but at least I still have my legs!
-		Perhaps I could also break those to gain a marginal increase to my momentum!
-		All I need to do is utilize some conveniently placed objects to cancel my dash.
-		This might be useful if I ever plan to get out of here and do something other than write messages in a log.
+		Сообщение в Ка-блоге #:SJ2021_Soloiini_100:
+		Я сломал свои пальцы, делая дрим джампы, но по крайней мере у меня остались ноги!
+		Возможно сломав и их, я смогу получать максимальное ускорение ускорение!
+		Всё что мне нужно, это использовать удобно расположенные обЪекты, чтобы отменить свой рывок.
+		Я могу воспользоваться этой информацией, если мне надоест просто печатать сообщения в блог и я решу заняться чем-либо другим.
 
 # ================== A MINER SETBACK ==================
 
