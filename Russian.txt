@@ -6898,11 +6898,11 @@ SJ2021_RG2_Nevermind=
 
 # === Scroogle
 SJ2021_Scroogle_Sign=
-A mysterious sign stands in front of you, its symbols indecipherable.
-Looking at the image as a whole, you feel the vibe it is designed to present a message:
-{# ffe144}{~}"{/~}This room was initially created to explore the Grab input in this map's approach to controls, however it necessitated Grandmaster tech.
-I have kept the room intact as a secret, with a fake berry rather than any real collectable.{~}"{/~}{#}
-That is only a hunch however. You cannot be certain what this sign represents.
+Перед вами загадочная табличка со странными символами.
+Но присмотревшись под другим углом, вы замечаете что-то похожее на надпись:
+{# ffe144}{~}"{/~}Изначально эта комната создавалась, чтобы посмотреть на предельные возможности механики захвата, что привело к Грандмастер сложности.
+Я оставил эту комнату как небольшой секретик, даже клубничка здесь фальшивая.{~}"{/~}{#}
+Вы смотрите на неё несколько минут, но так и не понимаете написанного.
 
 # === Skunkynator
 
@@ -6912,29 +6912,29 @@ AMOGUS
 
 SJ2021_Skunkynator_turnback_1=
 [BADELINE right upset]
-I Think we should turn back now
+Я думаю, нам стоит вернуться
 
 SJ2021_Skunkynator_turnback_2=
 [BADELINE right worried]
-Do you really not want to go back?
+Ты правда так сильно не хочешь назад?
 
 SJ2021_Skunkynator_wounce=
-Wallbounce
+Волбаунс
 
 SJ2021_Skunkynator_lvn1=
-Low Visual Noise Mode
+Меньше Частиц
 
 SJ2021_Skunkynator_lvn2=
-Enable
+Включить
 
 SJ2021_Skunkynator_lvn3=
-Disable
+выключить
   
 # === Snas
 
 SJ2021_1_Beginner_snassecret=
   [MADELINE left normal]
-  Gosh, the dialogue written on this sign sure is funny!
+  Боже, анекдот про Штрилица на этой табличке действительно хорош!
 
 # === Soloiini
 
@@ -6942,7 +6942,7 @@ SJ2021_1_Beginner_snassecret=
 
 	SJ2021_SOLOIINI_CONDUCTOR=
 		[MADELINE left distracted]
-		Эм\.\.\.{0.4} привет?
+		Эм\.\.\.{0.4} здравствуйте?
 		
 		[CONDUCTOR right normal]
 		{>> 0.7}Хмм?
@@ -6958,10 +6958,10 @@ SJ2021_1_Beginner_snassecret=
 		{>> 0.7}Конечно, но\.\.\.
 		Как видишь, мы попали в довольно {0.05}{~}затруднительное{/~} положение {0.2}некоторое время назад.
 		Хотя думая об этом, {0.1}я не уверен сколько уже прошло\.\.\.
-		Несмотря на это, вы можете найти свободное кресло и остоваться там, пока инженеры не заставят двигаться поезд.{>>}
+		Несмотря на это, вы можете найти свободное кресло и отдыхать там, пока инженеры не заставят поезд снова двигаться.{>>}
 		
 		[MADELINE left upset]
-		Мы будем здесь довольно долго, {0.1}так ведь?
+		Мы тут на долго, {0.1}так ведь?
 		
 		[CONDUCTOR right normal]
 		{>> 0.7}Я не знаю.
@@ -6978,11 +6978,11 @@ SJ2021_1_Beginner_snassecret=
 		
 	SJ2021_SOLOIINI_CONDUCTOR_CONV01_ASK=
 		[MADELINE left upset]
-		Ты не кажешься обеспокоенным этой ситуацией.
+    Тебя, кажется, эта ситуация совсем не беспокоит.
 		
 	SJ2021_SOLOIINI_CONDUCTOR_CONV01_SAY=
 		[MADELINE left upset]
-		Ты не кажешься обеспокоенным этой ситуацией.
+    Тебя, кажется, эта ситуация совсем не беспокоит.
 		
 		[CONDUCTOR right normal]
 		{>> 0.7}Это правда.{>>}
@@ -7078,154 +7078,154 @@ SJ2021_1_Beginner_snassecret=
 # ================== A MINER SETBACK ==================
 
 	SJ2021_SOLOIINI_ELEVATORTEXT=
-		Error: no power source detected.
+		Ошибка: отсутствие источника питания.
 
 	SJ2021_SOLOIINI_OVERSEER_INTRO=
 		[MADELINE left distracted]
-		\.\.\.Hello?
+		\.\.\.Здравствуйте?
 		
 		[OVERSEER right normal]
-		Can't you see I'm busy? {0.2}{*}Leave.{/*}
+		Ну ты что, не видишь, что я занят? {0.2}{*}Брысь.{/*}
 		
 		[MADELINE left upset]
-		Look, I just wanted to ask you something.
+		Но я только хотела спросить...
 		
 		[OVERSEER right normal]
-		{!}Ugh.{/!} {0.2}Fine, make it quick.
+		{!}Грх.{/!} {0.2}Ладно, только быстро.
 		
 #OVERSEER dialog tree: (exit/00) > (exitB/01/02/05) after 00 > (exitB/01/03/05) after 02 > (exitB/01/04/05) after getting both fish berries
 #00 could maybe just be initiated by talking but i like it being a choice you can exit from based on the ending of the precursor
 		
 	SJ2021_SOLOIINI_OVERSEER_EXIT=
 		[MADELINE left upset]
-		Never mind.
+		Забудь.
 		
 	SJ2021_SOLOIINI_OVERSEER_EXITB=
 		[MADELINE left distracted]
-		I should get going.
+		Мне нужно идти.
 		
 	SJ2021_SOLOIINI_OVERSEER00_ASK=
 		[MADELINE left distracted]
-		So... why is there a whole operation set up here?
+		Итак... что за операция тут проводится?
 		
 	SJ2021_SOLOIINI_OVERSEER00_SAY=
 		[MADELINE left distracted]
-		So\.\.\. {0.2}why is there a whole operation set up here?
+    Итак\.\.\. {0.2}что за операция тут проводится?
 		
 		[OVERSEER right normal]
-		{!}{~}That's{/~}{/!} {0.1}your burning question?
-		Well, I suppose I could spare a {!}{*}moment{/*}{/!} {0.1}to humor you if it'll get you to leave me alone.
-		I was tasked by {# C71A42}Venus{#} herself to oversee a resource extraction operation in this region of the belt.
-		As you have undoubtedly noticed, it's practically covered in {# F3B343}{~}crystals{/~}{#} — {0.4}when I surveyed the site, I could hardly believe my instruments.
-		While my lessers have been toiling away on the drilling rigs, {0.15}{~}I{/~} have been approaching a {!}breakthrough.{/!}
-		Not that {!}you{/!} would understand, of course.
+		И {!}{~}это{/~}{/!} {0.1}твой срочный вопрос?
+		Чтож, я бы потратил {!}{*}минутку{/*}{/!} {0.1}, если после этого ты оставишь меня в покое.
+		По указанию самой {# C71A42}Venus{#}, я руковожу операцией по добыче ископаемых на этом участке пояса астеройдов.
+		Как ты могла заметить, это место просто кишит {# F3B343}{~}кристаллами{/~}{#} — {0.4}когда я только прибыл сюда, по началу даже не верил своим приборам.
+		Пока мои подчиненные трудились на буровых установках, {0.15}{~}я{/~} почти совершил {!}прорыв{/!}.
+		Но это, конечно, не то, что {!}ты{/!} сможешь понять.
 		
 	SJ2021_SOLOIINI_OVERSEER01_ASK=
 		[MADELINE left sad]
-		Who is {# C71A42}Venus{#}?
+		Кто такая {# C71A42}Venus{#}?
 		
 	SJ2021_SOLOIINI_OVERSEER01_SAY=
 		[MADELINE left sad]
-		Who is {# C71A42}Venus{#}?
+		Кто такая {# C71A42}Venus{#}?
 		
 		[OVERSEER right normal]
-		The only one of us worth aspiring towards.
-		{# C71A42}{~}She{/~}{#} gave me purpose, and I repay {# C71A42}{~}her{/~}{#} with my loyalty.
-		So strong is our bond that I remade my very form in {# C71A42}{~}her{/~}{#} image.
-		If I were you, I would start venerating {# C71A42}{~}her{/~}{#} sooner rather than later.
+		Единственная из нас, на кого стоит равняться.
+		{# C71A42}{~}Она{/~}{#} даровала мне цель, а я плачу {# C71A42}{~}ей{/~}{#} своей преданностью.
+		Моя связь с ней настолько сильна, что я даже переделал себя по {# C71A42}{~}её{/~}{#} образу и подобию.
+		На твоём месте, я бы поспешил почитать {# C71A42}{~}её{/~}{#}, и чем раньше, тем лучше.
 	
 	SJ2021_SOLOIINI_OVERSEER02_ASK=
 		[MADELINE left distracted]
-		So, you're a geologist?
+		Вы геолог?
 		
 	SJ2021_SOLOIINI_OVERSEER02_SAY=
 		[MADELINE left distracted]
-		So, you're a geologist?
+		Вы геолог?
 		
 		[OVERSEER right normal]
-		What an utterly mundane question.
-		But yes, I suppose that is what I would call myself.
+		Частый вопрос.
+		Но да, то, чем я занимаюсь, можно назвать геологией.
 		
 		[MADELINE left distracted]
-		I take it you have a map of this place?
+		Тогда, должно быть, у вас есть карта этого места?
 		
 		[OVERSEER right normal]
-		Yes.
+		Да.
 		
 		[MADELINE left distracted]
-		Is there any chance I could look at it?
+		Может быть, я бы могла мельком взглянуть на неё?
 		
 		[OVERSEER right normal]
-		{!}{~}Classified.{/~}{/!}
+		{!}{~}Отказано.{/~}{/!}
 		
 	SJ2021_SOLOIINI_OVERSEER03_ASK=
 		[MADELINE left sad]
-		Not even a peek?
+		Даже совсем капельку?
 		
 	SJ2021_SOLOIINI_OVERSEER03_SAY=
 		[MADELINE left sad]
-		Not even a peek?
+		Даже совсем капельку?
 		
 		[OVERSEER right normal]
-		{*}No.{/*}
-		But I suppose if you did me a favor, I {~}could{/~} put in a good word for you\.\.\.
+		{*}Нет.{/*}
+		Хотя, конечно, если окажешь мне услугу, я {~}бы мог{/~} замолвить за тебя словечко\.\.\.
 		
 		[MADELINE left distracted]
-		What's the favor?
+		Что нужно сделать?
 		
 		[OVERSEER right normal]
-		Not far from here, I discovered an enclave that's home to some\.\.\. {0.2}{~}{# cf4500}endangered species{#}.{/~}
-		We have yet to receive, ahem, {0.1}{~}formal permission{/~}{0.05} to survey there. But if a lone actor were to {0.1}{~}investigate{/~}{0.05} the matter themselves\.\.\.
-		A verbal report will suffice.
+		Неподалёку от сюда я нашёл анклав с кое-какими\.\.\. {0.2}{~}{# cf4500}редкими видами{#}.{/~}
+		Но чтобы там разведывать, нам ещё предстоит получить, кхм, {0.1}{~}официальное разрешение{/~}{0.05}. But if a lone actor were to {0.1}{~}investigate{/~}{0.05} the matter themselves\.\.\.
+		Устного отчетности будет достаточно.
 		
 	SJ2021_SOLOIINI_OVERSEER04_ASK=
 		[MADELINE left upset]
-		It's done.
+		Сделано.
 		
 	SJ2021_SOLOIINI_OVERSEER04_SAY=
 		[MADELINE left upset]
-		It's done.
+		Сделано.
 		
 		[OVERSEER right normal]
-		And?
+		И как?
 		
 		[MADELINE left upset]
-		It's just more of the same.
+		Так же как и здесь.
 		
 		[OVERSEER right normal]
-		A pity. But with those {*}{# cf4500}fish{#}{/*} out of the way, expanding our operation will be easier.
+		Понятно. Если бы только убрать этих{*}{# cf4500}рыб{#}{/*} с нашей дороги, разведка бы пошла намного быстрее...
 		
 		[MADELINE left sad]
-		{0.2}{+thought}Does this make me a bad person?{+endthought}
+		{0.2}{+thought}Делает ли это меня плохим человеком?{+endthought}
 		
 		[OVERSEER right normal]
-		Would you still like me to put in a good word?
+		Похоже эта карта здесь больше никому не нужна?
 		
 		[MADELINE left sad]
-		Yes.
+		Ладно ладно.
 		
 	SJ2021_SOLOIINI_OVERSEER05_ASK=
 		[MADELINE left distracted]
-		You know there's a stranded train nearby, right?
+		А вы ведь знаете, что тут неподалеку застрял поезд, верно?
 		
 	SJ2021_SOLOIINI_OVERSEER05_SAY=
 		[MADELINE left distracted]
-		You know there's a stranded train nearby, right?
+		А вы ведь знаете, что тут неподалеку застрял поезд, верно?
 		
 		[MADELINE left upset]
-		They could probably use your help.
+		Им бы не помешала ваша помощь.
 		
 		[OVERSEER right normal]
-		That would be outside of my jurisdiction.
+		Это вне моей юрисдикции.
 		
 		[MADELINE left upset]
-		But surely you know someone who {!}could{/!} help.
+		Может быть тогда вы знаете того, кто {!}мог бы{/!} помочь.
 		
 		[MADELINE left angry]
-		I've been lugging this damn {# F3B343}{~}crystal{/~}{#} around for {!}hours{/!} when {!}you{/!} could have fixed it with a single command!
+		Я тут {!}часами{/!} кочевряжилась с этим {# F3B343}{~}кристаллом{/~}{#}, когда {!}вы{/!} могли бы всё решить одной кнопкой!
 		
 		[OVERSEER right normal]
-		Well, it sounds to me like you have the situation under control.
+		Думаю, у тебя всё под контролем.
 
 # ================== RAMBLINGS OF THE INSANE ==================
 
