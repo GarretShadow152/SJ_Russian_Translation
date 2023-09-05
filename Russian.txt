@@ -6149,7 +6149,7 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 2.0}Сделай {# F2F200}рывок вправо{#}, {#0069D5}зажми вправо{#} и {#f04e4e}зажми захват{#}!{>>} {n}Целься {#f04e4e}зажать захват{#} там, где находиться кристалл {#F2F200}рывка{#}.
 
   SJ2021_NotYourBadeline_BadelineHelper_42=
-  [Badeline right normal] {>> 2.5}Хорошо, полсекунды {#81AAD3}взберайся наверх{#}!{>>}
+  [Badeline right normal] {>> 2.5}Хорошо, полсекунды {#81AAD3}взбирайся наверх{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_43=
   [Badeline right normal] {>> 2.0}Сделай {# F2F200}рывок влево-вверх{#}, и ты коснёшься пружины. Когда ты отскачешь от неё, {#0069D5}зажми вправо{#} и сделай {# F2F200}рывок вправо-вверх{#}. Не забудь {#f04e4e}зажать захват{#}!{>>}
@@ -6170,55 +6170,55 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 1.5}{#0069D5}Зажми влево{#}~{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_1=
-  [Badeline right normal] {>> 2.0}Сделай {#1ffa85}прыжок вправо{#} на своп блок, затем продолжай {#0069D5}нажимать вправо{#}.{>>}
+  [Badeline right normal] {>> 2.0}Сделай {#1ffa85}прыжок вправо{#} на блок, затем продолжай {#0069D5}нажимать вправо{#}.{>>}
   
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_2=
-  [Badeline right normal] {>> 2.5}{# F2F200}Dash down{#}; the block you're on will go up super fast! {n}You'll want to {#1ffa85}jump up{#} and {# F2F200}dash up-right{#} at the peak of the movement.{>>}
+  [Badeline right normal] {>> 2.5}Сделай {# F2F200}рывок вниз{#}; Блок, на котором ты стоишь, начнёт очень быстро двигаться! {n}Тебе нужно будет {#1ffa85}прыгнуть вверх{#} и сделать {# F2F200}рывок вправо-вверх{#} на пике твоего прыжка.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_2_2=
-  [Badeline right normal] {>> 3.0}{# F2F200}Dash up-right{#}!!{>>}
+  [Badeline right normal] {>> 3.0}]Сделай {# F2F200}рывок вправо-вверх{#}!!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_3=
-  [Badeline right normal] {>> 2.0}{# F2F200}Dash up{#} and {#81AAD3}climb up{#} until you reach the sparkles.{>>}
+  [Badeline right normal] {>> 2.0}Сделай {# F2F200}рывок вверх{#} и {#81AAD3}взбирайся вверх{#}, пока не достигнешь искор.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_4=
-  [Badeline right normal] {>> 2.0}{# F2F200}Dash left{#}! {n}After you {# F2F200}dash{#}, you'll want to IMMEDIATELY {#1ffa85}jump left{#} and {#0069D5}move left{#}!{>>}
+  [Badeline right normal] {>> 2.0}Сделай {# F2F200}рывок влево{#}! {n}После {# F2F200}рывка{#}, тебе нужно сразу {#1ffa85}прыгнуть влево{#} и продолжать {#0069D5}двигаться влево{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_5=
-  [Badeline right normal] {>> 2.0}{#1ffa85}Jump left{#} and {# F2F200}dash up-left{#}, then {#81AAD3}grab the wall{#}!{>>}
+  [Badeline right normal] {>> 2.0}{#1ffa85}Прыгни влево{#} и сделай {# F2F200}рывок влево-вверх{#}, затем {#81AAD3}схватись за стену{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_5_2=
-  [Badeline right normal] {>> 2.0}{#81AAD3}Climb up{#} until you reach the sparkles.{>>}
+  [Badeline right normal] {>> 2.0}{#81AAD3}Взбирайся наверх{#}, пока не достигнешь искор.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_5_3=
-  [Badeline right normal] {>> 2.0}Keep {#81AAD3}climbing up{#} until you reach the next set of sparkles! {# F2F200}Dash up{#} if you have to!{>>}
+  [Badeline right normal] {>> 2.0}Продолжай {#81AAD3}взбираться наверх{#}, пока не поднимешься до других искор! Сделай {# F2F200}рывок вверх{#}, если будет нужно!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_6=
-  [Badeline right normal] {>> 2.0}{# F2F200}Dash right{#} and {#0069D5}hold right{#}!{>>}
+  [Badeline right normal] {>> 2.0}Сделай {# F2F200}рывок вправо{#} и {#0069D5}зажми вправо{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_7=
-  [Badeline right normal] {>> 2.0}{#1ffa85}Jump up{#} and then {# F2F200}dash down-right{#}.{>>}
+  [Badeline right normal] {>> 2.0}{#1ffa85}Прыгни вверх{#}, а затем сделай {# F2F200}рывок вправо-вниз{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_8=
-  [Badeline right normal] {>> 2.0}{#1ffa85}Jump up{#} and {# F2F200}dash right{#}.{>>}
+  [Badeline right normal] {>> 2.0}{#1ffa85}Прыгни наверх{#} и сделай {# F2F200}рывок вправо{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_9=
-  [Badeline right normal] {>> 2.0}{# F2F200}Dash up-right{#} and {#f04e4e}hold grab{#}. {n}Then {#81AAD3}climb up{#} until you hear a {# F2F200}dash{#} crystal.{>>}
+  [Badeline right normal] {>> 2.0}Сделай {# F2F200}рывок вправо-вверх{#} и {#f04e4e}зажми захват{#}. {n}Затем {#81AAD3}взбирайся наверх{#}, пока не услышишь кристалл {# F2F200}рывка{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_10=
-  [Badeline right normal] {>> 2.0}Dismount left from the wall. Tap left until dialog!{>>}
+  [Badeline right normal] {>> 2.0}Спустись влево со стены. Продолжай нажимать влево до следующего диалога!{>>}
   
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_11=
-  [Badeline right normal] {>> 2.0}{# F2F200}Dash down{#} and do another momentum {#1ffa85}jump left{#}!{>>}
+  [Badeline right normal] {>> 2.0}Сделай {# F2F200}рывок вниз{#} и сделай ещё один {#1ffa85}прыжок с ускорением влево{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_12=
-  [Badeline right normal] {>> 2.0}{# F2F200}Dash up{#} and {#81AAD3}climb up{#} until you hear a {# F2F200}dash{#} crystal!{>>}
+  [Badeline right normal] {>> 2.0}Сделай {# F2F200}рывок вверх{#} и {#81AAD3}взбирайся наверх{#}, пока не услышишь кристалл{# F2F200}рывка{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_13=
-  [Badeline right normal] {>> 2.0}Dismount right from the wall. Tap right until dialog!{>>}
+  [Badeline right normal] {>> 2.0}Спустись вправо со стены. Продолжай нажимать вправо до следующего диалога!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_14=
-  [Badeline right normal] {>> 2.0}{# F2F200}Dash down{#} and do another momentum {#1ffa85}jump right{#}, {#0069D5}hold right{#} to win~!{>>}
+  [Badeline right normal] {>> 2.0}Сделай {# F2F200}рывок вниз{#} и сделай ещё один {#1ffa85}прыжок с ускорением вправо{#}, {#0069D5}зажми вправо{#} для победы~!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_15=
   [Badeline right normal] {>> 2.0}{~}Удачи~{/~}{>>}
