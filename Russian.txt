@@ -6080,7 +6080,7 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 1.5}Делай {# F2F200}рывок вправо{#} и не бойся движущейся платформы, она здесь только чтобы припугнуть тебя.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_20=
-  [Badeline right normal] {>> 1.5}{#0069D5}Hold right{#} when the moving platform is at the top, you’ll end up on a platform.{>>}
+  [Badeline right normal] {>> 1.5}{#0069D5}Зажми вправо{#}, когда двигающаяся платойрма  достигнет верхней точки, ты прибудешь на платформу.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_21=
   [Badeline right normal] {>> 1.5}{#1ffa85}Прыгни вправо{#}! Потому, {#f04e4e}уцепись{#} за правую стену.{>>}
@@ -6113,64 +6113,64 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 2.0}Всё, всё, притормози. {#81AAD3}Взбирайся нанаверх{#}, а как только заберешься, {#0069D5}шагай вправо{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_30=
-  [Badeline right normal] {>> 2.0}{#0069D5}Hold right{#} for easy W~{>>}
+  [Badeline right normal] {>> 2.0}{#0069D5}Зажми вправо{#} для лёгкой победы~{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_31=
-  [Badeline right normal] {>> 2.0}{# F2F200}Dash right{#}, wait until you touch the ground, then {#0069D5}hold left{#}.{>>}
+  [Badeline right normal] {>> 2.0}Сделай {# F2F200}рывок вправо{#}, подожди, пока не коснёшься земли, затем  {#0069D5}зажми влево{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_32=
-  [Badeline right normal] {>> 2.0}{# F2F200}Dash left{#}. When you hit a spring, release everything! {n}That should bounce you onto a platform.{>>}
+  [Badeline right normal] {>> 2.0}Сделай {# F2F200}рывок влево{#}.Когда коснёшься пружины, отпусти все кнопки! {n}Это должно подкинуть тебя на платформу.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_33=
-  [Badeline right normal] {>> 2.0}{# F2F200}Dash{#} and {#0069D5}hold right{#}~{>>}
+  [Badeline right normal] {>> 2.0}Сделай {# F2F200}рывок{#} и {#0069D5}зажми вправо{#}~{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_34=
-  [Badeline right normal] {>> 2.0}{# F2F200}Dash up{#}, there's another spring. {n}At the peak of your bounce, {# F2F200}dash up-right{#}, then {#f04e4e}hold grab{#}!{>>}
+  [Badeline right normal] {>> 2.0}Сделай {# F2F200}рывок вверх{#}, там будет очередная пружина. {n}На вершине твоего отскока сделай {# F2F200}рывок вправо-вверх{#}, затем {#f04e4e}зажми захват{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_35=
-  [Badeline right normal] {>> 2.0}{#81AAD3}Climb up{#}!{>>}
+  [Badeline right normal] {>> 2.0}{#81AAD3}Взберись наверх{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_36=
-  [Badeline right normal] {>> 2.0}Another easy win, {#0069D5}hold right{#}~{>>}
+  [Badeline right normal] {>> 2.0}Ещё одна лёгкая победа, {#0069D5}зажми вправо{#}~{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_37=
-  [Badeline right normal] {>> 2.0}Okay, last room! {n}{#0069D5}Tap right{#} until you fall, then quickly {#0069D5}hold left{#} and {#f04e4e}hold grab{#}.{>>}
+  [Badeline right normal] {>> 2.0}Прекрасно, последняя комната! {n}{#0069D5}Нажмай вправо{#} пока не упадёшь, затем быстро {#0069D5}зажми влево{#} и {#f04e4e}зажми хвататься{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_38=
-  [Badeline right normal] {>> 2.0}Drop down to hit a spring. Once you hit it, {# F2F200}dash right{#}! {n}Then keep {#0069D5}holding right{#} and {#f04e4e}holding grab{#}.{>>}
+  [Badeline right normal] {>> 2.0}Спустись вниз, чтобы коснуться пружина. Когда сделаешь это, сделай {# F2F200}рывок вправо{#}! {n}Затем продолжай {#0069D5}двигаться вправо{#} и {#f04e4e}зажимать захват{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_39=
-  [Badeline right normal] {>> 2.0}{#81AAD3}Climb up{#} quick!{>>}
+  [Badeline right normal] {>> 2.0}{#81AAD3}Взберись наверх{#}, быстро!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_40=
-  [Badeline right normal] {>> 2.0}{# F2F200}Dash right{#}, {#0069D5}hold right{#}, and {#f04e4e}hold grab{#}!{>>}
+  [Badeline right normal] {>> 2.0}Сделай {#F2F200}рывок направо{#}, {#0069D5}зажми вправо{#} и {#f04e4e}зажми захват{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_41=
-  [Badeline right normal] {>> 2.0}{# F2F200}Dash right{#}, {#0069D5}hold right{#}, and {#f04e4e}hold grab{#}!{>>} {n}Aim to {#f04e4e}hold grab{#} where the {# F2F200}dash{#} crystal is.
+  [Badeline right normal] {>> 2.0}Сделай {# F2F200}рывок вправо{#}, {#0069D5}зажми вправо{#} и {#f04e4e}зажми захват{#}!{>>} {n}Целься {#f04e4e}зажать захват{#} там, где находиться кристалл {#F2F200}рывка{#}.
 
   SJ2021_NotYourBadeline_BadelineHelper_42=
-  [Badeline right normal] {>> 2.5}Okay, {#81AAD3}climb up{#} for half a second!{>>}
+  [Badeline right normal] {>> 2.5}Хорошо, полсекунды {#81AAD3}взберайся наверх{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_43=
-  [Badeline right normal] {>> 2.0}{# F2F200}Dash up-left{#}, you’ll hit a spring. When you bounce off the spring, {#0069D5}hold right{#} and {# F2F200}dash up-right{#}. Don't forget to {#f04e4e}hold grab{#}!{>>}
+  [Badeline right normal] {>> 2.0}Сделай {# F2F200}рывок влево-вверх{#}, и ты коснёшься пружины. Когда ты отскачешь от неё, {#0069D5}зажми вправо{#} и сделай {# F2F200}рывок вправо-вверх{#}. Не забудь {#f04e4e}зажать захват{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_44=
-  [Badeline right normal] {>> 2.0}Checkpoint. {#0069D5}Hold right{#}~{>>}
+  [Badeline right normal] {>> 2.0}Чекпоинт. {#0069D5}Зажми вправо{#}~{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_45=
-  [Badeline right normal] {>> 2.0}Heads up, this room is for a berry! The end of the map is in the other room.{>>}
+  [Badeline right normal] {>> 2.0}Внимание, эта комната с клубникой! Конец карты в другой комнате.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_46=
-  [Badeline right normal] {>> 2.0}{#1ffa85}Jump up{#} and {# F2F200}dash up-right{#}! {n}When you land on the ground, {#0069D5}slowwlyyyy inch right{#}.{>>}
+  [Badeline right normal] {>> 2.0}{#1ffa85}Подпрыгни вверх{#} и сделай {# F2F200}рывок вправо-вверх{#}! {n}Когда коснёшься земли, {#0069D5}меееееедленно подвинься вправо{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_47=
-  [Badeline right normal] {>> 2.0}You got the berry! Now reverse your steps.{>>}
+  [Badeline right normal] {>> 2.0}Ты получил клубнику! Теперь вернись обратно.{>>}
   
   SJ2021_NotYourBadeline_BadelineHelper_48=
-  [Badeline right normal] {>> 1.5}{#0069D5}Hold left{#}~{>>}
+  [Badeline right normal] {>> 1.5}{#0069D5}Зажми влево{#}~{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_1=
-  [Badeline right normal] {>> 2.0}Make a {#1ffa85}right jump{#} onto a swap block, then keep {#0069D5}tapping right{#}.{>>}
+  [Badeline right normal] {>> 2.0}Сделай {#1ffa85}прыжок вправо{#} на своп блок, затем продолжай {#0069D5}нажимать вправо{#}.{>>}
   
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_2=
   [Badeline right normal] {>> 2.5}{# F2F200}Dash down{#}; the block you're on will go up super fast! {n}You'll want to {#1ffa85}jump up{#} and {# F2F200}dash up-right{#} at the peak of the movement.{>>}
