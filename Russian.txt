@@ -7175,7 +7175,7 @@ SJ2021_1_Beginner_snassecret=
 		
 		[OVERSEER right normal]
 		Неподалёку от сюда я нашёл анклав с кое-какими\.\.\. {0.2}{~}{# cf4500}редкими видами{#}.{/~}
-		Но чтобы там разведывать, нам ещё предстоит получить, кхм, {0.1}{~}официальное разрешение{/~}{0.05}. But if a lone actor were to {0.1}{~}investigate{/~}{0.05} the matter themselves\.\.\.
+		Но чтобы там разведывать, нашей компании ещё предстоит получить, кхм, {0.1}{~}официальное разрешение{/~}{0.05}. Если бы только кто-то в одиночку {0.1}{~}развдал{/~}{0.05} всё там\.\.\.
 		Устного отчетности будет достаточно.
 		
 	SJ2021_SOLOIINI_OVERSEER04_ASK=
@@ -7232,96 +7232,96 @@ SJ2021_1_Beginner_snassecret=
 	SJ2021_SOLOIINI_UNEXPECTED00=
 		{anchor bottom}
 		[THEO left excited]
-		{+MADELINE}! I'm so glad to see you right now!
+		{+MADELINE}! Я так рад снова увидеть тебя!
 
 		[MADELINE right distracted]
-		Umm\.\.\.{0.3} where are we?
+		Эмм\.\.\.{0.3} где это мы?
 
 		[THEO left thinking]
-		It would appear to be\.\.\.{0.3}{n}{#}{~}{!}{# 96EFFF}THE CELESTE RIDGE!{#}{/!}{/~}{/#}
+		Должно быть, это\.\.\.{0.3}{n}{#}{~}{!}{# 96EFFF}ГОРНЫЙ ХРЕБЕТ СЕЛЕСТЫ!{#}{/!}{/~}{/#}
 
 		[MADELINE right upset]
-		I'm pretty sure that's not what it's called.
+		Уверена, что он называется совершенно не так.
 
 		[THEO left normal]
-		Either way, you're totally out of your depth here.{n}Just give me the word and I'll send you back.
-		Trust me, it's {!}really{/!} not worth it.
+		В любом случае, ты тут как сама не своя.{n}Только скажи, и мы вернёмся домой.
+		Поверь мне, оно {!}реально{/!} не стоит того.
 
 	SJ2021_SOLOIINI_UNEXPECTED01=
 		[MADELINE right peaceful]
-		I'd like to stay a while longer.
+    Я бы хотела побыть здесь ещё немного.
 
 	SJ2021_SOLOIINI_UNEXPECTED02=
 		[MADELINE right upset]
-		Get me out of here.
+		Выпусти меня отсюда.
 
 	SJ2021_SOLOIINI_UNEXPECTED03=
 		[MADELINE right distracted]
-		Actually, maybe we could talk about something...
+		На самом деле, нам нужно кое-что обсудить...
 		
 	SJ2021_SOLOIINI_UNEXPECTED04=
 		[THEO_MIRROR left worried]
-		I'm trapped in a time vortex and this is the only way I can communicate. Please, act as soon as you see this message! I don't have much time.
+		Я застрял во временной петле и это мой единственный способ связаться с тобой. Помоги мне, как только услышишь это! У меня мало времени.
 
 	SJ2021_SOLOIINI_UNEXPECTED04_SAY=
 		{anchor bottom}
 		[THEO left serious]
-		{+MADELINE}, you seriously need to stop thinking about sex so much.
+		{+MADELINE}, тебе правда стоит перестать так часто думать о сексе.
 
 		[MADELINE right surprised]
-		WHAT THE HELL?
+		КАКОГО!?
 
 		[THEO left serious]
-		Really {+MADELINE} it's actually a huge problem at this point.
-		You're a grown adult. {0.65}Please, just stop. For both of our sakes.
+		{+MADELINE}, я серьёзно, это становится большой проблемой.
+		Ты же взрослая уже. {0.65}Просто перестань, пожалуйста. Ради нас обоих.
 
 		[MADELINE right angry]
-		{+THEO}, come on. You aren't some {~}all-knowing cosmic entity{/~}, you're a 20-something guy from Seattle. Stop acting like you're better than me.
+		Ой, {+THEO}, да ладно тебе. Ты же не {~}всезнающая космическая сущность{/~}, ты обычный 20 летний парень из Сиэтла. Хорош думать, будто ты лучше меня.
 
 		[THEO left serious]
-		It's too late, {+MADELINE}.
-		I deleted sex.
+		Поздно, {+MADELINE}.
+		Я уничтожил секс.
 
 		[MADELINE right angry]
-		You can't just do that!
+		Ты не можешь так поступить со мной!
 
 		[THEO left serious]
-		Every day, I have to wake up and live with the consequences that you brought upon this world. I have to live in fear of what you could bring upon us next.
-		I can't just let this keep going on.
+    Каждый день я просыпаюь и живу с последствиями, которые ты навлекаешь на этот мир. И каждый день я живу в страхе перед тем, что ты можешь выкинуть ещё.
+		Я не могу позволить этому продолжаться.
 
 		[MADELINE right upset]
-		{+THEO} honestly at this point I'm not even going to start on how ridiculous this is.
-		You clearly need to take a step back before you do something even worse.
+		{+THEO}, я даже не буду объяснять, насколько ты заблуждаешься.
+		Ты должен остановиться и вернуть всё назад, пока ты не сделал всё ещё хуже.
 
 		[THEO left serious]
-		They say that {+CELESTE_MOUNTAIN} shows you who you really are. I went back on my own, entirely unprepared for what I was about to see.
-		The things I saw\.\.\.
-		You have to understand that I had no choice in this. {n}Don't try and fight it, {+MADELINE}. Please.
+    Ты говорила, что {# 96EFFF}Гора{#} обличает твоё истинное я. После того я сам взобрался на неё, чтобы узреть истину.
+		Но, правда открывшаяся мне, я не был готов к ней\.\.\.
+		Ты должна понять - у меня не было выбора. {n}Не вставай передо мной, {+MADELINE}. Прошу.
 
 		[MADELINE right upset]
-		I can't forgive you for this so easily, you know.
+		После всего сказанного, я не могу просто простить тебя.
 
 		[THEO left serious]
-		Neither can I, {+MADELINE}.
+		А ты думаешь, я могу, {+MADELINE}?
 		
 	SJ2021_SOLOIINI_UNEXPECTED05=
 		[MADELINE_PHONE right distracted]
-		...Alright, I'll pass it on.
+		...Кажется, я поняла.
 		
 	SJ2021_SOLOIINI_UNEXPECTED05_SAY=
 		{anchor bottom}
 		[MADELINE right sad]
-		"The {+MOUNTAIN} shows you who you really are."
-		Maybe she was right, but overstay your welcome and you start to see the seams show.
-		You see it all unravel around you, both the beauty and the grit.
-		Yet as the clock ticks more and more, time stands still.
+    "{# 96EFFF}Гора{#} обличает твоё истинное я."
+    Видимо, она была права, если злоупотребить гостепреимством, то проступят швы.
+    И истинное лицо покажется пред тобой.
+    Чем дальше тикают часы, тем время ближе умерсти.
 
 		[THEO left serious]
-		Yet as the clock ticks more and more, time stands still.
+    Чем дальше тикают часы, тем время ближе умерсти.
 
 	SJ2021_SOLOIINI_UNEXPECTED06=
 		[MADELINE right normal]
-		About leaving this place...
+		Пора покинуть это место...
 
 # ================== SUSPENSE ==================
 
