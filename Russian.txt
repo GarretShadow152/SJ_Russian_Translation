@@ -7420,109 +7420,109 @@ SJ2021_1_Beginner_snassecret=
 		#MADELINE walks up to BETELFLAME, who is sitting at a table in a room that appears to be the LUXURY SUITE.
 
 		[MADELINE left angry]
-		I thought I could {!}trust{/!} you!{0.3} You said you wanted to {0.1}{!}help{/!} me!
-		But you're no better than the rest of them, {0.2}just another {!}manipulative {0.1}asshole{/!} who saw the fear in my eyes as an opportunity.
+		Я думала я могу {!}доверять{/!} тебе!{0.3} Ты сказал, что хочешь {0.1}{!}помочь{/!} мне!
+		Но ты ни чем не лучше других, {0.2}лишь очередной {!}манипулятивный {0.1}придурок{/!}, который видит страх в моих глазах, как возможность.
 		
 		[MADELINE left upset]
-		Those engineers should have done worse.
+		Этим инженерам стоило задержать тебя на подольше.
 		
 	SJ2021_SOLOIINI_CONFRONTATION_B=
 		[BETELFLAME right serious]
-		Now, now, {0.1}there's no need for such\.\.\.{0.3} {~}boorish{/~} {0.1}language.
+		Ой, ой, {0.1}не нужно так\.\.\.{0.3} {~}выражаться{/~}.
 		
 		[BETELFLAME right normal]
-		After all, it's downright pathetic how easily you fell for my script.
-		So oblivious to the methods of cinema, you believed a famous actor actually wanted to help you — {0.5}it's almost sad, really.
+		В конце концов, это так трогательно, что ты легко согласилась на мой сценарий.
+		Позабыв все причуды кинематографа, ты поверила прекрасному актеру в том, что он поможет тебе — {0.5}печально, что сказать.
 		
 		[BETELFLAME right thinking]
-		Anyways, a proposition:{0.5} surrender the {# F3B343}{~}crystal{/~}{#} to me, {0.2}and I'll let you go.
+		В общем, вот мое предложение:{0.5} отдай {# F3B343}{~}кристалл{/~}{#} мне,{0.2} и я отпущу тебя.
 		
 		[BETELFLAME right smug]
-		With that gleaming gemstone in hand, I could finally leave this rusted prison and be a {0.1}{~}{# f0e73d}star{#}{/~} again!
+		С этим сияющим кристаллом в моих руках и я смогу вновь воссиять {0.1}{~}{# f0e73d}звездой{#}{/~},{0.1} покинув наконец это ржавое корыто!
 		
 		[MADELINE left upset]
-		{!}No. {/!}
-		I won't give you a thing until the sun burns out.
+		{!}Нет. {/!}
+		Ты не получишь его пока все звёзды мира не погаснут.
 		
 		[BETELFLAME right annoyed]
-		Such\.\.\.{0.3} {*}{!}insolence!{/!}{/*} {0.8}I'm surprised, honestly.
+		Какая\.\.\.{0.3} {*}{!}наглость!{/!}{/*} {0.8}Признаться, я удивлён.
 		
 		[BETELFLAME right normal]
-		But you don't get it — {0.4}true stars never die.
+		Но ты, по видимому, не поняла — {0.4}настоящие звёзды никода не умирают.
 		
 		[BETELFLAME right annoyed]
-		Do what you please. While you cede your will to stubbornness, I shall indulge myself in {~}luxury.{/~}
-		When you grow tired of insulting me, try to find a way out of here.
+		Делай, что хочешь. Упрямствуй тут, сколько влезет, а я пока побуду в своём {~}люксе.{/~}
+		Как устанешь проклинать меня, можешь и выход за одно поискать.
 		
 		[BETELFLAME right normal]
-		Watching you fail will be utterly delightful.
+		Твои неудачи станут отличным представлением для меня.
 
 		#The ceiling on the left crumbles and breaks, with the camera zooming in and MADELINE going over to face it (and maybe move closer).
 		#Alternatively, have the rumble occur after MADELINE is arrogant (it's deep, trust me) and BETELFLAME lazes around while you continuously fail to beat pretty much the most consistent room in the map.
 
 	SJ2021_SOLOIINI_ARROGANCE_FAILURE=
-		It appears you are experiencing technical difficulties.
-		We at {# C71A42}Venus Industries{#} are dedicated to providing the best customer service in the galaxy.
-		Please select the service package you desire.
+		Похоже, вы испытываете технические трудности.
+		Мы, в {# C71A42}Venus Industries{#}, стремимся обеспечить лучшее обслуживание клиентов в галактике.
+		Пожалуйста, выберите желаемый пакет услуг.
 
 	SJ2021_SOLOIINI_SERVICE_00=
-		Incineration.
+		Кремация.
 
 	SJ2021_SOLOIINI_SERVICE_01=
-		Disintegration.
+		Дезинтеграция.
 
 	SJ2021_SOLOIINI_RETURNING_CUSTOMER=
-		Please select the service package you desire.
+		Пожалуйста, выберите желаемый пакет услуг.
 
 	SJ2021_SOLOIINI_COOLANT_A=
 	#camera zoom in
 		[MADELINE left upset]
-		What? Bored already?
+		Вы посмотрите кто явился.
 		
 		[BETELFLAME right serious]
-		Well, your choreography leaves something to be desired, {0.1}but\.\.\.
+		Чтож, ваши навыки хареографии оставлять лучшего, {0.1}однако\.\.\.
 		
 		[BETELFLAME right regret]
-		Listen, I was thinking about what you said earlier, and\.\.\.
+		Я тут размышлял над твоими словами, и\.\.\.
 		
 		[BETELFLAME right serious]
-		I think we might be able to reach a {0.15}{~}mutually agreeable arrangement.{/~}
+		Я думаю, мы могли бы достичь {0.15}{~}взаимоприемлемого соглашения.{/~}
 		
 		[MADELINE left upset]
-		Nope, don't wanna hear it.
-		I'm not making a deal with some washed-up actor who {0.1}{!}{*}kidnapped{/*}{/!} me for {0.15}{~}{!}"entertainment"!{/!}{/~}
+		Не, лень даже слушать.
+		Я не буду совершать никаких сделок с шизанутым актёром, который {0.1}{!}{*}похищает людей{/*} ради {/!}{0.15}{~}{!}"представления"!{/!}{/~}
 		
 		[BETELFLAME right annoyed]
-		{!}Fine.{/!} {0.1}You win. {0.1}Clearly, {0.1}this was all just an {!}utter {0.15}{*}waste{/*}{/!} of my time.
+		{!}Ладно.{/!} {0.1}Ты выйграла. {0.1}Оказалось, {0.1}что всё это было лишь {!}пустой {0.15}{*}тратой{/*}{/!} моего времени.
 	#camera zoom in more
 	
 	SJ2021_SOLOIINI_COOLANT_B=
 		[BETELFLAME right annoyed]
-		I spent so long searching for {!}ANYONE{/!} on this {!}damned{/!} locomotive with even the {!}slightest {0.1}{*}hint{/*}{/!} of acting potential, but you just {!}{*}had{/*}{/!} to {!}{*}ruin{/*}{/!} my plans!
-		I mean, I expected {0.1}{!}{~}drama! {0.5}Tears! {0.5}Anything!{/~}{/!}{0.5} {n}Where's your {!}emotion{/!}, {0.1}for god's sake?
+		Я убил столько времени ища хоть {!}КОГО-НИБУДЬ{/!} на этом {!}чёртовом{/!} локомотиве с {!}хоть какими-нибудь {0.1}{*}проблесками{/*}{/!} на талант, но ты просто {!}{*}взяла{/*}{/!} и {!}{*}разрушила{/*}{/!} мои планы!
+		Я ожидал {0.1}{!}{~}драмы! {0.5}Слёз! {0.5}Хоть чего-нибудь!{/~}{/!}{0.5}{n}Где же твои {!}эмоции{/!} {0.1}в конце то концов?
 	#camera zoom back
 	
 	SJ2021_SOLOIINI_COOLANT_C=
 		[BETELFLAME right regret]
-		Just\.\.\.{0.3} look, I'm sorry, okay?
+		Пойми\.\.\.{0.3} я правда раскаиваюсь.
 		
 		[BETELFLAME right serious]
-		{>> 1.4}There. I said it.
-		Now can we just move on already? {0.2}We've caused each other enough pain as is.{>>}
-		I can go back to my {# c6a75a}{~}luxury suite{/~}{#} {0.1}and forget any of this ever happened.
-		We'll never have to see each other again.
+		{>> 1.4}Вот, я сказал это.
+		Можем мы уже начать делать хоть что-то? {0.2}Мы уже достаточно насолили друг другу.{>>}
+		Но я конечно могу просто уйти в свой {# c6a75a}{~}люксовый номер{/~}{#} {0.1}и забыть всё здесь произошедшее.
+		И мы никогда более в жизни не повстречаем друг друга.
 		
 		[MADELINE left upset]
-		Really?
+		Правда?
 		
 		[MADELINE left angry]
-		{!}{*}Really?{/*}{/!}
-		After all your {!}bullshit theatrics,{/!} {0.1}you're just going to {!}{*}leave{/*}{/!} me here?
+		Нет, {!}{*}правда?{/*}{/!}
+		После всех твоих {!}идиотских представлений,{/!} {0.1}ты просто {!}{*}уйдёшь{/*}{/!}!?
 		
 		[BETELFLAME right annoyed]
-		You know what? {!}{*}Fine!{/*}{/!}
-		I'll stay right here out of {!}spite!{/!}
-		We'll see where that {!}arrogance{/!} gets you.
+		Знаешь что? {!}{*}А давай!{/*}{/!}
+		Я останусь здесь {!}тебе назло!{/!}
+		Посмотрим к чему приведёт тебя твоё {!}высркомерие{/!}.
 	#pan camera to switch gate, shatter it, end
 
 # ================== RESOLUTION ==================
