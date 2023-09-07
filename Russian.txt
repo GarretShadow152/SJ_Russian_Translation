@@ -6176,7 +6176,7 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 2.5}Сделай {# F2F200}рывок вниз{#}; Блок, на котором ты стоишь, начнёт очень быстро двигаться! {n}Тебе нужно будет {#1ffa85}прыгнуть вверх{#} и сделать {# F2F200}рывок вверх-вправо{#} на пике твоего прыжка.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_2_2=
-  [Badeline right normal] {>> 3.0}]Сделай {# F2F200}рывок вверх-вправо{#}!!{>>}
+  [Badeline right normal] {>> 3.0}Сделай {# F2F200}рывок вверх-вправо{#}!!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_3=
   [Badeline right normal] {>> 2.0}Сделай {# F2F200}рывок вверх{#} и {#81AAD3}взбирайся наверх{#}, пока не достигнешь искр.{>>}
@@ -6645,13 +6645,13 @@ Cranberry juice!
 # === RedBoule
 
 SJ2021_RedBoule_door_tutorial= 
-  GRAB -> OPEN/CLOSE GATES
+  ЗАХВАТ -> ОТКРЫТЬ/ЗАКРЫТЬ ДВЕРИ
 
 # === Roborb
 
 SJ2021_Roborb_what=
 [MADELINE left surprised]
-WHAT
+ЧТО
 
 SJ2021_Roborb_Secret1=
 [MADELINE left surprised]
@@ -6659,41 +6659,39 @@ SJ2021_Roborb_Secret1=
 
 SJ2021_Roborb_Secret2=
 [THEO right excited]
-Oh, hey!{0.3} What’s up?
+О, эй!{0.3} Как ты?
 
 [MADELINE left surprised]
-Where did you...{0.5} How did you get here?
+Где ты...{0.5} Как ты оказался тут?
 
 [THEO right excited]
-Oh it was really easy!{0.5}
-
-There was a path that snaked around and I just kinda followed it up here!
+Ой, да в этом не было ничего сложного!{0.5}
+Тут недалеко тропинка есть через все эти дебри, ну и я просто шёл по ней!
 
 [MADELINE left upset]
-Oh cool...{0.5} I guess.
+Прикольно...{0.5} получается.
 
 [THEO right wtf]
-I’m glad I ran into you.{0.3} Did you get my letters?
+Я так рад, что мы наконец свиделись.{0.3} Ты получала мои письма?
 
 [MADELINE left angry]
-Your...{0.5} Your {!}WHAT{/!}?
+Твои...{0.5} Твои {!}ЧТО{/!}?
 
 [THEO right serious]
-My letters!{0.3} I sent you some cards for Valentine's Day, but you never replied.
-
-I kept sending them just to make sure you got them.
+Письма!{0.3} Я всегда отправлял тебе несколько на день Святого Валентина, но ты никогда не отвечала.
+Поэтому я продолжал слать их, чтобы убедиться, что ты их вообще получаешь.
 
 [MADELINE left deadpan]
-{~}Sigh{/~}.{0.1}.{0.1}.{0.5} Yes, {+THEO}. I got your letters.
+{~}Вздох{/~}.{0.1}.{0.1}.{0.5} Да, {+THEO}. Я получала твои письма.
 
 [THEO right normal]
-{~}Soooo{/~}?
+{~}Иииии{/~}?
 
 [MADELINE left distracted]
 .{0.2}.{0.2}.
 
 [MADELINE left normal]
-Yeah sure Theo.{0.5} I’ll be your valentine.
+Да, {+THEO}.{0.5} Я буду твоей валентинкой~
 
 # === Rocketguy2
 
@@ -6722,11 +6720,11 @@ SJ2021_RG2_Introductions=
 Какое это имеет отношение к трансопртировке пуфферов?
 
 [GRANNY right normal]
-А то, что из-за этого все мои пуфферы выбрались и разбрелись по округе.
+А то, что из-за этого все мои пуфферы выбрались и разлетелись по округе.
 
 [MADELINE left upset]
 Что.
-Это вообще не то, как обычно ведут себя пуфферы, они ведь не легче воздуха.
+Это вообще не то, как обычно ведут себя пуфферы. Не могут ведь они быть легче воздуха.
 
 [GRANNY right laugh]
 Не спрашивай меня, милочка, я лишь говорю как есть!
@@ -6741,7 +6739,7 @@ SJ2021_RG2_Introductions=
 Вы мне втираете какую-то дичь?
 
 [GRANNY right mock]
-Ой, милочка, да это с тобой, не волнуйся.
+Ой, милочка, да это я не с тобой, не волнуйся.
 
 [MADELINE left angry]
 Да с кем вы ещё то можете разговаривать? Здесь кроме нас никого нет!
@@ -6755,7 +6753,7 @@ SJ2021_RG2_Introductions=
 
 [GRANNY right normal]
 Просто пройди через дом, а потом через сад.
-Однако должна предупредить, что со всеми этими шипами, сделать это будет не так просто.
+Однако должна предупредить, что со всеми этими шипами сделать это будет не так просто.
 Настоятельно рекомендую сначала обдумывать свои действия в каждой комнате, прежде чем что-то делать.
 В общем, милочка, доберись до сарая, приведи всё в норму, и я заплачу тебе.
 
@@ -6854,10 +6852,10 @@ SJ2021_RG2_Huh=
 А что на счёт тебя? Что ты здесь делаешь?
 
 [THEO left serious]
-Я ищу своего старого друга, думал найду её здесь, но пока как-то не сраслось.
+Я ищу своего старого друга, думал найду её здесь, но пока как-то не срослось.
 
 [MADELINE right sad]
-Оу, надеюсь, ты найдёшь её.
+Ой, надеюсь, ты найдёшь её.
 
 [THEO left serious]
 Я тоже, {+MADELINE}, я тоже.
