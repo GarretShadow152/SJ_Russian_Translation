@@ -7241,7 +7241,7 @@ SJ2021_1_Beginner_snassecret=
 		Должно быть, это\.\.\.{0.3}{n}{#}{~}{!}{# 96EFFF}ГОРНЫЙ ХРЕБЕТ СЕЛЕСТЫ!{#}{/!}{/~}{/#}
 
 		[MADELINE right upset]
-		Уверена, что он называется совершенно не так.
+		Уверена, что это называется совершенно не так.
 
 		[THEO left normal]
 		В любом случае, ты тут как сама не своя.{n}Только скажи, и мы вернёмся домой.
@@ -7276,7 +7276,7 @@ SJ2021_1_Beginner_snassecret=
 		Ты же взрослая уже. {0.65}Просто перестань, пожалуйста. Ради нас обоих.
 
 		[MADELINE right angry]
-		Ой, {+THEO}, да ладно тебе. Ты же не {~}всезнающая космическая сущность{/~}, ты обычный 20 летний парень из Сиэтла. Хорош думать, будто ты лучше меня.
+		Ой, {+THEO}, да ладно тебе. Ты же не {~}всезнающая космическая сущность{/~}, а лишь обычный 20 летний парень из Сиэтла. Хватит думать, будто ты лучше меня.
 
 		[THEO left serious]
 		Поздно, {+MADELINE}.
@@ -7330,74 +7330,74 @@ SJ2021_1_Beginner_snassecret=
 		#MADELINE walks in from the left, having left the crystal in Obelisk. She stops a comfortable distance from BETELFLAME.
 
 		[BETELFLAME right normal]
-		Welcome, my esteemed guest!
-		Oh, I can just {0.2}{!}feel{/!} your heart beating in reverence.
+		Добро пожаловать, мой дорогой гость!
+		Я даже отсюда {0.2}{!}чувствую{/!}, как ваше сердце бьётся в поклоне.
 		
 		[BETELFLAME right smug]
-		No need to look so coy — {0.4}it's only natural in my presence.
+		О, прошу, не стесняйтесь — {0.4}в моём присутствии такое случается у многих.
 		
 		[BETELFLAME right normal]
-		After all\.\.\.
+		В конце концов\.\.\.
 	
 	SJ2021_SOLOIINI_SPECTACLE_B=
 		{anchor bottom}
 		[BETELFLAME right normal]
-		I am the {~}{!}magnificent,{0.5} preeminent,{0.5} renowned{/!}\.\.\.{/~}
+		Я тот самый {~}{!}великолепнейший,{0.5} выдающийся,{0.5} известный{/!}\.\.\.{/~}
 	
 	SJ2021_SOLOIINI_SPECTACLE_C=
 		{anchor bottom}
 		[BETELFLAME right normal]
-		the {~}{!}truly unrivalled,{0.2} one and only{/!}\.\.\.{/~}
+		{~}{!}поистине непревзойденный,{0.2} единственный и не повторимый{/!}\.\.\.{/~}
 	
 	SJ2021_SOLOIINI_SPECTACLE_D=
 		{anchor bottom}
 		[BETELFLAME right smug]
-		{big}{!}{~}{# e89300}Cornelius {0.6}J\. {0.6}Betelflame{#}!{/~}{/!}{/big}
-		But surely you must be wondering why a hotshot actor like me is stuck on some {*}{!}dusty, {0.2}old {0.2}rock{/!}{/*}\.\.\.
+		{big}{!}{~}{# e89300}Корнелиус {0.6}Бетельфлейм {0.6}младший{#}!{/~}{/!}{/big}
+		И вы, должно быть, задаётеся вопросом, что же такой прекрасный актёр как я, делает на этом {*}{!}пыльном, {0.2}старом, {0.2}богом забытым {0.2}куске породы{/!}{/*}\.\.\.
 		
 		[BETELFLAME right normal]
-		Offended by the {0.15}{!}{~}needless{/~}{/!} delays that kept {n}holding up this {0.15}{!}{~}ancient{/~}{/!} locomotive, I put those {0.15}{!}{~}worthless{/~}{/!} engineers in their place.
-		And as if I hadn't already suffered enough, they had the {!}audacity{/!} to {0.1}{!}{~}banish{/~}{/!} me!
-		So I wandered this astral plane, searching for a new purpose.
-        {0.1}{!}But it was all for naught!{/!}{0.6} On this {!}infernal asteroid{/!},{n}it would appear even simple entertainment is too much to ask for!
-		So tell me —{0.25} what brings someone like you to this insufferable place?
+		Оскорблённый {0.15}{!}{~}ненужными{/~}{/!} задержками{n} этого{0.15}{!}{~}древнего{/~}{/!} локомотива, я отправил восвояси всех этих {0.15}{!}{~}бесполнезных{/~}{/!} инженеров.
+		И как будто я еще недостаточно настрадался, у них ещё и хатило {!}наглости{/!} {0.1}{!}{~}выкигуть{/~}{/!} меня здесь!
+		Итак, я бродил по этой астральной пустоши в поисках своего нового предназначения.
+    {0.1}{!}Но все мои старанаия ушли коту под хвост!{/!}{0.6} На этом {!}адском астероиде{/!},{n}о простейших развлечениях даже мечтать бесполезно.
+		Итак, расскажи,{0.25} что привело тебя в это ужасное место?
 
 	SJ2021_SOLOIINI_SPECTACLE_E=
 		{anchor bottom}
 		[MADELINE left sad]
-		Honestly, I'm not even sure at this point.
+    Честно, я и сама не знаю.
 
 		[MADELINE left distracted]
-		All this time, I kept pushing forward\.\.\.
+		Всё это время я просто шла вперёд\.\.\.
 		
 		[MADELINE left sad]
-		But standing here, I feel more lost than ever.
+    Но стоя зедсь, я ощущаю себя потерянной, как никогда либо.
 
 		[MADELINE left angry]
-		I've carried this burden so far, and not {0.1}{!}once{/!}{0.1} has {!}ANYONE{/!} had the decency to lend a hand!
+    Всё это время я несла на себе это бремя, и {0.1}{!}НИКОМУ{/!}{0.1} не хватило смелости протянуть мне руку помощи!
 
 		[MADELINE left upset]
-		It's like they don't even want to acknowledge me.
+    Как будто я и вовсе никому не нужна.
 
 		[BETELFLAME right thinking]
-		That's quite the predicament, to be sure\.\.\.
+		Довольно затруднительное положение\.\.\.
 		
 		[BETELFLAME right normal]
-		But you don't have to be alone anymore.
+		Но отныне ты не будешь одна.
 		
 		[BETELFLAME right thinking]
-		Although I am admittedly\.\.\.{0.3} {~}unpracticed{/~}, there is one thing I could try.
+		Хотя я и\.\.\.{0.3} {~}не совем компитентен в этом вопросе{/~}, но есть кое-что, что бы я мог сделать.
 		
 		[BETELFLAME right normal]
-		Please, allow me to lead you to my very own {~}{# c6a75a}luxury suite{#}.{/~} This won't take long.
+		Прошу, пройдём в мой {~}{# c6a75a}люксовый номер{#}.{/~} Это не займёт много времени.
 
 		[MADELINE left distracted]
-		{+thought}I don't really have a choice, do I?{+endthought}
+		{+thought}Видимо, у меня нет выбора?{+endthought}
 
 		[BETELFLAME right normal]
-		Now hold on for {!}just{/!}\.\.\.
-		\.\.\.{!}one{/!}\.\.\.
-		\.\.\.{!}moment!{/!}
+		Просто потерпи {!}всего{/!}\.\.\.
+		\.\.\.{!}одну{/!}\.\.\.
+		\.\.\.{!}секундочку!{/!}
 
 		#BETELFLAME teleports out
 		#Lower portal opens, MADELINE realizes something is wrong as it starts sucking her inwards. She attempts to run away, but is not fast enough.
@@ -7407,10 +7407,10 @@ SJ2021_1_Beginner_snassecret=
 		#MADELINE wakes up in her new surroundings and takes a moment to adjust. Camera is zoomed in, keeping crystal out of view.
 
 		[MADELINE left distracted]
-		{# e89300}Betelflame{#}?
+		{# e89300}Бетельфлейм{#}?
 
 		[MADELINE left panic]
-		Anyone?
+		Кто-нибудь?
 
 		#Camera zooms out and cutscene ends.
 
