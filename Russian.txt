@@ -6421,17 +6421,18 @@ SJ2021_pansearMEMORIAL=
 # === PowerAV
 
 SJ2021_powerav_tutorialA=
-Our tests show that the puffer-367 fish can project an incredibly large blast radius if you correctly aim yourself at it. 
-It seems that moving into the fish at a high speed and facing away from it can initiate this blast.
-In other cases you will need to aim in the direction that you will launch in.
+Наши тесты показали, что рыба пуффер-367 может проецировать невероятно большой радиус взрыва, если вы правильно прицелитесь в неё. 
+Кажется, что, двигаясь в рыбу на больших скоростях и отвернувшись от неё, можно инициировать этот взрыв.
+В других случаях вам нужно целиться в направлении, куда вы полетите. 
+
 
 SJ2021_powerav_tutorialB=
-This large blast radius also works with our puffer-367 bowl prototypes.
-Make sure you are holding the direction needed to be launched in when the prototype explodes.
+Это большой радиус взрыва также работает с нашими прототипами пуфферов-367 в банке.
+Убедитесь, что вы нажимаете в том направлении, куда вам нужно полететь, когда прототип взорвётся. 
 
 SJ2021_powerav_berry= 
 [MADELINE left normal]
-This room is most likely gettings scrapped, but until i finish making the map it will still be available for playing.
+Эта комната скорее всего будет удалена, но пока я не закончу карту, будет сущкствовать возможность в неё поиграть.
 
 SJ2021_powerav_funny=
 [MADELINE left peaceful]
@@ -6439,11 +6440,11 @@ Ema
 
 SJ2021_powerav_funnyB=
 [MADELINE left peaceful]
-Ayo the pizza is here
+Йоо, пицца здесь
 
 SJ2021_powerav_funnyC=
 [MADELINE left peaceful]
-Cat Cube uwu
+Кошко-куб уву
 
 SJ2021_powerav_ema=
 Ema
@@ -6452,16 +6453,16 @@ Ru
 
 SJ2021_powerav_Ru=
 [MADELINE left peaceful]
-Rubert Celets
+Руберт Селетц
 
 SJ2021_powerav_Glyph=
 [MADELINE left deadpan]
 Glyph
 
 SJ2021_powerav_cabob=
-Cablog Entry #UWU
-I Spent TOO Much Time On That CRINGE Mushroom Planet.
-Now I Can ((Finally)) Get OUT Of There With This COOL And BASED Spaceship.
+Сообщение в ка-блоге #UWU
+Я Потратил СЛИШКОМ Много Врмени На Этой Кринжовой Грибной Планете.
+Теперь Я Могу ((Наконец-то)) Выбраться Оттуда На Этом КРУТОМ Космическом Корабле.
 But It's Making Me Feel WEIRD, Kinda Of SUS(!!!!)
 It SEEMS That Those One Way Plataforms Are Actually Indicating WallBounces, Just Like my BELOVED Ice Wounces!
 This Might Be USEFUL If I ((EVER)) Plan To Get OUT Of Here And Do Something Other Than WRITE Messages In A Log.
