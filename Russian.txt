@@ -6121,7 +6121,7 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 2.0}Сделай {# F2F200}дэш вправо{#}, подожди, пока не коснёшься земли, затем  {#0069D5}зажми влево{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_32=
-  [Badeline right normal] {>> 2.0}Сделай {# F2F200}дэш влево{#}.Когда коснёшься пружины, отпусти все кнопки! {n}Это должно подкинуть тебя на платформу.{>>}
+  [Badeline right normal] {>> 2.0}Сделай {# F2F200}дэш влево{#}. Когда коснёшься пружины, отпусти все кнопки! {n}Это должно подкинуть тебя на платформу.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_33=
   [Badeline right normal] {>> 2.0}Сделай {# F2F200}дэш{#} и {#0069D5}зажми вправо{#}~{>>}
@@ -6520,49 +6520,49 @@ This is a PSA to PLEASE have SOMEBODY take Kataiser's 'Warm Fish' for their map
 # === Rdoggo8
 
 SJ2021_rdoggo8_jelivator_1=
-  Jellyvator
+  Джелливатор
 
 SJ2021_rdoggo8_jump=
-  Hold
+  Зажмите
 
 SJ2021_rdoggo8_grablate=
-  You notice a sign hiding in the brush. The lettering is scratchy, but still quite readable.
-  "When getting an upwards boost from a jelly, grabbing later can help get more height."
-  You wonder what it could mean.
+  Вы заметили табличку, заросшую кустарником. Надпись довольно потёрта, но всё ещё читаема.
+  "Когда вы хотите взлететь на медузе, старайтесь хватать её позже, чтобы подлететь выше."
+  Вы думаете о том, что бы это могло значить.
 
 SJ2021_rdoggo8_dreamjelly_1=
-  An old sign rests in the mud. It looks old from age, but you can still make out the words.
-  "Press grab slightly after dashing to take a jelly through a dreamblock. It helps to dash closer to the dreamblock than you think."
-  You wonder what it could mean.
+  Сломанная табличка валяющаяся на земле. Время явно не посчадило её, но вы всё ещё разбираете написанное.
+  "Сразу после дэша нажмите захват, чтобы пронести медузу через дримблок. И начинать дэш к дримблоку нужно ближе, чем вы думаете."
+  Вы думаете о том, что бы это могло значить.
 
 SJ2021_rdoggo8_dreamjelly_2=
-  Another sign leans against a mudpile. The fog obstructs your vision slightly, but you can read it nonetheless.
-  "Dream grabbing while holding a jelly allows you to dash, whether that be back into the dreamblock or even vertically."
-  You wonder what it could mean.
+  Ещё одна табличка, стоящая на горке из грязи. Густой туман почти не пропускает света, но символы всё ещё видны.
+  "Дримграб держа медузу позволяет вам сделать следующий дэш в любую сторону."
+  Вы думаете о том, что бы это могло значить.
 
 SJ2021_rdoggo8_dreamjelly_3=
-  A sign sits atop a pile of dirt. Some mud is splattered across it, but the letters can still be made out.
-  "A useful tip is to not get too worked up about setting up the jelly. All you need to worry about are inputs."
-  You wonder what it could mean.
+  Табличка виднеющаяся из земли. Она сильно запачка грязью, но всё ещё открывает вам всё основное.
+  "Полезный совет - не думайте о том, как двигается медуза. Сосредоточьтесь на своих нажатиях."
+  Вы думаете о том, что бы это могло значить.
 
 SJ2021_rdoggo8_berry4=
-  This sign looks newer than the rest. Although slightly worn, you can easily read what was written.
-  "This challenge is not for the faint of heart. It is advised that you turn back, but if you choose to continue, good luck. You'll need it."
-  You wonder if you should go back.
+  Эта табличка выглядит новее остальных. Только слегка потёртая надпись легко читается.
+  "Это испытание не для слабых духом. Рекомендуется вернуться пока не поздно, но решать только вам. Удачи. Вам она пригодится."
+  Вы думаете о том, чтобы вернуться.
 
 SJ2021_rdoggo8_berry5=
-  The sign is overcome by nature. Somehow, you can just barely make out what it says.
-  "This challenge requires the jelly climb jump tech taught in the expert gym. Remember to take your time after neutral dropping the jelly."
-  You wonder what it could mean.
+  Табличка сильно заросшая растениями. Но потратив немного времени, вы, кажется, разбираете написанное.
+  "Это испытание требует умения подъёма с медузой из эксперт зала. После сброса медузы не забывайте чуток пережидать."
+  Вы думаете о том, что бы это могло значить.
 
 SJ2021_rdoggo8_heartside=
-  An old sign stands alone on the ground. The writing is messy, but you can still read it well.
-  "There is a custom mechanic allowing what you see here to happen. Do not expect to be able to pull this off anywhere else."
-  You wonder what it could mean.
+  Одинокая табличка торчащая из земли. На ней использован крайне заковыристый шрифт, но вы всё равно смогли прочитать.
+  "Здесь использована кастомная механика предвидения. Но не ожидайте увидеть её где-либо ещё."
+  Вы думаете о том, что бы это могло значить.
 
 SJ2021_rdoggo8_comfy_1=
   [MADELINE left determined]
-  comf achieved
+  уют достигнут
 
 SJ2021_rdoggo8_comfy_2=
   [MADELINE left normal]
@@ -6570,93 +6570,92 @@ SJ2021_rdoggo8_comfy_2=
 
 SJ2021_rdoggo8_bruh=
   [MADELINE left deadpan]
-  It wasn't worth coming up here.
+  Ну и нафиг я забралась сюда.
 
 SJ2021_rdoggo8_catte=
   {anchor bottom}
   [MADELINE left normal]
-  Secrets and easter eggs refer to bonus areas or interactions that are not tied to collectables or
-  progression. Maps are allowed to have these, including rooms purely dedicated to
-  them. However, secrets are expected to have a standard of quality. If
-  Captains believe a secret or easter egg is low-effort or distasteful it may be
-  removed.
+  Секреты и пасхалки относятся к бонусными локациям или взаимодействиям, но они не
+  должны быть собираемы или влиять на прогресс. В картах разрешено их использование.
+  Однако, такие секреты не должны привышать обычной сложности. Если капитаны решат,
+  что какой-то секрет или пасхалка неинтересна или неприятна, они могут удалить её.
 
 SJ2021_rdoggo8_memorial=
   {anchor top}
   Vinculum
-  This memorial dedicated
-  to those who could not
-  reach this point
+  Этот мемориал посвящен тем
+  кто не смог достичь
+  этой точки
 
 SJ2021_rdoggo8_madeline=
   [MADELINE left distracted]
   ...
-  I guess I don't really understand
-  But I'm ready to move on
+  Не думаю, что я полностью осознала произошедшее.
+  Но я уже готова двигаться дальше.
 
 SJ2021_rdoggo8_poem1=
-  Vinculum{n}
-  Bounded by the thoughts that lead me to you{n}
-  Everywhere you've been and yet to go{n}
-  I'll follow, my Vinculum...
+  Vinculum,\{n\}
+  Эти голоса постоянно приводят меня к тебе...{n}
+  Где бы ты ни был, и куда бы ты ни отправился,{n}
+  Я всегда буду где-то рядом, мой Vinculum...
 
 SJ2021_rdoggo8_poem2=
-  Vinculum{n}
-  Holding on to the words that you told me{n}
-  Blinded by my heart, hiding the truth{n}
-  Yet I go on, my Vinculum...
+  Vinculum,\{n\}
+  Зацикленный на сказанными тобою словами и{n}
+  Ослеплённый своим же сердцем, скрывающим правду{n}
+  Я всё ещё здесь, мой Vinculum...
 
 SJ2021_rdoggo8_poem3=
-  Vinculum{n}
-  Falling apart from what you did to us{n}
-  False connections rotted from the inside{n}
-  I can't understand, my Vinculum...
+  Vinculum,\{n\}
+  Что же ты сделал с нами?{n}
+  Мы буквально гниём изнутри,{n}
+  Я не понимаю, мой Vinculum...
 
 SJ2021_rdoggo8_poem4=
-  Vinculum{n}
-  My memories begin to fade{n}
-  You took what you needed, and I'm left alone{n}
-  Maybe I'm not ready to move on.
+  Vinculum,\{n\}
+  Воспоминания покидают меня.{n}
+  Я забрал то что нужно, но остался один.{n}
+  Видимо, я всё ещё не готов идти дальше...
   
 # === RedBatNick
 
 SJ2021_RBN_Tutorial1=
 [THOUGHT]
-Up shall see you to the teaching grounds. Right shall take you down the ritual path.
+Вверху находится учебная площадка. Впереди вас ждёт путь раскаяния.
 
 SJ2021_RBN_Tutorial2=
 [THOUGHT]
-Welcome to the teaching grounds. Here you shall learn the secret of the springs.
-When you activate the standard brown spring, it will reset your momentum before bouncing you.
-The green spring, on the other hand, will retain your momentum for the bounce when activated.
-In other words, although they're very similar in use, brown springs will set your speed to the speed given by it, whereas the green spring will add to your speed after it's activated.
+Добро пожаловать на учебную площадку. Здесь вы узнаете все секреты, что таят от вас пружины.
+Когда вы натыкаетесь на обычную коричневую пружину, она обновляет ваше ускорение, перед тем как откинуть.
+Зелёная же пружина полностью сохраняет всю вашу неудержимую энергию.
+Короче, коричневая тебя тормозит, а зелёная ускоряет!
 
 SJ2021_RBN_Dialog1=
 {anchor bottom}
 [MADELINE left determined]
-What's this?
+Что это?
 
 [THOUGHT]
-Great faith, you must have... For the leap you take will determine your path.
+Уверуй, смертный... и прыжок определит твою судьбу.
 
 [MADELINE left normal]
-Alright foreboding, scary note! I'll try my best!
+Хорошо, странная записка! Я выложусь на все сто!
 
 SJ2021_RBN_DialogX1=
 [THOUGHT]
-To enter the mouth of the cliff is an omen of the sky. You must go back...
+Небеса предначертали твоё прибытие сюда. Ты должна вернуться назад.
 
 [MADELINE left upset]
-Bruh.
+Брух.
 
 SJ2021_RBN_Ending=
 {anchor bottom}
 [THOUGHT]
-May the {# a00000}Crimson Sky{#} take this offering.
+И пусть {# a00000}Багряное Небо{#} примет эти дары.
 
 SJ2021_RBN_cranberryjuice=
 [MADELINE left normal]
-Cranberry juice!
+Клюквенный сок!
 
 # === RedBoule
 
@@ -7788,7 +7787,7 @@ SJ2021_SpoopySoup_egg5=
 
 SJ2021_Stotch_IT_1=
 [IT left normal]
-  Чтобы пройти через шипы, используйте блокбуст, чтобы увеличить скорость рывка.
+  Чтобы пройти через шипы, используйте блокбуст, чтобы увеличить скорость дэша.
   Вы можете исполнить его сразу, сделав дэш, как только блок остановится.
 
 SJ2021_Stotch_Secret_1=
@@ -8965,9 +8964,9 @@ SJ2021_Gym_Expert_Multi3=
   Поэтому, мультибуст часто включает в себя дэши по-диагонали вниз, что часто вытекает в ультру.
   Здесь, отпрыгните от движущегося блока и затем сделайте ультру.
 SJ2021_Gym_Expert_Multi4= 
-  Выполение хайпера по движущемуся блоку с последующим рывком по-диагонали вниз это частый формат двойного блок буста.
+  Выполение хайпера по движущемуся блоку с последующим дэшем по-диагонали вниз это частый формат двойного блок буста.
 SJ2021_Gym_Expert_Multi5= 
-  Другой частый формат - банихоп по движущемуся блоку с последующим рывком по-диагонали вниз, дающий тройное ускорение.
+  Другой частый формат - банихоп по движущемуся блоку с последующим дэшем по-диагонали вниз, дающий тройное ускорение.
   Если вам не хватает скорости, делайте более короткий банихоп, чтобы приземляться на движущийся блок раньше.
   Или делайте дэш по-диагонали вниз раньше, если третье ускорение слишком медленное.
 
@@ -9098,7 +9097,7 @@ SJ2021_Gym_Grandmaster_CrouchDash6=
 SJ2021_Gym_Grandmaster_CrouchDash7=
   Ещё одно важное применение дэшей в присяди - это выполнение демохайперов.
   Демохайпер выполненяется как супер, только здесь вы используете дэш в присяди вместо обычного.
-  Это используеся, чтобы выполнить хайпер горизонтальным рывком в воздухе.
+  Это используеся, чтобы выполнить хайпер горизонтальным дэшем в воздухе.
   Не прыгайте слишком рано, чтобы не коснуться шипов.
 SJ2021_Gym_Grandmaster_CrouchDash8=
   Ревёрс-демохайперы выполняются, согласно принципам выполнения остальных ревёрс-механик.
@@ -9268,7 +9267,7 @@ SJ2021_Gym_Grandmaster_WBLeniency3=
   Вы можете пододвинуться ближе к стене сразу после конца дэша и сделать волбаунс во время атаки дэша, даже если вы слишком далеко на старте дэша.
 SJ2021_Gym_Grandmaster_WBLeniency4=
   Волбаунс даёт фиксированное вертикальное ускорение на 18 кадров, когда дэш длится только 15.
-  Поэтому, если волбаунс будет прерван рывком в первые 2 кадра волбаунса, волбаунс переживет дэш.
+  Поэтому, если волбаунс будет прерван дэшем в первые 2 кадра волбаунса, волбаунс переживет дэш.
   Если всё сделано верно, в конце дэша вы подниметесь немного вверх. Эта техника известна как отмена волбаунса.
   После начала волбаунса не обязательно продолжать зажимать прыжок.
 SJ2021_Gym_Grandmaster_WBLeniency5=
@@ -9310,7 +9309,7 @@ SJ2021_Library_Bouncing2=
   Для пафферов, это часто называют "паффер супер", хотя это и не настоящий супер, так как он не может быть ревёрс и не сохраняет вашу горизонтальную скорость.
   Здесь, прыгните и сделайте дэш в верхушку паффера.
 SJ2021_Library_Bouncing3=
-  Ваша горизонтальная скорость сохраняется при отскоке, даже если вы не в рывке. Однако, вы не получаете джамп буст от отскоков.
+  Ваша горизонтальная скорость сохраняется при отскоке, даже если вы не в дэше. Однако, вы не получаете джамп буст от отскоков.
   Здесь, сделайте дэш в специальный дрим блок и зажмите прыжок пока вы ещё в блоке.
   Вы вылетите из блока на большой скрости, которая сохранится благодаря отскоку от двух пафферов.
 
@@ -9325,7 +9324,7 @@ SJ2021_Library_CollisionLeniency2=
   Однако, если стены покрыты шипами, эти поблажки не сработают.
   Используйте боковые платформы в полу, чтобы выровнять себя. Если вы коснетесь красного, вы умрёте.
 SJ2021_Library_CollisionLeniency3= 
-  Если в рывке вы на 2 пикселя выше или ниже земли, ваша вертикальная позиция будет скорректирована к земле.
+  Если ваш дэш на 2 пикселя выше или ниже земли, ваша вертикальная позиция будет скорректирована к земле.
   Это даёт больше стабильности для суперов в воздухе.
   Здесь, платформа на 2 пикселя выше сыпучего блока.
   Если вы сделаете дэш с платформы вправо, вы будете примагничены к блоку и сможете сделать супер от него.
@@ -9357,7 +9356,7 @@ SJ2021_Library_CornerCorrection5=
   Поэтому, если вы делаете дэш по-диагонали вверх, угол потолка может скорректировать вас, но только если вы двигаетесь в сторону от стены.
   Здесь, прыгните строго вверх и сделайте дэш вверх-вправо, чтобы скорректироваться в пружину.
 SJ2021_Library_CornerCorrection6=
-  Находясь в красном пузыре, вы будете скорректированы в любом направлении, как и при рывке.
+  Находясь в красном пузыре, вы будете скорректированы в любом направлении, как и при дэше.
 SJ2021_Library_CornerCorrection7=
   При движении вниз, вы взаимодействуете с поверхностями прежде, чем с шипами (см. также: Хитбоксы).
   Поэтому дэш вниз позволяет скорректироваться, даже если на полу есть шипы.
@@ -9398,7 +9397,7 @@ SJ2021_Library_Crouching3=
   Вы не можете цепляться за стену в присяди, но вы всё ещё можете делать прыжки по стенам (см. также Прыжок в Присяди в Продвинутом Зале).
   Но если вы сделаете прыжок от стены, вы тут же разогнётесь.
 SJ2021_Library_Crouching4=
-  В присяди и не в рывке вы не можете подбирать объекты.
+  В присяди и не в дэше вы не можете подбирать объекты.
   Это важно при подборе медуз после ультра - в этом случае вы не должны делать прыжок в присяди.
 SJ2021_Library_Crouching5=
   Находясь в присяди, горизонтальный ветер не будет вас толкать.
@@ -9444,7 +9443,7 @@ SJ2021_Library_DashSpacing1=
   Однако, верхняя линия сделана немного свободнее.
   После конца горизонтального дэша, ваша скорость становится 160 (см. также Скорость Дэша).
   Поэтому вы пролетаете ещё немного ровно вперёд, пусть технически дэш уже и кончился.
-  В результате, вы можете перемещаться горизонтально дальше, если будете немного ждать перед следующим рывком.
+  В результате, вы можете перемещаться горизонтально дальше, если будете немного ждать перед следующим дэшем.
 SJ2021_Library_DashSpacing2=
   Дэши вверх и по-диагонали вверх тоже дают немного скорости вверх после конца дэша.
   Но для таких дэшей получаемая скорость немного меньше - 120. Но даже этого достаточно, чтобы получать разницу в итоговой высоте.
