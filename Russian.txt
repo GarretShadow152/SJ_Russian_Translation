@@ -6421,14 +6421,14 @@ seven Kevin-elevens
 
 # === pansear
 
-SJ2021_redirect=REDIRECT
-SJ2021_balls=WELCOME TO BALLS CAVE
+SJ2021_redirect=РЕДИРЕКТ
+SJ2021_balls=ДОБРО ПОЖАЛОВАТЬ В ПЕЩЕРУ ЯИЦ
 
 SJ2021_pansearMEMORIAL=
   {anchor top}
   -Hypnagogia-
-  This memorial dedicated
-  to those who camera'd this map
+  Этот мемориал посвящён тем,
+  кто настраивал камеру на этой карте
   -pansear-
   -phrog-
   -ezel-
@@ -6438,17 +6438,17 @@ SJ2021_pansearMEMORIAL=
 # === PowerAV
 
 SJ2021_powerav_tutorialA=
-Our tests show that the puffer-367 fish can project an incredibly large blast radius if you correctly aim yourself at it. 
-It seems that moving into the fish at a high speed and facing away from it can initiate this blast.
-In other cases you will need to aim in the direction that you will launch in.
+Наши тесты показали, что рыба пуффер-367 может спровоцировать взрыв невероятно большого радиуса, если вы правильно прицелитесь в неё. 
+Кажется, двигаясь к рыбе на больших скоростях и отвернувшись от неё, можно инициировать этот взрыв.
+В других случаях вам нужно целиться в направлении, куда вы полетите.
 
 SJ2021_powerav_tutorialB=
-This large blast radius also works with our puffer-367 bowl prototypes.
-Make sure you are holding the direction needed to be launched in when the prototype explodes.
+Наши прототипы пуфферов-367 в банке также поддреживают большой радиус взрыва!
+Во время взрыва убедитесь, что вы нажимаете в том направлении, куда вам нужно полететь. 
 
 SJ2021_powerav_berry= 
 [MADELINE left normal]
-This room is most likely gettings scrapped, but until i finish making the map it will still be available for playing.
+Эта комната скорее всего будет удалена, но пока я не закончу карту, будет существовать возможность в неё поиграть.
 
 SJ2021_powerav_funny=
 [MADELINE left peaceful]
@@ -6456,11 +6456,11 @@ Ema
 
 SJ2021_powerav_funnyB=
 [MADELINE left peaceful]
-Ayo the pizza is here
+Йоо, пицца здесь
 
 SJ2021_powerav_funnyC=
 [MADELINE left peaceful]
-Cat Cube uwu
+Кошко-куб уву
 
 SJ2021_powerav_ema=
 Ema
@@ -6476,42 +6476,42 @@ SJ2021_powerav_Glyph=
 Glyph
 
 SJ2021_powerav_cabob=
-Cablog Entry #UWU
-I Spent TOO Much Time On That CRINGE Mushroom Planet.
-Now I Can ((Finally)) Get OUT Of There With This COOL And BASED Spaceship.
-But It's Making Me Feel WEIRD, Kinda Of SUS(!!!!)
-It SEEMS That Those One Way Plataforms Are Actually Indicating WallBounces, Just Like my BELOVED Ice Wounces!
-This Might Be USEFUL If I ((EVER)) Plan To Get OUT Of Here And Do Something Other Than WRITE Messages In A Log.
-ca
-bob
+Сообщение в ка-блоге #UWU
+Я Потратил СЛИШКОМ Много Времени На Этой Кринжовой Грибной Планете.
+Теперь Я Могу ((Наконец-то)) Выбраться Оттуда На Этом КРУТОМ Космическом Корабле.
+Но Это Заставляет Меня СТРАННО Чувствовать, кайнда САС(!!!!)
+КАЖЕТСЯ, Эти Односторонние Платаформы Показывают, Где Нужно Сделать Воллбаунсы, Также Как И Мои ЛЮБИМЫЕ Ваунсы От Льда!
+Я Могу Воспользоваться Этой Информацией, Если мне ((КОГДА-НИБУДЬ)) Надоест Просто ПЕЧАТАТЬ Сообщения В Этом Блоге, И Я Решу Выбраться ОТСЮДА.
+ка
+боб
 [MADELINE left normal]
-Ok
+ок
   
 # === Quinnigan
 
-SJ2021_Quinnigan_boost= Boost
+SJ2021_Quinnigan_boost= Буст
   
 # === Quantum Spaceman
-SJ2021_QuantumSpaceman_Bird= Down Throw
-SJ2021_QuantumSpaceman_Bird1= Drop
-SJ2021_QuantumSpaceman_Bird2= Flying Lantern Vator
-SJ2021_QuantumSpaceman_Bird4= Wall Regrab
-SJ2021_QuantumSpaceman_Bird3= Wall Regrab W/ Dash
-SJ2021_QuantumSpaceman_Bird5=WaveDash Regrab
-SJ2021_QuantumSpaceman_Bird5Tip= WaveDash Regrab Tip: Try to delay doing the WaveDash a bit after the throw if you are having trouble regrabbing.
-SJ2021_QuantumSpaceman_Tip2= Reverse WaveDash Regrab Tip: Try to delay doing the Reverse WaveDash a bit after the throw if you are having trouble regrabbing.
-SJ2021_QuantumSpaceman_regrab= Diagonal Regrab
-SJ2021_QuantumSpaceman_regrabtext= Throw then dash diagonally to regrab
-SJ2021_QuantumSpaceman_regrab3= Jelly Vator
-SJ2021_QuantumSpaceman_regrab3text= Throw down with the up key then dash down. You have to kill your down momentum before throwing.
-SJ2021_QuantumSpaceman_Gamer= Congrats Gamer!
+SJ2021_QuantumSpaceman_Bird= Бросок Вниз
+SJ2021_QuantumSpaceman_Bird1= Бросок
+SJ2021_QuantumSpaceman_Bird2= Лампаватор
+SJ2021_QuantumSpaceman_Bird4= Реграб Стены
+SJ2021_QuantumSpaceman_Bird3= Реграб Стены с Дэшем
+SJ2021_QuantumSpaceman_Bird5= Реграб с Вейвом
+SJ2021_QuantumSpaceman_Bird5Tip= Совет к Реграбу с Вейвом: Попробуйте немного подождать после броска и только потом делайте вейв, если у вас есть проблема с реграбом.
+SJ2021_QuantumSpaceman_Tip2= Совет к Реграбу с Ревёрс-вейвом: Попробуйте подождать немного после броска и только потом делайте ревёрс-вейв, если у вас есть проблема с реграбом. 
+SJ2021_QuantumSpaceman_regrab= Диагональный Реграб
+SJ2021_QuantumSpaceman_regrabtext= Киньте объект, а потом сделаете дэш по-диагонали для реграба
+SJ2021_QuantumSpaceman_regrab3= Джелливатор
+SJ2021_QuantumSpaceman_regrab3text= Киньте объект вниз с зажатой клавишей вверх и сделайте дэш вниз. Перед броском вам нужно выровниться по-горизонтали.
+SJ2021_QuantumSpaceman_Gamer= Поздравляю, Геймер!
   
 # === RadleyMcTuneston
 
 SJ2021_radleymctuneston_doorlocked=
 [MADELINE left upset] ...
-[MADELINE left upset] It's locked.
-[MADELINE left sad] There's gotta be {~}{# #660FA1}another way{#}{/~} through this door...
+[MADELINE left upset] Закрыто.
+[MADELINE left sad] Должен же быть {~}{# #660FA1}другой способ{#}{/~} пройти через эту дверь...
 
 SJ2021_radleymctuneston_copypasta=
 This is a PSA to PLEASE have SOMEBODY take Kataiser's 'Warm Fish' for their map
