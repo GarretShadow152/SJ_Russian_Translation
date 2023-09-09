@@ -6404,8 +6404,8 @@ seven Kevin-elevens
 
 # === pansear
 
-SJ2021_redirect=REDIRECT
-SJ2021_balls=WELCOME TO BALLS CAVE
+SJ2021_redirect=РЕДИРЕКТ
+SJ2021_balls=ДОБРО ПОЖАЛОВАТЬ
 
 SJ2021_pansearMEMORIAL=
   {anchor top}
@@ -6427,12 +6427,12 @@ SJ2021_powerav_tutorialA=
 
 
 SJ2021_powerav_tutorialB=
-Это большой радиус взрыва также работает с нашими прототипами пуфферов-367 в банке.
+Этот большой радиус взрыва также работает с нашими прототипами пуфферов-367 в банке.
 Убедитесь, что вы нажимаете в том направлении, куда вам нужно полететь, когда прототип взорвётся. 
 
 SJ2021_powerav_berry= 
 [MADELINE left normal]
-Эта комната скорее всего будет удалена, но пока я не закончу карту, будет сущкствовать возможность в неё поиграть.
+Эта комната скорее всего будет удалена, но пока я не закончу карту, будет существовать возможность в неё поиграть.
 
 SJ2021_powerav_funny=
 [MADELINE left peaceful]
@@ -6463,39 +6463,39 @@ SJ2021_powerav_cabob=
 Сообщение в ка-блоге #UWU
 Я Потратил СЛИШКОМ Много Врмени На Этой Кринжовой Грибной Планете.
 Теперь Я Могу ((Наконец-то)) Выбраться Оттуда На Этом КРУТОМ Космическом Корабле.
-But It's Making Me Feel WEIRD, Kinda Of SUS(!!!!)
-It SEEMS That Those One Way Plataforms Are Actually Indicating WallBounces, Just Like my BELOVED Ice Wounces!
-This Might Be USEFUL If I ((EVER)) Plan To Get OUT Of Here And Do Something Other Than WRITE Messages In A Log.
-ca
-bob
+Но Это Заставляет Меня СТРАННО Чувствовать, кайнда САС(!!!!)
+КАЖЕТСЯ, Эти Односторонние Платаформы Показывают, Где Нужно Сделать Воллбаунсы, Также Как И Мои ЛЮБИМЫЕ Ваунсы От Льда!
+Я Могу Воспользоваться Этой Информацией, Если мне ((КОГДА-НИБУДЬ)) Надоест Просто ПЕЧАТАТЬ Сообщения В Этом Блоге, И Я Решу Выбраться ОТСЮДА.
+ка
+боб
 [MADELINE left normal]
-Ok
+ок
   
 # === Quinnigan
 
-SJ2021_Quinnigan_boost= Boost
+SJ2021_Quinnigan_boost= Буст
   
 # === Quantum Spaceman
-SJ2021_QuantumSpaceman_Bird= Down Throw
-SJ2021_QuantumSpaceman_Bird1= Drop
-SJ2021_QuantumSpaceman_Bird2= Flying Lantern Vator
-SJ2021_QuantumSpaceman_Bird4= Wall Regrab
-SJ2021_QuantumSpaceman_Bird3= Wall Regrab W/ Dash
-SJ2021_QuantumSpaceman_Bird5=WaveDash Regrab
-SJ2021_QuantumSpaceman_Bird5Tip= WaveDash Regrab Tip: Try to delay doing the WaveDash a bit after the throw if you are having trouble regrabbing.
-SJ2021_QuantumSpaceman_Tip2= Reverse WaveDash Regrab Tip: Try to delay doing the Reverse WaveDash a bit after the throw if you are having trouble regrabbing.
-SJ2021_QuantumSpaceman_regrab= Diagonal Regrab
-SJ2021_QuantumSpaceman_regrabtext= Throw then dash diagonally to regrab
-SJ2021_QuantumSpaceman_regrab3= Jelly Vator
-SJ2021_QuantumSpaceman_regrab3text= Throw down with the up key then dash down. You have to kill your down momentum before throwing.
-SJ2021_QuantumSpaceman_Gamer= Congrats Gamer!
+SJ2021_QuantumSpaceman_Bird= Бросок Вниз
+SJ2021_QuantumSpaceman_Bird1= Бросок
+SJ2021_QuantumSpaceman_Bird2= Лампаватор
+SJ2021_QuantumSpaceman_Bird4= Реграб Стены
+SJ2021_QuantumSpaceman_Bird3= Реграб Стены с Дэшем
+SJ2021_QuantumSpaceman_Bird5= Реграб с Вейвдэшем
+SJ2021_QuantumSpaceman_Bird5Tip= Совет к Реграбу с Вейвдэшем: Попробуйте подождать немного после броска и только потом делайте вейвдэш, если у вас есть проблема с реграбом.
+SJ2021_QuantumSpaceman_Tip2= Совет к Реграбу с Ревёрс Вейвдэшем: Попробуйте подождать немного после броска и только потом делайте ревёрс вейвдэш, если у вас есть проблема с реграбом. 
+SJ2021_QuantumSpaceman_regrab= Диагональный Реграб
+SJ2021_QuantumSpaceman_regrabtext= Киньте объект, а потом сделаете дэш по диагонали для реграба
+SJ2021_QuantumSpaceman_regrab3= Джелливатор
+SJ2021_QuantumSpaceman_regrab3text= Киньте вниз объект с зажатой клавишей вверх и сделайте дэш вниз. Перед броском вам нужно выровниться по-горизонтали.
+SJ2021_QuantumSpaceman_Gamer= Поздравляю геймер!
   
 # === RadleyMcTuneston
 
 SJ2021_radleymctuneston_doorlocked=
 [MADELINE left upset] ...
-[MADELINE left upset] It's locked.
-[MADELINE left sad] There's gotta be {~}{# #660FA1}another way{#}{/~} through this door...
+[MADELINE left upset] Оно закрыто.
+[MADELINE left sad] Должен же быть {~}{# #660FA1}другой способ{#}{/~} пройти через эту дверь...
 
 SJ2021_radleymctuneston_copypasta=
 This is a PSA to PLEASE have SOMEBODY take Kataiser's 'Warm Fish' for their map
