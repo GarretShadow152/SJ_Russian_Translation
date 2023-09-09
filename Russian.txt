@@ -278,7 +278,7 @@ StrawberryJam2021_0_Gyms_1_Beginner_collabcredits=
   Код:{# 2a2a2a} Bigkahuna, maddie480, Viv, WEGFan{#}
   Спрайты:{# 2a2a2a} Circumplex, Maildropfolder, nerferd_, Nikko, Vexastrae{#}
   Музыка:{# 2a2a2a} Ceph{#}
-  Screen Wipe:{# 2a2a2a} Vamp{#}
+  Экран смерти:{# 2a2a2a} Vamp{#}
   Текст:{# 2a2a2a} bryse0n, Circumplex, Owen Shirrell, DeathKontrol, valkyria{#}
   Плейтесты:{# 2a2a2a} Agent, Ecl1psed, fonda1515, MousseMoose,
   Owen Shirrell, Pedrocrb, Prime, Real Hojo, Ru, VA2M{#}
@@ -293,7 +293,7 @@ StrawberryJam2021_0_Gyms_2_Intermediate_collabcredits=
   Код:{# 2a2a2a} Bigkahuna, maddie480, Viv, WEGFan{#}
   Спрайты:{# 2a2a2a} Circumplex, Maildropfolder, nerferd_, Nikko, Vexastrae{#}
   Музыка:{# 2a2a2a} Ceph{#}
-  Screen Wipe:{# 2a2a2a} Vamp{#}
+  Экран смерти:{# 2a2a2a} Vamp{#}
   Текст:{# 2a2a2a} bryse0n, DeathKontrol, Owen Shirrell, valkyria{#}
   Плейтесты:{# 2a2a2a} Agent, Ecl1psed, fonda1515, MousseMoose,
   Owen Shirrell, Pedrocrb, Prime, Real Hojo, Ru, VA2M{#}
@@ -308,7 +308,7 @@ StrawberryJam2021_0_Gyms_3_Advanced_collabcredits=
   Код:{# 2a2a2a} Bigkahuna, maddie480, Viv, WEGFan{#}
   Спрайты:{# 2a2a2a} Circumplex, Maildropfolder, nerferd_, Nikko, Vexastrae{#}
   Музыка:{# 2a2a2a} Ceph{#}
-  Screen Wipe:{# 2a2a2a} Vamp{#}
+  Экран смерти:{# 2a2a2a} Vamp{#}
   Текст:{# 2a2a2a} bryse0n, DeathKontrol, Owen Shirrell, valkyria{#}
   Плейтесты:{# 2a2a2a} Agent, Ecl1psed, fonda1515, MousseMoose,
   Owen Shirrell, Pedrocrb, Prime, Real Hojo, Ru, VA2M{#}
@@ -324,7 +324,7 @@ StrawberryJam2021_0_Gyms_4_Expert_collabcredits=
   Код:{# 2a2a2a} Bigkahuna, maddie480, Viv, WEGFan{#}
   Спрайты:{# 2a2a2a} Circumplex, Maildropfolder, nerferd_, Nikko, Vexastrae{#}
   Музыка:{# 2a2a2a} Ceph{#}
-  Screen Wipe:{# 2a2a2a} Vamp{#}
+  Экран смерти:{# 2a2a2a} Vamp{#}
   Текст:{# 2a2a2a} bryse0n, DeathKontrol, Owen Shirrell, valkyria{#}
   Плейтесты:{# 2a2a2a} Agent, Ecl1psed, fonda1515, MousseMoose,
   Owen Shirrell, Pedrocrb, Prime, Real Hojo, Ru, VA2M{#}
@@ -340,7 +340,7 @@ StrawberryJam2021_0_Gyms_5_Grandmaster_collabcredits=
   Код:{# 2a2a2a} Bigkahuna, maddie480, Viv, WEGFan{#}
   Спрайты:{# 2a2a2a} Circumplex, Maildropfolder, nerferd_, Nikko, Vexastrae{#}
   Музыка:{# 2a2a2a} Ceph{#}
-  Screen Wipe:{# 2a2a2a} Vamp{#}
+  Экран смерти:{# 2a2a2a} Vamp{#}
   Текст:{# 2a2a2a} bryse0n, DeathKontrol, Owen Shirrell, valkyria{#}
   Плейтесты:{# 2a2a2a} Agent, Ecl1psed, fonda1515, MousseMoose,
   Owen Shirrell, Pedrocrb, Prime, Real Hojo, Ru, VA2M{#}
@@ -421,7 +421,7 @@ StrawberryJam2021_1_Beginner_coffe_collabcredits=
   Код:{# 2a2a2a} catapillie{#}
   Спрайты:{# 2a2a2a} DanTKO, Maildropfolder, mintberry, mosscairn{#}
   Музыка:{# 2a2a2a} kenakofer{#}
-  Screen Wipe:{# 2a2a2a} Vamp{#}
+  Экран смерти:{# 2a2a2a} Vamp{#}
   Стикер:{# 2a2a2a} Polythesia{#}
   Плейтесты:{# 2a2a2a} Cactus, Projecteer, Real Hojo{#}
   Капитан:{# 2a2a2a} Banana23{#}
@@ -560,7 +560,7 @@ StrawberryJam2021_1_Beginner_Owen_Shirrell_collabcredits=
   Код:{# 2a2a2a} aridai, maddie480, Samah, Thomasdb05{#}
   Спрайты:{# 2a2a2a} Circumplex, mintberry, mosscairn, PowerAV{#}
   Музыка:{# 2a2a2a} Alisticious{#}
-  Screen Wipe:{# 2a2a2a} EllaTAS, Vamp{#}
+  Экран смерти:{# 2a2a2a} EllaTAS, Vamp{#}
   Стикер:{# 2a2a2a} mosscairn{#}
   Отдельная Благодарность:{# 2a2a2a} Bissy, bryse0n,
   Circumplex, Cookie, Teo, Worldwaker2{#}
@@ -1153,7 +1153,7 @@ StrawberryJam2021_3_Advanced_TiltTheStars_collabcredits=
   nerferd_, Peteksi, phant, SpoopySoup{#}
   Музыка:{# 2a2a2a} Maladroit{#}
   Звуковые Эффекты:{# 2a2a2a} jemyjemy{#}
-  Screen Wipe:{# 2a2a2a} Vamp{#}
+  Экран смерти:{# 2a2a2a} Vamp{#}
   Стикер:{# 2a2a2a} kat{#}
   Декорации:{# 2a2a2a} Aiden, Helen{#}
   Камера:{# 2a2a2a} Moladan, Worldwaker2{#}
@@ -1631,7 +1631,7 @@ StrawberryJam2021_5_Grandmaster_CaptainCarpensir_collabcredits=
   Спрайты:{# 2a2a2a} Aiden, citrea, M1n3c4rt, mintberry,
   SilverStar, TheAdvertisement, Vamp, xolimono{#}
   Музыка:{# 2a2a2a} Jamal M.{#}
-  Screen Wipe:{# 2a2a2a} Vamp{#}
+  Экран смерти:{# 2a2a2a} Vamp{#}
   Стикер:{# 2a2a2a} mintberry{#}
   Декорации:{# 2a2a2a} Aiden, Mnstrman06{#}
   Плейтесты:{# 2a2a2a} DeathKontrol, Nearl{#}
@@ -5961,30 +5961,30 @@ SJ2021_MousseMoose_10=
   
 # === NotYourBadeline
   SJ2021_NotYourBadeline_Badeline_1=
-  [Badeline left normal] Hey, NYB of Fur-Hire here. Это не обязательно, но карта расчитана на игру вслепую, вместе с другом ведущим тебя через весь уровень.
+  [Badeline left normal] Эй, это NotYourBadeline. Это не обязательно, но карта расчитана на игру вслепую, вместе с другом, ведущим тебя через весь уровень.
 
-  [Badeline left normal] Но если ты захочешь, всё равно подавись! В таком случае я просто включу одиночный режим и сама буду вести тебя через весь уровень прямо из моей супер секретной комнаты!
+  [Badeline left normal] Но если ты не хочешь, то мне всё равно! В таком случае я просто включу одиночный режим и сама буду вести тебя через весь уровень прямо из моей суперсекретной комнаты!
 
-  [Badeline left normal] Если же ты уже готов звонить дуругу и завязывать глаза первой попавшейся тряпкой, тогда, я надеюсь, тебе понравится этот уникальный опыт.
+  [Badeline left normal] Если же ты уже готов звонить другу и завязывать глаза первой попавшейся тряпкой, тогда, я надеюсь, тебе понравится этот уникальный опыт.
 
   [Badeline left normal] NotYourBadeline уходит.
 
   [Blindeline left surprised] ...ага-а малышка, конечно. Теперь я всё поняла.
 
-  [Blindeline left sad] Что это за имя то вообще? "Fur-Hire"?
+  [Blindeline left sad] Что это за имя такое вообще?
 
   SJ2021_NotYourBadeline_Madeline_1=
-  [Blindeline left sad] Фух, это было нечто. 
+  [Blindeline left sad] Фух, это было что-то. 
 
   [Blindeline left sad] Боже, это нечто впереди выглядит действительно трудным, так что наберись терпения или возьми перерыв. 
 
-  [Blindeline left sad] Ужасно, что такой прекрасный сад должен быть одновременно {*} смертельным{/*}.
+  [Blindeline left sad] Ужасно, что такой прекрасный сад должен быть ещё и {*}смертельным{/*}.
 
   [Badeline left scoff] Эй, NotYourBadeline скрывается отсюда в секретную комнату! Посмотрим, как ты будешь вслепую собирать серебряную ягоду!
 
-  [Badeline left scoff] А, и это, не подглядывай. Заполучи это сердце так же вслепую~
+  [Badeline left scoff] А, и это, не подглядывай. Сердце постарайся заполучить тоже вслепую~
 
-  [Blindeline left angry] Эмм, ага, конечно. Только если я когда-нибудь решу окончательно отвергнуть остатки своего мозга.
+  [Blindeline left angry] Эм-м, ага, конечно. Только если я когда-нибудь решу окончательно выкинуть остатки своего мозга.
 
   SJ2021_NotYourBadeline_Badeline_2=
   [Badeline left angry] Чт- {0.5}Эй! Это {~}моя{/~} крутая секретная комната! Что тебе здесь нужно!?
