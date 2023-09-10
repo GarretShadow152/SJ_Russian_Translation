@@ -133,7 +133,7 @@ StrawberryJam2021_0_Lobbies_0_Prologue_Credits=
   Декораторы Bissy и Coffe.
   Над камерой работал Coffe.
   Дополнительную полировку сделали by Aiden, bryse0n, и LegS.
-  Специальная благодарность посвящается Coffe за дизайн макета, nerferd_ за лого, и Aiden за код.
+  Отдельная благодарность посвящается Coffe за дизайн макета, nerferd_ за лого, и Aiden за код.
 
 StrawberryJam2021_0_Lobbies_1_Beginner_Credits=
   Разработку лобби для новичков возглавили Ceph, Coffe, и Owen Shirrell.
@@ -142,7 +142,7 @@ StrawberryJam2021_0_Lobbies_1_Beginner_Credits=
   Композитор Ceph.
   Декораторы лобби Bissy, Coffe, Circumplex, Earthwise, fonda1515, Mnstrman06, TyKim, и Xplosives.
   Над камерой работали Aiden, Bissy, и BossSauce.
-  Специальная благодарность посвящается Alisticious за плейтестинг; Bissy, mosscairn, и PowerAV за концепт дизайн; и Cruor, JaThePlayer, и Xaphan за дополнительный код.
+  Отдельная благодарность посвящается Alisticious за плейтестинг; Bissy, mosscairn, и PowerAV за концепт дизайн; и Cruor, JaThePlayer, и Xaphan за дополнительный код.
 
 StrawberryJam2021_0_Lobbies_2_Intermediate_Credits=
   Разработку промежуточного лобби возглавили fonda1515, Holly, Phrog, и Scroogle.
@@ -154,7 +154,7 @@ StrawberryJam2021_0_Lobbies_2_Intermediate_Credits=
   Плейтестеры BossSauce, MousseMoose, и Rocketguy2.
   Кастомный энтити лифта сделал catapillie, кастомный энтити зиппера сделал Samah.
   Над камерой работали Aiden, Gamation, и fonda1515.
-  Специальная благодарность посвящается Gamation за помощь с руковождением.
+  Отдельная благодарность посвящается Gamation за помощь с руковождением.
 
 StrawberryJam2021_0_Lobbies_3_Advanced_Credits= 
   Разработку продвинутого лобби возглавили bryse0n, Ceph, и Jadeturtle.
@@ -165,7 +165,7 @@ StrawberryJam2021_0_Lobbies_3_Advanced_Credits=
   Композитор Ceph.
   Декораторы bryse0n, Gamation, Jadeturtle, и Worldwaker2.
   Над камерой работал Worldwaker2.
-  Специальная благодарность посвящается Alisticious, Bigkahuna, JaThePlayer, Scroogle, и Xaphan за исправление кода, отладку и плейтестинг.	
+  Отдельная благодарность посвящается Alisticious, Bigkahuna, JaThePlayer, Scroogle, и Xaphan за исправление кода, отладку и плейтестинг.	
 
 StrawberryJam2021_0_Lobbies_4_Expert_Credits= 
   Разработку экспертного лобби возглавили Agent, Quinnigan и Ru.
@@ -175,7 +175,7 @@ StrawberryJam2021_0_Lobbies_4_Expert_Credits=
   Композитор catapillie.
   Декораторы by Appels, butcherberries, Lyra, PowerAV, Worldwaker2, и Yoshachobi7.
   Над камерой работали Agent, butcherberries и Worldwaker2.
-  Специальная благодарность посвящается Cruor, JaThePlayer и Xaphan.
+  Отдельная благодарность посвящается Cruor, JaThePlayer и Xaphan.
 
 StrawberryJam2021_0_Lobbies_5_Grandmaster_Credits=
   Разработку грандмастер лобби возглавили tobyaaa и valkyria.
@@ -186,7 +186,7 @@ StrawberryJam2021_0_Lobbies_5_Grandmaster_Credits=
   Декораторы Gamation, tobyaaa, valkyria, and Xplosives.
   Над камерой работали tobyaaa and valkyria.
   Маску для заднего фона кодил lilybeevee, и спрайт монумента с кредитами сделал neo_zoid.
-  Специальная благодарность посвящается Alisticious за плейтестинг, и JaThePlayer, Vexatos, Viv, и Xaphan за исправления кода и отладку.
+  Отдельная благодарность посвящается Alisticious за плейтестинг, и JaThePlayer, Vexatos, Viv, и Xaphan за исправления кода и отладку.
 
 # === Heartside Credits
 
@@ -203,7 +203,7 @@ StrawberryJam2021_1_Beginner_Heartside_Credits=
   Задний фон нарисовал Earthwise и перекрасил nerferd_.
   Композитор Ceph.
   Плейтестинг провели butcherberries, LegS, MousseMoose, и Owen Shirrell.
-  Специальная благодарность посвящается valkyria за дополнительную полировку.
+  Отдельная благодарность посвящается valkyria за дополнительную полировку.
 
 StrawberryJam2021_2_Intermediate_Heartside_Credits=
   Intermediate Heartside проектировали и объединили Holly, Phrog, Rocketguy2, и Scroogle.
@@ -214,7 +214,7 @@ StrawberryJam2021_2_Intermediate_Heartside_Credits=
   Графику нарисовали Bissy, nerferd_, Phrog, и Worldwaker2.
   Композитор BeanJammin.
   Плейтестинг провел Xplosives.
-  Специальная благодарность посвящается Worldwaker2 и Xplosives за помощь с визуалом и настройкой камеры. 
+  Отдельная благодарность посвящается Worldwaker2 и Xplosives за помощь с визуалом и настройкой камеры. 
 
 StrawberryJam2021_3_Advanced_Heartside_Credits=
   Advanced Heartside проектировали и объединили Aiden, Oppen_heimer, и Worldwaker2.
@@ -252,7 +252,7 @@ StrawberryJam2021_4_Expert_Heartside_Credits=
   Написанием и отладкой кода для Expert Heartside занимались Agent, JaThePlayer, и maddie480.
   Композитор catapillie.
   Плейтестинг провели 0dot006prcnts, Rin_Jagste, и Moladan.
-  Специальная благодарность посвящается butcherberries, его рассудок навсегда утерян в глубинах порталов Кахуны. Покойся с миром, где бы ты ни был.
+  Отдельная благодарность посвящается butcherberries, его рассудок навсегда утерян в глубинах порталов Кахуны. Покойся с миром, где бы ты ни был.
 
 StrawberryJam2021_5_Grandmaster_Heartside_Credits=
   Grandmaster Heartside проектировал и объединил valkyria.
@@ -265,7 +265,7 @@ StrawberryJam2021_5_Grandmaster_Heartside_Credits=
   Написанием и отладкой кода для Grandmaster Heartside занимались catapillie, JaThePlayer, maddie480, Vexatos, и Viv.
   Композиторы BeanJammin и quadratic97. 
   Плейтестинг провели 0dot006prcnts, Ecl1psed, Fraz, Gamation, Rin_Jagste, Topaz, и Xplosives.
-  Специальная благодарность посвящается quadratic97 за написание кассет-ремикса.
+  Отдельная благодарность посвящается quadratic97 за написание кассет-ремикса.
 
 # === Gym Credits
 
@@ -6265,104 +6265,105 @@ SJ2021_1_Beginner_dropzleintro=
 [MADELINE left normal]
 Да я вообще без понятия, что это означает.
 []
-Pixel-perfect gaps are extremely precise, but line up a drop right above them and you'll fall straight through!
-Use those big angry {!}{#363eb5}Kevin{#}{/!} blocks and collectable {!}{#9cbaff}touch switches{#}{/!} to figure out a setup for each room.
+Пиксель-перфекты очень узкие, но если выровняться прямо над ним то вы с легкостью пролетите его насквозь!
+Используй этих больших и злых {!}{#363eb5}Кевинов{#}{/!} и активируемые {!}{#9cbaff}тач свитчи{#}{/!} чтобы найти сетап для каждой комнаты.
 [MADELINE left distracted]
-But couldn't I just...
+Но не могу ли я...
 [MADELINE left together]
-...jump through the gaps on my own?
+...прыгнуть сквозь них сама?
 []
-Yes, you could! However, that's not exactly in the spirit of the map—{0.4} and besides, it's pretty difficult.
-If you {!}really{/!} don't want to solve the puzzles, then it is indeed possible to skip most of these rooms.
-But it's not the intended way to play the map, so why not give the puzzles a try instead?
-(Besides, you can always access a {!}{#6e74d4}Hint{#}{/!} via the pause menu if you get stuck!)
+Да, вы можете! 
+Yes, you could! Впрочем, это не совсем соответствует духу карты—{0.4} и, кроме того, это довольно сложно.
+Если вы {!}реально{/!} не хотите решать эти пазлы, тогда можете пропустить большинство этих комнат.
+Но это не предполагаемый способ чтобы играть в карту, поэтому почему бы не порешать пазлы?
+(К тому же, вы всегда можете получить {!}{#6e74d4}Подсказку{#}{/!} через меню если вы застряли!)
 [MADELINE left sadder]
-Alright, fiiine.
+Ясно, понятно.
 []
-Thank you. {~}Enjoy the map!{/~}
+Спасибо вам. {~}Насладитесь картой!{/~}
 
 SJ2021_1_Beginner_dropzlesecret=
 [MADELINE left deadpan]
 
 SJ2021_1_Beginner_dropzlebryse0n=
 []
-Special thanks to bryse0n for the room idea!
+Отдельная бладогарность bryse0n за идею комнаты!
 
 SJ2021_1_Beginner_dropzlemosscairn=
 []
-Special thanks to mosscairn for the room idea!
+Отдельная благодарность mosscairn за идею комнаты!
 
 SJ2021_1_Beginner_dropzleirl=
 []
-Special thanks to Nathan and Joe for their support throughout the mapping process!
+Отдельная благодарность Nathan и Joe за их помощь во время создания карты!
 
 SJ2021_1_Beginner_dropzlehint00=
 []
-Once it's activated, you'll need to make use of the space beneath the wide touch switch block.
+Как только активировали тачсвитч, вам нужно использовать место под широким свитчблоком.
 
 SJ2021_1_Beginner_dropzlehint01=
 []
-You can stand atop the Kevin to reach the upper part of the room without using a dash.
+Вы можете стоять сверху Кевина чтобы достичь дальней части комнаты без использования дэша.
 
 SJ2021_1_Beginner_dropzlehint02=
 []
-There's more than one way to get to the right side of this room.
+Здесь больше одного способа чтобы достичь правой части комнаты.
 
 SJ2021_1_Beginner_dropzlehint03=
 []
-Ultimately, this room's Kevin should end up in the upper of the two recesses on the left wall.
+В конечном итоге Кевин в этой комнате должен оказаться в верхней из двух впадин на левой стене.
 
 SJ2021_1_Beginner_dropzlehint03b=
 []
-You can cross large gaps quickly without using any dashes by riding on a Kevin.
+Вы можете быстро преодолеть большое расстояние без использования деша с помощью Кевина. 
 
 SJ2021_1_Beginner_dropzlehint04=
 []
-Don't use a dash when getting up to the touch switch on the right. 
+Не используйте дэш чтобы подняться к правому тачсвитчу.
 
 SJ2021_1_Beginner_dropzlehint04a=
 []
-In this room's primary solution, you'll only need to hit the Kevin once.
+В этой комнате для решения основной задачи надо лишь раз ударить Кевина.
 
 SJ2021_1_Beginner_dropzlehint04ab=
 []
-Think outside the box.
+Мыслите нестандартно.
 
 SJ2021_1_Beginner_dropzlehint04b=
 []
-There are multiple ways to travel upwards through a gap.
+Здесь несколько путей чтобы подняться через пиксель-перфект.
 
 SJ2021_1_Beginner_dropzlehint05=
 []
-Your first move should be to hit the lower Kevin on the side of the room that you'd like to leave through.
+Первым делом нужно ударить по нижнему Кевину на той стороне комнаты, через которую вы хотите выйти.
 
 SJ2021_1_Beginner_dropzlehint06=
 []
-This room's solution involves hitting one Kevin upwards into the underside of another Kevin.
+В этой комнате решение включает в себя, чтобы вы ударили сверху одного Кевина и он полетел в нижнюю часть другого Кевина.
 
 SJ2021_1_Beginner_dropzlehint06b=
 []
-When a Kevin hits a solid wall, jump quickly off of it to gain momentum.
+Когда Кевин ударяется по твердому блоку, отпрыгните от него чтобы получить инерцию.
 
 SJ2021_1_Beginner_dropzlehint07=
 []
-You'll only need to hit the Kevin two times in order to beat this room.
+Чтобы пройти эту комнату вам нужно два раза подряд ударить по Кевину.
 
 SJ2021_1_Beginner_dropzlehint08=
 []
-Not all dashes need to be used on the Kevin.
+Не все дэши нужно использовать на Кевине.
 
 SJ2021_1_Beginner_dropzlehint08b=
 []
-Though they collide with walls, Kevins can pass straight through spikes.
+Хотя они и взаимодействуют с стенами, Кевины легко могут проходить через спиннеры.
 
 SJ2021_1_Beginner_dropzlehint09=
 []
-Collect the touch switch in the bottom right corner last.
+Соберите тачсвитч в правом нижнем углу последним.
 
 SJ2021_1_Beginner_dropzlehint10=
 []
-You'll need to use your final dash to collect the heart.
+Вам нужно использовать последний дэш чтобы собрать сердце.
 
 SJ2021_1_Beginner_dropzlehint10s=
 []
@@ -6370,7 +6371,7 @@ SJ2021_1_Beginner_dropzlehint10s=
 
 SJ2021_1_Beginner_dropzlehintside=
 []
-Your first dash, as well as your final two dashes, should be used to move a Kevin to the left.
+Ваш первый дэш, так же как два ваших последних, должны переместить Кевина налево.
 
 SJ2021_1_Beginner_dropzlehintsecret=
 []
