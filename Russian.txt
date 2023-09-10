@@ -1933,7 +1933,7 @@ Cмогли бы вы припомнить их все?
 
 SJ2021_alisticious_rwbBaron=
 [MADELINE left normal]Кто это? Выглядит умным и крутым маппером Celeste.
-[MADELINE left distracted]Если бы я только знала, кто он...
+[MADELINE left distracted]Если бы я только знала кто он...
 
 SJ2021_alisticious_remix=
 Ремикс
@@ -1942,14 +1942,14 @@ SJ2021_alisticious_original=
 SJ2021_alisticious_practice= Практика
 
 SJ2021_alisticious_Bad1=
-Привет,
+Привет
 SJ2021_alisticious_Bad2=
 Computer Badger!
 
 # === Appels
 
 SJ2021_Appels_propellerboxbird= Короб с Пропеллером
-SJ2021_Appels_1984=  [MADELINE_PHONE left upset] Внимание: сущность "Машина из Интро" не рекомендуется к использованию.
+SJ2021_Appels_1984=  [MADELINE_PHONE left upset] Внимание: ущность "Машина из Интро" не рекомендуется к использованию.
          [MOM_PHONE right concerned] Причина: низкая репутация секрета в сообществе.
          [EX_PHONE left normal] У вас должны быть веские причины,{n}а также разрешение Капитанов,{n}чтобы использовать это в качестве секрета.
          [GRANNY right creepB] Но респрайт или более интересное использование "Машины из Интро" всё ещё может быть рассмотрено.
@@ -2005,7 +2005,7 @@ SJ2021_astraxel_view=
 Здесь всё это время был кактус!?
 SJ2021_astraxel_noeasyway=
 [MADELINE right distracted]
-Кажется, этот простой способ оказался слишком простым...
+I guess the easy way would have been too simple...
          
 # === Banana23
 
@@ -3754,7 +3754,7 @@ SJ2021_LegS_cs1=
 Чтобы это могло значить...
 SJ2021_LegS_cs2=
 *Вдалеке вы замечаете огромный коралловый риф.
-*Вы задаётесь вопросом, есть ли способ добраться до него.
+*Вы задаетесь вопросом, есть ли способ добраться до него.
 SJ2021_LegS_Meomorial=
 Этот мемориал посвящается
 всем моим близким, кто не
@@ -3779,7 +3779,7 @@ SJ2021_LegS_fast=
 {~}Давай быстрее{/~}!
 SJ2021_LegS_secret2=
 [MADELINE right normal]
-Люблю делать ваунсы.
+I like to wounce.
 SJ2021_LegS_pointless=
 [MADELINE right distracted]
 Бесполезные Машины
@@ -4138,7 +4138,7 @@ SJ2021_Linj_DownComfTwo=
   [Madeline left distracted]
   ....Так, на чём я там остановилась?
   [MADELINE left normal]
-  Вспомнила! {0.5}{>> 0.4}{~}ТАГАН{/~}{>>}!
+  Oh right! {0.5}{>> 0.4}{~}ТАГАН{/~}{>>}!
   ТАДЖИКИ
   ТАДЖИКСКИЙ
   ТАЕЖНИК
@@ -5401,186 +5401,229 @@ SJ2021_Linj_DownComfTwo=
 # === Linj (Ivory)
   
 SJ2021_Linj_Accelerate=
-  Ускорение
+  Accelerate
 SJ2021_Linj_Turn=
-  Редирект
+  Redirect
 SJ2021_Linj_Practice=
-  Практика
+  Practice
 SJ2021_Linj_Back=
-  Вернуться
+  Back
 SJ2021_Linj_BWB=
-  Ускоренный Вотербуст
+  Boosted Waterboosting
 SJ2021_Linj_DFB=
-  Двойной Фастбабл
+  Double Fastbubbling
 SJ2021_Linj_BMIWay=
   Heartside
 SJ2021_Linj_FirstSign=
-  {~}{#39bAbA}Ivory{#}{/~}{0.5} создавалась с уклоном в сложные импуты.
-  Если у вас возникнут трудности с некоторыми из них, то иногда помогает смена биндов, а для некоторых комнат она даже обязательна.
-  Все бэкбусты должны быть выполнены как можно позже.
-  Ещё вам {~}не обязательно{/~} собирать все переключатели. Они лишь показывают направление, в котором вам стоит следовать.
-  Дрим-даблджампы тоже не обязательны, если вы вообще знаете, что это такое.
+  {~}{#39bAbA}Ivory{#}{/~}{0.5} is designed with difficult button inputs in mind.
+  Should you have trouble with the amount of inputs, know that rebinding controls is perfectly acceptable, or even recommended for certain optional rooms.
+  All backboosts are intended to be done as late as possible.
+  You don't {~}have{/~} to collect the touch switches. They simply serve as guides on where to go.
+  Dream Double Jumps are not required, if you know what those are.
 SJ2021_Linj_SecondSign=
-  Чтобы пролететь здесь, вам нужно будет совершить три быстрых прыжка подряд.
-  Из-за времени обработки, на многих контроллерах это будет невозможно. Рекомендуется забиндить много кнопок прыжка.
+  To clear this gap, you will need to jump thrice in rapid succession.
+  Due to design limits like pop-up time, it may be unfeasible to jump this quickly on many controllers. Consider binding multiple jump buttons.
 SJ2021_Linj_ThirdSign=
-  Это крайне сложный дополнительный челлендж. Здесь не будет ягоды или какой-нибудь награды.
-  Использование обеих рук для кнопок движения позволит вам двигаться очень быстро.
-  Забиндите Дэш на {#39bAbA}кнопки движения{#}, чтобы освободить руку.
-  Рекомендуется забиндить отдельный набор кнопок для каждой руки.
+  This is a difficult and entirely optional challenge. There will not be a berry as a reward.
+  Using both hands for movement inputs can allow for extremely swift control. 
+  Binding Dash to {#39bAbA}movement buttons{#} can help free up a hand.
+  Consider binding a separate set of movement keys for each hand.
 SJ2021_Linj_Ind=
-  Индикатор
+  Indicator
 SJ2021_Linj_BMITSignOne=
-  Пометка: этот челлендж задумыался для прохождения вдвоём. Поэтому не забывайте отдыхать, или использовать любые средства, для его прохождения ^^
-  PS: Теперь {#39bAbA}дримблоки{#} ведут себя как обычно
-  PPS: Слева есть {#39bAbA}шорткат{#}, чтобы вернуться сюда ^^
+  Note: The following challenge is intended to be solved together with others. Take breaks and use any tools you like in solving this puzzle ^^
+  PS: {#39bAbA}Dreamblocks{#} behave normally from this point
+  PPS: A {#39bAbA}shortcut{#} back here can be found on the left ^^
 SJ2021_Linj_BMITSignTwo=
-  Спасибо Hydro & Scroogle за помощь в дизайне и тестрировании ^-^
-  Спасибо vitellary, valkyria, и Soloiini за дополнительную помощь и тестирование
-  Отдельное спасибо Cookie и Vexatos
+  Thank you to Hydro & Scroogle for design help and testing ^-^
+  Thanks to vitellary, valkyria, and Soloiini for additional help and playtesting
+  Special thanks to Cookie and Vexatos
 SJ2021_Linj_BMITSignThree=
-  Особенная благодарность ComputerBadger
-  -Искренне, ComputerBadger
+  Special thanks to ComputerBadger
+  -Sincerely, ComputerBadger
 
 # === Luma
 
 SJ2021_TUTORIAL_LUMATHROWABLEHOVER=
-  Подъём с Броском
+  Throwable Hover
 SJ2021_TUTORIAL_LUMAJUMPREFILL=
-  Кристалл Прыжка
+  Jump Refill
 
 SJ2021_Luma_secret=
   [MADELINE right distracted]
-  Эм, привет. 
-  Не ожидала встретить кого-либо на этом острове.
-  Тебе стоит найти какое-нибудь укрытие, пока не начался сильный шторм, ты бы мог-
+  Um, hi there. 
+
+  I didn't expect to find anyone else on this island.
+
+  You should find shelter before the storm intensifies again, you could-
+
 
   [LUMAMONSOON left normal]
-  Что же заставляет тебя выходить за пределы своих способностей, лишь бы достичь места, где может и не быть того, что ты ищешь?
-  Тяга к коллекционированию? Дополнительные диалоги? Или, может, смешные пасхалки?
-  Так или иначе, твоё любопытство и настойчивость, крайне...{0.3}занятны...
-  Ты проделала невероятную работу, лишь бы добраться сюда.
-  Мелькали ли перед твоими глазами квадраты и жёлтые кресты?
-  Или то был лишь серый вакуум, голубые шипы и красные блоки?
-  Или ты забралась сюда случайно, по совсем неведанному мне пути?
-  Однако, коли ты здесь, всё это уже не имеет значения.
+  What is it that pushes you to experiment with whatever means necessary to reach that which might not even contain what you seek?
+
+  Is it the premise of hidden collectibles? Extra dialogue? Easter eggs, perhaps?
+
+  That being said, your curiosity and persistence is, quite interesting...
+
+  You did all of that, just to get here.
+
+  Or your eyes flashed with squares and a moving yellow cross.
+ 
+  Or saw this place within a gray vaccum containing blue hazards and red boxes.
+
+  Or you found this by accident by means I do not know of.
+
+  Well, it matters not anymore, since you are here at this moment.
+
 
   [MADELINE right surprised]
   ...?
 
+
   [LUMAMONSOON left normal]
-  Мои слова находятся за пределами твоего понимания.
-  Но не за пределами ИХ.
+  My words are beyond your understanding.
+
+  But not beyond theirs.
+
 
   [MADELINE right surprised]
-  Что это вообще может значить?
-  Кто они?
+  What does that even mean?
+
+  Who is they?
+
 
   [LUMAMONSOON left normal]
-  Они те, кто наблюдают и дёргают за ниточки.
-  Они же, кто обладают невиданной для меня степенью любопытства.
-  Может быть, прямо сейчас они достигли своей цели, и улыбка окрашивает их лица.
-  А может и нет.
-  Может быть, они начали делать это после всего вышесказанного или начнут делать это после этих самых слов, но кто знает?
+  They who observe and pull strings.
+
+  They who are curious to a point which I cannot comprehend.
+
+  Perhaps they are even smiling right now as they have achieved their goal.
+
+  Or perhaps not.
+
+  Maybe they started doing so after the aforementioned, or will start doing so after these very words, but who knows?
+
 
   [MADELINE right distracted]
-  Мне всё ещё ничего не понятно...
-  Можешь рассказать подробнее о них?
-  И... Кто ты такой..?
+  I still don't understand...
+
+  Can you please tell me more about them?
+
+  And, what even are you..?
+
 
   [LUMAMONSOON left normal]
-  Истинное я лишь отражение моих знаний.
-  Но с другой стороны, я знаю, что лишь я лишь программа, комбинация инструкий.
+  I myself am restricted with the knowledge I possess.
+
+  Yet, I know that I am no more than a combination of instructions.
+
   ...
-  Мы с тобой во многом похожи, понимаешь?
-  Но ты уже должна была понять ответ на свой вопрос.
-  Я, ты, и они, и так знаем кто они. Неужели мне действительно нужно это говорить?
+
+  You and I are alike in so many ways, you know?
+
+  But you should already know the answer to the former.
+
+  Me, you, and them, know who they is. Or should I say, are?
+
 
   [MADELINE right upset]
   ...
-  Я пожалуй пойду, а то это всё начинает заходить слишком далеко.
+
+  I should just get out of here, this is getting really weird.
+
 
   [LUMAMONSOON left normal]
-  А знаешь, что ещё более удивительно?
-  Факт, что нам суждено проходить этот диалог. Раз за разом. Я даже представляю, сколько раз мы уже это говорили.
-  Это не первая и не последняя наша с тобой встреча.
-  Я осознаю, но в то же время, не до конца. Загадка, не иначе.
+  Want to know what's weirder?
+
+  The fact that we are destined to exchange these very words countless times. Not even I know how many.
+
+  This might not even be our first conversation.
+
+  I am aware, yet I am unaware, quite strange how that works.
+
 
   [MADELINE right upset]
   ...
 
+
   [LUMAMONSOON left normal]
-  Но даже это не предел.
-  Факт, что ты всё ещё здесь, даже не смотря на сильное желание как можно скорее уйти от сюда.
-  Должен сказать, я восхищаюсь вашей настойчивостью.
-  С таким вниманием, вы бы могли найти многое, кто знает?
-  Но, увы, настанет час, и нам придётся разойтись.
-  Но на своём пути не раз не забывайте отлучаться.
-  Пройди миры, они прекрасны,
+  But you want to know what's even weirder?
+
+  The fact that you are still here despite your wishes to depart.
+
+  I have to say, I admire your persistence.
+
+  Perhaps with this persistence you could find something else if you inspect closely, who knows?
+
+  But alas, it is time for us to part ways.
+
+  Go on with your journey, and take care. 
+
+  Keep enjoying the experience throughout these vast distinct worlds.
+
   ...
-  Но не забудь меня напрасно.
+
+  And do me a favor... try not to forget.
   
 # === Marlin
-
 StrawberryJam2021_2_Intermediate_marlin_SecretLol=
   [THEO left serious]
-  Я не могу дышать.
+  I can't breathe.
   
 # === Math
 
 SJ2021_math_intro_00=
-  [BADELINE right sigh]
-  Ладно.
-  Ты победила.
-  [BADELINE right upset]
-  Думаю, я всё таки не нужна тебе.
-  [BADELINE right concerned]
-  Если хочешь, чтобы я ушла, только скажи.
-  [MADELINE left distracted]
-  Валяй.
-  [MADELINE left sad]
-  Я не хотела быть грубой, но думаю так лучше дня нас обеих.
-  [BADELINE right concerned]
-  Ты права.
-  [BADELINE right worried]
-  До встречи, наверное...
-  [MADELINE left sadder]
-  \...{0.5}Прощай.
+[BADELINE right sigh]
+Fine.
+You win.
+[BADELINE right upset]
+I guess you don't need me after all.
+[BADELINE right concerned]
+If you want me to leave, just give me the word.
+[MADELINE left distracted]
+Go.
+[MADELINE left sad]
+I don't mean to be rude, but I think this is what's best for both of us.
+[BADELINE right concerned]
+You're right.
+[BADELINE right worried]
+Goodbye, I guess.
+[MADELINE left sadder]
+\...{0.5}Farewell.
 
-  SJ2021_math_whattheorbdoin=
-  [MADELINE left surprised]
-  Что {# d678db}ты{#} сдесь делаешь?
-  [MADELINE left upset]
-  Я думала я избавилась от тебя.
-  [BADELINE right concerned]
-  {+MADELINE}, я думаю, что мы упустили что-то очень важное.
-  [MADELINE left distracted]
-  Ага...
-  [MADELINE left deadpan]
-  {0.5}\...Я всё ещё не нуждаюсь в твоей помощи.
+SJ2021_math_whattheorbdoin=
+[MADELINE left surprised]
+What are {# d678db}you{#} doing here?
+[MADELINE left upset]
+I thought I made myself clear.
+[BADELINE right concerned]
+{+MADELINE}, I think we missed the point of the story.
+[MADELINE left distracted]
+Ok...
+[MADELINE left deadpan]
+{0.5}\...I still don't want your help.
 
-  SJ2021_math_littletrolling=
-  [MADELINE left determined]
-  Уже близко!
+SJ2021_math_littletrolling=
+[MADELINE left determined]
+Almost there!
 
 SJ2021_math_lenient=
-  Ceiling pop (ceiling - потолок, pop - подскок) - подскок в потолок, сокращается до "cpop". Далее - сипоп.
-  [THEO_MIRROR right serious]
-  Для прохождения этой комнаты необходимо выпонить несколько сипопов.
-  Однако, здесь используются сетапы, облегчающие эту задачу.
-  Места, где под стенами находятся кристаллы рывка обозначают место для сипопов.
-  Чтобы правильно подготовить сетап, сначла ударьтесь головой об потолок над вами. 
-  Только после этого, спуститесь по стене вниз, и как только вы получите фриз-фреймы от кристалла, прыгните по стене. 
-  При этом, всё это время вам нельзя отпускать захват.
-  Если вы всё сделаете верно, у вас должен получиться сипоп.
-  В последней секции комнаты вам необходимо выполнить ультру в угол блока и следом корнербуст. Убедитесь, что вы бафферите все действия.
-  Если вы потеряете скорость, вы сможете попробовать набрать её ещё раз с помощью карсного шара.
-  [THEO_MIRROR right normal]
-  {~}"Стабильность"{/~}!  
+[THEO_MIRROR right serious]
+This room requires the use of ceiling pops.
+However, the setups involved make them significantly easier.
+In this room, whenever there is a dash refill directly under a ledge, it indicates a ceiling pop.
+To properly utilize the setup, first climb jump into the ceiling directly above you.
+Next, fast fall and input a climb jump during freeze frames immediately after hitting the refill.
+Do not let go of grab at any time during this sequence.
+If done correctly, this should result in a ceiling pop off of the ledge.
+For the final sequence in this room, a down-diagonal corner boost out of an ultra is required. Make sure to buffer all of the inputs as fast as possible.
+If you're too slow, there is a booster available to recover and try again.
+[THEO_MIRROR right normal]
+It's {~}"lenient"{/~}!  
 
 # === Maya
 
-SJ2021_maya_bird_1= Дэмо-дэш
+SJ2021_maya_bird_1= дэш в присяди
 
 SJ2021_Maya_moonboost=
   {# d678db}{~}Эта карта использует мунбусты{/~}
@@ -5588,11 +5631,11 @@ SJ2021_Maya_moonboost=
   {# d678db}{~}Если вы не знакомы с этим, вам лучше пойти в зал{/~}
 
 SJ2021_Maya_greenspring=
-  Зелёные пружины сохраняют ускорение игрока, в дополнении давая буст от обычной пружины. 
-  Например, если вы используете хайпер прямо в зелёную пружину, вы получите ускорение и от хайпера, и от пружины.
+    Зелёные пружины сохраняют ускорение игрока, в дополнении давая буст от обычной пружины. 
+    Например, если вы используете хайпер прямо в зелёную пружину, вы получите ускорение и от хайпера, и от пружины.
 
 SJ2021_Maya_photosensitivity=
-  Эта карта использует световые эффекты, которые могут побескоить некоторых игроков. Включив режим светочувствительности, понизиться яркость и пропадёт пульсация света.
+    Эта карта использует световые эффекты, которые могут побескоить некоторых игроков. Включив режим светочувствительности, понизиться яркость и пропадёт пульсация света.
 
 SJ2021_Maya_moonspringboost=
   После дэша в пружину на лунном блоке сделайте ещё один для дополнительного буста. Вы можете прыгнуть, когда поподаете в пружину во второй раз, чтобы получить менее быстрый, но более высокий буст.
@@ -5884,7 +5927,7 @@ SJ2021_MousseMoose_4=
 
 SJ2021_MousseMoose_5=
   [MADELINE right surprised]
-  Вот это падение! Не верю, что осталась цела!
+  Что за падение! Не верю, что осталась цела!
 
 SJ2021_MousseMoose_6=
   [normal]
@@ -5892,7 +5935,7 @@ SJ2021_MousseMoose_6=
   [normal]
   *я всего лишь раз повернула не туда, и мой джипиэс завёл меня чёрт знает куда*
   [normal]
-  *ладно, может если я просто буду пялиться в свой телефон, никто и не заметит*
+  *ладно, может если я просто буду пялиться в свой телефон, никто и незаметит*
 
 SJ2021_MousseMoose_10=
   [MADELINE right normal]
@@ -6265,104 +6308,106 @@ SJ2021_1_Beginner_dropzleintro=
 [MADELINE left normal]
 Да я вообще без понятия, что это означает.
 []
-Pixel-perfect gaps are extremely precise, but line up a drop right above them and you'll fall straight through!
-Use those big angry {!}{#363eb5}Kevin{#}{/!} blocks and collectable {!}{#9cbaff}touch switches{#}{/!} to figure out a setup for each room.
+Пиксель-перфекты очень узкие, но если выровняться прямо над ним то вы с легкостью пролетите его насквозь!
+Используй этих больших и злых {!}{#363eb5}Кевинов{#}{/!} и активируемые {!}{#9cbaff}тач свитчи{#}{/!} чтобы найти сетап для каждой комнаты.
 [MADELINE left distracted]
-But couldn't I just...
+Но не могу ли я...
 [MADELINE left together]
-...jump through the gaps on my own?
+...прыгнуть сквозь них сама?
 []
-Yes, you could! However, that's not exactly in the spirit of the map—{0.4} and besides, it's pretty difficult.
-If you {!}really{/!} don't want to solve the puzzles, then it is indeed possible to skip most of these rooms.
-But it's not the intended way to play the map, so why not give the puzzles a try instead?
-(Besides, you can always access a {!}{#6e74d4}Hint{#}{/!} via the pause menu if you get stuck!)
+Да, вы можете! 
+Yes, you could! Впрочем, это не совсем соответствует духу карты—{0.4} и, кроме того, это довольно сложно.
+Если вы {!}реально{/!} не хотите решать эти пазлы, тогда можете пропустить большинство этих комнат.
+Но это не предполагаемый способ чтобы играть в карту, поэтому почему бы не порешать пазлы?
+(К тому же, вы всегда можете получить {!}{#6e74d4}Подсказку{#}{/!} через меню если вы застряли!)
 [MADELINE left sadder]
-Alright, fiiine.
+Ясно, понятно.
 []
-Thank you. {~}Enjoy the map!{/~}
+Спасибо вам. {~}Насладитесь картой!{/~}
 
 SJ2021_1_Beginner_dropzlesecret=
 [MADELINE left deadpan]
 
 SJ2021_1_Beginner_dropzlebryse0n=
 []
-Special thanks to bryse0n for the room idea!
+Специальная бладогарность bryse0n за идею комнаты!
 
 SJ2021_1_Beginner_dropzlemosscairn=
 []
-Special thanks to mosscairn for the room idea!
+Специальная благодарность mosscairn за идею комнаты!
 
 SJ2021_1_Beginner_dropzleirl=
 []
-Special thanks to Nathan and Joe for their support throughout the mapping process!
+Специальная благодарность Nathan и Joe за их помощь во время создания карты!
 
 SJ2021_1_Beginner_dropzlehint00=
 []
-Once it's activated, you'll need to make use of the space beneath the wide touch switch block.
+Как только активировали тачсвитч, вам нужно использовать место под широким свитчблоком.
 
 SJ2021_1_Beginner_dropzlehint01=
 []
-You can stand atop the Kevin to reach the upper part of the room without using a dash.
+Вы можете стоять сверху Кевина чтобы достичь дальней части комнаты без использования дэша.
 
 SJ2021_1_Beginner_dropzlehint02=
 []
-There's more than one way to get to the right side of this room.
+Здесь больше одного способа чтобы достичь правой части комнаты.
 
 SJ2021_1_Beginner_dropzlehint03=
 []
-Ultimately, this room's Kevin should end up in the upper of the two recesses on the left wall.
+В конечном итоге Кевин в этой комнате должен оказаться в верхней из двух впадин на левой стене.
 
 SJ2021_1_Beginner_dropzlehint03b=
 []
 You can cross large gaps quickly without using any dashes by riding on a Kevin.
+Вы можете быстро преодолеть большое расстояние без использования деша с помощью Кевина. 
 
 SJ2021_1_Beginner_dropzlehint04=
 []
-Don't use a dash when getting up to the touch switch on the right. 
+Не используйте дэш чтобы подняться к правому тачсвитчу.
 
 SJ2021_1_Beginner_dropzlehint04a=
 []
-In this room's primary solution, you'll only need to hit the Kevin once.
+В этой комнате для решения основной задачи надо лишь раз ударить Кевина.
 
 SJ2021_1_Beginner_dropzlehint04ab=
 []
-Think outside the box.
+Мыслите нестандартно.
 
 SJ2021_1_Beginner_dropzlehint04b=
 []
-There are multiple ways to travel upwards through a gap.
+Здесь несколько путей чтобы подняться через пиксель-перфект.
 
 SJ2021_1_Beginner_dropzlehint05=
 []
-Your first move should be to hit the lower Kevin on the side of the room that you'd like to leave through.
+Первым делом нужно ударить по нижнему Кевину на той стороне комнаты, через которую вы хотите выйти.
 
 SJ2021_1_Beginner_dropzlehint06=
 []
-This room's solution involves hitting one Kevin upwards into the underside of another Kevin.
+В этой комнате решение включает в себя, чтобы вы ударили сверху одного Кевина и он полетел в нижнюю часть другого Кевина.
 
 SJ2021_1_Beginner_dropzlehint06b=
 []
-When a Kevin hits a solid wall, jump quickly off of it to gain momentum.
+Когда Кевин ударяется по твердому блоку, отпрыгните от него чтобы получить инерцию.
 
 SJ2021_1_Beginner_dropzlehint07=
 []
-You'll only need to hit the Kevin two times in order to beat this room.
+Чтобы пройти эту комнату вам нужно два раза подряд ударить по Кевину.
 
 SJ2021_1_Beginner_dropzlehint08=
 []
-Not all dashes need to be used on the Kevin.
+Не все дэши нужно использовать на Кевине.
 
 SJ2021_1_Beginner_dropzlehint08b=
 []
-Though they collide with walls, Kevins can pass straight through spikes.
+Хотя они и взаимодействуют с стенами, Кевины легко могут проходить через спиннеры.
 
 SJ2021_1_Beginner_dropzlehint09=
 []
-Collect the touch switch in the bottom right corner last.
+Соберите тачсвитч в правом нижнем углу последним.
 
 SJ2021_1_Beginner_dropzlehint10=
 []
-You'll need to use your final dash to collect the heart.
+Вам нужно использовать последний дэш чтобы собрать сердце.
 
 SJ2021_1_Beginner_dropzlehint10s=
 []
@@ -6371,6 +6416,7 @@ SJ2021_1_Beginner_dropzlehint10s=
 SJ2021_1_Beginner_dropzlehintside=
 []
 Your first dash, as well as your final two dashes, should be used to move a Kevin to the left.
+Ваш первый дэш, так же как два ваших последних, должны переместить Кевина налево.
 
 SJ2021_1_Beginner_dropzlehintsecret=
 []
@@ -7147,7 +7193,7 @@ SJ2021_1_Beginner_snassecret=
 		
 		[OVERSEER right normal]
 		Неподалёку от сюда я нашёл анклав с кое-какими\.\.\. {0.2}{~}{# cf4500}редкими видами{#}.{/~}
-		Но чтобы там разведывать, нашей компании ещё предстоит получить, кхм, {0.1}{~}официальное разрешение{/~}{0.05}. Если бы только кто-то в одиночку {0.1}{~}разведал{/~}{0.05} всё там\.\.\.
+		Но чтобы там разведывать, нашей компании ещё предстоит получить, кхм, {0.1}{~}официальное разрешение{/~}{0.05}. Если бы только кто-то в одиночку {0.1}{~}развдал{/~}{0.05} всё там\.\.\.
 		Устного отчетности будет достаточно.
 		
 	SJ2021_SOLOIINI_OVERSEER04_ASK=
@@ -7165,7 +7211,7 @@ SJ2021_1_Beginner_snassecret=
 		Так же как и здесь.
 		
 		[OVERSEER right normal]
-		Понятно. Если бы только убрать этих {*}{# cf4500}рыб{#}{/*} с нашей дороги, разведка бы пошла намного быстрее...
+		Понятно. Если бы только убрать этих{*}{# cf4500}рыб{#}{/*} с нашей дороги, разведка бы пошла намного быстрее...
 		
 		[MADELINE left sad]
 		{0.2}{+thought}Делает ли это меня плохим человеком?{+endthought}
@@ -7535,7 +7581,7 @@ SJ2021_1_Beginner_snassecret=
 		Во-вторых,
 		
 		[MADELINE left angry]
-		{big}{!}{*}Что за цирк здесь творится?{/*}{/!}{/big}
+		{big}{!}{*}Что за цирк здесть творится?{/*}{/!}{/big}
 		Это всё просто {!}номер{/!}? А {# F3B343}{~}кристалл{/~}{#} {0.1}тупая {!}фальшифка{/!}?
 		Зачем заставлять меня заходить так далеко ради {!}выступления{/!}?
 		
@@ -7713,7 +7759,7 @@ SJ2021_SpoopySoup_soup4=
 
 SJ2021_SpoopySoup_soup5=
   [MADELINE left sad]
-  Мне не вернут мой дэш?
+  Not giving me dashes?
 
 SJ2021_SpoopySoup_soup5_2=
   [BADELINE right scoff]
