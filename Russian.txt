@@ -5860,7 +5860,7 @@ SJ2021_MousseMoose_3=
   [THEO right serious]
   ...
   [THEO right serious]
-  {+MADELINE}, вы зедсь?
+  {+MADELINE}, вы здесь?
   [MADELINE left sad]
   Доктор? Вы меня слышите?
   [THEO right serious flip]
@@ -7344,7 +7344,7 @@ SJ2021_1_Beginner_snassecret=
 		Всё это время я просто шла вперёд\.\.\.
 		
 		[MADELINE left sad]
-    Но стоя зедсь, я ощущаю себя потерянной, как никогда либо.
+    Но стоя здесь, я ощущаю себя потерянной, как никогда либо.
 
 		[MADELINE left angry]
     Всё это время я несла на себе это бремя, и {0.1}{!}НИКОМУ{/!}{0.1} не хватило смелости протянуть мне руку помощи!
