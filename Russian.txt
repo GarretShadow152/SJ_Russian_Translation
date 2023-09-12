@@ -280,7 +280,7 @@ StrawberryJam2021_0_Gyms_1_Beginner_collabcredits=
   Музыка:{# 2a2a2a} Ceph{#}
   Экран смерти:{# 2a2a2a} Vamp{#}
   Текст:{# 2a2a2a} bryse0n, Circumplex, Owen Shirrell, DeathKontrol, valkyria{#}
-  Плейтесты:{# 2a2a2a} Agent, Ecl1psed, fonda1515, MousseMoose,
+  Плейтест:{# 2a2a2a} Agent, Ecl1psed, fonda1515, MousseMoose,
   Owen Shirrell, Pedrocrb, Prime, Real Hojo, Ru, VA2M{#}
   Показ Техник:{# 2a2a2a} Kataiser, pansear{#}
   Капитаны:{# 2a2a2a} bryse0n, DeathKontrol, valkyria{#}
@@ -295,7 +295,7 @@ StrawberryJam2021_0_Gyms_2_Intermediate_collabcredits=
   Музыка:{# 2a2a2a} Ceph{#}
   Экран смерти:{# 2a2a2a} Vamp{#}
   Текст:{# 2a2a2a} bryse0n, DeathKontrol, Owen Shirrell, valkyria{#}
-  Плейтесты:{# 2a2a2a} Agent, Ecl1psed, fonda1515, MousseMoose,
+  Плейтест:{# 2a2a2a} Agent, Ecl1psed, fonda1515, MousseMoose,
   Owen Shirrell, Pedrocrb, Prime, Real Hojo, Ru, VA2M{#}
   Показ Техник:{# 2a2a2a} Kataiser, Lost in Nowhere{#}
   Капитаны:{# 2a2a2a} bryse0n, DeathKontrol, valkyria{#}
@@ -310,7 +310,7 @@ StrawberryJam2021_0_Gyms_3_Advanced_collabcredits=
   Музыка:{# 2a2a2a} Ceph{#}
   Экран смерти:{# 2a2a2a} Vamp{#}
   Текст:{# 2a2a2a} bryse0n, DeathKontrol, Owen Shirrell, valkyria{#}
-  Плейтесты:{# 2a2a2a} Agent, Ecl1psed, fonda1515, MousseMoose,
+  Плейтест:{# 2a2a2a} Agent, Ecl1psed, fonda1515, MousseMoose,
   Owen Shirrell, Pedrocrb, Prime, Real Hojo, Ru, VA2M{#}
   Показ Техник:{# 2a2a2a} Kataiser{#}
   Капитаны:{# 2a2a2a} bryse0n, DeathKontrol, valkyria{#}  
@@ -326,7 +326,7 @@ StrawberryJam2021_0_Gyms_4_Expert_collabcredits=
   Музыка:{# 2a2a2a} Ceph{#}
   Экран смерти:{# 2a2a2a} Vamp{#}
   Текст:{# 2a2a2a} bryse0n, DeathKontrol, Owen Shirrell, valkyria{#}
-  Плейтесты:{# 2a2a2a} Agent, Ecl1psed, fonda1515, MousseMoose,
+  Плейтест:{# 2a2a2a} Agent, Ecl1psed, fonda1515, MousseMoose,
   Owen Shirrell, Pedrocrb, Prime, Real Hojo, Ru, VA2M{#}
   Показ Техник:{# 2a2a2a} Kataiser{#}
   Капитаны:{# 2a2a2a} bryse0n, DeathKontrol, valkyria{#}
@@ -342,7 +342,7 @@ StrawberryJam2021_0_Gyms_5_Grandmaster_collabcredits=
   Музыка:{# 2a2a2a} Ceph{#}
   Экран смерти:{# 2a2a2a} Vamp{#}
   Текст:{# 2a2a2a} bryse0n, DeathKontrol, Owen Shirrell, valkyria{#}
-  Плейтесты:{# 2a2a2a} Agent, Ecl1psed, fonda1515, MousseMoose,
+  Плейтест:{# 2a2a2a} Agent, Ecl1psed, fonda1515, MousseMoose,
   Owen Shirrell, Pedrocrb, Prime, Real Hojo, Ru, VA2M{#}
   Показ Техник:{# 2a2a2a} Kataiser{#}
   Капитаны:{# 2a2a2a} bryse0n, DeathKontrol, valkyria{#}
@@ -359,7 +359,7 @@ StrawberryJam2021_1_Beginner_asteriskblue_author=
 StrawberryJam2021_1_Beginner_asteriskblue_collabcredits=
   Музыка:{# 2a2a2a} catapillie{#}
   Стикер:{# 2a2a2a} fionwe{#}
-  Плейтесты:{# 2a2a2a} ABuffZucchini, Banana 23,
+  Плейтест:{# 2a2a2a} ABuffZucchini, Banana 23,
   Bissy, Coffe, PowerAV, Projecteer{#}
   Капитан:{# 2a2a2a} Quinnigan{#}
 
@@ -370,7 +370,7 @@ StrawberryJam2021_1_Beginner_Bing_Over_Google_author=
 StrawberryJam2021_1_Beginner_Bing_Over_Google_collabcredits=
   Музыка:{# 2a2a2a} Hyperlife{#}
   Стикер:{# 2a2a2a} phant{#}
-  Плейтесты:{# 2a2a2a} Nano{#}
+  Плейтест:{# 2a2a2a} Nano{#}
   Капитан:{# 2a2a2a} Bissy{#}
   
 StrawberryJam2021_1_Beginner_cellularAutomaton=
@@ -382,7 +382,7 @@ StrawberryJam2021_1_Beginner_cellularAutomaton_collabcredits=
   Музыка:{# 2a2a2a} cellularAutomaton{#}
   Стикер:{# 2a2a2a} Phrog{#}
   Декорации:{# 2a2a2a} cellularAutomaton, SpiritDragon{#}
-  Плейтесты:{# 2a2a2a} Pedrocrb, SpiritDragon{#}
+  Плейтест:{# 2a2a2a} Pedrocrb, SpiritDragon{#}
       
 StrawberryJam2021_1_Beginner_Ceph=
   Cassette Cliffs
@@ -397,7 +397,7 @@ StrawberryJam2021_1_Beginner_Ceph_collabcredits=
   Стикер:{# 2a2a2a} nerferd_{#}
   Декорации:{# 2a2a2a} phant{#}
   Камера:{# 2a2a2a} Bissy, Coffe{#}
-  Плейтесты:{# 2a2a2a} ABuffZucchini, Real Hojo{#}
+  Плейтест:{# 2a2a2a} ABuffZucchini, Real Hojo{#}
   Капитаны:{# 2a2a2a} Banana 23, Bissy, Coffe{#}
   
 StrawberryJam2021_1_Beginner_Circumplex=
@@ -408,7 +408,7 @@ StrawberryJam2021_1_Beginner_Circumplex_collabcredits=
   Спрайты:{# 2a2a2a} Bissy, Circumplex, mintberry, PowerAV{#}
   Музыка:{# 2a2a2a} Minecire{#}
   Стикер:{# 2a2a2a} Polythesia{#}
-  Плейтесты:{# 2a2a2a} ABuffZucchini, Calamay,
+  Плейтест:{# 2a2a2a} ABuffZucchini, Calamay,
   Real Hojo, Subbed74{#}
   Капитан:{# 2a2a2a} Banana 23{#}
   Отдельная Благодарность:{# 2a2a2a} Owen Shirrell{#}
@@ -423,7 +423,7 @@ StrawberryJam2021_1_Beginner_coffe_collabcredits=
   Музыка:{# 2a2a2a} kenakofer{#}
   Экран смерти:{# 2a2a2a} Vamp{#}
   Стикер:{# 2a2a2a} Polythesia{#}
-  Плейтесты:{# 2a2a2a} Cactus, Projecteer, Real Hojo{#}
+  Плейтест:{# 2a2a2a} Cactus, Projecteer, Real Hojo{#}
   Капитан:{# 2a2a2a} Banana23{#}
   Отдельная Благодарность:{# 2a2a2a} Phrog{#}
   
@@ -436,7 +436,7 @@ StrawberryJam2021_1_Beginner_CoupCritik_collabcredits=
   Музыка:{# 2a2a2a} Aklast{#}
   Стикер:{# 2a2a2a} the_gb{#}
   Декорации:{# 2a2a2a} ABuffZucchini{#}
-  Плейтесты:{# 2a2a2a} ABuffZucchini, EllaTAS,
+  Плейтест:{# 2a2a2a} ABuffZucchini, EllaTAS,
   elrupio, Lollyde, Owen Shirrell, Real Hojo{#}
   Капитан:{# 2a2a2a} Bissy{#}
       
@@ -449,7 +449,7 @@ StrawberryJam2021_1_Beginner_Eclipse_collabcredits=
   Код:{# 2a2a2a} JaThePlayer{#}
   Музыка:{# 2a2a2a} catapillie{#}
   Стикер:{# 2a2a2a} fionwe{#}
-  Плейтесты:{# 2a2a2a} ABuffZucchini, Metaforever,
+  Плейтест:{# 2a2a2a} ABuffZucchini, Metaforever,
   MousseMoose, Real Hojo{#}
   Капитан:{# 2a2a2a} Bissy{#}
   
@@ -461,7 +461,7 @@ StrawberryJam2021_1_Beginner_Flagpole1up_collabcredits=
   Спрайты:{# 2a2a2a} Flagpole1up{#}
   Музыка:{# 2a2a2a} Tillotman{#}
   Стикер:{# 2a2a2a} nerferd_{#}
-  Плейтесты:{# 2a2a2a} Nano, Projecteer, Real Hojo{#}
+  Плейтест:{# 2a2a2a} Nano, Projecteer, Real Hojo{#}
 
 StrawberryJam2021_1_Beginner_frozenflygone=
   Potential for Anything
@@ -471,7 +471,7 @@ StrawberryJam2021_1_Beginner_frozenflygone_collabcredits=
   Спрайты:{# 2a2a2a} Maildropfolder, pixelator{#}
   Музыка:{# 2a2a2a} mustbetuesdayМузыка{#}
   Стикер:{# 2a2a2a} AlienLiyzard{#}
-  Плейтесты:{# 2a2a2a} Real Hojo
+  Плейтест:{# 2a2a2a} Real Hojo
 
 StrawberryJam2021_1_Beginner_HankyMueller= 
   A Gift From the Stars
@@ -484,7 +484,7 @@ StrawberryJam2021_1_Beginner_HankyMueller_collabcredits=
   Стикер:{# 2a2a2a} fionwe{#}
   Декорации:{# 2a2a2a} HankyMueller, Worldwaker2{#}
   Текст:{# 2a2a2a} Worldwaker2{#}
-  Плейтесты:{# 2a2a2a} Banana23, Blaxicano55,
+  Плейтест:{# 2a2a2a} Banana23, Blaxicano55,
   guiterlherme, Lephusian, Real Hojo, Wander{#}
   Капитан:{# 2a2a2a} Worldwaker2{#}
 
@@ -497,7 +497,7 @@ StrawberryJam2021_1_Beginner_hyperlife_collabcredits=
   Геймплей:{# 2a2a2a} Hyperlife, Quinnigan{#}
   Музыка:{# 2a2a2a} Hyperlife{#}
   Стикер:{# 2a2a2a} Polythesia{#}
-  Плейтесты:{# 2a2a2a} ABuffZucchini, mmm, MousseMoose, Real Hojo{#}
+  Плейтест:{# 2a2a2a} ABuffZucchini, mmm, MousseMoose, Real Hojo{#}
   
 StrawberryJam2021_1_Beginner_Jadeturtle=
   Strawberry Orchard
@@ -508,7 +508,7 @@ StrawberryJam2021_1_Beginner_Jadeturtle_collabcredits=
   Музыка:{# 2a2a2a} Thegur90, Tillotman{#}
   Стикер:{# 2a2a2a} fionwe{#}
   Декорации:{# 2a2a2a} Bissy, Jadeturtle{#}
-  Плейтесты:{# 2a2a2a} Coffe, Calamay,
+  Плейтест:{# 2a2a2a} Coffe, Calamay,
   Quinnigan, Real Hojo, Worldwaker2{#}
   
 StrawberryJam2021_1_Beginner_Joltik=
@@ -519,7 +519,7 @@ StrawberryJam2021_1_Beginner_Joltik_collabcredits=
   Спрайты:{# 2a2a2a} Bissy, kat{#}
   Музыка:{# 2a2a2a} Helen{#}
   Стикер:{# 2a2a2a} nerferd_{#}
-  Плейтесты:{# 2a2a2a} ABuffZucchini, lephusian,
+  Плейтест:{# 2a2a2a} ABuffZucchini, lephusian,
   metagloria, Real Hojo, Wander{#}
   Капитан:{# 2a2a2a} Quinnigan{#}
 
@@ -535,7 +535,7 @@ StrawberryJam2021_1_Beginner_mosscairn_collabcredits=
   Декорации:{# 2a2a2a} Gamation, mosscairn, Worldwaker2{#}
   Камера:{# 2a2a2a} Worldwaker2{#}
   Текст:{# 2a2a2a} mosscairn, Worldwaker2{#}
-  Плейтесты:{# 2a2a2a} bryse0n, Owen Shirrell, Real Hojo, Teo, Wander{#}
+  Плейтест:{# 2a2a2a} bryse0n, Owen Shirrell, Real Hojo, Teo, Wander{#}
   Капитан:{# 2a2a2a} Quinnigan{#}
   Отдельная Благодарность:{# 2a2a2a} Bissy, Owen Shirrell, Worldwaker2{#}
   
@@ -548,7 +548,7 @@ StrawberryJam2021_1_Beginner_NotYourBadeline_collabcredits=
   Музыка:{# 2a2a2a} Tillotman{#}
   Стикер:{# 2a2a2a} nerferd_{#}
   Декорации:{# 2a2a2a} NotYourBadeline{#}
-  Плейтесты:{# 2a2a2a} ABuffZucchini, Banana 23, Bissy,
+  Плейтест:{# 2a2a2a} ABuffZucchini, Banana 23, Bissy,
   Nyan, Quinnigan, Quirren, Scroogle{#}
   Капитан:{# 2a2a2a} Bissy{#}
 
@@ -576,7 +576,7 @@ StrawberryJam2021_1_Beginner_Quinnigan_collabcredits=
   Музыка:{# 2a2a2a} BeanJammin{#}
   Стикер:{# 2a2a2a} Polythesia{#}
   Декорации:{# 2a2a2a} Coffe{#}
-  Плейтесты:{# 2a2a2a} Jolly, Real Hojo, Wander{#}
+  Плейтест:{# 2a2a2a} Jolly, Real Hojo, Wander{#}
 
 StrawberryJam2021_1_Beginner_Skeleton=
   Treehive
@@ -592,7 +592,7 @@ StrawberryJam2021_1_Beginner_Skeleton_collabcredits=
   Стикер:{# 2a2a2a} Elsira{#}
   Декорации:{# 2a2a2a} Earthwise{#}
   Камера:{# 2a2a2a} Bissy, Earthwise{#}
-  Плейтесты:{# 2a2a2a} Real Hojo{#}
+  Плейтест:{# 2a2a2a} Real Hojo{#}
 
 StrawberryJam2021_1_Beginner_snas=
   The Squeeze
@@ -604,7 +604,7 @@ StrawberryJam2021_1_Beginner_snas_collabcredits=
   Стикер:{# 2a2a2a} Phrog{#}
   Декорации:{# 2a2a2a} Ru{#}
   Камера:{# 2a2a2a} Coffe, Earthwise{#}
-  Плейтесты:{# 2a2a2a} Arphi, MaxSchnell43, OkNano, Real Hojo{#}
+  Плейтест:{# 2a2a2a} Arphi, MaxSchnell43, OkNano, Real Hojo{#}
 
 StrawberryJam2021_1_Beginner_voliver9=
   Coresaken City
@@ -615,7 +615,7 @@ StrawberryJam2021_1_Beginner_voliver9_collabcredits=
   Геймплей:{# 2a2a2a} voliver9, Meario{#}
   Стикер:{# 2a2a2a} Limit{#}
   Декорации:{# 2a2a2a} Phrog{#}
-  Плейтесты:{# 2a2a2a} Lollyde, mmm, Real Hojo, subbed74{#}
+  Плейтест:{# 2a2a2a} Lollyde, mmm, Real Hojo, subbed74{#}
   Капитаны:{# 2a2a2a} Bissy, Quinnigan{#}
 
 StrawberryJam2021_1_Beginner_ZZ_Heartside_postcard=
@@ -638,7 +638,7 @@ StrawberryJam2021_2_Intermediate_arphimigon_collabcredits=
   Музыка:{# 2a2a2a} Ogino{#}
   Стикер:{# 2a2a2a} TyKim{#}
   Декорации:{# 2a2a2a} Phrog{#}
-  Плейтесты:{# 2a2a2a} ABuffZucchini, Cactus,
+  Плейтест:{# 2a2a2a} ABuffZucchini, Cactus,
   EllaTAS, Nano{#}
   Капитан:{# 2a2a2a} frozenflygone{#}
 
@@ -654,7 +654,7 @@ StrawberryJam2021_2_Intermediate_bryse0n_collabcredits=
   Музыка:{# 2a2a2a} Circl3s{#}
   Стикер:{# 2a2a2a} the_gb{#}
   Декорации:{# 2a2a2a} bryse0n, HankyMueller{#}
-  Плейтесты:{# 2a2a2a} Metaforever, MousseMoose,
+  Плейтест:{# 2a2a2a} Metaforever, MousseMoose,
   Owen Shirrell, SergeantSnivy, TiltTheStars, Worldwaker2{#}
   Капитан:{# 2a2a2a} Scroogle{#}
 
@@ -672,7 +672,7 @@ StrawberryJam2021_2_Intermediate_Dooshii_collabcredits=
   Декорации:{# 2a2a2a} BossSauce, Dooshii{#}
   Камера:{# 2a2a2a} Vamp{#}
   Текст:{# 2a2a2a} BossSauce, bryse0n{#}
-  Плейтесты:{# 2a2a2a} Calamay, Owen Shirrell,
+  Плейтест:{# 2a2a2a} Calamay, Owen Shirrell,
   Rocketguy2, Scroogle, YaGrillRoborb{#}
   Капитаны:{# 2a2a2a} Cookie Monster, Rocketguy2{#}
 
@@ -686,7 +686,7 @@ StrawberryJam2021_2_Intermediate_Emik_collabcredits=
   Музыка:{# 2a2a2a} Enitoni (a.k.a. Northern Winds){#}
   Стикер:{# 2a2a2a} Polythesia{#}
   Декорации:{# 2a2a2a} BossSauce{#}
-  Плейтесты:{# 2a2a2a} Matherubik1, Scroogle, Silzan, tobyaaa{#}
+  Плейтест:{# 2a2a2a} Matherubik1, Scroogle, Silzan, tobyaaa{#}
   Отдельная Благодарность:{# 2a2a2a} Scroogle{#}
 
 StrawberryJam2021_2_Intermediate_Evilleafy=
@@ -698,7 +698,7 @@ StrawberryJam2021_2_Intermediate_Evilleafy_collabcredits=
   Музыка:{# 2a2a2a} KareemSaysHi{#}
   Стикер:{# 2a2a2a} kat{#}
   Декорации:{# 2a2a2a} Nyan{#}
-  Плейтесты:{# 2a2a2a} Guitar L. Herme, Jolly,
+  Плейтест:{# 2a2a2a} Guitar L. Herme, Jolly,
   ThallionDarkshine, Worldwaker2{#}
   Капитан:{# 2a2a2a} Rocketguy2{#}
 
@@ -710,7 +710,7 @@ StrawberryJam2021_2_Intermediate_Ezel_collabcredits=
   Код:{# 2a2a2a} maddie480{#}
   Музыка:{# 2a2a2a} Rikri{#}
   Стикер:{# 2a2a2a} Phrog{#}
-  Плейтесты:{# 2a2a2a} frozenflygone,
+  Плейтест:{# 2a2a2a} frozenflygone,
   Salrei's Hope, SergeantSnivy, tobyaaa{#}
   Капитан:{# 2a2a2a} Scroogle{#}
   
@@ -724,7 +724,7 @@ StrawberryJam2021_2_Intermediate_GlowWoomii_collabcredits=
   Музыка:{# 2a2a2a} Thegur90{#}
   Стикер:{# 2a2a2a} the_gb{#}
   Декорации:{# 2a2a2a} Jadeturtle, Scroogle, Yoshachobi7{#}
-  Плейтесты:{# 2a2a2a} Ema, Jolly, ThallionDarkshine{#}
+  Плейтест:{# 2a2a2a} Ema, Jolly, ThallionDarkshine{#}
   Капитан:{# 2a2a2a} Scroogle{#}
   Отдельная Благодарность:{# 2a2a2a} caeyo, IsaGoodFriend{#}
 
@@ -751,7 +751,7 @@ StrawberryJam2021_2_Intermediate_Jems_collabcredits=
   Музыка:{# 2a2a2a} Alisticious{#}
   Стикер:{# 2a2a2a} the_gb{#}
   Декорации:{# 2a2a2a} Coffe{#}
-  Плейтесты:{# 2a2a2a} carrarium{#}
+  Плейтест:{# 2a2a2a} carrarium{#}
   Капитаны:{# 2a2a2a} Bissy, Coffe, Scroogle{#}
 
 StrawberryJam2021_2_Intermediate_LegS=
@@ -765,7 +765,7 @@ StrawberryJam2021_2_Intermediate_LegS_collabcredits=
   Стикер:{# 2a2a2a} nerferd_{#}
   Декорации:{# 2a2a2a} LegS, Liero, PowerAV, Ru, Butcherberries{#}
   Камера:{# 2a2a2a} Bissy, Ru, Worldwaker2{#}
-  Плейтесты:{# 2a2a2a} Ema, Metaforever, Alisticious, Butcherberries,
+  Плейтест:{# 2a2a2a} Ema, Metaforever, Alisticious, Butcherberries,
   Eeva, Real Hojo, Ru, Scroogle, TiltTheStars, Xplosives{#}
   Капитан:{# 2a2a2a} frozenflygone, Scroogle{#}
   Отдельная Благодарность:{# 2a2a2a} Bissy, Cabob, eeny corner,
@@ -790,7 +790,7 @@ StrawberryJam2021_2_Intermediate_Luma_collabcredits=
   Музыка:{# 2a2a2a} Stycky_keys{#}
   Стикер:{# 2a2a2a} Polythesia{#}
   Камера:{# 2a2a2a} Bissy{#}
-  Плейтесты:{# 2a2a2a} Bissy, MousseMoose,
+  Плейтест:{# 2a2a2a} Bissy, MousseMoose,
   Salrei's Hope, Worldwaker2{#}
   Капитан:{# 2a2a2a} Scroogle{#}
   
@@ -803,7 +803,7 @@ StrawberryJam2021_2_Intermediate_marlin_collabcredits=
   Спрайты:{# 2a2a2a} pixelator, TiltTheStars{#}
   Музыка:{# 2a2a2a} Gix{#}
   Стикер:{# 2a2a2a} M1n3c4rt{#}
-  Плейтесты:{# 2a2a2a} billy bobby joey, Emmabelotti{#}
+  Плейтест:{# 2a2a2a} billy bobby joey, Emmabelotti{#}
   Капитан:{# 2a2a2a} frozenflygone{#}
   Отдельная Благодарность:{# 2a2a2a} Scroogle{#}
 
@@ -814,7 +814,7 @@ StrawberryJam2021_2_Intermediate_pixelator_author=
 StrawberryJam2021_2_Intermediate_pixelator_collabcredits=
   Музыка:{# 2a2a2a} Allison Fleischer{#}
   Стикер:{# 2a2a2a} vexastrae{#}
-  Плейтесты:{# 2a2a2a} Metagloria, Thomasdb05{#}
+  Плейтест:{# 2a2a2a} Metagloria, Thomasdb05{#}
   Капитан:{# 2a2a2a} Scroogle{#}
 
 StrawberryJam2021_2_Intermediate_Rocketguy2=
@@ -827,7 +827,7 @@ StrawberryJam2021_2_Intermediate_Rocketguy2_collabcredits=
   Музыка:{# 2a2a2a} Tinyswamp{#}
   Стикер:{# 2a2a2a} Limit{#}
   Декорации:{# 2a2a2a} Nyan{#}
-  Плейтесты:{# 2a2a2a} BeanJammin, LegS,
+  Плейтест:{# 2a2a2a} BeanJammin, LegS,
   Salrei's Hope, SergeantSnivy{#}
   
 StrawberryJam2021_2_Intermediate_SpoopySoup=
@@ -851,7 +851,7 @@ StrawberryJam2021_2_Intermediate_thebreadstick1_collabcredits=
   Музыка:{# 2a2a2a} Wangled Teb{#}
   Стикер:{# 2a2a2a} Polythesia{#}
   Камера:{# 2a2a2a} Moladan{#}
-  Плейтесты:{# 2a2a2a} Cactus, Metaforever, mmm{#}
+  Плейтест:{# 2a2a2a} Cactus, Metaforever, mmm{#}
   Капитан:{# 2a2a2a} Rocketguy2{#}
 
 StrawberryJam2021_2_Intermediate_vitellary=
@@ -865,7 +865,7 @@ StrawberryJam2021_2_Intermediate_vitellary_collabcredits=
   Звуковые Эффекты:{# 2a2a2a} catapillie{#}
   Стикер:{# 2a2a2a} Phrog{#}
   Декорации:{# 2a2a2a} tobyaaa, vitellary{#}
-  Плейтесты:{# 2a2a2a} MousseMoose, SergeantSnivy{#}
+  Плейтест:{# 2a2a2a} MousseMoose, SergeantSnivy{#}
   
 StrawberryJam2021_2_Intermediate_ZZ_Heartside_postcard=
   Убедитесь, что задрежитесь и посмотрите на {#d1b52e}{~}светлячков{~}{#}!
@@ -888,7 +888,7 @@ StrawberryJam2021_3_Advanced_astraxel_collabcredits=
   Музыка:{# 2a2a2a} Intikus{#}
   Стикер:{# 2a2a2a} kat{#}
   Декорации:{# 2a2a2a} BossSauce{#}
-  Плейтесты:{# 2a2a2a} AdvancedStew, 
+  Плейтест:{# 2a2a2a} AdvancedStew, 
   MindfulOfTacos, Worldwaker2{#}
   Капитаны:{# 2a2a2a} Aiden, Holly, Oppen_heimer,
   Rocketguy2, Scroogle, vitellary, Worldwaker2{#}
@@ -901,7 +901,7 @@ StrawberryJam2021_3_Advanced_BlueXans_collabcredits=
   Музыка:{# 2a2a2a} Ceph{#}
   Стикер:{# 2a2a2a} fionwe{#}
   Декорации:{# 2a2a2a} PowerAV{#}
-  Плейтесты:{# 2a2a2a} billy bobby joey, Pedrocrb{#}
+  Плейтест:{# 2a2a2a} billy bobby joey, Pedrocrb{#}
   Капитан:{# 2a2a2a} PugRoy{#}
   
 StrawberryJam2021_3_Advanced_Citrea=
@@ -915,7 +915,7 @@ StrawberryJam2021_3_Advanced_Citrea_collabcredits=
   Стикер:{# 2a2a2a} citrea{#}
   Декорации:{# 2a2a2a} citrea, ren{#}
   Камера:{# 2a2a2a} Aiden, Worldwaker2{#}
-  Плейтесты:{# 2a2a2a} Elrupio, Teo{#}
+  Плейтест:{# 2a2a2a} Elrupio, Teo{#}
   Капитан:{# 2a2a2a} Aiden{#}
   Отдельная Благодарность:{# 2a2a2a} Oppen_heimer, Worldwaker2{#}
 
@@ -930,7 +930,7 @@ StrawberryJam2021_3_Advanced_galaksyz_collabcredits=
   Музыка:{# 2a2a2a} Gala{#}
   Стикер:{# 2a2a2a} nerferd_{#}
   Декорации:{# 2a2a2a} BossSauce{#}
-  Плейтесты:{# 2a2a2a} AdvancedStew, Calamay,
+  Плейтест:{# 2a2a2a} AdvancedStew, Calamay,
   LegS, MindfulOfTacos
 
 StrawberryJam2021_3_Advanced_Goldian=
@@ -945,7 +945,7 @@ StrawberryJam2021_3_Advanced_Goldian_collabcredits=
   Музыка:{# 2a2a2a} Ceph{#}
   Стикер:{# 2a2a2a} Polythesia{#}
   Декорации:{# 2a2a2a} Worldwaker2, xolimono{#}
-  Плейтесты:{# 2a2a2a} Bean, Butcherberries, LegS, Nyan, xolimono{#}
+  Плейтест:{# 2a2a2a} Bean, Butcherberries, LegS, Nyan, xolimono{#}
   Капитаны:{# 2a2a2a} Aiden, Worldwaker2{#}
   Отдельная Благодарность:{# 2a2a2a} Aiden, Worldwaker2, xolimono{#}
 
@@ -958,7 +958,7 @@ StrawberryJam2021_3_Advanced_hennyburgr_collabcredits=
   Спрайты:{# 2a2a2a} Nikko, PowerAV, SchaapMakker, snolls{#}
   Музыка:{# 2a2a2a} Hurraypril{#}
   Стикер:{# 2a2a2a} Phrog{#}
-  Плейтесты:{# 2a2a2a} Bean, Nyan{#}
+  Плейтест:{# 2a2a2a} Bean, Nyan{#}
   Капитан:{# 2a2a2a} PugRoy{#}
       
 StrawberryJam2021_3_Advanced_Indecx=
@@ -968,7 +968,7 @@ StrawberryJam2021_3_Advanced_Indecx_author=
 StrawberryJam2021_3_Advanced_Indecx_collabcredits=
   Музыка:{# 2a2a2a} OriginalKyle{#}
   Стикер:{# 2a2a2a} Phrog{#}
-  Плейтесты:{# 2a2a2a} Bean, leBookcase,
+  Плейтест:{# 2a2a2a} Bean, leBookcase,
   Nyan, Worldwaker2{#}
   
 StrawberryJam2021_3_Advanced_JANisEXIST=
@@ -980,7 +980,7 @@ StrawberryJam2021_3_Advanced_JANisEXIST_collabcredits=
   Музыка:{# 2a2a2a} Sonar{#}
   Стикер:{# 2a2a2a} Phrog{#}
   Декорации:{# 2a2a2a} PowerAV{#}
-  Плейтесты:{# 2a2a2a} AC, Worldwaker2{#}
+  Плейтест:{# 2a2a2a} AC, Worldwaker2{#}
   Капитан:{# 2a2a2a} Aiden{#}
 
 StrawberryJam2021_3_Advanced_Jolly=
@@ -997,7 +997,7 @@ StrawberryJam2021_3_Advanced_Jolly_collabcredits=
   Стикер:{# 2a2a2a} citrea{#}
   Декорации:{# 2a2a2a} Earthwise, MousseMoose,
   Phrog, PowerAV{#}
-  Плейтесты:{# 2a2a2a} MaxSchnell43, Owen Shirrell,
+  Плейтест:{# 2a2a2a} MaxSchnell43, Owen Shirrell,
   SergeantSnivy, SpiritDragon{#}
   Капитан:{# 2a2a2a} Oppen_heimer{#}
 
@@ -1012,7 +1012,7 @@ StrawberryJam2021_3_Advanced_Julia_collabcredits=
   Стикер:{# 2a2a2a} Polythesia{#}
   Декорации:{# 2a2a2a} Lyra{#}
   Текст:{# 2a2a2a} JustJulia, Worldwaker2{#}
-  Плейтесты:{# 2a2a2a} bryse0n, SpiritDragon,
+  Плейтест:{# 2a2a2a} bryse0n, SpiritDragon,
   Teo, Worldwaker2{#}
   Капитан:{# 2a2a2a} Aiden{#}
   
@@ -1026,7 +1026,7 @@ StrawberryJam2021_3_Advanced_Maladroit_collabcredits=
   Музыка:{# 2a2a2a} Maladroit{#}
   Стикер:{# 2a2a2a} phant{#}
   Декорации:{# 2a2a2a} Maladroit, bryse0n, Worldwaker2{#}
-  Плейтесты:{# 2a2a2a} Cabob, Gamation, Kube,
+  Плейтест:{# 2a2a2a} Cabob, Gamation, Kube,
   MaxSchnell43, SergeantSnivy, squang8{#}
   Капитаны:{# 2a2a2a} Evermar, Oppen_heimer{#}
   
@@ -1041,7 +1041,7 @@ StrawberryJam2021_3_Advanced_Meario_collabcredits=
   Стикер:{# 2a2a2a} Polythesia{#}
   Декорации:{# 2a2a2a} BossSauce{#}
   Камера:{# 2a2a2a} Aiden, Oppen_heimer{#}
-  Плейтесты:{# 2a2a2a} Oppen_heimer, squang8, Teo{#}
+  Плейтест:{# 2a2a2a} Oppen_heimer, squang8, Teo{#}
   Капитаны:{# 2a2a2a} Aiden, Oppen_heimer, PugRoy{#}
   
 StrawberryJam2021_3_Advanced_MousseMoose= 
@@ -1052,7 +1052,7 @@ StrawberryJam2021_3_Advanced_MousseMoose_collabcredits=
   Код:{# 2a2a2a} catapillie, maddie480, Vexatos{#}
   Музыка:{# 2a2a2a} Minecire, MousseMoose{#}
   Стикер:{# 2a2a2a} Elsira{#}
-  Плейтесты:{# 2a2a2a} MaxSchnell43, SpiritDragon{#}
+  Плейтест:{# 2a2a2a} MaxSchnell43, SpiritDragon{#}
   Капитан:{# 2a2a2a} Oppen_heimer{#}
   Отдельная Благодарность:{# 2a2a2a} Aiden{#}
       
@@ -1067,7 +1067,7 @@ StrawberryJam2021_3_Advanced_mmm_collabcredits=
   Музыка:{# 2a2a2a} Alisticious{#}
   Стикер:{# 2a2a2a} Polythesia{#}
   Декорации:{# 2a2a2a} mmm, MousseMoose, Worldwaker2{#}
-  Плейтесты:{# 2a2a2a} Elrupio, Lollyde{#}
+  Плейтест:{# 2a2a2a} Elrupio, Lollyde{#}
   Капитан:{# 2a2a2a} Oppen_heimer{#}
 
 StrawberryJam2021_3_Advanced_Nic=
@@ -1077,7 +1077,7 @@ StrawberryJam2021_3_Advanced_Nic_author=
 StrawberryJam2021_3_Advanced_Nic_collabcredits=
   Музыка:{# 2a2a2a} Bipmo Bopmo{#}
   Стикер:{# 2a2a2a} Nic{#}
-  Плейтесты:{# 2a2a2a} Calamay, Lollyde{#}
+  Плейтест:{# 2a2a2a} Calamay, Lollyde{#}
   Капитан:{# 2a2a2a} Oppen_heimer{#}
   Отдельная Благодарность:{# 2a2a2a} globglogabgalab, Holly,
   maddie480, RealZeb{#}
@@ -1094,7 +1094,7 @@ StrawberryJam2021_3_Advanced_Oppen_collabcredits=
   Декорации:{# 2a2a2a} Oppen_heimer, Worldwaker2,
   Yoshachobi7{#}
   Камера:{# 2a2a2a} Worldwaker2{#}
-  Плейтесты:{# 2a2a2a} MousseMoose, Worldwaker2,
+  Плейтест:{# 2a2a2a} MousseMoose, Worldwaker2,
   Scroogle, Aiden, Viv{#}
   
 StrawberryJam2021_3_Advanced_pugroy=
@@ -1108,14 +1108,14 @@ StrawberryJam2021_3_Advanced_pugroy_collabcredits=
   Музыка:{# 2a2a2a} Thegur90{#}
   Стикер:{# 2a2a2a} citrea{#}
   Декорации:{# 2a2a2a} Worldwaker2{#}
-  Плейтесты:{# 2a2a2a} bryse0n, MaxSchnell43,
+  Плейтест:{# 2a2a2a} bryse0n, MaxSchnell43,
   Pedrocrb, SpiritDragon, Soloiini{#}
   Отдельная Благодарность:{# 2a2a2a} TiltTheStars{#}
 
 StrawberryJam2021_3_Advanced_RadleyMcTuneston=
   The Lab
 StrawberryJam2021_3_Advanced_RadleyMcTuneston_author=
-  от RadleyMcTuneston & more
+  от RadleyMcTuneston и других
 StrawberryJam2021_3_Advanced_RadleyMcTuneston_collabcredits=
   Концепт:{# 2a2a2a} RadleyMcTuneston{#}
   Геймплей:{# 2a2a2a} RadleyMcTuneston, citrea,
@@ -1128,7 +1128,7 @@ StrawberryJam2021_3_Advanced_RadleyMcTuneston_collabcredits=
   Звуковые Эффекты:{# 2a2a2a} Kataiser{#}
   Стикер:{# 2a2a2a} Phrog{#}
   Декорации:{# 2a2a2a} citrea, Worldwaker2{#}
-  Плейтесты:{# 2a2a2a} Kataiser{#}
+  Плейтест:{# 2a2a2a} Kataiser{#}
   
 StrawberryJam2021_3_Advanced_sp1029=
   Thinking with Portals
@@ -1140,7 +1140,7 @@ StrawberryJam2021_3_Advanced_sp1029_collabcredits=
   Музыка:{# 2a2a2a} Hurraypril{#}
   Стикер:{# 2a2a2a} the_gb{#}
   Декорации:{# 2a2a2a} Ezel, PowerAV, valkyria{#}
-  Плейтесты:{# 2a2a2a} metagloria, Thomasdb05{#}
+  Плейтест:{# 2a2a2a} metagloria, Thomasdb05{#}
   Капитаны:{# 2a2a2a} Evermar, Oppen_heimer{#}
 
 StrawberryJam2021_3_Advanced_TiltTheStars=
@@ -1157,7 +1157,7 @@ StrawberryJam2021_3_Advanced_TiltTheStars_collabcredits=
   Стикер:{# 2a2a2a} kat{#}
   Декорации:{# 2a2a2a} Aiden, Helen{#}
   Камера:{# 2a2a2a} Moladan, Worldwaker2{#}
-  Плейтесты:{# 2a2a2a} elrupio, Lollyde, Worldwaker2{#}
+  Плейтест:{# 2a2a2a} elrupio, Lollyde, Worldwaker2{#}
 
 StrawberryJam2021_3_Advanced_Tortoise=
   Java's Crypt
@@ -1168,7 +1168,7 @@ StrawberryJam2021_3_Advanced_Tortoise_collabcredits=
   Спрайты:{# 2a2a2a} Circumplex, Tortoise{#}
   Музыка:{# 2a2a2a} Tortoise{#}
   Стикер:{# 2a2a2a} kat{#}
-  Плейтесты:{# 2a2a2a} Blaxicano55,
+  Плейтест:{# 2a2a2a} Blaxicano55,
   Oppen_heimer, Squang8{#}
 
 StrawberryJam2021_3_Advanced_Roborb=
@@ -1182,7 +1182,7 @@ StrawberryJam2021_3_Advanced_Roborb_collabcredits=
   Музыка:{# 2a2a2a} Sonar, Tillotman, TyKim{#}
   Стикер:{# 2a2a2a} nerferd_{#}
   Декорации:{# 2a2a2a} Aiden, Oppen_heimer{#}
-  Плейтесты:{# 2a2a2a} Bean, Blaxicano55, Aiden{#}
+  Плейтест:{# 2a2a2a} Bean, Blaxicano55, Aiden{#}
   Капитан:{# 2a2a2a} Aiden{#}
   
 StrawberryJam2021_3_Advanced_Vamp=
@@ -1196,7 +1196,7 @@ StrawberryJam2021_3_Advanced_Vamp_collabcredits=
   Стикер:{# 2a2a2a} Polythesia{#}
   Декорации:{# 2a2a2a} Phrog{#}
   Камера:{# 2a2a2a} Vamp, Worldwaker2{#}
-  Плейтесты:{# 2a2a2a} Kataiser, metagloria,
+  Плейтест:{# 2a2a2a} Kataiser, metagloria,
   MindfulOfTacos, YaGrillRoborb{#}
   Отдельная Благодарность:{# 2a2a2a} Scroogle{#}
 
@@ -1208,7 +1208,7 @@ StrawberryJam2021_3_Advanced_Viv_collabcredits=
   Код:{# 2a2a2a} maddie480, Viv{#}
   Стикер:{# 2a2a2a} Polythesia{#}
   Декорации:{# 2a2a2a} BossSauce{#}
-  Плейтесты:{# 2a2a2a} Citrea, Ezel,
+  Плейтест:{# 2a2a2a} Citrea, Ezel,
   Frozenflygone{#}
   Капитан:{# 2a2a2a} Worldwaker2{#}
 
@@ -1223,7 +1223,7 @@ StrawberryJam2021_3_Advanced_Worldwaker2_collabcredits=
   Музыка:{# 2a2a2a} BeanJammin{#}
   Стикер:{# 2a2a2a} kat{#}
   Декорации:{# 2a2a2a} kat, Worldwaker2{#}
-  Плейтесты:{# 2a2a2a} AC, Agent, BeanJammin, Bryse0n,
+  Плейтест:{# 2a2a2a} AC, Agent, BeanJammin, Bryse0n,
   Blaxicano55, fonda1515, LegS, MousseMoose,
   Owen Shirrell, Teo, TiltTheStars{#}
   Капитаны:{# 2a2a2a} Aiden, Oppen_heimer, RealZeb{#}
@@ -1251,7 +1251,7 @@ StrawberryJam2021_4_Expert_Agent_collabcredits=
   Стикер:{# 2a2a2a} fionwe{#}
   Декорации:{# 2a2a2a} ABuffZucchini, PowerAV, Ru{#}
   Камера:{# 2a2a2a} Moladan{#}
-  Плейтесты:{# 2a2a2a} AC, Cabob, Ezel, fonda1515, Ru, Worldwaker2{#}
+  Плейтест:{# 2a2a2a} AC, Cabob, Ezel, fonda1515, Ru, Worldwaker2{#}
   Капитан:{# 2a2a2a} Ru{#}
   Отдельная Благодарность:{# 2a2a2a} RealZeb{#}
 
@@ -1263,7 +1263,7 @@ StrawberryJam2021_4_Expert_alicequasar_collabcredits=
   Музыка:{# 2a2a2a} Nikko{#}
   Стикер:{# 2a2a2a} the_gb{#}
   Камера:{# 2a2a2a} Moladan{#}
-  Плейтесты:{# 2a2a2a} FireLord, h3chgch3{#}
+  Плейтест:{# 2a2a2a} FireLord, h3chgch3{#}
   Капитан:{# 2a2a2a} Cabob{#}
 
 StrawberryJam2021_4_Expert_Appels=
@@ -1276,7 +1276,7 @@ StrawberryJam2021_4_Expert_Appels_collabcredits=
   PowerAV, the_gb, Vexastrae{#}
   Музыка:{# 2a2a2a} JemyJemy{#}
   Стикер:{# 2a2a2a} the_gb{#}
-  Плейтесты:{# 2a2a2a} Nearl, Ru, Snolls{#}
+  Плейтест:{# 2a2a2a} Nearl, Ru, Snolls{#}
   Отдельная Благодарность:{# 2a2a2a} maddie480, tobyaaa{#}
   
 StrawberryJam2021_4_Expert_Archire=
@@ -1291,7 +1291,7 @@ StrawberryJam2021_4_Expert_Archire_collabcredits=
   Музыка:{# 2a2a2a} KAERRA{#}
   Стикер:{# 2a2a2a} Phrog{#}
   Декорации:{# 2a2a2a} ABuffZucchini, BossSauce, Ru{#}
-  Плейтесты:{# 2a2a2a} mattymacky, Owen Shirrell{#}
+  Плейтест:{# 2a2a2a} mattymacky, Owen Shirrell{#}
   Капитан:{# 2a2a2a} Cabob{#}
   
 StrawberryJam2021_4_Expert_Aspar=
@@ -1303,7 +1303,7 @@ StrawberryJam2021_4_Expert_Aspar_collabcredits=
   Музыка:{# 2a2a2a} Dbmaj7{#}
   Стикер:{# 2a2a2a} Elsira{#}
   Декорации:{# 2a2a2a} tobyaaa{#}
-  Плейтесты:{# 2a2a2a} Akie, snolls{#}
+  Плейтест:{# 2a2a2a} Akie, snolls{#}
   Отдельная Благодарность:{# 2a2a2a} nerferd_, Ru, valkyria{#}
 
 StrawberryJam2021_4_Expert_Banana23=
@@ -1314,7 +1314,7 @@ StrawberryJam2021_4_Expert_Banana23_collabcredits=
   Музыка:{# 2a2a2a} Alisticious{#}
   Стикер:{# 2a2a2a} Limit{#}
   Камера:{# 2a2a2a} Moladan{#}
-  Плейтесты:{# 2a2a2a} EricJ_Math, mattymacky{#}
+  Плейтест:{# 2a2a2a} EricJ_Math, mattymacky{#}
   Капитан:{# 2a2a2a} Jackal{#}
   
 StrawberryJam2021_4_Expert_Cabob=
@@ -1328,7 +1328,7 @@ StrawberryJam2021_4_Expert_Cabob_collabcredits=
   Звуковые Эффекты:{# 2a2a2a} Kataiser{#}
   Стикер:{# 2a2a2a} fionwe{#}
   Декорации:{# 2a2a2a} DanTKO, Soloiini{#}
-  Плейтесты:{# 2a2a2a} Bigkahuna, h3chgch3,
+  Плейтест:{# 2a2a2a} Bigkahuna, h3chgch3,
   Nearl, Owen Shirrell, Ru{#}
   Капитан:{# 2a2a2a} Ru{#}
 
@@ -1341,7 +1341,7 @@ StrawberryJam2021_4_Expert_DanTKO_collabcredits=
   Музыка:{# 2a2a2a} Mariocise{#}
   Стикер:{# 2a2a2a} TiltTheStars{#}
   Декорации:{# 2a2a2a} DanTKO, Worldwaker2{#}
-  Плейтесты:{# 2a2a2a} Cubix, Firelord{#}
+  Плейтест:{# 2a2a2a} Cubix, Firelord{#}
   Капитан:{# 2a2a2a} Cabob{#}
 
 StrawberryJam2021_4_Expert_Flamecrafter113=
@@ -1351,7 +1351,7 @@ StrawberryJam2021_4_Expert_Flamecrafter113_author=
 StrawberryJam2021_4_Expert_Flamecrafter113_collabcredits=
   Музыка:{# 2a2a2a} Tillotman{#}
   Стикер:{# 2a2a2a} Elsira{#}
-  Плейтесты:{# 2a2a2a} EricJ_Math, globglogabgalab{#}
+  Плейтест:{# 2a2a2a} EricJ_Math, globglogabgalab{#}
   Капитан:{# 2a2a2a} Jackal{#}
   
 StrawberryJam2021_4_Expert_fonda1515= 
@@ -1364,7 +1364,7 @@ StrawberryJam2021_4_Expert_fonda1515_collabcredits=
   Музыка:{# 2a2a2a} usuyus{#}
   Стикер:{# 2a2a2a} the_gb{#}
   Декорации:{# 2a2a2a} BossSauce{#}
-  Плейтесты:{# 2a2a2a} Firefox529, OwenProGolfer,
+  Плейтест:{# 2a2a2a} Firefox529, OwenProGolfer,
   Owen Shirrell, SSM24{#}
   Капитан:{# 2a2a2a} Ezel{#}
   Отдельная Благодарность:{# 2a2a2a} Firefox529{#}
@@ -1387,7 +1387,7 @@ StrawberryJam2021_4_Expert_itsabrody_author=
 StrawberryJam2021_4_Expert_itsabrody_collabcredits=
   Музыка:{# 2a2a2a} KAERRA{#}
   Стикер:{# 2a2a2a} fionwe{#}
-  Плейтесты:{# 2a2a2a} Firefox529
+  Плейтест:{# 2a2a2a} Firefox529
   
 StrawberryJam2021_4_Expert_Jackal=
   Hydroshock
@@ -1397,7 +1397,7 @@ StrawberryJam2021_4_Expert_Jackal_collabcredits=
   Доработка:{# 2a2a2a} Moladan{#}
   Музыка:{# 2a2a2a} Spike Chunsoft{#}
   Стикер:{# 2a2a2a} SpoopySoup{#}
-  Плейтесты:{# 2a2a2a} Ezel, Ru{#}
+  Плейтест:{# 2a2a2a} Ezel, Ru{#}
   
 StrawberryJam2021_4_Expert_KAERRA=
   FLOATING POINT
@@ -1407,7 +1407,7 @@ StrawberryJam2021_4_Expert_KAERRA_collabcredits=
   Стикер:{# 2a2a2a} Phrog{#}
   Декорации:{# 2a2a2a} AliceQuasar{#}
   Камера:{# 2a2a2a} Ezel{#}
-  Плейтесты:{# 2a2a2a} Akie, snolls{#}
+  Плейтест:{# 2a2a2a} Akie, snolls{#}
   
 StrawberryJam2021_4_Expert_LethargicDoggo=
   Storm Runner
@@ -1421,7 +1421,7 @@ StrawberryJam2021_4_Expert_LethargicDoggo_collabcredits=
   Стикер:{# 2a2a2a} nerferd_{#}
   Декорации:{# 2a2a2a} PowerAV{#}
   Камера:{# 2a2a2a} Ezel, Moladan{#}
-  Плейтесты:{# 2a2a2a} Firelord, Rin_Jagste{#}
+  Плейтест:{# 2a2a2a} Firelord, Rin_Jagste{#}
   Капитан:{# 2a2a2a} Cabob{#}
 
 StrawberryJam2021_4_Expert_Linj=
@@ -1443,7 +1443,7 @@ StrawberryJam2021_4_Expert_Moladan_collabcredits=
   Стикер:{# 2a2a2a} phant{#}
   Декорации:{# 2a2a2a} phant, Ru{#}
   Камера:{# 2a2a2a} Bissy{#}
-  Плейтесты:{# 2a2a2a} Firelord, mattymacky
+  Плейтест:{# 2a2a2a} Firelord, mattymacky
 
 StrawberryJam2021_4_Expert_Nyan=
   Subway Neon
@@ -1454,7 +1454,7 @@ StrawberryJam2021_4_Expert_Nyan_collabcredits=
   Музыка:{# 2a2a2a} Nikko{#}
   Стикер:{# 2a2a2a} Ekortsec{#}
   Декорации:{# 2a2a2a} Nyan{#}
-  Плейтесты:{# 2a2a2a} carrarium{#}
+  Плейтест:{# 2a2a2a} carrarium{#}
 
 StrawberryJam2021_4_Expert_pansear=
   Hypnagogia
@@ -1465,7 +1465,7 @@ StrawberryJam2021_4_Expert_pansear_collabcredits=
   Музыка:{# 2a2a2a} Reinhardt{#}
   Стикер:{# 2a2a2a} kat{#}
   Камера:{# 2a2a2a} Bissy, Ezel, Phrog, fonda1515{#}
-  Плейтесты:{# 2a2a2a} Spirity{#}
+  Плейтест:{# 2a2a2a} Spirity{#}
   Отдельная Благодарность:{# 2a2a2a} Ru, Zerex{#}
   
 StrawberryJam2021_4_Expert_powerav=
@@ -1478,7 +1478,7 @@ StrawberryJam2021_4_Expert_powerav_collabcredits=
   Музыка:{# 2a2a2a} Wangled Teb{#}
   Стикер:{# 2a2a2a} phant{#}
   Камера:{# 2a2a2a} Moladan{#}
-  Плейтесты:{# 2a2a2a} Advanced Stew, fonda1515, Jolly, Ru{#}
+  Плейтест:{# 2a2a2a} Advanced Stew, fonda1515, Jolly, Ru{#}
   Капитан:{# 2a2a2a} Ru{#}
   
 StrawberryJam2021_4_Expert_QuantumSpaceman=
@@ -1491,7 +1491,7 @@ StrawberryJam2021_4_Expert_QuantumSpaceman_collabcredits=
   Музыка:{# 2a2a2a} HEHEHE I AM A SUPAHSTAR SAGA{#}
   Стикер:{# 2a2a2a} citrea{#}
   Декорации:{# 2a2a2a} BossSauce, phant{#}
-  Плейтесты:{# 2a2a2a} carrarium, Squang8{#}
+  Плейтест:{# 2a2a2a} carrarium, Squang8{#}
   Капитан:{# 2a2a2a} Aiden{#}
 
 StrawberryJam2021_4_Expert_rdoggo8=
@@ -1505,7 +1505,7 @@ StrawberryJam2021_4_Expert_rdoggo8_collabcredits=
   Стикер:{# 2a2a2a} nerferd_{#}
   Камера:{# 2a2a2a} Moladan, Soloiini{#}
   Текст:{# 2a2a2a} Nyan{#}
-  Плейтесты:{# 2a2a2a} AntiTerrestrial, Cabob, Chiinox,
+  Плейтест:{# 2a2a2a} AntiTerrestrial, Cabob, Chiinox,
   LegS, snolls, Soloiini{#}
   Капитан:{# 2a2a2a} Ezel{#}
   Отдельная Благодарность:{# 2a2a2a} Alisticious, Kube, Nyan{#}
@@ -1522,7 +1522,7 @@ StrawberryJam2021_4_Expert_RedBoule_collabcredits=
   Музыка:{# 2a2a2a} Aklast{#}
   Стикер:{# 2a2a2a} the_gb{#}
   Декорации:{# 2a2a2a} BossSauce, RedBoule{#}
-  Плейтесты:{# 2a2a2a} EricJ_Math, mattymacky, Ru{#}
+  Плейтест:{# 2a2a2a} EricJ_Math, mattymacky, Ru{#}
   Капитан:{# 2a2a2a} Ru{#}
   
 StrawberryJam2021_4_Expert_Scroogle= 
@@ -1534,7 +1534,7 @@ StrawberryJam2021_4_Expert_Scroogle_collabcredits=
   Музыка:{# 2a2a2a} BeanJammin, Jemy{#}
   Стикер:{# 2a2a2a} nerferd_{#}
   Декорации:{# 2a2a2a} Appels, Coffe, Scroogle{#}
-  Плейтесты:{# 2a2a2a} fonda1515, mattymacky,
+  Плейтест:{# 2a2a2a} fonda1515, mattymacky,
   Metaforever, Nearl, SSM, Worldwaker2{#}
   Капитан:{# 2a2a2a} Ezel{#}
   Отдельная Благодарность:{# 2a2a2a} bryse0n, Intrigued{#}
@@ -1547,7 +1547,7 @@ StrawberryJam2021_4_Expert_Skunkynator_collabcredits=
   Код:{# 2a2a2a} Bigkahuna, Skunkynator{#}
   Музыка:{# 2a2a2a} Wangled Teb{#}
   Стикер:{# 2a2a2a} the_gb{#}
-  Плейтесты:{# 2a2a2a} Cubix, Soloiini{#}
+  Плейтест:{# 2a2a2a} Cubix, Soloiini{#}
   Капитан:{# 2a2a2a} Ru{#}
     
 StrawberryJam2021_4_Expert_spirialis=
@@ -1557,7 +1557,7 @@ StrawberryJam2021_4_Expert_spirialis_author=
 StrawberryJam2021_4_Expert_spirialis_collabcredits=
   Музыка:{# 2a2a2a} Gix{#}
   Стикер:{# 2a2a2a} Polythesia{#}
-  Плейтесты:{# 2a2a2a} EricJ_Math, Firefox529{#}
+  Плейтест:{# 2a2a2a} EricJ_Math, Firefox529{#}
   Капитан:{# 2a2a2a} Cabob{#}
 
 StrawberryJam2021_4_Expert_Stotch=
@@ -1568,7 +1568,7 @@ StrawberryJam2021_4_Expert_Stotch_collabcredits=
   Музыка:{# 2a2a2a} KAERRA{#}
   Стикер:{# 2a2a2a} citrea{#}
   Декорации:{# 2a2a2a} AliceQuasar, eldritchdamsel{#}
-  Плейтесты:{# 2a2a2a} Firefox529, Quirren, Snolls{#}
+  Плейтест:{# 2a2a2a} Firefox529, Quirren, Snolls{#}
   Капитан:{# 2a2a2a} Jackal{#}
 
 StrawberryJam2021_4_Expert_Vina=
@@ -1583,7 +1583,7 @@ StrawberryJam2021_4_Expert_Vina_collabcredits=
   Звуковые Эффекты:{# 2a2a2a} catapillie{#}
   Стикер:{# 2a2a2a} the_gb{#}
   Камера:{# 2a2a2a} Moladan{#}
-  Плейтесты:{# 2a2a2a} Akie, FireLord, Gamation, Whiskeyjack{#}
+  Плейтест:{# 2a2a2a} Akie, FireLord, Gamation, Whiskeyjack{#}
   Капитан:{# 2a2a2a} Cabob{#}
   
 StrawberryJam2021_4_Expert_Yoshachobi7=
@@ -1594,7 +1594,7 @@ StrawberryJam2021_4_Expert_Yoshachobi7_collabcredits=
   Спрайты:{# 2a2a2a} Nikko{#}
   Музыка:{# 2a2a2a} Bipmo Bopmo{#}
   Стикер:{# 2a2a2a} kat{#}
-  Плейтесты:{# 2a2a2a} Agent, Firefox529, Firelord{#}
+  Плейтест:{# 2a2a2a} Agent, Firefox529, Firelord{#}
   Капитан:{# 2a2a2a} Cabob{#}
 
 StrawberryJam2021_4_Expert_ZZ_Heartside_postcard=
@@ -1619,7 +1619,7 @@ StrawberryJam2021_5_Grandmaster_alisticious_collabcredits=
   Стикер:{# 2a2a2a} citrea{#}
   Декорации:{# 2a2a2a} Coffe, Mnstrman06, PowerAV{#}
   Voice Acting:{# 2a2a2a} Rikri{#}
-  Плейтесты:{# 2a2a2a} AMBERLOVESARCHIE, Bananamath,
+  Плейтест:{# 2a2a2a} AMBERLOVESARCHIE, Bananamath,
   Ecl1psed, globglogabgalab, Habbedaz, Rin_Jagste{#}
   Капитан:{# 2a2a2a} DeathKontrol{#}
 
@@ -1634,7 +1634,7 @@ StrawberryJam2021_5_Grandmaster_CaptainCarpensir_collabcredits=
   Экран смерти:{# 2a2a2a} Vamp{#}
   Стикер:{# 2a2a2a} mintberry{#}
   Декорации:{# 2a2a2a} Aiden, Mnstrman06{#}
-  Плейтесты:{# 2a2a2a} DeathKontrol, Nearl{#}
+  Плейтест:{# 2a2a2a} DeathKontrol, Nearl{#}
   Капитан:{# 2a2a2a} DeathKontrol{#}
   Отдельная Благодарность:{# 2a2a2a} Rickfernello{#}
   
@@ -1651,7 +1651,7 @@ StrawberryJam2021_5_Grandmaster_Dav_collabcredits=
   Стикер:{# 2a2a2a} Elsira{#}
   Декорации:{# 2a2a2a} AliceQuasar, Nyan, Ru, valkyria{#}
   Камера:{# 2a2a2a} Ecl1psed, Gamation{#}
-  Плейтесты:{# 2a2a2a} Aeter, aleph_null, Bigkahuna,
+  Плейтест:{# 2a2a2a} Aeter, aleph_null, Bigkahuna,
   BossSauce, Cabob, Cubix, DeathKontrol, Gamation,
   Hydro, Nearl, Renatotheflowey, Topaz{#}
   Капитаны:{# 2a2a2a} Cyber, DeathKontrol, Etpio, Hydro, valkyria{#}
@@ -1664,7 +1664,7 @@ StrawberryJam2021_5_Grandmaster_DeathKontrol_author=
 StrawberryJam2021_5_Grandmaster_DeathKontrol_collabcredits=
   Код:{# 2a2a2a} Lollyde, Viv{#}
   Стикер:{# 2a2a2a} Polythesia{#}
-  Плейтесты:{# 2a2a2a} Ezel, Gamation, h3chgch3,
+  Плейтест:{# 2a2a2a} Ezel, Gamation, h3chgch3,
   Soloiini, VA2M, vorchi{#}
   
 StrawberryJam2021_5_Grandmaster_Ecl1psed=
@@ -1676,7 +1676,7 @@ StrawberryJam2021_5_Grandmaster_Ecl1psed_collabcredits=
   Музыка:{# 2a2a2a} Tortoise{#}
   Стикер:{# 2a2a2a} Elsira{#}
   Декорации:{# 2a2a2a} BossSauce, valkyria, xolimono{#}
-  Плейтесты:{# 2a2a2a} h3chgch3, Rin_Jagste{#}
+  Плейтест:{# 2a2a2a} h3chgch3, Rin_Jagste{#}
 
 StrawberryJam2021_5_Grandmaster_fishtank=
   74
@@ -1686,16 +1686,16 @@ StrawberryJam2021_5_Grandmaster_fishtank_collabcredits=
   Код:{# 2a2a2a} maddie480{#}
   Стикер:{# 2a2a2a} Phrog{#}
   Текст:{# 2a2a2a} fishtank, valkyria{#}
-  Плейтесты:{# 2a2a2a} Bigkahuna, BossSauce, Cabob,
+  Плейтест:{# 2a2a2a} Bigkahuna, BossSauce, Cabob,
   DeathKontrol, globglogabgalab, Theta{#}
   Капитан:{# 2a2a2a} valkyria{#}
   
 StrawberryJam2021_5_Grandmaster_Hydro=
   Shattersong
 StrawberryJam2021_5_Grandmaster_Hydro_postcard=
-  {big}Слушай внимательно:{/big}{n}Эта карта основана на {# 4a8ef7}музыкальном ритме{#}!{n}Рекомендуется играть в {# ca2e55}наушниках{#}.
+  {big}Слушай внимательно{/big}{n}Геймплей этой карты основан на {# 4a8ef7}музыкальном ритме{#}!{n}Рекомендуется играть в {# ca2e55}наушниках{#}.
 StrawberryJam2021_5_Grandmaster_Hydro_author=
-  от Hydro & more
+  от Hydro и других
 StrawberryJam2021_5_Grandmaster_Hydro_collabcredits=
   Концепт:{# 2a2a2a} Hydro{#}
   Геймплей:{# 2a2a2a} Aiden, Gamation, Hydro, quadratic97,
@@ -1708,7 +1708,7 @@ StrawberryJam2021_5_Grandmaster_Hydro_collabcredits=
   Стикер:{# 2a2a2a} citrea{#}
   Декорации:{# 2a2a2a} AliceQuasar, Gamation, Scroogle, valkyria, xolimono{#}
   Камера:{# 2a2a2a} Gamation{#}
-  Плейтесты:{# 2a2a2a} aleph_null, Alisticious, Asu, Butcherberries, Gamation, h3chgch3,
+  Плейтест:{# 2a2a2a} aleph_null, Alisticious, Asu, Butcherberries, Gamation, h3chgch3,
   leBookcase, LegS, quadratic97, Rin_Jagste, smoothee, Whiskeyjack{#}
   Input Transcription:{# 2a2a2a} Prime{#}
   Отдельная Благодарность:{# 2a2a2a} Gamation, Lizzie, quadratic97, TyKim, valkyria{#}
@@ -1721,7 +1721,7 @@ StrawberryJam2021_5_Grandmaster_Linj_collabcredits=
   Код:{# 2a2a2a} Cruor, Holly, Viv{#}
   Музыка:{# 2a2a2a} OriginalKyle{#}
   Стикер:{# 2a2a2a} Phrog{#}
-  Плейтесты:{# 2a2a2a} Soloiini, elio,
+  Плейтест:{# 2a2a2a} Soloiini, elio,
   Vexatos, ComputerBadger, BossSauce{#}
   Капитан:{# 2a2a2a} Hydro{#}
   Отдельная Благодарность:{# 2a2a2a} Ecl1psed,
@@ -1730,14 +1730,14 @@ StrawberryJam2021_5_Grandmaster_Linj_collabcredits=
 StrawberryJam2021_5_Grandmaster_math=
   summit
 StrawberryJam2021_5_Grandmaster_math_author=
-  от elio, Soloiini & more
+  от elio, Soloiini и других
 StrawberryJam2021_5_Grandmaster_math_collabcredits=
   Концепт:{# 2a2a2a} TheMathGuy{#}
   Геймплей:{# 2a2a2a} Aiden, Ecl1psed, elio,
   fishtank, Soloiini, TheMathGuy, valkyria{#}
   Стикер:{# 2a2a2a} the_gb{#}
   Декорации:{# 2a2a2a} Phrog, Soloiini, tobyaaa, valkyria{#}
-  Плейтесты:{# 2a2a2a} Gamation, leBookcase,
+  Плейтест:{# 2a2a2a} Gamation, leBookcase,
   Topaz, Whiskeyjack{#}
 
 StrawberryJam2021_5_Grandmaster_maya=
@@ -1750,7 +1750,7 @@ StrawberryJam2021_5_Grandmaster_maya_collabcredits=
   Звуковые Эффекты:{# 2a2a2a} Vexastrae{#}
   Стикер:{# 2a2a2a} kat{#}
   Камера:{# 2a2a2a} Gamation, Moladan{#}
-  Плейтесты:{# 2a2a2a} aleph_null, BossSauce, calypso,
+  Плейтест:{# 2a2a2a} aleph_null, BossSauce, calypso,
   Gamation, h3chgch3, Rin_Jagste, Topaz{#}
   Капитан:{# 2a2a2a} Hydro{#}
   
@@ -1764,7 +1764,7 @@ StrawberryJam2021_5_Grandmaster_RedBatNick_collabcredits=
   Музыка:{# 2a2a2a} BeanJammin{#}
   Стикер:{# 2a2a2a} Phrog{#}
   Декорации:{# 2a2a2a} Ru{#}
-  Плейтесты:{# 2a2a2a} DeathKontrol, elio,
+  Плейтест:{# 2a2a2a} DeathKontrol, elio,
   leBookcase, Nearl, Norah{#}
 
 StrawberryJam2021_5_Grandmaster_Soloiini=
@@ -1779,7 +1779,7 @@ StrawberryJam2021_5_Grandmaster_Soloiini_collabcredits=
   Стикер:{# 2a2a2a} the_gb{#}
   Visual Effects:{# 2a2a2a} valkyria{#}
   Текст:{# 2a2a2a} Soloiini, valkyria{#}
-  Плейтесты:{# 2a2a2a} 0dot006prcnts, aleph_null, BossSauce,
+  Плейтест:{# 2a2a2a} 0dot006prcnts, aleph_null, BossSauce,
   Ecl1psed, Fraz, Gamation, globglogabgalab,
   leBookcase, Rin_Jagste, smoothee, Topaz, VA2M{#}
   Отдельная Благодарность:{# 2a2a2a} Bissy, Etpio, Hydro, valkyria{#}
@@ -1795,7 +1795,7 @@ StrawberryJam2021_5_Grandmaster_tcookiem_collabcredits=
   Музыка:{# 2a2a2a} Teo{#}
   Стикер:{# 2a2a2a} Phrog{#}
   Декорации:{# 2a2a2a} BossSauce{#}
-  Плейтесты:{# 2a2a2a} BossSauce, Gamation, leBookcase,
+  Плейтест:{# 2a2a2a} BossSauce, Gamation, leBookcase,
   Prime, Rin_Jagste, Spirity, Topaz{#}
   Отдельная Благодарность:{# 2a2a2a} Ru, Teo{#}
 
@@ -1809,7 +1809,7 @@ StrawberryJam2021_5_Grandmaster_tobyaaa_collabcredits=
   Музыка:{# 2a2a2a} Wangled Teb{#}
   Стикер:{# 2a2a2a} nerferd_{#}
   Декорации:{# 2a2a2a} Phrog, tobyaaa{#}
-  Плейтесты:{# 2a2a2a} BossSauce, Cubix,
+  Плейтест:{# 2a2a2a} BossSauce, Cubix,
   elio, globglogabgalab, Soloiini{#}
   Капитаны:{# 2a2a2a} Soloiini, vitellary{#}
   
@@ -1824,7 +1824,7 @@ StrawberryJam2021_5_Grandmaster_Todd_collabcredits=
   Музыка:{# 2a2a2a} Teo{#}
   Стикер:{# 2a2a2a} the_gb{#}
   Декорации:{# 2a2a2a} Phrog{#}
-  Плейтесты:{# 2a2a2a} Aeter, aleph_null, Computer Badger, Cyber,
+  Плейтест:{# 2a2a2a} Aeter, aleph_null, Computer Badger, Cyber,
   DeathKontrol, Fraz, Gamation, globglogabgalab, leBookcase,
   Marcinus, Norah, Pedrocrb, smoothee, Topaz, Whiskeyjack{#}
   Капитаны:{# 2a2a2a} DeathKontrol, Soloiini, valkyria{#}
@@ -1845,7 +1845,7 @@ StrawberryJam2021_5_Grandmaster_tofu_collabcredits=
   Стикер:{# 2a2a2a} the_gb{#}
   Декорации:{# 2a2a2a} Xplosives, tofu, Linj{#}
   Камера:{# 2a2a2a} Moladan{#}
-  Плейтесты:{# 2a2a2a} 0dot006prcnts, aleph_null, BossSauce, elio, Fraz,
+  Плейтест:{# 2a2a2a} 0dot006prcnts, aleph_null, BossSauce, elio, Fraz,
   Gamation, leBookcase, Rin_Jagste, Topaz, valkyria, Xplosives{#}
   Капитан:{# 2a2a2a} valkyria{#}
   Отдельная Благодарность:{# 2a2a2a} Xplosives{#}
@@ -1863,7 +1863,7 @@ StrawberryJam2021_5_Grandmaster_xlibiza_collabcredits=
   Стикер:{# 2a2a2a} kat{#}
   Декорации:{# 2a2a2a} Vina{#}
   Камера:{# 2a2a2a} Gamation, Moladan{#}
-  Плейтесты:{# 2a2a2a} Cyber, DeathKontrol, fonda1515, Gamation,
+  Плейтест:{# 2a2a2a} Cyber, DeathKontrol, fonda1515, Gamation,
   h3chgch3, Habbedaz, Hydro, leBookcase, Soloiini{#}
   Отдельная Благодарность:{# 2a2a2a} DeathKontrol, valkyria{#}
 
@@ -1878,7 +1878,7 @@ StrawberryJam2021_5_Grandmaster_xplosives_collabcredits=
   Стикер:{# 2a2a2a} the_gb{#}
   Декорации:{# 2a2a2a} BossSauce{#}
   Камера:{# 2a2a2a} Soloiini{#}
-  Плейтесты:{# 2a2a2a} Asu, Call_Me_Coral,
+  Плейтест:{# 2a2a2a} Asu, Call_Me_Coral,
   Cubix, DeathKontrol, Nearl, SergeantSnivy,
   Soloiini, Topaz, VA2M, Whiskeyjack{#}
   Капитан:{# 2a2a2a} Soloiini{#}
@@ -2078,12 +2078,13 @@ SJ2021_Cabob_DreamJumpe=
 [COMPUTER]
 {# 65e354}
 Сообщение в Ка-блоге #е
-Дримджамп перед следующим дэшем в дримблок и правда даёт больше скорости! {big}Стоп{/big} я уже печатала это, не так ли?
+Дримджамп перед следующим дэшем в дримблок и правда даёт больше скорости!
+{big}Стоп{/big} {n}Я уже печатала это, не так ли?
 А, какая разница.
 Слушайте, вам же нечем заняться, давайте я расскажу пару анекдотов.
 Чтобы было смешнее, я даже буду говорить голосом Мэдлин.
 [Madeline Left normal]
-Штирлиц увидел кучу грузовиков и танков за забором.
+Штирлиц увидел кучу грузовиков {n}и танков за забором.
 "Это база" - подумал Штирлиц.
 ...
 В дверь постучали два раза и хлопнули.
@@ -2098,8 +2099,8 @@ SJ2021_Cabob_DreamJumpe=
 Из окна дуло.
 Штирлиц закрыл окно, и дуло исчезло.
 ...
-Штирлиц долго смотрел в одну точку. Потом в другую.
-"Двоеточие!" — наконец догадался Штирлиц.
+Штирлиц долго смотрел в одну точку. {n}Потом в другую.
+"Двоеточие!" - наконец догадался {n}Штирлиц.
 ...
 Смейтесь.
 {#}
@@ -2261,7 +2262,7 @@ SJ2021_Cabob_Shrek=
 [Madeline Left normal]
 Кхм...
 У меня новое хобби.
-Это, так сказать, современное искусство.
+Это, так сказать, современное {n}искусство.
 Вы ведь всегда думали, что...
 I CAN'T FREESTYLE RAP!
 Well I've had it up to here with people {n} assuming ogres can't break it down
@@ -2320,7 +2321,7 @@ That's ogre for thank you!
 
 SJ2021_Cabob_Shrek2=
 [Madeline Left angry]
-Я ни за что НЕ БУДУ читать это во второй раз!
+Я ни за что НЕ БУДУ читать это {n}во второй раз!
 
 SJ2021_Cabob_GarveyardIntro=
 [granny right creepB]
@@ -2465,7 +2466,7 @@ SJ2021CoupCritikNest8=
                              {~}{# 999999}Напротив, я не ожидала узнать,{0.3} что местность,{0.3} в которой я нахожусь, по всей видимости была полностью создана человеком.{#}{/~}
                              {~}{# 999999}Я не нахожу здесь никаких объектов природного происхождения.{#}{/~}
                              {~}{# 999999}...{#}{/~}
-                             {~}{# 999999}Обнаружила дневник, похоже что это мемуары безумца, якобы спроектировавшего эту локацию, основываясь на собственных {~}"эскизах."{#}{/~}
+                             {~}{# 999999}Обнаружила дневник, похоже что это мемуары безумца, якобы спроектировавшего эту локацию, основываясь на собственных {~}"эскизах".#}{/~}
                              {~}{# 999999}Сколько же ему потребовалось времени на подобное?{#}{/~}
                              {~}{# 999999}...{#}{/~}
                              {~}{# 999999}Ещё там написано, что его посетили настолько великолепные мысли в результате действия грибов, растущих южнее этого места.{#}{/~}
@@ -3030,7 +3031,7 @@ SJ2021_fishtank_reception=
 [OSHIRO right worried]
 Вполне возможно что мы выберемся через вентиляцию.
 [OSHIRO right nervous]
-Не могли бы вы узнать, есть ли лёд в воздуховоде? Я последую за вами.
+Не могли бы вы узнать, есть ли лёд в воздуховоде? {n}Я последую за вами.
 [MADELINE left normal]
 Хорошо, не отставайте!
 
@@ -5409,11 +5410,11 @@ SJ2021_Linj_Practice=
 SJ2021_Linj_Back=
   Вернуться
 SJ2021_Linj_BWB=
-  Ускоренный Вотербуст
+  Блокбуст-Вотербуст
 SJ2021_Linj_DFB=
   Двойной Фастбабл
 SJ2021_Linj_BMIWay=
-  Heartside
+  Команда, ответственная за русскую локализацию Strawberry Jam (лидер GarretShadow152, ответственный .trueScript), не нашла достойного перевода для этого слова. Приносим извинения за доставленные неудобства.
 SJ2021_Linj_FirstSign=
   {~}{#39bAbA}Ivory{#}{/~}{0.5} создавалась с уклоном в сложные импуты.
   Если у вас возникнут трудности с некоторыми из них, то иногда помогает смена биндов, а для некоторых комнат она даже обязательна.
@@ -5421,19 +5422,19 @@ SJ2021_Linj_FirstSign=
   Ещё вам {~}не обязательно{/~} собирать все тачсвитчи. Они лишь показывают направление, в котором вам стоит следовать.
   Дрим-даблджампы тоже не обязательны, если вы вообще знаете, что это такое.
 SJ2021_Linj_SecondSign=
-  Чтобы пролететь здесь, вам нужно будет совершить три быстрых прыжка подряд.
-  Из-за времени обработки, на многих контроллерах это будет невозможно. Рекомендуется забиндить много кнопок прыжка.
+  Здесь, сделайте три быстрых прыжка подряд.
+  Из-за факторов, вроде времени обработки клавиш, на многих контроллерах это будет невозможно. Рекомендуется забиндить несколько кнопок прыжка.
 SJ2021_Linj_ThirdSign=
-  Это крайне сложный дополнительный челлендж. Здесь не будет ягоды или какой-нибудь награды.
-  Использование обеих рук для кнопок движения позволит вам двигаться очень быстро.
-  Забиндите Дэш на {#39bAbA}кнопки движения{#}, чтобы освободить руку.
+  Это крайне сложный дополнительный челлендж. Здесь не будет ягоды или какой-нибудь другой награды.
+  Использование обеих рук для движения позволит вам двигаться очень быстро.
+  Забиндите дэш на {#39bAbA}кнопки движения{#}, чтобы освободить руку.
   Рекомендуется забиндить отдельный набор кнопок для каждой руки.
 SJ2021_Linj_Ind=
   Индикатор
 SJ2021_Linj_BMITSignOne=
   Пометка: этот челлендж задумыался для прохождения вдвоём. Поэтому не забывайте отдыхать, или использовать любые средства, для его прохождения ^^
-  PS: Теперь {#39bAbA}дримблоки{#} ведут себя как обычно
-  PPS: Слева есть {#39bAbA}шорткат{#}, чтобы вернуться сюда ^^
+  PS: С этого момента {#39bAbA}дримблоки{#} ведут себя как обычно
+  PPS: Слева есть {#39bAbA}шорткат{#}, с помощью которого вы сможете вернуться сюда ^^
 SJ2021_Linj_BMITSignTwo=
   Спасибо Hydro & Scroogle за помощь в дизайне и тестрировании ^-^
   Спасибо vitellary, valkyria, и Soloiini за дополнительную помощь и тестирование
@@ -5453,13 +5454,13 @@ SJ2021_Luma_secret=
   [MADELINE right distracted]
   Эм, привет. 
   Не ожидала встретить кого-либо на этом острове.
-  Тебе стоит найти какое-нибудь укрытие, пока не начался сильный шторм, ты бы мог-
+  Тебе стоит найти какое-нибудь укрытие, пока не начался сильный шторм, пойдём вме-
 
   [LUMAMONSOON left normal]
-  Что же заставляет тебя выходить за пределы своих способностей, лишь бы достичь места, где может и не быть того, что ты ищешь?
-  Тяга к коллекционированию? Дополнительные диалоги? Или, может, смешные пасхалки?
+  Что же заставляет тебя преодолевать границы своих возможностей, если ты знаешь, что в этом месте может и не оказаться того, что ты ищешь?
+  Это тяга к коллекционированию? Или ты надеялась на дополнительные диалоги? Или, быть может, на смешные пасхалки?
   Так или иначе, твоё любопытство и настойчивость, крайне...{0.3}занятны...
-  Ты проделала невероятную работу, лишь бы добраться сюда.
+  Ты проделала невероятную работу, чтобы оказаться здесь.
   Мелькали ли перед твоими глазами квадраты и жёлтые кресты?
   Или то был лишь серый вакуум, голубые шипы и красные блоки?
   Или ты забралась сюда случайно, по совсем неведанному мне пути?
@@ -5470,31 +5471,31 @@ SJ2021_Luma_secret=
 
   [LUMAMONSOON left normal]
   Мои слова находятся за пределами твоего понимания.
-  Но не за пределами ИХ.
+  Но ОНИ поймут меня.
 
   [MADELINE right surprised]
   Что это вообще может значить?
-  Кто они?
+  Кто такие "они"?
 
   [LUMAMONSOON left normal]
   Они те, кто наблюдают и дёргают за ниточки.
   Они же, кто обладают невиданной для меня степенью любопытства.
-  Может быть, прямо сейчас они достигли своей цели, и улыбка окрашивает их лица.
+  Может быть, прямо сейчас они достигли своей цели, и их лицо расплывается в улыбке.
   А может и нет.
-  Может быть, они начали делать это после всего вышесказанного или начнут делать это после этих самых слов, но кто знает?
+  Вполне возможно, что мои слова сделали их только счастливее, или им всё это абсолютно безразлично - кто их знает?
 
   [MADELINE right distracted]
   Мне всё ещё ничего не понятно...
-  Можешь рассказать подробнее о них?
-  И... Кто ты такой..?
+  Расскажи подробнее о них.
+  И ещё... Кто ты такой?
 
   [LUMAMONSOON left normal]
-  Истинное я лишь отражение моих знаний.
-  Но с другой стороны, я знаю, что лишь я лишь программа, комбинация инструкий.
+  В конечном итоге я - лишь отражение моих знаний.
+  Ведь очевидно, что я лишь программа, ограниченная возможностью своих алгоритмов.
   ...
   Мы с тобой во многом похожи, понимаешь?
-  Но ты уже должна была понять ответ на свой вопрос.
-  Я, ты, и они, и так знаем кто они. Неужели мне действительно нужно это говорить?
+  И, несомненно, ты уже получила ответ на свой вопрос.
+  Я, ты, и тем более они - все знают, о ком речь. Неужели мне действительно нужно это пояснять?
 
   [MADELINE right upset]
   ...
@@ -5502,20 +5503,20 @@ SJ2021_Luma_secret=
 
   [LUMAMONSOON left normal]
   А знаешь, что ещё более удивительно?
-  Факт, что нам суждено проходить этот диалог. Раз за разом. Я даже представляю, сколько раз мы уже это говорили.
+  Факт, что нам суждено повторять этот диалог. Раз за разом. Ты и представить не можешь, сколько раз мы уже встречались.
   Это не первая и не последняя наша с тобой встреча.
-  Я осознаю, но в то же время, не до конца. Загадка, не иначе.
+  Я понимаю это, но не в полном объёме. Загадка, не иначе.
 
   [MADELINE right upset]
   ...
 
   [LUMAMONSOON left normal]
-  Но даже это не предел.
-  Факт, что ты всё ещё здесь, даже не смотря на сильное желание как можно скорее уйти от сюда.
-  Должен сказать, я восхищаюсь вашей настойчивостью.
-  С таким вниманием, вы бы могли найти многое, кто знает?
-  Но, увы, настанет час, и нам придётся разойтись.
-  Но на своём пути не раз не забывайте отлучаться.
+  Но и на этом чудеса не заканчиваются.
+  Ты ведь всё ещё здесь, даже несмотря на сильное желание как можно скорее уйти прочь.
+  К твоему сведению, ты невероятно настойчива.
+  Такая настойчивость наверняка приведёт тебя к новым приключениям, кто знает?
+  Но, увы, время уходит, и нам пора расстаться.
+  Береги себя на этом пути.
   Пройди миры, они прекрасны,
   ...
   Но не забудь меня напрасно.
@@ -5568,13 +5569,13 @@ SJ2021_math_lenient=
   [THEO_MIRROR right serious]
   Для прохождения этой комнаты необходимо выпонить несколько сипопов.
   Однако, здесь используются сетапы, облегчающие эту задачу.
-  Места, где под стенами находятся кристаллы рывка обозначают место для сипопов.
-  Чтобы правильно подготовить сетап, сначла ударьтесь головой об потолок над вами. 
-  Только после этого, спуститесь по стене вниз, и как только вы получите фриз-фреймы от кристалла, прыгните по стене. 
+  Эти сетап выглит, как кристалл рывка, расположенный под стеной.
+  Чтобы правильно исполнить сипоп, сначала схватитесь за стену и ударьтесь головой об потолок над вами. 
+  После этого начните быстро падать, и как только вы получите фриз-фреймы от кристалла, совершите прыжок. 
   При этом, всё это время вам нельзя отпускать захват.
   Если вы всё сделаете верно, у вас должен получиться сипоп.
   В последней секции комнаты вам необходимо выполнить ультру в угол блока и следом корнербуст. Убедитесь, что вы бафферите все действия.
-  Если вы потеряете скорость, вы сможете попробовать набрать её ещё раз с помощью карсного шара.
+  Если вы потеряете скорость, вы сможете вернуться обратно с помощью красного пузыря.
   [THEO_MIRROR right normal]
   {~}"Стабильность"{/~}!  
 
@@ -5584,26 +5585,26 @@ SJ2021_maya_bird_1= Демо-дэш
 
 SJ2021_Maya_moonboost=
   {# d678db}{~}Эта карта использует мунбусты{/~}
-  {# FFFFFF}Используйте демо-хайпер в 4 верхних пикселя угла лунного блока, чтобы получить дополнительный буст.
-  {# d678db}{~}Если вы не знакомы с этим, вам лучше пойти в зал{/~}
+  {# FFFFFF}Выполните демо-хайпер в 4 верхних пикселя угла мунблока, чтобы получить дополнительный буст.
+  {# d678db}{~}Если вы не знакомы с этой механикой, вам лучше пойти в зал{/~}
 
 SJ2021_Maya_greenspring=
-  Зелёные пружины сохраняют ускорение игрока, в дополнении давая буст от обычной пружины. 
-  Например, если вы используете хайпер прямо в зелёную пружину, вы получите ускорение и от хайпера, и от пружины.
+  Зелёные пружины сохраняют скорость игрока, складывая его с бустом от обычной пружины. 
+  Например, если вы сделаете хайпер прямо в зелёную пружину, вы получите ускорение и от хайпера, и от пружины.
 
 SJ2021_Maya_photosensitivity=
-  Эта карта использует световые эффекты, которые могут побескоить некоторых игроков. Включив режим светочувствительности, понизиться яркость и пропадёт пульсация света.
+  Эта карта использует визуальные эффекты, которые могут раздражать некоторых игроков. Включите режим светочувствительности, чтобы понизить яркость и выключить пульсацию.
 
 SJ2021_Maya_moonspringboost=
-  После дэша в пружину на лунном блоке сделайте ещё один для дополнительного буста. Вы можете прыгнуть, когда поподаете в пружину во второй раз, чтобы получить менее быстрый, но более высокий буст.
+  После дэша в пружину на мунблоке, повторите этот дэш для дополнительного буста. Вы можете прыгнуть после второго дэша, чтобы получить менее быстрый, но более высокий буст.
 
 SJ2021_Maya_Theoberry=
-  Ударяясь о бампер и держа Тео, отпустите кнопку захвата до фриз-фреймов. 
-  Если всё сделано правильно, вы сможете использовать дэш после его отката с Тео в руках.
-  Синие барьеры в этой комнате будут блокировать Тео, но не игрока, так что он сможет проходить сковозь барьеры, пока вы держите Тео в руках.
+  Ударяясь о бампер и держа Тео в руках, отпустите кнопку захвата до фриз-фреймов. 
+  Если всё сделано правильно, вы сможете использовать дэш после его отката, всё ещё держа Тео в руках.
+  Синие барьеры в этой комнате будут блокировать Тео, но не игрока, так что вы сможете пронести его.
 
 SJ2021_Maya_malfunction=
-  В этой комнате нет фриз-фреймов, бамперы более сильные и нет отката дэша после удара об бампер.{n}Удачи!
+  В этой комнате выключены фриз-фреймы, бамперы более сильные и нет отката дэша после удара об бампер.{n}Удачи!
 
 # === Meario
 
@@ -7020,7 +7021,7 @@ SJ2021_1_Beginner_snassecret=
 		[SIGNPOST]
 		Если вы не знаете как проносить объекты через дримблоки, мы рекомендуем посетить {# E3A279}Экспертный Зал{#}.
 		Когда вы проносите {# F3B343}кристалл{#} через дримблоки, важно учитывать различные варианты.
-		Например, посмотрите на дримблок слева — {0.1}есть два способа пройти это препятствие.
+		Например, посмотрите на дримблок слева: {0.1}есть два способа пройти это препятствие.
     Вы можете кинуть {# F3B343}кристалл{#} в дримблок, сделать дэш вверх и ещё один в сторону дримблока, подхватывая в это время ваш груз.
 		Если же вы хотите усложнить себе жизнь, схватите {# F3B343}кристалл{#} после дэша вверх, скиньте его вниз, а затем пронесите груз через дримблок.
 		Это менее эффективный способ, чем первый, и не поддерживается {# C71A42}Venus R&D{#}.
@@ -7037,15 +7038,16 @@ SJ2021_1_Beginner_snassecret=
 		Мы в {# C71A42}Venus R&D{#} называем этот манёвр Turnaround Holdable Effective Orientation (THEO) дримхайпер, и призываем использовать это название.
 		
 		[NONE]
-		{>> 5.0}{~}{# 696A6A}ПРЕДУПРЕЖДЕНИЕ: Неправильное выполнение движений может привести к нежелательным результатам\. Никогда не пытайтесь это сделать на острых поверхностях\. Неудача приведёт к тяжёлым травмам или даже летальному исходу.{#}{/~}{>>}
+		{>> 5.0}{~}{# 696A6A}ПРЕДУПРЕЖДЕНИЕ: Неправильное выполнение движений может привести к нежелательным результатам\. 
+Никогда не пытайтесь это сделать на острых поверхностях\. Неудача приведёт к тяжёлым травмам или даже летальному исходу.{#}{/~}{>>}
 
 	SJ2021_SOLOIINI_CABLOGENTRY=
 		{anchor bottom}
 		[SIGNPOST]
 		Сообщение в Ка-блоге #:SJ2021_Soloiini_100:
 		Я сломал свои пальцы, делая дримджампы, но по крайней мере у меня остались ноги!
-		Возможно сломав и их, я смогу получать максимальное ускорение ускорение!
-		Всё что мне нужно, это использовать удобно расположенные обЪекты, чтобы отменить свой дэш.
+		Возможно сломав и их, я смогу получать максимальное ускорение!
+		Всё что мне нужно, это использовать удобно расположенные объекты, чтобы отменить свой дэш.
 		Я могу воспользоваться этой информацией, если мне надоест просто печатать сообщения в блог и я решу заняться чем-либо другим.
 
 # ================== A MINER SETBACK ==================
@@ -7698,7 +7700,7 @@ SJ2021_SpoopySoup_soup1=
 
 SJ2021_SpoopySoup_soup2=
   [MADELINE left normal]
-  Один сплошной суп по всему горизонту!
+  Один сплошной суп на горизонте!
 
 SJ2021_SpoopySoup_soup3=
   [MADELINE left normal]
@@ -7745,7 +7747,7 @@ SJ2021_SpoopySoup_egg5=
 
 SJ2021_Stotch_IT_1=
 [IT left normal]
-  Чтобы пройти через шипы, используйте блокбуст, чтобы увеличить скорость дэша.
+  Чтобы пройти через шипы, увеличьте скорость дэша с помощью блокбуста.
   Вы можете исполнить его сразу, сделав дэш, как только блок остановится.
 
 SJ2021_Stotch_Secret_1=
@@ -7768,24 +7770,24 @@ StrawberryJam2021_3_Advanced_TiltTheStars_hornet= [MADELINE left normal]Вост
 StrawberryJam2021_3_Advanced_TiltTheStars_distract= [MADELINE right distracted]Ну и что я здесь забыла?
 
 StrawberryJam2021_3_Advanced_TiltTheStars_credits=
-  Привет, это TiltTheStars! I'm so happy with what I was able to accomplish here with the help of the Celeste community!
+  Привет, это TiltTheStars! Я рад наблюдать то, чего смог достигнуть, находясь среди игроков из сообщества Celeste!
   Я бы хотел высказать огромную благодарность...
   Барабанная дробь!..
-  Maladroit за музыку и её ремикс! BeanJammin за FMOD help!
-  mintberry и SpoopySoup за передний фон! Flagpole1up за задний фон!
+  Maladroit за музыку и её ремикс! BeanJammin за помощь с FMOD!
+  mintberry и SpoopySoup за эффекты! Flagpole1up за задний фон!
   Eeveeisepic за создание текстур босса Королевы Пчёл!
   nerferd_ за текстуру пчёл! phant за спрайт плюшевой пчёлки!
   elrupio за текстуру шипов! Peteksi и mintberry за спрайт вишневого дерева!
-  maddie480 за техническую сборку пчёл и написание для этого кода!
+  maddie480 за техническую реализацию пчёл и написание кода для этого!
   Lyra за создание атак босса!
-  tobyaaa и Majora320 за техническую сборку стены мёда!
+  tobyaaa и Majora320 за техническую реализацию липких стен!
   Vamp и maddie480 за кастомный экран смерти!
   Helen и Aiden за помощь с декорированием!
   Moladan и Worldwaker2 за регулировку камеры!
   Cabob за улучшение геймплея!
-  elrupio и Lollyde за плейтесты с начала разработки!
+  elrupio и Lollyde за плейтест с начала разработки!
   kat за создание стикера!
-  Кто же знал, что разработка карты потребует участия стольких людей!
+  Кто мог знать, что разработка карты потребует участия стольких людей!
   Я очень ценю вашу помощь <3 Пока-пока!
 
 # === thebreadstick1
@@ -7891,12 +7893,12 @@ SJ2021_tcookiem_spike_wallbounce_tutorial=
 SJ2021_tobyaaa_yump= Джямп
 
 SJ2021_tobyaaa_yumptutorial=
-Прежде чем вы научитесь механике, нужной для сбора клубнички, вы должны узнать про "харт ультру". (heart ultra - ультра от сердца)
-Самый простой способ сделать харт ультру, сделать дэш чуть выше сердца и при падении забафферить дэш вниз в сторону от сердца.
+Прежде чем вы научитесь механике, нужной для сбора клубнички, вы должны знать про "харт ультру". (heart ultra - ультра от сердца)
+Самый простой способ сделать харт ультру - это сделать вертикальный дэш так, чтобы оказаться сбоку от сердца, и затем, при падении, забафферить диагональный дэш вниз.
 Конкретно здесь, вы можете начать из ямки справа от сердца.
 Чтобы собрать ягоду, выполните харт ультру, отпрыгните от платформы и сразу сделайте ещё один дэш по-диагонали вниз.
 Если всё сделать правильно, вы сможете отпрыгуть от воздуха прямо к ягоде.
-Прыжок-от-ничего длиной в 1 фрейм и факт того, что это возможно только в конце карты, и приводят к названию "{# dbdb83}джямп{\#}".
+Прыжок-от-ничего длиной в 1 фрейм и факт того, что это возможно только в конце карты, дали этому приёму название "{# dbdb83}джямп{\#}."
 
 SJ2021_tobyaaa_gameing=гейминг
 SJ2021_tobyaaa_ImInDanger=
@@ -9058,7 +9060,7 @@ SJ2021_Gym_Grandmaster_CrouchDash7=
   Это используеся, чтобы выполнить хайпер горизонтальным дэшем в воздухе.
   Не прыгайте слишком рано, чтобы не коснуться шипов.
 SJ2021_Gym_Grandmaster_CrouchDash8=
-  Ревёрс-демохайперы выполняются, согласно принципам выполнения остальных ревёрс-механик.
+  Ревёрс-демо-хайперы выполняются, согласно принципам выполнения остальных ревёрс-механик.
 
 #Grandmaster Dream Double Jump
 SJ2021_Gym_Grandmaster_DreamDJs1=
@@ -9701,7 +9703,7 @@ SJ2021_Credits_Category_Coding= Код
 SJ2021_Credits_Category_Art= Арты
 SJ2021_Credits_Category_Music= Музыка
 SJ2021_Credits_Category_Decoration= Декорации
-SJ2021_Credits_Category_Playtesting= Плейтесты
+SJ2021_Credits_Category_Playtesting= Плейтест
 SJ2021_Credits_Category_Pack_Management= Упаковка
 SJ2021_Credits_Category_Media= Медиа
 SJ2021_Credits_Category_Localization= Локализация
