@@ -1598,7 +1598,7 @@ StrawberryJam2021_4_Expert_Yoshachobi7_collabcredits=
   Капитан:{# 2a2a2a} Cabob{#}
 
 StrawberryJam2021_4_Expert_ZZ_Heartside_postcard=
-  Симптомы боязни высоты возникнут{n}спустя несколько часов.{n}{# F1E8E2}Давай пройдём Эксперт!{#}{n}И не забывай {# 6DBDFF}дышать{#}.
+  Через несколько часов{n}ты привыкнешь к высоте.{n}{# F1E8E2}Не отставай, Эксперт!{#}{n}И не забывай {# 6DBDFF}дышать{#}.
 StrawberryJam2021_4_Expert_ZZ_Heartside_b00_intro= Стереть
 StrawberryJam2021_4_Expert_ZZ_Heartside_c00_intro= Распылить
 StrawberryJam2021_4_Expert_ZZ_Heartside_d00_intro= Потушить
@@ -2013,7 +2013,7 @@ SJ2021_4_CobNob= Бабл-Корнербуст
 
 SJ2021_4_TheCoreProblem= 
   [MADELINE right normal]
-  Вы не задумывались, почему лёд на стенах не тает при повышении температуры?Х{n}
+  Вы не задумывались, почему лёд на стенах не тает при повышении температуры?{n}
   Впрочем, здесь и без того душно.
 
 # === BlueXans
