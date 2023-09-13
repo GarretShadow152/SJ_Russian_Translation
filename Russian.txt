@@ -69,26 +69,26 @@ StrawberryJam2021_0_Lobbies_Warp_Ch2_01_2=
 StrawberryJam2021_0_Lobbies_Warp_Ch2_01_3=
   Заброшенный Карьер
 StrawberryJam2021_0_Lobbies_Warp_Ch2_01_4=
-  Подземный Лес
+  Грибная Роща
 StrawberryJam2021_0_Lobbies_Warp_Ch2_01_5=
-  Капающие Пещеры
+  Замшелые Пещеры
 StrawberryJam2021_0_Lobbies_Warp_Ch2_01_6=
-  Область Светлячков
+  Поляна Светлячков
 StrawberryJam2021_0_Lobbies_Warp_Ch2_01_7=
   Кристальный Источник
 
 StrawberryJam2021_0_Lobbies_Warp_Ch3_a01_1=
   Горный Лес
 StrawberryJam2021_0_Lobbies_Warp_Ch3_a01_2=
-  Туннели Месы
+  Подземные Туннели
 StrawberryJam2021_0_Lobbies_Warp_Ch3_a01_3=
   Пастельные Небеса
 StrawberryJam2021_0_Lobbies_Warp_Ch3_a01_4=
-  Песчаные Обрывы
+  Сыпучие Обрывы
 StrawberryJam2021_0_Lobbies_Warp_Ch3_a01_5=
   Заросшие Пустоты
 StrawberryJam2021_0_Lobbies_Warp_Ch3_a01_6=
-  Песчаниковая Деревня
+  Песочный Город
 StrawberryJam2021_0_Lobbies_Warp_Ch3_a01_7=
   Закатная Степь
 
@@ -620,11 +620,11 @@ StrawberryJam2021_1_Beginner_voliver9_collabcredits=
 
 StrawberryJam2021_1_Beginner_ZZ_Heartside_postcard=
   Прилив начинается, {+MADELINE}. {n}Не пропусти {# e28b55}закат{#}!
-StrawberryJam2021_1_Beginner_ZZ_Heartside_cp2_checkpoint= Низина
+StrawberryJam2021_1_Beginner_ZZ_Heartside_cp2_checkpoint= Основание
 StrawberryJam2021_1_Beginner_ZZ_Heartside_cp3_checkpoint= Спокойствие
-StrawberryJam2021_1_Beginner_ZZ_Heartside_cp4_checkpoint= Нефрит
-StrawberryJam2021_1_Beginner_ZZ_Heartside_cp5_checkpoint= Заросли
-StrawberryJam2021_1_Beginner_ZZ_Heartside_cp6_checkpoint= Бухта
+StrawberryJam2021_1_Beginner_ZZ_Heartside_cp4_checkpoint= Сияние
+StrawberryJam2021_1_Beginner_ZZ_Heartside_cp5_checkpoint= Переплетение
+StrawberryJam2021_1_Beginner_ZZ_Heartside_cp6_checkpoint= Возвращение
 poem_StrawberryJam2021_1_Beginner_ZZ_HeartSide_A= Приливы и Отливы
 StrawberryJam2021_1_Beginner_ZZ_Heartside_author=
   the Beginner Heart Side
@@ -780,7 +780,7 @@ StrawberryJam2021_2_Intermediate_Liero_collabcredits=
   Стикер:{# 2a2a2a} Polythesia{#}
 
 StrawberryJam2021_2_Intermediate_Luma_postcard=
-  Эта карта отключает {# cf4500}паффербуст{#} для лучшего опыта игры.
+  Во избежание негативного опыта, в этой карте отключены {# cf4500}паффербусты{#}.
 StrawberryJam2021_2_Intermediate_Luma=
   Midnight Monsoon
 StrawberryJam2021_2_Intermediate_Luma_author=
@@ -857,7 +857,7 @@ StrawberryJam2021_2_Intermediate_thebreadstick1_collabcredits=
 StrawberryJam2021_2_Intermediate_vitellary=
   Pointless Machines
 StrawberryJam2021_2_Intermediate_vitellary_postcard=
-  Данная карта основана на запоминании, но для облегчения, вы можете включить вспомогательную настройку {# 44aa99}Отображать Последовательность Дэшей{#}.
+  В этой карте придётся много запоминать, но для облегчения этой задачи вы можете включить настройку {# 44aa99}Отображать Последовательность Дэшей{#}.
 StrawberryJam2021_2_Intermediate_vitellary_author=
   от vitellary
 StrawberryJam2021_2_Intermediate_vitellary_collabcredits=
@@ -868,10 +868,10 @@ StrawberryJam2021_2_Intermediate_vitellary_collabcredits=
   Плейтест:{# 2a2a2a} MousseMoose, SergeantSnivy{#}
   
 StrawberryJam2021_2_Intermediate_ZZ_Heartside_postcard=
-  Убедитесь, что задрежитесь и посмотрите на {#d1b52e}{~}светлячков{~}{#}!
+  Не забудь посмотреть на {#d1b52e}{~}светлячков{~}{#}!
 StrawberryJam2021_2_Intermediate_ZZ_Heartside_cp2_0_Cp= Флоэма
 StrawberryJam2021_2_Intermediate_ZZ_Heartside_cp3_0_Cp= Мицелий
-StrawberryJam2021_2_Intermediate_ZZ_Heartside_cp4_0_Cp= Петричор
+StrawberryJam2021_2_Intermediate_ZZ_Heartside_cp4_0_Cp= Петрикор
 poem_StrawberryJam2021_2_Intermediate_ZZ_Heartside_A= Древо Жизни
 StrawberryJam2021_2_Intermediate_ZZ_Heartside_author=
   the Intermediate Heart Side
@@ -1229,11 +1229,11 @@ StrawberryJam2021_3_Advanced_Worldwaker2_collabcredits=
   Капитаны:{# 2a2a2a} Aiden, Oppen_heimer, RealZeb{#}
 
 StrawberryJam2021_3_Advanced_ZZ_Heartside_postcard=
-  Лучший вид открывается {n}после тяжелого подъёма. {n}Вверх и ввысь!, {+MADELINE}.
+  Лучший вид открывается {n}после самого тяжелого подъёма. {n}Вперёд и вверх, {+MADELINE}.
 StrawberryJam2021_3_Advanced_ZZ_Heartside_Crest= Хребты
 StrawberryJam2021_3_Advanced_ZZ_Heartside_Ravine= Равнины
 StrawberryJam2021_3_Advanced_ZZ_Heartside_Aquifer= Бухты
-StrawberryJam2021_3_Advanced_ZZ_Heartside_Landing= Приземление
+StrawberryJam2021_3_Advanced_ZZ_Heartside_Landing= Равнины
 poem_StrawberryJam2021_3_Advanced_ZZ_Heartside_A= Реликвии Прошлого
 StrawberryJam2021_3_Advanced_ZZ_Heartside_author=
   the Advanced Heart Side
@@ -1511,7 +1511,7 @@ StrawberryJam2021_4_Expert_rdoggo8_collabcredits=
   Отдельная Благодарность:{# 2a2a2a} Alisticious, Kube, Nyan{#}
 
 StrawberryJam2021_4_Expert_RedBoule_postcard=
-  Механика этой карты может не работать {n} если ваш {# 81270e}Режим Хватания{#} {# 2f333f}Переключить{#}.{n} Для лучшего опыта лучше переключить его на {# 2f333f}Удерживать{#}.
+  Элементы этой карты не будут работать, {n} если ваш {# 81270e}Режим Хватания{#} установлен на {# 2f333f}"Переключить"{#}.{n} Используйте режим {# 2f333f}"Удерживать"{#}.
 StrawberryJam2021_4_Expert_RedBoule=
   Golden Alleyway
 StrawberryJam2021_4_Expert_RedBoule_author=
@@ -1599,11 +1599,11 @@ StrawberryJam2021_4_Expert_Yoshachobi7_collabcredits=
 
 StrawberryJam2021_4_Expert_ZZ_Heartside_postcard=
   Через несколько часов{n}ты привыкнешь к высоте.{n}{# F1E8E2}Не отставай, Эксперт!{#}{n}И не забывай {# 6DBDFF}дышать{#}.
-StrawberryJam2021_4_Expert_ZZ_Heartside_b00_intro= Стереть
-StrawberryJam2021_4_Expert_ZZ_Heartside_c00_intro= Распылить
-StrawberryJam2021_4_Expert_ZZ_Heartside_d00_intro= Потушить
-StrawberryJam2021_4_Expert_ZZ_Heartside_e00_intro= Подрыв
-StrawberryJam2021_4_Expert_ZZ_Heartside_f00_intro= Ликвидировать
+StrawberryJam2021_4_Expert_ZZ_Heartside_b00_intro= Вычеркнут
+StrawberryJam2021_4_Expert_ZZ_Heartside_c00_intro= Раздроблен
+StrawberryJam2021_4_Expert_ZZ_Heartside_d00_intro= Аннулирован
+StrawberryJam2021_4_Expert_ZZ_Heartside_e00_intro= Уничтожен
+StrawberryJam2021_4_Expert_ZZ_Heartside_f00_intro= Ликвидирован
 poem_StrawberryJam2021_4_Expert_ZZ_Heartside_A= Столпы Творения
 StrawberryJam2021_4_Expert_ZZ_Heartside_author=
   the Expert Heart Side
@@ -1887,9 +1887,9 @@ StrawberryJam2021_5_Grandmaster_ZZ_HeartSide_postcard=
   Это оно, {+MADELINE}.
 StrawberryJam2021_5_Grandmaster_ZZ_HeartSide_b0_Humility= Покорность
 StrawberryJam2021_5_Grandmaster_ZZ_HeartSide_c0_Divinity= Божественность
-StrawberryJam2021_5_Grandmaster_ZZ_HeartSide_d0_Purity= Чистота
+StrawberryJam2021_5_Grandmaster_ZZ_HeartSide_d0_Purity= Непорочность
 StrawberryJam2021_5_Grandmaster_ZZ_HeartSide_e0_Clarity= Ясность
-StrawberryJam2021_5_Grandmaster_ZZ_HeartSide_f0_Icarus= Икар
+StrawberryJam2021_5_Grandmaster_ZZ_HeartSide_f0_Icarus= Полёт
 poem_StrawberryJam2021_5_Grandmaster_ZZ_HeartSide_A= Апофеоз
 StrawberryJam2021_5_Grandmaster_ZZ_HeartSide_author=
   the Grandmaster Heart side
