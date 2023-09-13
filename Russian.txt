@@ -69,11 +69,11 @@ StrawberryJam2021_0_Lobbies_Warp_Ch2_01_2=
 StrawberryJam2021_0_Lobbies_Warp_Ch2_01_3=
   Заброшенный Карьер
 StrawberryJam2021_0_Lobbies_Warp_Ch2_01_4=
-  Подземный Лес
+  Грибная Роща
 StrawberryJam2021_0_Lobbies_Warp_Ch2_01_5=
-  Сырые Пещеры
+  Замшелые Пещеры
 StrawberryJam2021_0_Lobbies_Warp_Ch2_01_6=
-  Область Светлячков
+  Лес Светлячков
 StrawberryJam2021_0_Lobbies_Warp_Ch2_01_7=
   Кристальный Источник
 
@@ -620,8 +620,8 @@ StrawberryJam2021_1_Beginner_voliver9_collabcredits=
 
 StrawberryJam2021_1_Beginner_ZZ_Heartside_postcard=
   Прилив начинается, {+MADELINE}. {n}Не пропусти {# e28b55}закат{#}!
-StrawberryJam2021_1_Beginner_ZZ_Heartside_cp2_checkpoint= Основательность
-StrawberryJam2021_1_Beginner_ZZ_Heartside_cp3_checkpoint= Безмятежность
+StrawberryJam2021_1_Beginner_ZZ_Heartside_cp2_checkpoint= Основание
+StrawberryJam2021_1_Beginner_ZZ_Heartside_cp3_checkpoint= Спокойствие
 StrawberryJam2021_1_Beginner_ZZ_Heartside_cp4_checkpoint= Сияние
 StrawberryJam2021_1_Beginner_ZZ_Heartside_cp5_checkpoint= Переплетение
 StrawberryJam2021_1_Beginner_ZZ_Heartside_cp6_checkpoint= Возвращение
@@ -868,7 +868,7 @@ StrawberryJam2021_2_Intermediate_vitellary_collabcredits=
   Плейтест:{# 2a2a2a} MousseMoose, SergeantSnivy{#}
   
 StrawberryJam2021_2_Intermediate_ZZ_Heartside_postcard=
-  Остановитесь и взгляните на этих {#d1b52e}{~}светлячков{~}{#}!
+  Не забудь посмотреть на {#d1b52e}{~}светлячков{~}{#}!
 StrawberryJam2021_2_Intermediate_ZZ_Heartside_cp2_0_Cp= Флоэма
 StrawberryJam2021_2_Intermediate_ZZ_Heartside_cp3_0_Cp= Мицелий
 StrawberryJam2021_2_Intermediate_ZZ_Heartside_cp4_0_Cp= Петрикор
@@ -1229,7 +1229,7 @@ StrawberryJam2021_3_Advanced_Worldwaker2_collabcredits=
   Капитаны:{# 2a2a2a} Aiden, Oppen_heimer, RealZeb{#}
 
 StrawberryJam2021_3_Advanced_ZZ_Heartside_postcard=
-  Лучший вид открывается {n}после самого тяжелого подъёма. {n}Вперёд и вверх!, {+MADELINE}.
+  Лучший вид открывается {n}после самого тяжелого подъёма. {n}Вперёд и вверх, {+MADELINE}.
 StrawberryJam2021_3_Advanced_ZZ_Heartside_Crest= Хребты
 StrawberryJam2021_3_Advanced_ZZ_Heartside_Ravine= Равнины
 StrawberryJam2021_3_Advanced_ZZ_Heartside_Aquifer= Бухты
@@ -1598,7 +1598,7 @@ StrawberryJam2021_4_Expert_Yoshachobi7_collabcredits=
   Капитан:{# 2a2a2a} Cabob{#}
 
 StrawberryJam2021_4_Expert_ZZ_Heartside_postcard=
-  Симптомы акрофобии проявляются{n}в течение первых двух-трёх часов.{n}{# F1E8E2}Тебе нечего бояться!{#}{n}Просто не забывай {# 6DBDFF}дышать{#}.
+  Через несколько часов{n}ты привыкнешь к высоте.{n}{# F1E8E2}Не отставай, Эксперт!{#}{n}И не забывай {# 6DBDFF}дышать{#}.
 StrawberryJam2021_4_Expert_ZZ_Heartside_b00_intro= Вычеркнут
 StrawberryJam2021_4_Expert_ZZ_Heartside_c00_intro= Раздроблен
 StrawberryJam2021_4_Expert_ZZ_Heartside_d00_intro= Аннулирован
