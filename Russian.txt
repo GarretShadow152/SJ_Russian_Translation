@@ -73,7 +73,7 @@ StrawberryJam2021_0_Lobbies_Warp_Ch2_01_4=
 StrawberryJam2021_0_Lobbies_Warp_Ch2_01_5=
   Замшелые Пещеры
 StrawberryJam2021_0_Lobbies_Warp_Ch2_01_6=
-  Лес Светлячков
+  Поляна Светлячков
 StrawberryJam2021_0_Lobbies_Warp_Ch2_01_7=
   Кристальный Источник
 
