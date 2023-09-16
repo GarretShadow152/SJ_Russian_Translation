@@ -126,73 +126,73 @@ StrawberryJam2021_0_Lobbies_Warp_Ch5_GM_main_6=
 
 StrawberryJam2021_0_Lobbies_0_Prologue_Credits=
   Разработкой Пролога занимались Aiden, Coffe, nerferd_ и snolls.
-  Графику нарисовали Bissy, Circumplex, Coffe, Earthwise, mosscairn, neo_zoid, nerferd_, Phrog, PowerAV, и snolls.
+  Графику нарисовали Bissy, Circumplex, Coffe, Earthwise, mosscairn, neo_zoid, nerferd_, Phrog, PowerAV и snolls.
   Спрайты монумента нарисовал neo_zoid.
   Задний фон нарисовал nerferd_.
-  Музыку сочинили BeanJammin, Bipmo Bopmo, catapillie, и Ceph.
+  Музыку сочинили BeanJammin, Bipmo Bopmo, catapillie и Ceph.
   Декораторы Bissy и Coffe.
   Над камерой работал Coffe.
-  Дополнительную полировку сделали by Aiden, bryse0n, и LegS.
-  Отдельная благодарность посвящается Coffe за дизайн макета, nerferd_ за лого, и Aiden за код.
+  Дополнительную полировку сделали by Aiden, bryse0n и LegS.
+  Отдельная благодарность посвящается Coffe за дизайн макета, nerferd_ за лого и Aiden за код.
 
 StrawberryJam2021_0_Lobbies_1_Beginner_Credits=
-  Разработку Бегиннер Лобби возглавили Ceph, Coffe, и Owen Shirrell.
-  Входы на карты сделали ABuffZucchini, Asterisk, Circumplex, Earthwise, Flagpole1up, Linj, Mnstrman06, mosscairn, Owen Shirrell, Quinnigan, Ru, и Worldwaker2.
-  Графику нарисовали Bissy, Chaotick, Circumplex, citrea, Coffe, Earthwise, the gbman, mosscairn, nerferd_, и PowerAV, задний фон нарисовали Earthwise и ansimuz.
+  Разработку Бегиннер Лобби возглавили Ceph, Coffe и Owen Shirrell.
+  Входы на карты сделали ABuffZucchini, Asterisk, Circumplex, Earthwise, Flagpole1up, Linj, Mnstrman06, mosscairn, Owen Shirrell, Quinnigan, Ru и Worldwaker2.
+  Графику нарисовали Bissy, Chaotick, Circumplex, citrea, Coffe, Earthwise, the gbman, mosscairn, nerferd_ и PowerAV, задний фон нарисовали Earthwise и ansimuz.
   Композитор Ceph.
-  Декораторы лобби Bissy, Coffe, Circumplex, Earthwise, fonda1515, Mnstrman06, TyKim, и Xplosives.
-  Над камерой работали Aiden, Bissy, и BossSauce.
-  Отдельная благодарность посвящается Alisticious за плейтестинг; Bissy, mosscairn, и PowerAV за концепт дизайн; и Cruor, JaThePlayer, и Xaphan за дополнительный код.
+  Декораторы лобби Bissy, Coffe, Circumplex, Earthwise, fonda1515, Mnstrman06, TyKim и Xplosives.
+  Над камерой работали Aiden, Bissy и BossSauce.
+  Отдельная благодарность посвящается Alisticious за плейтест; Bissy, mosscairn и PowerAV за концепт дизайн; и Cruor, JaThePlayer и Xaphan за дополнительный код.
 
 StrawberryJam2021_0_Lobbies_2_Intermediate_Credits=
-  Разработку Интермедиэйт Лобби возглавили fonda1515, Holly, Phrog, и Scroogle.
+  Разработку Интермедиэйт Лобби возглавили fonda1515, Holly, Phrog и Scroogle.
   Макет разработал Holly в последствии с правками от Jadeturtle.
-  Входы на карты сделали bryse0n, Dooshii, fonda1515, LegS, Liero, Phrog, и Rocketguy2.
-  Графику нарисовали butcherberries, Chaotick, DanTKO, Gamation, LegS, Linj, mosscairn, MousseMoose, nerferd_, Phrog, PowerAV, Scroogle, tobyaaa, и vexastrae, задний фон нарисовали DanTKO and nerferd_.
+  Входы на карты сделали bryse0n, Dooshii, fonda1515, LegS, Liero, Phrog и Rocketguy2.
+  Графику нарисовали butcherberries, Chaotick, DanTKO, Gamation, LegS, Linj, mosscairn, MousseMoose, nerferd_, Phrog, PowerAV, Scroogle, tobyaaa и vexastrae, задний фон нарисовали DanTKO и nerferd_.
   Композитор BeanJammin.
-  Декораторы BossSauce, Coffe, fonda1515, Gamation, LegS, Phrog, Scroogle, и xolimono.
-  Плейтестеры BossSauce, MousseMoose, и Rocketguy2.
+  Декораторы BossSauce, Coffe, fonda1515, Gamation, LegS, Phrog, Scroogle и xolimono.
+  Плейтестеры BossSauce, MousseMoose и Rocketguy2.
   Кастомный энтити лифта сделал catapillie, кастомный энтити зиппера сделал Samah.
-  Над камерой работали Aiden, Gamation, и fonda1515.
+  Над камерой работали Aiden, Gamation и fonda1515.
   Отдельная благодарность посвящается Gamation за помощь с руковождением.
 
 StrawberryJam2021_0_Lobbies_3_Advanced_Credits= 
-  Разработку Адвансед Лобби возглавили bryse0n, Ceph, и Jadeturtle.
-  Макет разработали bryse0n, Ceph, Goldian, Jadeturtle, и MousseMoose.
-  Входы на карты сделали BossSauce, bryse0n, Earthwise, Meario, Nic, и Worldwaker2.
+  Разработку Адвансед Лобби возглавили bryse0n, Ceph и Jadeturtle.
+  Макет разработали bryse0n, Ceph, Goldian, Jadeturtle и MousseMoose.
+  Входы на карты сделали BossSauce, bryse0n, Earthwise, Meario, Nic и Worldwaker2.
   Графику нарисовали bryse0n, Chaotick, Circumplex, Coffe, Earthwise, M1n3c4rt, MousseMoose, nerferd_, 
-  Nikko, Phrog, PowerAV, snolls, the_gb, Worldwaker2, и xolimono, задний фон нарисовали the_gb and nerferd_.
+  Nikko, Phrog, PowerAV, snolls, the_gb, Worldwaker2 и xolimono, задний фон нарисовали the_gb и nerferd_.
   Композитор Ceph.
-  Декораторы bryse0n, Gamation, Jadeturtle, и Worldwaker2.
+  Декораторы bryse0n, Gamation, Jadeturtle и Worldwaker2.
   Над камерой работал Worldwaker2.
-  Отдельная благодарность посвящается Alisticious, Bigkahuna, JaThePlayer, Scroogle, и Xaphan за исправление кода, отладку и плейтестинг.	
+  Отдельная благодарность посвящается Alisticious, Bigkahuna, JaThePlayer, Scroogle и Xaphan за исправление кода, отладку и плейтест.	
 
 StrawberryJam2021_0_Lobbies_4_Expert_Credits= 
   Разработку Эксперт Лобби возглавили Agent, Quinnigan и Ru.
   Макет разработали Quinnigan с исправлениями от Agent, Lyra и Ru.
   Входы на карты сделали Agent, Appels, BossSauce, butcherberries, DanTKO, Flamecrafter113, Lyra, Phrog, PowerAV, Ru, Scroogle, Valkyria, Vina и Yoshachobi7.
-  Графику нарисовали butcherberries, Chaotick, DanTKO, Glow Woomii, nerferd_, Phrog, PowerAV, Ru, Worldwaker2 и Yoshachobi7, задний фон нарисовали Maildropfolder, nerferd_, and PowerAV.
+  Графику нарисовали butcherberries, Chaotick, DanTKO, Glow Woomii, nerferd_, Phrog, PowerAV, Ru, Worldwaker2 и Yoshachobi7, задний фон нарисовали Maildropfolder, nerferd_ и PowerAV.
   Композитор catapillie.
-  Декораторы by Appels, butcherberries, Lyra, PowerAV, Worldwaker2, и Yoshachobi7.
+  Декораторы by Appels, butcherberries, Lyra, PowerAV, Worldwaker2 и Yoshachobi7.
   Над камерой работали Agent, butcherberries и Worldwaker2.
   Отдельная благодарность посвящается Cruor, JaThePlayer и Xaphan.
 
 StrawberryJam2021_0_Lobbies_5_Grandmaster_Credits=
-  Разработку Грандастер Лобби возглавили tobyaaa и valkyria.
+  Разработку Грандмастер Лобби возглавили tobyaaa и valkyria.
   Макет разработали tobyaaa и valkyria.
-  Входы на карты сделали BossSauce, Maya, Soloiini, tobyaaa, valkyria, Vina, и Xplosives.
-  Графику нарисовали Bissy, Coffe, citrea, DanTKO, Dr\. Pufferfeesh, KAERRA, kat, nerferd_, Nikko, tobyaaa, and valkyria, with stylegrounds by citrea.
+  Входы на карты сделали BossSauce, Maya, Soloiini, tobyaaa, valkyria, Vina и Xplosives.
+  Графику нарисовали Bissy, Coffe, citrea, DanTKO, Dr\. Pufferfeesh, KAERRA, kat, nerferd_, Nikko, tobyaaa и valkyria, а задний фон citrea.
   Композитор BeanJammin, с живым исполнением на музыкальном роге от Eric Steele.
-  Декораторы Gamation, tobyaaa, valkyria, and Xplosives.
-  Над камерой работали tobyaaa and valkyria.
-  Маску для заднего фона кодил lilybeevee, и спрайт монумента с кредитами сделал neo_zoid.
-  Отдельная благодарность посвящается Alisticious за плейтестинг, и JaThePlayer, Vexatos, Viv, и Xaphan за исправления кода и отладку.
+  Декораторы Gamation, tobyaaa, valkyria и Xplosives.
+  Над камерой работали tobyaaa и valkyria.
+  Маску для заднего фона кодил lilybeevee, а спрайт монумента с кредитами сделал neo_zoid.
+  Отдельная благодарность посвящается Alisticious за плейтест, и JaThePlayer, Vexatos, Viv и Xaphan за отладку и исправление кода.
 
 # === Heartside Credits
 
 StrawberryJam2021_1_Beginner_Heartside_Credits=
-  Бегиннер Хартсайд проектировал и объединил Quinnigan. 
-  Переходы и чекпоинт комнаты декорировали Bissy, Coffe, Earthwise, и TyKim.
+  Бегиннер Хартсайд спроектировал и объединил Quinnigan. 
+  Переходы и чекпоинт комнаты декорировали Bissy, Coffe, Earthwise и TyKim.
   Геймплей и декорации, не связанные с лобби, были сделаны их оригинальными создателями, за некоторыми исключениями:
   Флаг для Azure Caverns сделал SpiritDragon.
   Флаг для Midnight Spire декорировал Gamation.
@@ -202,24 +202,24 @@ StrawberryJam2021_1_Beginner_Heartside_Credits=
   Флаг для Troposphere сделали Bissy и Eclipse.
   Задний фон нарисовал Earthwise и перекрасил nerferd_.
   Композитор Ceph.
-  Плейтестинг провели butcherberries, LegS, MousseMoose, и Owen Shirrell.
+  Плейтест провели butcherberries, LegS, MousseMoose и Owen Shirrell.
   Отдельная благодарность посвящается valkyria за дополнительную полировку.
 
 StrawberryJam2021_2_Intermediate_Heartside_Credits=
-  Интермедиэйт Хартсайд проектировали и объединили Holly, Phrog, Rocketguy2, и Scroogle.
-  Переходы между флагами сделали Phrog, Scroogle, Worldwaker2, и Xplosives.
-  Чекпоинт комнаты сделали и декорировали butcherberries, Firefox529, fonda1515, Gamation, LegS, Phrog, и xolimono. 
+  Интермедиэйт Хартсайд спроектировали и объединили Holly, Phrog, Rocketguy2 и Scroogle.
+  Переходы между флагами сделали Phrog, Scroogle, Worldwaker2 и Xplosives.
+  Чекпоинт комнаты сделали и декорировали butcherberries, Firefox529, fonda1515, Gamation, LegS, Phrog и xolimono. 
   Геймплей и декорации, не связанные с лобби, были сделаны их оригинальными создателями, за одним исключением:
   Флаг для In Filtration сделали Jems и Rocketguy2.
-  Графику нарисовали Bissy, nerferd_, Phrog, и Worldwaker2.
+  Графику нарисовали Bissy, nerferd_, Phrog и Worldwaker2.
   Композитор BeanJammin.
-  Плейтестинг провел Xplosives.
+  Плейтест провел Xplosives.
   Отдельная благодарность посвящается Worldwaker2 и Xplosives за помощь с визуалом и настройкой камеры. 
 
 StrawberryJam2021_3_Advanced_Heartside_Credits=
-  Адвансед Хартсайд проектировали и объединили Aiden, Oppen_heimer, и Worldwaker2.
-  Переходы между флагами сделали Aiden, bryse0n, Gamation, и Worldwaker2.
-  Чекпоинт комнаты сделали bryse0n, Gamation, и Worldwaker2.
+  Адвансед Хартсайд спроектировали и объединили Aiden, Oppen_heimer и Worldwaker2.
+  Переходы между флагами сделали Aiden, bryse0n, Gamation и Worldwaker2.
+  Чекпоинт комнаты сделали bryse0n, Gamation и Worldwaker2.
   Геймплей и декорации, не связанные с лобби, были выполнены их оригинальными создателями, за некоторыми исключениями:
   Флаг для Golden Dawn сделали bryse0n и Worldwaker2, декорировал Worldwaker2.
   Флаг для The Lab сделал и декорировал Worldwaker2.
@@ -230,16 +230,16 @@ StrawberryJam2021_3_Advanced_Heartside_Credits=
   Флаг для Tectonic Trenches сделал Aiden.
   Флаг для Thinking With Portals сделали Owen Shirrell и sp1029, декорировал PowerAV.
   Флаг для Toggle Theory сделали Citrea и Worldwaker2.
-  Графику для Адвансед Хартсайд нарисовали Bissy, bryse0n, nerferd_, и Worldwaker2.
-  Кодом занимались Aiden, Bigkahuna, и Viv.
+  Графику для Адвансед Хартсайд нарисовали Bissy, bryse0n, nerferd_ и Worldwaker2.
+  Кодом занимались Aiden, Bigkahuna и Viv.
   Композитор Ceph.
-  Плейтестинг провели Alisticious, butcherberries, LegS, и MousseMoose.
+  Плейтест провели Alisticious, butcherberries, LegS и MousseMoose.
 
 StrawberryJam2021_4_Expert_Heartside_Credits=
-  Эксперт Хартсайд проектировали и объединили Agent, butcherberries, Cabob, Moladan, и Ru.
-  Переходы между флагами сделали butcherberries, LegS, Moladan, и Yoshachobi7.
-  Чекпоинт комнаты сделали butcherberries, LegS, и Yoshachobi7.
-  Переходы в начале и в конце сделали Agent, Aiden, butcherberries, catapillie, Moladan, and Yoshachobi7, помощь предоставили LegS и Xplosives.
+  Эксперт Хартсайд спроектировали и объединили Agent, butcherberries, Cabob, Moladan и Ru.
+  Переходы между флагами сделали butcherberries, LegS, Moladan и Yoshachobi7.
+  Чекпоинт комнаты сделали butcherberries, LegS и Yoshachobi7.
+  Переходы в начале и в конце сделали Agent, Aiden, butcherberries, catapillie, Moladan и Yoshachobi7, помощь предоставили LegS и Xplosives.
   Геймплей и декорации, не связанные с лобби, были выполнены их оригинальными создателями, за некоторыми исключениями:
   Флаг для Garden of Khu'tara сделали DanTKO и Cabob.
   Флаг для Golden Alleyway декорировал BossSauce.
@@ -247,24 +247,24 @@ StrawberryJam2021_4_Expert_Heartside_Credits=
   Флаг для Lunar Pagoda декорировал butcherberries.
   Флаг для Mosaic Garden декорировали Appels и butcherberries.
   Флаг для Plasma Reactor декорировали butcherberries и LegS.
-  Задний фон для Эксперт Хартсайд нарисовали DanTKO, Maildropfolder, и nerferd_.
-  Графику для Эксперт Хартсайд нарисовали butcherberries, Cabob, LegS, xolimono, и Yoshachobi7.
-  Написанием и отладкой кода для Эксперт Хартсайд занимались Agent, JaThePlayer, и maddie480.
+  Задний фон для Эксперт Хартсайд нарисовали DanTKO, Maildropfolder и nerferd_.
+  Графику для Эксперт Хартсайд нарисовали butcherberries, Cabob, LegS, xolimono и Yoshachobi7.
+  Написанием и отладкой кода для Эксперт Хартсайд занимались Agent, JaThePlayer и maddie480.
   Композитор catapillie.
-  Плейтестинг провели 0dot006prcnts, Rin_Jagste, и Moladan.
+  Плейтест провели 0dot006prcnts, Rin_Jagste и Moladan.
   Отдельная благодарность посвящается butcherberries, его рассудок навсегда утерян в глубинах порталов Кахуны. Покойся с миром, где бы ты ни был.
 
 StrawberryJam2021_5_Grandmaster_Heartside_Credits=
-  Грандмастер Хартсайд проектировал и объединил valkyria.
+  Грандмастер Хартсайд сспроектировал и объединил valkyria.
   Переходы между флагами и чекпоинт комнаты сделал valkyria.
   Геймплей и декорации, не связанные с лобби, были выполнены их оригинальными создателями, за некоторыми исключениями:
   Флаг для Shattersong сделали Ecl1psed и Xplosives, декорировали valkyria и Xplosives.
   Флаг для summit сделали Ecl1psed и Soloiini, декорировали Soloiini и valkyria.
   Флаг для World Abyss сделали Ecl1psed и Maya.
   Графику для Грандмастер Хартсайд нарисовали Citrea и nerferd_.
-  Написанием и отладкой кода для Грандмастер Хартсайд занимались catapillie, JaThePlayer, maddie480, Vexatos, и Viv.
+  Написанием и отладкой кода для Грандмастер Хартсайд занимались catapillie, JaThePlayer, maddie480, Vexatos и Viv.
   Композиторы BeanJammin и quadratic97. 
-  Плейтестинг провели 0dot006prcnts, Ecl1psed, Fraz, Gamation, Rin_Jagste, Topaz, и Xplosives.
+  Плейтест провели 0dot006prcnts, Ecl1psed, Fraz, Gamation, Rin_Jagste, Topaz и Xplosives.
   Отдельная благодарность посвящается quadratic97 за написание кассет-ремикса.
 
 # === Gym Credits
@@ -1233,7 +1233,7 @@ StrawberryJam2021_3_Advanced_ZZ_Heartside_postcard=
 StrawberryJam2021_3_Advanced_ZZ_Heartside_Crest= Хребты
 StrawberryJam2021_3_Advanced_ZZ_Heartside_Ravine= Равнины
 StrawberryJam2021_3_Advanced_ZZ_Heartside_Aquifer= Бухты
-StrawberryJam2021_3_Advanced_ZZ_Heartside_Landing= Равнины
+StrawberryJam2021_3_Advanced_ZZ_Heartside_Landing= Поля
 poem_StrawberryJam2021_3_Advanced_ZZ_Heartside_A= Реликвии Прошлого
 StrawberryJam2021_3_Advanced_ZZ_Heartside_author=
   the Advanced Heart Side
@@ -1693,7 +1693,7 @@ StrawberryJam2021_5_Grandmaster_fishtank_collabcredits=
 StrawberryJam2021_5_Grandmaster_Hydro=
   Shattersong
 StrawberryJam2021_5_Grandmaster_Hydro_postcard=
-  {big}Слушай внимательно{/big}{n}Геймплей этой карты основан на {# 4a8ef7}музыкальном ритме{#}!{n}Рекомендуется играть в {# ca2e55}наушниках{#}.
+  {big}Слушай внимательно:{/big}{n}Геймплей этой карты основан на {# 4a8ef7}музыкальном ритме{#}!{n}Рекомендуется играть в {# ca2e55}наушниках{#}.
 StrawberryJam2021_5_Grandmaster_Hydro_author=
   от Hydro и других
 StrawberryJam2021_5_Grandmaster_Hydro_collabcredits=
@@ -1911,7 +1911,7 @@ SJ2021_alisticious_bird_3= Шорюкен
 
 SJ2021_alisticious_cablog= 
 Cablog #²
-Чтобы выполнить демо-дэш, прыгните, затем не нажимайте вашу кнопку дэша присев, затем выполните демо-дэш.
+Чтобы выполнить демо-дэш, прыгните, затем не нажимайте вашу кнопку рывка присев, затем выполните демо-дэш.
 Поздравляю! Вы выполнили демо-дэш.
 TheIceATheWallBounce
 Это может пригодиться, если вы когда-нибудь хотите выбраться отсюда и заниматься чем-нибудь, кроме как слушать, как я пишу сообщения в лог.
@@ -2997,7 +2997,7 @@ SJ2021_fishtank_reception=
 [MADELINE left distracted]
 Почему здесь всё покрыто льдом?
 [OSHIRO right nervous]
-Приношу вам глубочайшие извенения.
+Приношу свои глубочайшие извинения.
 [OSHIRO right serious]
 Видите ли, значительная часть здания замёрзла из-за сильного изменения климата. 
 [OSHIRO right worried]
@@ -3029,9 +3029,9 @@ SJ2021_fishtank_reception=
 [MADELINE left sad]
 И какой у нас план?
 [OSHIRO right worried]
-Вполне возможно что мы выберемся через вентиляцию.
+Вполне возможно, что мы сможем выбраться через вентиляцию.
 [OSHIRO right nervous]
-Не могли бы вы узнать, есть ли лёд в воздуховоде? {n}Я последую за вами.
+Не могли бы вы узнать, не замёрз ли там проход? {n}Я последую за вами.
 [MADELINE left normal]
 Хорошо, не отставайте!
 
@@ -6065,7 +6065,6 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 2.0}Замечательно, сделай ещё один {# F2F200}дэш влево{#} и {#f04e4e}ухватись{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_28=
-
   [Badeline right normal] {>> 2.0}Тут линия {# F2F200}Кристаллов Дэша{#}, просто лети {# F2F200}вправо{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_29=
@@ -6075,7 +6074,6 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 2.0}Тут всё легко, просто {#0069D5}зажми вправо{#}~{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_31=
-
   [Badeline right normal] {>> 2.0}Сделай {# F2F200}дэш вправо{#}, подожди, пока не коснёшься земли, затем  {#0069D5}зажми влево{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_32=
@@ -6097,7 +6095,6 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 2.0}Прекрасно, последняя комната! {n}{#0069D5}Нажимай вправо{#}, пока не упадёшь, затем быстро {#0069D5}зажми влево{#} и {#f04e4e}захват{#}.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_38=
-
   [Badeline right normal] {>> 2.0}Спустись вниз, чтобы коснуться пружины. После касания сделай {# F2F200}дэш вправо{#}! {n}Затем продолжай {#0069D5}двигаться вправо{#} и {#f04e4e}держать захват{#}.{>>}
 
 
@@ -6105,7 +6102,6 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 2.0}{#81AAD3}Взберись наверх{#}, быстро!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_40=
-
   [Badeline right normal] {>> 2.0}Сделай {#F2F200}дэш вправо{#}, а затем продолжай {#0069D5}держать вправо{#} и {#f04e4e}захват{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_41=
@@ -6116,7 +6112,6 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 2.5}Хорошо, {#81AAD3}взберись чуть-чуть выше{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_43=
-
   [Badeline right normal] {>> 2.0}Сделай {# F2F200}дэш вверх-влево{#}, и ты коснёшься пружины. После отскока, {#0069D5}зажми вправо{#} и сделай {# F2F200}дэш вверх-вправо{#}. Не забудь {#f04e4e}ухватиться за стену{#}!{>>}
 
 
@@ -6127,7 +6122,6 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 2.0}Внимание, эта комната с клубникой! Конец карты в другой месте.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_46=
-
   [Badeline right normal] {>> 2.0}{#1ffa85}Подпрыгни вверх{#} и сделай {# F2F200}дэш вверх-вправо{#}! {n}Когда коснёшься земли, {#0069D5}меееееедленно подвинься вправо{#}.{>>}
 
 
@@ -6141,7 +6135,6 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 2.0}Сделай {#1ffa85}прыжок вправо{#} на блок, затем продолжай {#0069D5}зажимать вправо{#}.{>>}
   
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_2=
-
   [Badeline right normal] {>> 2.5}Сделай {# F2F200}дэш вниз{#}; Блок, на котором ты стоишь, начнёт очень быстро двигаться! {n}Тебе нужно будет {#1ffa85}прыгнуть вверх{#} и сделать {# F2F200}дэш вверх-вправо{#} на пике твоего прыжка.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_2_2=
@@ -6154,13 +6147,12 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 2.0}Сделай {# F2F200}дэш влево{#}! {n}После {# F2F200}дэша{#}, тебе нужно сразу {#1ffa85}прыгнуть влево{#} и продолжать {#0069D5}двигаться в том же направлении{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_5=
-
+	[Badeline right normal] {>> 2.0}{#1ffa85}Прыгни влево{#} и сделай {# F2F200}рывок вверх-влево{#}, затем {#81AAD3}схватись за стену{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_5_2=
   [Badeline right normal] {>> 2.0}{#81AAD3}Взбирайся наверх{#}, пока не достигнешь искр.{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_5_3=
-
   [Badeline right normal] {>> 2.0}Продолжай {#81AAD3}взбираться наверх{#}, пока не поднимешься до других искр! Сделай {# F2F200}дэш вверх{#}, если будет нужно!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_6=
@@ -6179,20 +6171,16 @@ SJ2021_MousseMoose_10=
   [Badeline right normal] {>> 2.0}Спустись влево со стены. Продолжай нажимать влево до следующего диалога!{>>}
   
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_11=
-
   [Badeline right normal] {>> 2.0}Сделай {# F2F200}дэш вниз{#} и сделай ещё один {#1ffa85}прыжок с ускорением влево{#}!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_12=
   [Badeline right normal] {>> 2.0}Сделай {# F2F200}дэш вверх{#} и {#81AAD3}взбирайся наверх{#}, пока не услышишь {# F2F200}кристалл дэша{#}!{>>}
 
-
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_13=
   [Badeline right normal] {>> 2.0}Спустись вправо со стены. Продолжай нажимать вправо до следующего диалога!{>>}
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_14=
-
   [Badeline right normal] {>> 2.0}Сделай {# F2F200}дэш вниз{#} и сделай ещё один {#1ffa85}прыжок с ускорением вправо{#}, {#0069D5}зажми вправо{#} для победы~!{>>}
-
 
   SJ2021_NotYourBadeline_BadelineHelper_Heartside_15=
   [Badeline right normal] {>> 2.0}{~}Удачи~{/~}{>>}
