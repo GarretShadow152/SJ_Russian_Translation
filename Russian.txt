@@ -136,7 +136,7 @@ StrawberryJam2021_0_Lobbies_0_Prologue_Credits=
   Отдельная благодарность посвящается Coffe за дизайн макета, nerferd_ за лого, и Aiden за код.
 
 StrawberryJam2021_0_Lobbies_1_Beginner_Credits=
-  Разработку лобби для новичков возглавили Ceph, Coffe, и Owen Shirrell.
+  Разработку Бегиннер Лобби возглавили Ceph, Coffe, и Owen Shirrell.
   Входы на карты сделали ABuffZucchini, Asterisk, Circumplex, Earthwise, Flagpole1up, Linj, Mnstrman06, mosscairn, Owen Shirrell, Quinnigan, Ru, и Worldwaker2.
   Графику нарисовали Bissy, Chaotick, Circumplex, citrea, Coffe, Earthwise, the gbman, mosscairn, nerferd_, и PowerAV, задний фон нарисовали Earthwise и ansimuz.
   Композитор Ceph.
@@ -145,7 +145,7 @@ StrawberryJam2021_0_Lobbies_1_Beginner_Credits=
   Отдельная благодарность посвящается Alisticious за плейтестинг; Bissy, mosscairn, и PowerAV за концепт дизайн; и Cruor, JaThePlayer, и Xaphan за дополнительный код.
 
 StrawberryJam2021_0_Lobbies_2_Intermediate_Credits=
-  Разработку промежуточного лобби возглавили fonda1515, Holly, Phrog, и Scroogle.
+  Разработку Интермедиэйт Лобби возглавили fonda1515, Holly, Phrog, и Scroogle.
   Макет разработал Holly в последствии с правками от Jadeturtle.
   Входы на карты сделали bryse0n, Dooshii, fonda1515, LegS, Liero, Phrog, и Rocketguy2.
   Графику нарисовали butcherberries, Chaotick, DanTKO, Gamation, LegS, Linj, mosscairn, MousseMoose, nerferd_, Phrog, PowerAV, Scroogle, tobyaaa, и vexastrae, задний фон нарисовали DanTKO and nerferd_.
@@ -157,7 +157,7 @@ StrawberryJam2021_0_Lobbies_2_Intermediate_Credits=
   Отдельная благодарность посвящается Gamation за помощь с руковождением.
 
 StrawberryJam2021_0_Lobbies_3_Advanced_Credits= 
-  Разработку продвинутого лобби возглавили bryse0n, Ceph, и Jadeturtle.
+  Разработку Адвансед Лобби возглавили bryse0n, Ceph, и Jadeturtle.
   Макет разработали bryse0n, Ceph, Goldian, Jadeturtle, и MousseMoose.
   Входы на карты сделали BossSauce, bryse0n, Earthwise, Meario, Nic, и Worldwaker2.
   Графику нарисовали bryse0n, Chaotick, Circumplex, Coffe, Earthwise, M1n3c4rt, MousseMoose, nerferd_, 
@@ -168,7 +168,7 @@ StrawberryJam2021_0_Lobbies_3_Advanced_Credits=
   Отдельная благодарность посвящается Alisticious, Bigkahuna, JaThePlayer, Scroogle, и Xaphan за исправление кода, отладку и плейтестинг.	
 
 StrawberryJam2021_0_Lobbies_4_Expert_Credits= 
-  Разработку экспертного лобби возглавили Agent, Quinnigan и Ru.
+  Разработку Эксперт Лобби возглавили Agent, Quinnigan и Ru.
   Макет разработали Quinnigan с исправлениями от Agent, Lyra и Ru.
   Входы на карты сделали Agent, Appels, BossSauce, butcherberries, DanTKO, Flamecrafter113, Lyra, Phrog, PowerAV, Ru, Scroogle, Valkyria, Vina и Yoshachobi7.
   Графику нарисовали butcherberries, Chaotick, DanTKO, Glow Woomii, nerferd_, Phrog, PowerAV, Ru, Worldwaker2 и Yoshachobi7, задний фон нарисовали Maildropfolder, nerferd_, and PowerAV.
@@ -178,7 +178,7 @@ StrawberryJam2021_0_Lobbies_4_Expert_Credits=
   Отдельная благодарность посвящается Cruor, JaThePlayer и Xaphan.
 
 StrawberryJam2021_0_Lobbies_5_Grandmaster_Credits=
-  Разработку грандмастер лобби возглавили tobyaaa и valkyria.
+  Разработку Грандастер Лобби возглавили tobyaaa и valkyria.
   Макет разработали tobyaaa и valkyria.
   Входы на карты сделали BossSauce, Maya, Soloiini, tobyaaa, valkyria, Vina, и Xplosives.
   Графику нарисовали Bissy, Coffe, citrea, DanTKO, Dr\. Pufferfeesh, KAERRA, kat, nerferd_, Nikko, tobyaaa, and valkyria, with stylegrounds by citrea.
