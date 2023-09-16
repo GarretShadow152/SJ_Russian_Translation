@@ -165,7 +165,7 @@ StrawberryJam2021_0_Lobbies_3_Advanced_Credits=
   Композитор Ceph.
   Декораторы bryse0n, Gamation, Jadeturtle и Worldwaker2.
   Над камерой работал Worldwaker2.
-  Отдельная благодарность посвящается Alisticious, Bigkahuna, JaThePlayer, Scroogle и Xaphan за исправление кода, отладку и плейтест.	
+  Отдельная благодарность посвящается Alisticious, Bigkahuna, JaThePlayer, Scroogle и Xaphan за отладку кода и плейтест.	
 
 StrawberryJam2021_0_Lobbies_4_Expert_Credits= 
   Разработку Эксперт Лобби возглавили Agent, Quinnigan и Ru.
@@ -186,7 +186,7 @@ StrawberryJam2021_0_Lobbies_5_Grandmaster_Credits=
   Декораторы Gamation, tobyaaa, valkyria и Xplosives.
   Над камерой работали tobyaaa и valkyria.
   Маску для заднего фона кодил lilybeevee, а спрайт монумента с кредитами сделал neo_zoid.
-  Отдельная благодарность посвящается Alisticious за плейтест, и JaThePlayer, Vexatos, Viv и Xaphan за отладку и исправление кода.
+  Отдельная благодарность посвящается Alisticious за плейтест, и JaThePlayer, Vexatos, Viv и Xaphan за отладку кода.
 
 # === Heartside Credits
 
@@ -255,7 +255,7 @@ StrawberryJam2021_4_Expert_Heartside_Credits=
   Отдельная благодарность посвящается butcherberries, его рассудок навсегда утерян в глубинах порталов Кахуны. Покойся с миром, где бы ты ни был.
 
 StrawberryJam2021_5_Grandmaster_Heartside_Credits=
-  Грандмастер Хартсайд сспроектировал и объединил valkyria.
+  Грандмастер Хартсайд спроектировал и объединил valkyria.
   Переходы между флагами и чекпоинт комнаты сделал valkyria.
   Геймплей и декорации, не связанные с лобби, были выполнены их оригинальными создателями, за некоторыми исключениями:
   Флаг для Shattersong сделали Ecl1psed и Xplosives, декорировали valkyria и Xplosives.
@@ -627,7 +627,7 @@ StrawberryJam2021_1_Beginner_ZZ_Heartside_cp5_checkpoint= Переплетени
 StrawberryJam2021_1_Beginner_ZZ_Heartside_cp6_checkpoint= Возвращение
 poem_StrawberryJam2021_1_Beginner_ZZ_HeartSide_A= Приливы и Отливы
 StrawberryJam2021_1_Beginner_ZZ_Heartside_author=
-  the Beginner Heart Side
+  Бегиннер Хартсайд
 
 # === Intermediate Lobby
 StrawberryJam2021_2_Intermediate_arphimigon=
@@ -874,7 +874,7 @@ StrawberryJam2021_2_Intermediate_ZZ_Heartside_cp3_0_Cp= Мицелий
 StrawberryJam2021_2_Intermediate_ZZ_Heartside_cp4_0_Cp= Петрикор
 poem_StrawberryJam2021_2_Intermediate_ZZ_Heartside_A= Древо Жизни
 StrawberryJam2021_2_Intermediate_ZZ_Heartside_author=
-  the Intermediate Heart Side
+  Интермедиэйт Хартсайд
 
 # === Advanced Lobby
 
@@ -1236,7 +1236,7 @@ StrawberryJam2021_3_Advanced_ZZ_Heartside_Aquifer= Бухты
 StrawberryJam2021_3_Advanced_ZZ_Heartside_Landing= Поля
 poem_StrawberryJam2021_3_Advanced_ZZ_Heartside_A= Реликвии Прошлого
 StrawberryJam2021_3_Advanced_ZZ_Heartside_author=
-  the Advanced Heart Side
+  Адвансед Хартсайд
 
 # === Expert Lobby
 
@@ -1606,7 +1606,7 @@ StrawberryJam2021_4_Expert_ZZ_Heartside_e00_intro= Уничтожен
 StrawberryJam2021_4_Expert_ZZ_Heartside_f00_intro= Ликвидирован
 poem_StrawberryJam2021_4_Expert_ZZ_Heartside_A= Столпы Творения
 StrawberryJam2021_4_Expert_ZZ_Heartside_author=
-  the Expert Heart Side
+  Эксперт Хартсайд
 
 # === Grandmaster Lobby
 StrawberryJam2021_5_Grandmaster_alisticious= 
@@ -1892,7 +1892,7 @@ StrawberryJam2021_5_Grandmaster_ZZ_HeartSide_e0_Clarity= Ясность
 StrawberryJam2021_5_Grandmaster_ZZ_HeartSide_f0_Icarus= Полёт
 poem_StrawberryJam2021_5_Grandmaster_ZZ_HeartSide_A= Апофеоз
 StrawberryJam2021_5_Grandmaster_ZZ_HeartSide_author=
-  the Grandmaster Heart side
+  Грандмастер Хартсайд
 
 # === Agent
 
