@@ -37,12 +37,12 @@ StrawberryJam2021_5_Grandmaster_ZZ_HeartSide=
 StrawberryJam2021_0_Lobbies_0_Prologue= 
   Пролог
 StrawberryJam2021_0_Lobbies_1_Beginner=
-  Начальное Лобби
+  Бегиннер Лобби
 StrawberryJam2021_0_Lobbies_2_Intermediate=
-  Промежуточное Лобби
+  Интермедиэйт Лобби
 StrawberryJam2021_0_Lobbies_3_Advanced=
-  Продвинутое Лобби
-StrawberryJam2021_0_Lobbies_4_Эксперт=
+  Адвансед Лобби
+StrawberryJam2021_0_Lobbies_4_Expert=
   Эксперт Лобби
 StrawberryJam2021_0_Lobbies_5_Grandmaster=
   Грандмастер Лобби
