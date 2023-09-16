@@ -167,7 +167,7 @@ StrawberryJam2021_0_Lobbies_3_Advanced_Credits=
   Над камерой работал Worldwaker2.
   Отдельная благодарность посвящается Alisticious, Bigkahuna, JaThePlayer, Scroogle, и Xaphan за исправление кода, отладку и плейтестинг.	
 
-StrawberryJam2021_0_Lobbies_4_Эксперт_Credits= 
+StrawberryJam2021_0_Lobbies_4_Expert_Credits= 
   Разработку экспертного лобби возглавили Agent, Quinnigan и Ru.
   Макет разработали Quinnigan с исправлениями от Agent, Lyra и Ru.
   Входы на карты сделали Agent, Appels, BossSauce, butcherberries, DanTKO, Flamecrafter113, Lyra, Phrog, PowerAV, Ru, Scroogle, Valkyria, Vina и Yoshachobi7.
@@ -217,7 +217,7 @@ StrawberryJam2021_2_Intermediate_Heartside_Credits=
   Отдельная благодарность посвящается Worldwaker2 и Xplosives за помощь с визуалом и настройкой камеры. 
 
 StrawberryJam2021_3_Advanced_Heartside_Credits=
-  Advanced Хартсайд проектировали и объединили Aiden, Oppen_heimer, и Worldwaker2.
+  Адвансед Хартсайд проектировали и объединили Aiden, Oppen_heimer, и Worldwaker2.
   Переходы между флагами сделали Aiden, bryse0n, Gamation, и Worldwaker2.
   Чекпоинт комнаты сделали bryse0n, Gamation, и Worldwaker2.
   Геймплей и декорации, не связанные с лобби, были выполнены их оригинальными создателями, за некоторыми исключениями:
@@ -230,7 +230,7 @@ StrawberryJam2021_3_Advanced_Heartside_Credits=
   Флаг для Tectonic Trenches сделал Aiden.
   Флаг для Thinking With Portals сделали Owen Shirrell и sp1029, декорировал PowerAV.
   Флаг для Toggle Theory сделали Citrea и Worldwaker2.
-  Графику для Advanced Хартсайд нарисовали Bissy, bryse0n, nerferd_, и Worldwaker2.
+  Графику для Адвансед Хартсайд нарисовали Bissy, bryse0n, nerferd_, и Worldwaker2.
   Кодом занимались Aiden, Bigkahuna, и Viv.
   Композитор Ceph.
   Плейтестинг провели Alisticious, butcherberries, LegS, и MousseMoose.
