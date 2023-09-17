@@ -4024,7 +4024,7 @@ SJ2021_LethargicDoggo_ok=
 # === Liero
 
 SJ2021_Liero_A09CoreA=
-Он отдыхает, не нужно его беспокоить.
+Он чилит, не беспокоить.
 
 SJ2021_Liero_A00=
 [MADELINE left normal]
