@@ -24,15 +24,15 @@ StrawberryJam2021_5_Grandmaster=
   Strawberry Jam Collab - Грандмастер
 
 StrawberryJam2021_1_Beginner_ZZ_HeartSide=
-  Черничный Залив
+  Blueberry Bay
 StrawberryJam2021_2_Intermediate_ZZ_HeartSide=
-  Малиновые Корни
+  Raspberry Roots
 StrawberryJam2021_3_Advanced_ZZ_HeartSide=
-  Манговая Меса
+  Mango Mesa
 StrawberryJam2021_4_Expert_ZZ_HeartSide=
-  Звёздноплодная Супернова
+  Starfruit Supernova
 StrawberryJam2021_5_Grandmaster_ZZ_HeartSide=
-  Плодострастный Пантеон
+  Passionfruit Pantheon
   
 StrawberryJam2021_0_Lobbies_0_Prologue= 
   Пролог
