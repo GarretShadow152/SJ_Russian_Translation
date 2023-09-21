@@ -136,7 +136,7 @@ StrawberryJam2021_0_Lobbies_0_Prologue_Credits=
   Отдельная благодарность посвящается Coffe за дизайн макета, nerferd_ за лого и Aiden за код.
 
 StrawberryJam2021_0_Lobbies_1_Beginner_Credits=
-  Разработку Бегиннер Лобби возглавили Ceph, Coffe и Owen Shirrell.
+  Разработку Бегинер Лобби возглавили Ceph, Coffe и Owen Shirrell.
   Входы на карты сделали ABuffZucchini, Asterisk, Circumplex, Earthwise, Flagpole1up, Linj, Mnstrman06, mosscairn, Owen Shirrell, Quinnigan, Ru и Worldwaker2.
   Графику нарисовали Bissy, Chaotick, Circumplex, citrea, Coffe, Earthwise, the gbman, mosscairn, nerferd_ и PowerAV, задний фон нарисовали Earthwise и ansimuz.
   Композитор Ceph.
@@ -191,7 +191,7 @@ StrawberryJam2021_0_Lobbies_5_Grandmaster_Credits=
 # === Heartside Credits
 
 StrawberryJam2021_1_Beginner_Heartside_Credits=
-  Бегиннер Хартсайд спроектировал и объединил Quinnigan. 
+  Бегинер Хартсайд спроектировал и объединил Quinnigan. 
   Переходы и чекпоинт комнаты декорировали Bissy, Coffe, Earthwise и TyKim.
   Геймплей и декорации, не связанные с лобби, были сделаны их оригинальными создателями, за некоторыми исключениями:
   Флаг для Azure Caverns сделал SpiritDragon.
@@ -230,7 +230,7 @@ StrawberryJam2021_3_Advanced_Heartside_Credits=
   Флаг для Tectonic Trenches сделал Aiden.
   Флаг для Thinking With Portals сделали Owen Shirrell и sp1029, декорировал PowerAV.
   Флаг для Toggle Theory сделали Citrea и Worldwaker2.
-  Графику для Адвансед Хартсайд нарисовали Bissy, bryse0n, nerferd_ и Worldwaker2.
+  Графику для Адвансед Хартсайда нарисовали Bissy, bryse0n, nerferd_ и Worldwaker2.
   Кодом занимались Aiden, Bigkahuna и Viv.
   Композитор Ceph.
   Плейтест провели Alisticious, butcherberries, LegS и MousseMoose.
@@ -247,8 +247,8 @@ StrawberryJam2021_4_Expert_Heartside_Credits=
   Флаг для Lunar Pagoda декорировал butcherberries.
   Флаг для Mosaic Garden декорировали Appels и butcherberries.
   Флаг для Plasma Reactor декорировали butcherberries и LegS.
-  Задний фон для Эксперт Хартсайд нарисовали DanTKO, Maildropfolder и nerferd_.
-  Графику для Эксперт Хартсайд нарисовали butcherberries, Cabob, LegS, xolimono и Yoshachobi7.
+  Задний фон для Эксперт Хартсайда нарисовали DanTKO, Maildropfolder и nerferd_.
+  Графику для Эксперт Хартсайда нарисовали butcherberries, Cabob, LegS, xolimono и Yoshachobi7.
   Написанием и отладкой кода для Эксперт Хартсайд занимались Agent, JaThePlayer и maddie480.
   Композитор catapillie.
   Плейтест провели 0dot006prcnts, Rin_Jagste и Moladan.
@@ -261,7 +261,7 @@ StrawberryJam2021_5_Grandmaster_Heartside_Credits=
   Флаг для Shattersong сделали Ecl1psed и Xplosives, декорировали valkyria и Xplosives.
   Флаг для summit сделали Ecl1psed и Soloiini, декорировали Soloiini и valkyria.
   Флаг для World Abyss сделали Ecl1psed и Maya.
-  Графику для Грандмастер Хартсайд нарисовали Citrea и nerferd_.
+  Графику для Грандмастер Хартсайда нарисовали Citrea и nerferd_.
   Написанием и отладкой кода для Грандмастер Хартсайд занимались catapillie, JaThePlayer, maddie480, Vexatos и Viv.
   Композиторы BeanJammin и quadratic97. 
   Плейтест провели 0dot006prcnts, Ecl1psed, Fraz, Gamation, Rin_Jagste, Topaz и Xplosives.
