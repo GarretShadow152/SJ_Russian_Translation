@@ -165,7 +165,7 @@ MODOPTIONS_EXTENDEDVARIANTS_BADELINEPATTERN_10= Ничего
 MODOPTIONS_EXTENDEDVARIANTS_BADELINEPATTERN_14= Быстрый луч
 MODOPTIONS_EXTENDEDVARIANTS_BADELINEPATTERN_15= Медленный луч
 
-MODOPTIONS_EXTENDEDVARIANTS_COLORGRADING=   Цветовой Фильтр
+MODOPTIONS_EXTENDEDVARIANTS_COLORGRADING=   Цветовой фильтр
 MODOPTIONS_EXTENDEDVARIANTS_CG_NONE=    Никакой
 MODOPTIONS_EXTENDEDVARIANTS_CG_COLD=    Холодный
 MODOPTIONS_EXTENDEDVARIANTS_CG_HOT=     Горячий
@@ -191,7 +191,7 @@ MODOPTIONS_EXTENDEDVARIANTS_RISINGLAVASPEED=    Скорость лавы/льд
 
 MODOPTIONS_EXTENDEDVARIANTS_EXPLODELAUNCHSPEED= Скорость бампербуста
 MODOPTIONS_EXTENDEDVARIANTS_DISABLESUPERBOOSTS= Отключить бампербуст
-MODOPTIONS_EXTENDEDVARIANTS_DISABLESUPERBOOSTS_NOTE=    Ускорение, получаемое нажатием в сторону от взрыва от бамперов, паферов, сикеров
+MODOPTIONS_EXTENDEDVARIANTS_DISABLESUPERBOOSTS_NOTE=    Ускорение, получаемое нажатием в сторону от взрыва
 
 MODOPTIONS_EXTENDEDVARIANTS_HORIZONTALSPRINGBOUNCEDURATION= Горизонтальная длительность от пружины
 MODOPTIONS_EXTENDEDVARIANTS_HORIZONTALWALLJUMPDURATION= Горизонтальная длительность прыжка от стен
@@ -266,7 +266,7 @@ MODOPTIONS_EXTENDEDVARIANTS_RESTOREDASHESONRESPAWN_NOTE=    Если вы при
 MODOPTIONS_EXTENDEDVARIANTS_DISPLAYDASHCOUNT=   Отображать количество рывков
 
 MODOPTIONS_EXTENDEDVARIANTS_EVERYJUMPISULTRA=   Все прыжки как ультры
-MODOPTIONS_EXTENDEDVARIANTS_EVERYJUMPISULTRA_DESC=  Получать 1.2x ультрабуст и приседаете во время прыжка
+MODOPTIONS_EXTENDEDVARIANTS_EVERYJUMPISULTRA_DESC=  Получать 1.2x ультрабуст и приседать во время прыжка
 
 MODOPTIONS_EXTENDEDVARIANTS_ULTRASPEEDMULTIPLIER=   Множитель скорости от Ультра
 MODOPTIONS_EXTENDEDVARIANTS_ULTRASPEEDMULTIPLIER_DESC= Изменяет 1.2x множитель ультрабуста
@@ -277,7 +277,7 @@ MODOPTIONS_EXTENDEDVARIANTS_DASHRESTRICTION_GROUNDED= Только наземн�
 MODOPTIONS_EXTENDEDVARIANTS_DASHRESTRICTION_AIRBORNE= Только в воздухе
 
 MODOPTIONS_EXTENDEDVARIANTS_COYOTETIME= Койот-фреймы
-MODOPTIONS_EXTENDEDVARIANTS_COYOTETIME_DESC=    Время после схождения с поверхности, в которое вы можете отпрыгнуть от воздуха
+MODOPTIONS_EXTENDEDVARIANTS_COYOTETIME_DESC=    Время, после схождения с поверхности, в которое вы можете отпрыгнуть от воздуха
 
 MODOPTIONS_EXTENDEDVARIANTS_NOFREEZEFRAMES= Без Фриз-фреймов
 MODOPTIONS_EXTENDEDVARIANTS_NOFREEZEFRAMES_DESC=    Не замораживать игру во время рывка, подбора кристалла рывка и т.д.
