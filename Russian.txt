@@ -3425,6 +3425,93 @@ HankyMueller_Intro_Baddy_01=
 [BADELINE right worried]
 ...ладно.
 
+# Intro A
+SJ2021_1_Beginner_gifthint00=
+[]
+Если вы застряли, вы можете найти подсказки к комнате, в которой находитесь!
+
+# Intro B
+SJ2021_1_Beginner_gifthint01=
+[]
+Вы использовали всё, что есть в этой комнате?
+
+# Double Vision 1 
+SJ2021_1_Beginner_gifthint02=
+[]
+Сбор 3 осколков восстановит ваш дэш.
+
+# Timestop Intro 1 
+SJ2021_1_Beginner_gifthint03=
+[]
+Вам нужно вернуться сюда с ключём.
+
+# Shuffle
+SJ2021_1_Beginner_gifthint04=
+[]
+Вы можете собирать осколки в разном порядке.
+
+# Feedback Loop
+SJ2021_1_Beginner_gifthint05=
+[]
+Осколкам нужно время на восстановление; тяните время.
+
+# Double Vision 2
+SJ2021_1_Beginner_gifthint06=
+[]
+Вам нужно сохранить падающую пружину до самого конца.
+
+# Timestop Intro 2
+SJ2021_1_Beginner_gifthint07=
+[]
+Время продолжит свой ход, если у вас не будет дэша.
+
+# Waiting Room
+SJ2021_1_Beginner_gifthint08=
+[]
+Ответ находится в другой комнате.
+
+# Timestop Intro Again
+SJ2021_1_Beginner_gifthint09=
+[]
+Чем дольше вы сохраняете дэш, тем дольше время будет стоять.
+
+# Stepping Stone
+SJ2021_1_Beginner_gifthint10=
+[]
+Вы можете сделать дэш над осыпающимся блоком, даже если он не исчез.
+You can dash over the crumble block even if it isn't gone.
+
+# Fork
+SJ2021_1_Beginner_gifthint11=
+[]
+Один осколок нужно собрать пока время идёт, остальные пока оно заморожено.
+
+# Seeded Berry
+SJ2021_1_Beginner_gifthint12=
+[]
+Собирайте семечко внизу-справа вторым.
+
+# Staircase
+SJ2021_1_Beginner_gifthint13=
+[]
+Вам нужно создать две лестницы из движущихся блоков.
+
+# Easter Egg Puzzle
+SJ2021_1_Beginner_gifthint14=
+[]
+Вам нужно собрать три осколка тремя разными способами.
+
+# Heartside
+SJ2021_1_Beginner_gifthint15=
+[]
+Осколки восстанавливаются, пока время не остановлено.
+
+SJ2021_1_Beginner_giftwarning=
+[MADELINE left distracted]
+Похоже, я заблудилась... Но вроде бы мне {n}точно не сюда…
+[] 
+(Эта комната не обязательна, и загадка здесь намного сложнее, чем на остальной карте. Удачи!)
+
 # === HiveMindsRule
 SJ2021_hivemind_TUTORIAL_TOUCHGRASS=Выйди Потрогай Траву
 
