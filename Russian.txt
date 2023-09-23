@@ -13,7 +13,7 @@ SJ2021_lobby_gym_tutorial_controls=
 StrawberryJam2021_0_Lobbies=
   Strawberry Jam Collab
 StrawberryJam2021_1_Beginner=
-  Strawberry Jam Collab - Бегиннер
+  Strawberry Jam Collab - Бегинер
 StrawberryJam2021_2_Intermediate=
   Strawberry Jam Collab - Интермедиэйт
 StrawberryJam2021_3_Advanced=
@@ -37,7 +37,7 @@ StrawberryJam2021_5_Grandmaster_ZZ_HeartSide=
 StrawberryJam2021_0_Lobbies_0_Prologue= 
   Пролог
 StrawberryJam2021_0_Lobbies_1_Beginner=
-  Бегиннер Лобби
+  Бегинер Лобби
 StrawberryJam2021_0_Lobbies_2_Intermediate=
   Интермедиэйт Лобби
 StrawberryJam2021_0_Lobbies_3_Advanced=
@@ -627,7 +627,7 @@ StrawberryJam2021_1_Beginner_ZZ_Heartside_cp5_checkpoint= Переплетени
 StrawberryJam2021_1_Beginner_ZZ_Heartside_cp6_checkpoint= Возвращение
 poem_StrawberryJam2021_1_Beginner_ZZ_HeartSide_A= Приливы и Отливы
 StrawberryJam2021_1_Beginner_ZZ_Heartside_author=
-  Бегиннер Хартсайд
+  Бегинер Хартсайд
 
 # === Intermediate Lobby
 StrawberryJam2021_2_Intermediate_arphimigon=
@@ -9796,7 +9796,7 @@ SJ2021_Credits_Heading_Captains= Капитаны
 SJ2021_Credits_Heading_Teams= Команды
 SJ2021_Credits_Category_Hosts= Хосты
 SJ2021_Credits_Category_Prologue= Пролог
-SJ2021_Credits_Category_Beginner= Бегиннер
+SJ2021_Credits_Category_Beginner= Бегинер
 SJ2021_Credits_Category_Intermediate= Интермедиэйт
 SJ2021_Credits_Category_Advanced= Адвансед
 SJ2021_Credits_Category_Expert= Эксперт
