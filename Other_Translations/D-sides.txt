@@ -376,7 +376,7 @@ nameguysdsidespackfarewelldsideMoomSectionMeterCount=((count))
 ### Fastbubbling Tutorial
 nameguysdsidespackfarewelldsidefastbubble1=
 	Знали ли вы: вы можете нажать дэш, когда вы попали в пузырь, чтобы тут же начать движение!
-	Это называется "{#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t{#d3ff9e}b{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#d3d3d3}"!!!
+	Это называется "{#ff9e9e}Ф{#ffc39e}а{#ffe09e}{#fcff9e}с{#d3ff9e}т{#b0ff9e}{#9effad}б{#9effea}а{#9eefff}{#9ecbff}б{#a49eff}л{#c09eff}{#e49eff}!{#d3d3d3}"!!!
 	Это полезно... чтобы быстро двигаться...
 	Попробуйте!
 
