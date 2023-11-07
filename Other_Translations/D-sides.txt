@@ -1,0 +1,1380 @@
+﻿# Monika's D-Sides Pack - Russian by GarretShadow
+#
+# Requirements for a translation:
+# -It must be complete and made from the English.txt from the latest available D-Side Pack version. Though translating the D-Side Museum stuff isn't strictly required.
+#
+# Notes for translating:
+# -Some of 9D's floating texts (e.g. in the Cassette CPs) may go off the screen or look silly if they are made longer, so try to keep those as concise as you can.
+# -If you're not sure what something means or how to translate something, do message me! (@monika#2237 on Discord)
+# -I can also send you a guide on how to translate the glitchy texts in the 9D Moonberry Section.
+#
+# -Any lines written after "#" like this are comments and don't have to be translated.
+# -Anything in {curly brackets} or ((double brackets)) are text commands and must not be changed. You may change their positions if needed though.
+# "{n}" is the newline command. Adjust if needed.
+#
+
+
+
+
+### In-game Campaign Title ~ Celeste D-Sides
+nameguysdsidespack_0=Celeste D-Sides IV: Завершающий танец Madeline и Monika
+
+
+
+### Chapter Complete Text (Regular D-Sides)
+monikadsidespack_chaptercomplete_a=D-Side пройден
+monikadsidespack_chaptercomplete_b=Тёмная сторона пройдена
+monikadsidespack_chaptercomplete_c=???
+monikadsidespack_chaptercomplete_d=D-Side полностью пройден
+
+### Chapter Complete Text (Final Goodbye)
+monikadsidespack_chaptercomplete_finalgoodbye_a=Финальное Прощание пройдено
+monikadsidespack_chaptercomplete_finalgoodbye_b=???
+monikadsidespack_chaptercomplete_finalgoodbye_c=???
+monikadsidespack_chaptercomplete_finalgoodbye_d=Финальное Прощание полностью пройдено
+
+
+
+### Chapter Complete/Clear Text (Museum Chapters)
+monikadsidespack_chaptercomplete_museum_old=(старый) D-Side пройден
+monikadsidespack_chaptercomplete_museum_oldold=(очень старый) D-Side пройден
+monikadsidespack_chaptercomplete_museum_oldfinalgoodbye=(старое) Финальное Прощание пройдено
+monikadsidespack_chaptercomplete_museum_eside=(неиспользуемый) E-Side пройден
+monikadsidespack_chaptercomplete_museum_unusedchapter=(неиспользуемая) Глава пройдена
+
+monikadsidespack_chaptercomplete_museum_clear_old=(старый) D-Side полностью пройден
+monikadsidespack_chaptercomplete_museum_clear_oldold=(очень старый) D-Side полностью пройден
+monikadsidespack_chaptercomplete_museum_clear_oldfinalgoodbye=(старое) Финальное прощание полностью пройдено
+monikadsidespack_chaptercomplete_museum_clear_eside=(неиспользуемый) E-Side полностью пройден
+monikadsidespack_chaptercomplete_museum_clear_unusedchapter=(неиспользуемая) Глава полностью пройдена
+
+
+
+### Chapter Complete Text ("Not Specified Yet") 	#Translator note: Leave this line unchanged.
+monikadsidespack_chaptercomplete_xxx=Title not specified yet.
+
+
+
+
+
+### D-Sides - Postcards!
+#
+# Note:
+# {#575757} - default text
+# {#ff6161} - red text
+# {#b561ff} - purple text
+
+
+nameguysdsidespack_0_1_City_postcard=
+{#ff6161}Совет скалолаза:{n}{n}{#575757}Когда ты взбираешься по стене слишком долго и начинаешь {#ff6161}мигать красным{#575757}, иногда ты {#ff6161}всё ещё можешь прыгнуть в последний раз{#575757}!
+nameguysdsidespack_0_2_Oldsite_postcard=
+{#ff6161}Совет скалолаза:{n}{n}{#575757}Прыжки по стене {#ff6161}используют выносливость{#575757},{n}но прыжки от стены {#ff6161}не делают этого{#575757}!
+
+
+
+
+
+##### Prologue #####
+
+nameguysdsidespack_0_0_Prologue=Пролог
+
+monikadsidespack_prologuedside_text1=И так,{.} это тот самый "заброшенный путь", который ты так сильно хотела увидеть...
+monikadsidespack_prologuedside_text2=Ты точно уверена, что хочешь забраться сюда,{n} даже после всего, что я сказал тебе?
+monikadsidespack_prologuedside_text3=Ты всегда была такой упрямой... {0.4}Но это нечто новое,{n}даже для тебя. {0.15}Просто... будь осторожна здесь, хорошо?
+
+
+
+
+
+##### 1D - Forsaken City D-Side #####
+
+nameguysdsidespack_0_1_City=:monikadsidespack_cassette: Забытый город
+
+nameguysdsidespack_0_1_City_b_01=Переулок
+
+poem_nameguysdsidespack_0_1_City_A=Добро пожаловать!
+
+
+
+
+# 1Dark - Forsaken City Dark Side
+
+nameguysdsidespack_0_1_City_remix= - изнуряющие прыжки -
+nameguysdsidespack_0_1_City_remix_artist=Maxo; Глава от Monika523
+nameguysdsidespack_0_1_City_remix_album=Celeste Тёмные стороны
+
+nameguysdsidespack_0_1_City_b_01dark=Тёмный переулок
+
+poem_nameguysdsidespack_0_1_City_B=Привет..?
+
+
+
+
+
+##### 2D - Old Site D-Side #####
+
+nameguysdsidespack_0_2_Oldsite=:monikadsidespack_cassette: Старое место
+
+nameguysdsidespack_0_2_Oldsite_b_01=Воспоминание
+nameguysdsidespack_0_2_Oldsite_c_01=Чёрный ход
+
+poem_nameguysdsidespack_0_2_Oldsite_A=Восстановление
+
+nameguysdsidespack_oldsitedside_tutorial_dreamhyper=Dream Hyper
+
+monikadsidespack_birdtutorial_returntomap=Вернуться к карте
+
+
+
+# 2Dark - Old Site Dark Side
+
+nameguysdsidespack_0_2_Oldsite_remix= - проскользнуть и вернуться -
+nameguysdsidespack_0_2_Oldsite_remix_artist=Ben Prunty; Глава от Monika523
+nameguysdsidespack_0_2_Oldsite_remix_album=Celeste Тёмные стороны
+
+nameguysdsidespack_0_2_Oldsite_b_01dark=Свобода
+nameguysdsidespack_0_2_Oldsite_c_01dark=Воспоминание о сне
+
+poem_nameguysdsidespack_0_2_Oldsite_B=Гипнагогия
+
+
+
+
+
+##### 3D - Celestial Resort D-Side #####
+
+nameguysdsidespack_0_3_Resort=:monikadsidespack_cassette: Небесный курорт
+
+nameguysdsidespack_0_3_Resort_b_01=Овраг
+nameguysdsidespack_0_3_Resort_c_01=Штормовое подполье
+nameguysdsidespack_0_3_Resort_d_00=Следы
+
+poem_nameguysdsidespack_0_3_resort_A=Выселение
+
+monikadsidespack_celestialresortdside_tutorial_oshirodash=Отскок от Оширо
+
+monikadsidespack_celestialresortdside_tutorial_restartchapter=Начать главу заново
+
+
+
+# 3Dark - Celestial Resort Dark Side
+
+nameguysdsidespack_0_3_Resort_remix= - anxiety adventures -
+nameguysdsidespack_0_3_Resort_remix_artist=Pizet; Глава от Monika523
+nameguysdsidespack_0_3_Resort_remix_album=Celeste Тёмные стороны
+
+nameguysdsidespack_0_3_Resort_a_06=Tower of Dust
+nameguysdsidespack_0_3_Resort_b_04=Cellar Cleanup
+nameguysdsidespack_0_3_Resort_c_05=Staircase Sweep
+nameguysdsidespack_0_3_Resort_d_01=Remainder
+
+poem_nameguysdsidespack_0_3_resort_B=Восстать из пепла
+
+
+
+
+
+##### 4D - Golden Ridge D-Side #####
+
+nameguysdsidespack_0_4_Ridge=:monikadsidespack_cassette: Золотой кряж
+
+nameguysdsidespack_0_4_Ridge_b_01s=Сильные ветра
+nameguysdsidespack_0_4_Ridge_c_01n=Снежная буря
+
+poem_nameguysdsidespack_0_4_Ridge_A=Продолжай
+
+
+
+
+
+# 4Dark - Golden Ridge Dark Side
+
+nameguysdsidespack_0_4_Ridge_remix= - calm storm -
+nameguysdsidespack_0_4_Ridge_remix_artist=in love with a ghost; Chapter by Monika523
+nameguysdsidespack_0_4_Ridge_remix_album=Celeste Dark Sides
+
+nameguysdsidespack_0_4_Ridge_a_06=Overhang
+nameguysdsidespack_0_4_Ridge_b_06=Clouded Climb
+nameguysdsidespack_0_4_Ridge_c_05w=Shimmering Finale
+
+poem_nameguysdsidespack_0_4_Ridge_B=Silver Lining
+
+
+
+
+
+##### 5D - Mirror Temple D-Side #####
+
+nameguysdsidespack_0_5_Temple=:monikadsidespack_cassette: Зеркальный храм
+
+nameguysdsidespack_0_5_Temple_c_01=Центральный зал
+nameguysdsidespack_0_5_Temple_d_01=Верхний проход
+nameguysdsidespack_0_5_Temple_e_01=Прямо в зеркало
+nameguysdsidespack_0_5_Temple_f_01=Кристальный мальчик
+
+poem_nameguysdsidespack_0_5_Temple_A=Рутина
+
+nameguy_temple_text1=[THEO left excited]Это D-Side храма, {n}и снова вместе с {#ffaafc}{~}Кристальным мальчиком™{#d3d3d3}{/~}!
+nameguy_temple_text2=[THEO left worried]{big}{!}{~}Вааау
+nameguy_temple_text3=Что бы правильно интерпретировать это тайное место, помни,{n}что эта картинка лишь малая часть чего-то большего.
+nameguy_temple_text4=[THEO left wtf] Ты уверена в этом, {+MADELINE}?
+nameguy_temple_text5=[MADELINE right normal] Не волнуйся, {+THEO}. У меня всё под контролем!
+nameguy_temple_text6=[THEO left thinking] Да ладно, что это вообще такое!?
+nameguy_temple_text7=[THEO left wtf] {+MADELINE}, эту комнату{~} никак{/~} не пройти. {n}На этот раз по-настоящему.
+nameguy_temple_text8=[THEO left thinking] Эммм... нет. На самом деле, я имел ввиду эту комнату.{n}Она невозможна. Наверняка.
+nameguy_temple_text_f10_die_60_times=[THEO left serious] Давай, {+MADELINE}. Ты точно справишься.
+nameguy_temple_text_f11_die_30_times=[THEO left serious] Осталось совсем чуть-чуть. Ты сможешь, {+MADELINE}.
+
+
+
+
+##### 6D - Reflection D-Side #####
+
+nameguysdsidespack_0_6_ReflectionD=:monikadsidespack_cassette: Отражение
+
+nameguysdsidespack_0_6_ReflectionD_a_05=Туннель
+nameguysdsidespack_0_6_ReflectionD_b_00=Спуск
+nameguysdsidespack_0_6_ReflectionD_boss_01=Инициатива
+nameguysdsidespack_0_6_ReflectionD_boss_09=Отклонения
+nameguysdsidespack_0_6_ReflectionD_center_01=Изменчивость
+
+poem_nameguysdsidespack_0_6_ReflectionD_A=Слияние
+
+nameguysdsidespack_reflectiondside_text1=[BADELINE right yell]{+MADELINE}! Остановись!!!
+nameguysdsidespack_reflectiondside_text2=[BADELINE right angry]Если ты продолжишь в том же духе...
+nameguysdsidespack_reflectiondside_text3=[BADELINE right scoff]Ты затащишь нас в {# ff4242}настоящий{#d3d3d3} Центр Земли!
+nameguysdsidespack_reflectiondside_text4=[BADELINE right sad]Нееет!
+
+
+
+
+
+##### 7D - The Summit D-Side #####
+
+nameguysdsidespack_0_7_Summit=:monikadsidespack_cassette: Вершина.
+
+nameguysdsidespack_0_7_Summit_b_01=500М
+nameguysdsidespack_0_7_Summit_c_01=1000М
+nameguysdsidespack_0_7_Summit_d_01=1500М
+nameguysdsidespack_0_7_Summit_e_01n=2000М
+nameguysdsidespack_0_7_Summit_f_01=2500М
+nameguysdsidespack_0_7_Summit_g_01=3000М
+
+poem_nameguysdsidespack_0_7_Summit_A=Любовь
+
+nameguy_dsides_newsummitd_heightdisplaytext=((count)) M
+
+
+
+
+
+##### 8D - Core D-Side #####
+
+nameguysdsidespack_0_8_core=:monikadsidespack_cassette: Средоточие
+
+nameguysdsidespack_0_8_core_b_01=Ровное дыхание
+nameguysdsidespack_0_8_core_d_01=Выносливость
+nameguysdsidespack_0_8_core_c_01=Напряжение
+
+poem_nameguysdsidespack_0_8_core_A=Ядро
+
+
+
+
+##### Epilogue #####
+
+nameguysdsidespack_0_9_epilogue=Эпилог
+
+
+# Epilogue - Special Thanks Memorial
+
+nameguysdsidespack_epilogue_memorial_text1=		-- C E L E S T E   D - S I D E S --
+							о т  M o n i k a
+						Этот мемориал посвящен людям,
+					которые помогали мне на этом пути:
+- Arphi - Artemis System - Bigkahuna - Carrie - dahlukeh - 
+- Eenox - Ezel - Emily - Habbedaz - Hydro - IceFlower99 - issy -
+- Julia - Layla <3 - maddie480 - LeBookcase - Syrenyx -
+-Theta - Rubydragon - Steve -
+
+nameguysdsidespack_epilogue_memorial_text3=
+				.
+				.
+				.
+				.
+				.
+				Спасибо за игру :3
+
+nameguysdsidespackepiloguedsideintroroadtext1=[MADELINE left distracted]...
+nameguysdsidespackepiloguedsideintroroadtext2=[MADELINE left sad]{0.5}
+
+nameguysdsidespackepiloguedsidedecalshowcaseroomspoilerwarning=
+	[]Эта комната содержит спойлеры к Финальному Прощанию, ака 9D!
+	[]Продолжайте на свой страх и риск!
+
+
+
+
+##### 9D - Final Goodbye #####
+
+nameguysdsidespack_0_10_Farewell=:monikadsidespack_cassette_finale: Финальное Прощание
+
+
+
+### Crystal Heart Text
+## Translator note: Should test the Heart Poem in-game to make sure the spacing is right. The "~" should be in the middle of the screen, on top of the crystal heart. Also, there shouldn't be any lines that have a disproportionally low amount of words. Make use of {n} if needed.
+
+poem_nameguysdsidespack_0_10_Farewell_A={n}Поворот судьбы{n}{n}~{n}{n}Финальный поклон от Madeline и Monika
+
+
+
+### Checkpoint names
+nameguysdsidespack_0_10_Farewell_aa_00_lobby=Тихое одиночество
+nameguysdsidespack_0_10_Farewell_b_01=Проблеск свободы
+nameguysdsidespack_0_10_Farewell_c_02=Любопытство
+nameguysdsidespack_0_10_Farewell_d_01=Преданность
+nameguysdsidespack_0_10_Farewell_d_10=Воспоминания
+nameguysdsidespack_0_10_Farewell_dd_00_lobby=Создание
+nameguysdsidespack_0_10_Farewell_f_01=Исследование
+nameguysdsidespack_0_10_Farewell_g_01=Депрессия
+nameguysdsidespack_0_10_Farewell_h_08=Доверие
+nameguysdsidespack_0_10_Farewell_i_01=Безмятежность
+#11 CPs
+nameguysdsidespack_0_10_Farewell_j_00=Повторная встреча
+nameguysdsidespack_0_10_Farewell_l_01=Плохая карма
+nameguysdsidespack_0_10_Farewell_m_13=Разбитое зеркало шторма
+nameguysdsidespack_0_10_Farewell_p_01=Восходящее солнце
+nameguysdsidespack_0_10_Farewell_q_01=Прощание с Горой
+#16 CPs
+nameguysdsidespack_0_10_Farewell_r_01=Сердцебиение
+nameguysdsidespack_0_10_Farewell_s_01=Осознание
+nameguysdsidespack_0_10_Farewell_t_01=Расставание
+nameguysdsidespack_0_10_Farewell_t_03=Множество
+nameguysdsidespack_0_10_Farewell_u_01=Настоящая любовь
+nameguysdsidespack_0_10_Farewell_v_00_lobby=Воссоединение
+#22 CPs
+nameguysdsidespack_0_10_Farewell_w_00_point_of_no_return=Точка невозврата
+nameguysdsidespack_0_10_Farewell_w_09=(Почти) Полная уверенность
+nameguysdsidespack_0_10_Farewell_x_01=Бездонная пропасть
+nameguysdsidespack_0_10_Farewell_xx_10_final_goodbye=Финальное Прощание
+#26 CPs
+nameguysdsidespack_0_10_Farewell_v_99=ЗОНА_10щаниеECKP_v_99с Го
+#26+1 CPs
+
+
+
+### Light-year display stuff
+nameguysdsidespackfarewelldsideSummitSectionMeterCount=0.0000000000000((count))ly
+nameguysdsidespackfarewelldsideSummitSectionMeterCountTwelveZeroes=0.000000000000((count))ly
+nameguysdsidespackfarewelldsideSummitSectionMeterCountTwelveZeroesSpace=0.000000000000 ((count)) ly
+nameguysdsidespackfarewelldsideSummitSectionMeterCountFourZeroesSpace=0.0000 ((count))ly
+nameguysdsidespackfarewelldsidePinkSectionLightYearsCount=((count)) ly
+nameguysdsidespackfarewelldsideMoomSectionMeterCount=((count))
+
+
+### Fastbubbling Tutorial
+nameguysdsidespackfarewelldsidefastbubble1=
+	Знали ли вы: вы можете нажать рывок, когда вы попали в пузырь, чтобы тут же начать движение!
+	Это называется "{#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t{#d3ff9e}b{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#d3d3d3}"!!!
+	Это полезно... чтобы быстро двигаться...
+	Попробуйте!
+
+### Bubble Hyper Tutorial (intro text)
+nameguysdsidespackfarewelldsidefastbubble2bubblehypers=
+		{#00ff84}~Как bubble hyper~{#d3d3d3}
+		-{#ff836e}Пока вы на земле{#d3d3d3}, сделайте {#ff836e}прямой рывок{#d3d3d3} в направлении пузыря.
+		-Как только {#ff836e}вы попадёте в пузырь{#d3d3d3}, {#ff8975}может быть даже чуточку заранее{#d3d3d3}, {#e8fffe}{~}крайне быстро{/~}{#d3d3d3} сделайте рывок {#ff8975}по диагонали вниз{#d3d3d3} и {#ff8975}прыгните{#d3d3d3}.
+		
+### Bubble Hyper Tutorial (no intro text)
+nameguysdsidespackfarewelldsidefastbubble3bubblehypersShorter=
+		-{#ff836e}Пока вы на земле{#d3d3d3}, сделайте {#ff836e}прямой рывок{#d3d3d3} в направлении пузыря.
+		-Как только {#ff836e}вы попадёте в пузырь{#d3d3d3}, {#ff8975}может быть даже чуточку заранее{#d3d3d3}, {#e8fffe}{~}крайне быстро{/~}{#d3d3d3} сделайте рывок {#ff8975}по диагонали вниз{#d3d3d3} и {#ff8975}прыгните{#d3d3d3}.
+
+
+
+### Trust - Intro
+nameguysdsidespackfarewelldsidedarknesshelp=
+	[MADELINE left sadder]{>> 0.15}...{>>}
+	[MADELINE left sadder]Ну почему я такая.
+	[MADELINE left panic]Я не способна сделать буквально {*}ничего{/*} более.
+	[MADELINE left panic]Как я вообще должна{n}справиться со всем этим?
+	[]...
+	[]Эй.
+	[]Ты как, в порядке?
+	[MADELINE left sad] Эмм... {0.3}Нет. {0.1}Вообще нет.
+	[]Всё хорошо. {0.1}Иди сюда. {0.1}Давай я обниму тебя.
+	[MADELINE left sad]{0.4}.{0.4}.{0.4}.
+	[]{0.4}.{0.4}.{0.4}.
+	[MADELINE left peaceful]{0.38}.{0.3}.{0.29}.
+	[MADELINE left peaceful]Спасибо.
+	[]Теперь,{0.3} давай пройдем через это вместе.
+	[MADELINE left sad]...{0.05}хорошо.
+	[]Я знаю, что сейчас ты в довольно тёмном месте,{n}но я постараюсь помочь тебе.
+	[]Так что, эээ... {0.1}попробуй идти вправо.
+
+### Trust - Bubble Room A
+nameguysdsidespackfarewelldsidedarknesshelpBubblesIntro=
+	[]Хорошо. {0.1}Просто будь спокойна.{n}{0.05}Вместе мы всё преодолеем.
+nameguysdsidespackfarewelldsidedarknesshelpBubbles=
+	[]Прямо перед тобой есть несколько {#00ff66}пузырей{#d3d3d3}.
+	[]Ты должна двигаться {#ff8f93}вправо{#d3d3d3} пока не достигнешь четвёртого, на котором поверни {#b3fcff}вверх{#d3d3d3}, а затем снова двигайся {#ff8f93}вправо{#d3d3d3}.
+nameguysdsidespackfarewelldsidedarknesshelpBubblesEnd=
+	[]Вот. Мы успешно справились!
+	[MADELINE left normal] Да!
+	[MADELINE left sad]Но я всё ещё немного напугана...
+	[]Не волнуйся. {0.1}Я здесь, с тобой.
+	[]Теперь просто иди вправо и не споткнись хаха.{0.4}{n}Там есть небольшой выступ.
+
+### Trust - Bubble Room B
+nameguysdsidespackfarewelldsidedarknesshelpMoreBubblesIntro=
+	[]Хорошо, так, выглядит как ещё больше {#00ff66}пузырей{#d3d3d3}.
+nameguysdsidespackfarewelldsidedarknesshelpMoreBubbles=
+	[]И первый прямо {#b3fcff}над{#d3d3d3} тобой.
+	[]Затем двигайся {#ff8f93}вправо{#d3d3d3}, {#b3fcff}два раза вверх{#d3d3d3}, {#ff8f93}вправо{#d3d3d3},{n}{#db99ff}вниз{#d3d3d3}, и ещё раз {#ff8f93}вправо{#d3d3d3}.
+	[]Затем сразу {#ff8f93}справа{#d3d3d3} будет стена.{n}{0.1}Если {#b3fcff}заберёшься{#d3d3d3} по ней и прыгнешь вверх, то будет ещё несколько пузырей, которые ведут {#ff8f93}вправо{#d3d3d3}.
+nameguysdsidespackfarewelldsidedarknesshelpMoreBubblesAppendix=
+	[MADELINE left sad]Кажется это будет довольно сложно.
+	[]Хаха,{0.07} возможно из-за меня это действительно звучит плохо, но поверь мне, это довольно просто.
+nameguysdsidespackfarewelldsidedarknesshelpMoreBubblesEnd=
+	[]Видишь? Я же говорил тебе, что не всё так плохо.
+	[MADELINE left upset]Нет. {0.1}Я не вижу. {0.22}Ведь я не вижу вообще ничего.
+	[MADELINE left normal]В любом случае, идём дальше.
+
+### Trust - Move Blocks Timing Room
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlocks=
+	[]Хорошо, так, если ты пройдёшь ещё чуточку вперед,{n}то наступишь на один из {#a386d1}движущихся блоков{#d3d3d3}. 
+	[]Просто стой на нём, где-то {#c7ff45}1{#d3d3d3}-{#c7ff45}2{#d3d3d3} секунды.
+	[]Затем будет {#a386d1}ещё один{#d3d3d3} {#ddff9e}сверху слева от тебя{#d3d3d3}.{n}Если ты сделаешь рывок вверх и повернёшься влево,{n}то зацепишься за него.
+	[]На глаз расстояние примерно одинаковое, так что подожди ещё {#c7ff45}1{#d3d3d3}-{#c7ff45}2{#d3d3d3} секунды, а затем просто {#db99ff}спрыгни вниз{#d3d3d3}.
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlocksEnd=
+	[]Отлично! {0.1}Теперь просто иди вправо.
+
+### Trust - Core Block Room
+nameguysdsidespackfarewelldsidedarknesshelpCoreBlocksIntro=
+	[]Хорошо. Выглядит не так уж и страшно.
+nameguysdsidespackfarewelldsidedarknesshelpCoreBlocks=
+	[]Здесь два странных {#ff3d4d}блока магмы{#d3d3d3}.{n}Один {#ede9e6}прямо перед тобой{#d3d3d3}, а другой {#ede9e6}немного подальше{#d3d3d3}.
+	[]{#ffbdbf}Ещё дальше{#d3d3d3} небольшая платформа, с высокой стеной, по которой просто нужно {#b3fcff}забраться{#d3d3d3}.
+
+### Trust - Refill / Swap Block Room
+nameguysdsidespackfarewelldsidedarknesshelpOverWhen=
+	[]Хорошая работа. У тебя неплохо получается!	
+	[MADELINE left sad]Прости, что я так долго с этим вожусь.{n}Ты и правда меня очень выручаешь,{n}но не чувствуется, чтобы мы продвинулись.
+	[]Всё нормально.{n}Я буду с тобой столько, сколько нужно.
+nameguysdsidespackfarewelldsidedarknesshelpPinkRefill=
+	[]Довольно далеко, справа от тебя, есть {#eb7cdd}кристалл рывка{#d3d3d3}. 
+	[]Используй его чтобы зацепиться за стену,{n}которая находится {#ffee80}высоко{#d3d3d3} справа.
+nameguysdsidespackfarewelldsidedarknesshelpSwapBlock=
+	[]Пройди немного вперёд и сделай рывок {#db99ff}вниз{#d3d3d3}.{n}{0.1}Это заставит {#87bbff}блок{#d3d3d3} двигаться{n}и докинет тебя на другую сторону.
+	[]Затем быстро пройди вправо,{n}чтобы перейти с блока на выступ.
+	
+### Trust - Countdown Room
+## Translator Note: You'll have to test the timed "Jump!" texts in-game to see if they actually line up with when you have to jump.
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingIntro=
+	[]И снова {#a386d1}движущиеся блоки{#d3d3d3}.
+	[]На этот раз они довольно далеко друг от друга.
+	[]Так что... пройди {#ff8f93}вправо{#d3d3d3} пока не окажешься на {#a386d1}блоке{#d3d3d3},{n}а потом подожди примерно... {#c7ff45}8{#d3d3d3} секу-
+	[MADELINE left upset]Это никогда не сработает.{n}{0.6}Я вообще без понятия,{n}когда мне нужно будет прыгать.
+	[]...Ты {#ff8f93}права{#d3d3d3}.
+	[MADELINE left upset]...
+	[]{>>0.5}Хммм...{>>}
+	[]Ладно. У меня есть идея.
+	[MADELINE left sad] О нет.
+	[]Просто потерпи ещё чуть-чуть. {0.1}Мы справимся.
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTiming=
+	[]В общем. {0.2}Встань на {#a386d1}блок{#d3d3d3},{n}а там я тебе скажу когда прыгать.
+
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownIntro=И так...
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownThree=3...
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownTwo=2...
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownOne=1...
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownZero=0...
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownMinusOne=-0...
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownJump=Прыгай!!!
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownGo=Давай!!!
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingFirstJumpDone=Вау! Хорошая работа. Ой э ПРЫГАЙ
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingSecondJumpDone=А ещё ПРИГНИСЬ
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingAfterDuck=Прости за это хаха. Ладно,когда я скажу "давай",{n} прыгни и сделай рывок вверх, хорошо?
+
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingEnd=
+	[MADELINE left upset]Всё дурачишься?
+	[]Ахаха, прости.
+	
+### Trust - Outro Room
+nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutWalkRight=
+	[]Хм. Аккуратно пройди ещё немного вправо.
+
+nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutStop=
+	Хорошо, стой.{n} Думаю, если ты просто сделаешь рывок отсюда, то пройдешь.
+
+nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutDashNGrab=
+	[]Отлично.{n}Теперь стена справа.{n}Просто сделай рывок на нее и заберись.
+
+nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutGrabJumpOverToTheRight=
+	Теперь сделай высокий прыжок вправо!
+
+nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutStopAgain=
+	Стой. Теперь... {0.1}эээ.{0.05}{n}Сделай вот этот {#00d5ff}быстрый широкий рывок{#d3d3d3}.
+
+nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutICanDoThisAloneNowIdiot=
+	[]Хорошо, теперь прос-
+	[MADELINE left normal]Спасибо, но, кажется, теперь{n}я могу двигаться сама.
+	[]Оу, отлично! Давай.
+	
+	
+	
+### Serenity - Intro
+nameguysdsidespackfarewelldsidedarknesshelpAfterwards=
+	[MADELINE left sad]Дорогой, прости за весь этот бардак.
+	[MADELINE left normal]Спасибо, что помог мне справиться со всем этим.{n}Теперь я чувствую себя намного лучше.
+	[]Да без проблем хаха.{0.3} Люблю тебя.
+	[MADELINE left peaceful] Я тоже тебя люблю.
+
+nameguysdsidespackfarewelldsidedarknesshelpAfterwards2=
+	[]Ты должна немного поспать, это пойдет тебе на пользу.
+	[MADELINE left sad]Нет. Сначала мне нужно кое-что закончить.
+	[MADELINE left normal]Если хочешь, можешь идти.
+	[]Уверена?
+	[MADELINE left normal]Да. Я буду в порядке.
+	[]Хорошо, потому что я на самом деле{n}довольно устал хаха.
+	[MADELINE left sad]Прости, не думала, что это займёт так много времени.
+	[]Да всё нормально.{n}И хватит уже извиняться за всё подряд.
+	[MADELINE left peaceful] Прости.
+	[]Помолчи.
+	[]В общем, я пойду спать.{n}Удачи тебе закончить всё это.
+	[MADELINE left normal]Спасибо. Спокойной ночи. {0.2}{#d996ff}<3{#d3d3d3}
+
+### Serenity - End
+nameguysdsidespackfarewelldsideCloudAscentIntro=
+	[BADELINE right concerned]{+MADELINE}. {0.1}Сколько ещё это будет продолжаться?
+	[BADELINE right upset]Рано или поздно тебе придётся двигаться дальше.
+	[MADELINE left distracted]Да. {0.1}Я знаю.{0.2}{n}И я буду.
+	[MADELINE left sad]Но сначала я должна закончить начатое. 
+	[MADELINE left sad]В конце концов, это последний раз, когда мы можем сделать это.
+	[MADELINE left sad]Так что, давай поработаем вместе?
+	[MADELINE left upset]Не похоже, чтобы ты помогала мне{n}до этого момента.
+	[BADELINE right sigh]Прости.{1.0}{n}Ты права.
+	
+nameguysdsidespackfarewelldsideItsSummitTime=
+	[BADELINE right worried]Ладно.
+	[BADELINE right worried]Давай сделаем это...
+	[MADELINE left normal]В последний раз.
+
+
+
+### Cassette CPs
+## Translator Note: HB1 to HB11 need to be kept concise, as they may be partly off-screen or look weird if they are too long. Should be tested in-game if they are longer than the original text.
+nameguysdsidespackfarewelldsideHB1=После всего, через что мы прошли,
+nameguysdsidespackfarewelldsideHB2=Почему я не нужна ему?
+nameguysdsidespackfarewelldsideHB3=Я сделала всё что могла.
+nameguysdsidespackfarewelldsideHB4=Что я сделала не так?
+nameguysdsidespackfarewelldsideHB5=Это невыносимо.
+nameguysdsidespackfarewelldsideHB6=Это слишком больно.
+nameguysdsidespackfarewelldsideHB7=Пожалуйста, остановите это
+nameguysdsidespackfarewelldsideHB8=Знаешь...
+nameguysdsidespackfarewelldsideHB9=А может... это и не моя вина.
+nameguysdsidespackfarewelldsideHB10=Может...
+nameguysdsidespackfarewelldsideHB11=...Я не нужна ему.
+
+nameguysdsidespackfarewelldsideHB_End=
+	[MADELINE left normal]Мне никто не нужен, чтобы я могла быть собой!
+
+
+
+### Point of no Return - Intro
+nameguysdsidespackfarewelldsidePointOfNoReturnIntro=
+	[]На земле лежит небольшая записка.
+	[]В ней говорится следующее:
+	[]"Хэй. Поздравляю, ты забрался очень далеко!
+	[]Уверен, что ты прошёл через многое, чтобы оказаться здесь.
+	[]Но нужно сделать ещё несколько шагов.
+	[]Но мы оба знаем, что ты справишься с этим.
+	[]Так что захвати немного воды,{n} включи погромче музыку,{n} и наслаждайся последней секцией.
+	[]С наилучшими пожеланиями.                                                         .{n}{n}.                                                                                -{#ff99e6}Monika{#d3d3d3}"
+
+
+
+### Final Goodbye - Poem
+## Translator Note: poem_1a to poem_19c need to be kept concise, as they may be partly off-screen or look weird if they are too long. Should be tested in-game if they are longer than the original text.
+## The "✺" Character is used for text spacing and is not supposed to actually show up.
+
+monikadsidespackfarewelldside_finalgoodbye_poem_1a=Вечное тихое одиночество
+monikadsidespackfarewelldside_finalgoodbye_poem_1b=с душераздирающим внутренним криком.
+
+monikadsidespackfarewelldside_finalgoodbye_poem_2a=Наша единственная надежда,
+monikadsidespackfarewelldside_finalgoodbye_poem_2b=единственный лучик свободы,
+
+monikadsidespackfarewelldside_finalgoodbye_poem_3a=любопытство, 
+monikadsidespackfarewelldside_finalgoodbye_poem_3b=запрещённое самому себе,
+
+monikadsidespackfarewelldside_finalgoodbye_poem_4a=превратилось в абсолютную,
+monikadsidespackfarewelldside_finalgoodbye_poem_4b=неустанную самоотверженность.
+
+monikadsidespackfarewelldside_finalgoodbye_poem_5a=Мучительные воспоминания,
+monikadsidespackfarewelldside_finalgoodbye_poem_5b=разожгли нечто
+monikadsidespackfarewelldside_finalgoodbye_poem_5c=очень прекрасное...
+
+monikadsidespackfarewelldside_finalgoodbye_poem_6a=...спустя годы
+monikadsidespackfarewelldside_finalgoodbye_poem_6b=и  годы
+monikadsidespackfarewelldside_finalgoodbye_poem_6c=исследования.
+
+monikadsidespackfarewelldside_finalgoodbye_poem_7a=Депрессия,
+monikadsidespackfarewelldside_finalgoodbye_poem_7b=будет всегда,
+
+monikadsidespackfarewelldside_finalgoodbye_poem_8a=✺                                                        пока ты не научишься
+monikadsidespackfarewelldside_finalgoodbye_poem_8b=✺                                                        полностью доверять кому-либо.
+
+monikadsidespackfarewelldside_finalgoodbye_poem_9a=Ты можешь погрузиться в безмятежность..
+
+monikadsidespackfarewelldside_finalgoodbye_poem_10a=до тех пор пока ты не будешь готов
+monikadsidespackfarewelldside_finalgoodbye_poem_10b=посетить этот мир ещё раз.
+
+monikadsidespackfarewelldside_finalgoodbye_poem_11a=Сердце бьется,
+monikadsidespackfarewelldside_finalgoodbye_poem_11b=после поражения,
+monikadsidespackfarewelldside_finalgoodbye_poem_11c=тихо, но уверенно,
+
+monikadsidespackfarewelldside_finalgoodbye_poem_12a=всегда рядом с тобой.
+
+monikadsidespackfarewelldside_finalgoodbye_poem_13a=Шаг за шагом...
+
+monikadsidespackfarewelldside_finalgoodbye_poem_14a=Пока ты не будешь готов,
+monikadsidespackfarewelldside_finalgoodbye_poem_14b=расстаться с непроглядной тьмой,
+
+monikadsidespackfarewelldside_finalgoodbye_poem_15a=и найти истинную любовь.
+
+monikadsidespackfarewelldside_finalgoodbye_poem_16a=Пройдя точку невозврата,
+
+monikadsidespackfarewelldside_finalgoodbye_poem_17a=с почти
+monikadsidespackfarewelldside_finalgoodbye_poem_17b=абсолютной
+monikadsidespackfarewelldside_finalgoodbye_poem_17c=уверенностью,
+
+monikadsidespackfarewelldside_finalgoodbye_poem_18a=ты
+monikadsidespackfarewelldside_finalgoodbye_poem_18b=навсегда
+monikadsidespackfarewelldside_finalgoodbye_poem_18c=утонешь
+monikadsidespackfarewelldside_finalgoodbye_poem_18d=в
+monikadsidespackfarewelldside_finalgoodbye_poem_18e=бездонной
+monikadsidespackfarewelldside_finalgoodbye_poem_18f=пропасти
+monikadsidespackfarewelldside_finalgoodbye_poem_18g=своей
+monikadsidespackfarewelldside_finalgoodbye_poem_18h=собственной
+monikadsidespackfarewelldside_finalgoodbye_poem_18i=многогранности
+monikadsidespackfarewelldside_finalgoodbye_poem_18j=и
+monikadsidespackfarewelldside_finalgoodbye_poem_18k=красоты.
+monikadsidespackfarewelldside_finalgoodbye_poem_18l=✺
+
+monikadsidespackfarewelldside_finalgoodbye_poem_19a=И так,
+monikadsidespackfarewelldside_finalgoodbye_poem_19b=позвольте нам воссоединиться...
+monikadsidespackfarewelldside_finalgoodbye_poem_19c=и пусть это станет нашим Финальным Прощанием!
+
+monikadsidespackfarewelldside_finalgoodbye_poem_20a=[MADELINE left distracted] По крайней мере, сейчас...
+
+
+
+
+
+### Final Goodbye - Moon Berry Section
+
+
+monikadsidespackfarewelldside_moonberrysection_backrooms_topleft= ..--. -- ВВ'ЕРХ ВЛЕВО Q eee OOOOPPP LLLLLLLLLLllllLLLLLsidespackfarewelldside_moonberrysection_bsidespackfarewelldside_moonberrysection_.-
+monikadsidespackfarewelldside_moonberrysection_backrooms_bottomright=ePEL PEL PEL hhhhh      --.,----..-..,..   OOOoO НИКОГДА НЕ УХОДИ НИКОГДА НЕ УХОДИ НИКОГДА НЕ УХОДИ st УХОДИ st УХОДИ st УХОДИ st УХОДИ st УХОДИ stОДИ st УХОДИ st УХОДИ st УХОДИ st УХОДИ stОДИ st УХОДИ st УХОДИ st УХОДИ st УХОДИ stОДИ st УХОДИ st УХОДИ st УХОДИ st УХОДИ stОДИ st УХОДИ st УХОДИ st УХОДИ st УХОДИ stОДИ st УХОДИ st УХОДИ st УХОДИ st УХОДИ stОДИ
+monikadsidespackfarewelldside_moonberrysection_backrooms_samesamesamesamesamesame=одинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковыйодинаковый
+monikadsidespackfarewelldside_moonberrysection_monikadsidespackfarewelldside_moonberrysection=monikadsidespackfarewelldside_moonberrysection_monikadsidespackfarewelldside_moonberrysection_monikadsidespackfarewelldside_moonberrysection
+monikadsidespackfarewelldside_moonberrysection_square=НЕТ JJJJ JJJJ§JJ НЕТ JJJJ JJJJJJ НЕТ JJJJ JJJJJJ§
+monikadsidespackfarewelldside_moonberrysection_nineninenine=999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+monikadsidespackfarewelldside_moonberrysection_endroomcoremessage=я---------------.----------нтнн------------ннееееттт.....-----.......---------XXXXXXXXXXXXXэтоXXXXXXчувствоXXXXXXXXXXXXXXXXXXXXXX
+
+monikadsidespackfarewelldside_moonberrysection_birdtutorial=F?3Q5j4jn??0j
+
+monikadsidespackfarewelldside_moonberrysection_birdtutorial_endroom_a=Найди меня,
+monikadsidespackfarewelldside_moonberrysection_birdtutorial_endroom_b=чтобы найти себя...
+
+monikadsidespackfarewelldside_moonberrysection_lastroom_deathmessage_a=ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО ВСЕГДА МАЛО
+
+monikadsidespackfarewelldside_moonberrysection_lastroom_deathmessage_b=НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС НАЙДИ НАС
+
+monikadsidespackfarewelldside_moonberrysection_lastroom_deathmessage_c=НЕ УЙДЁШЬ НЕ СБЕЖИШЬ НИКОГДА НЕ ВЫБЕРЕШЬСЯ
+
+monikadsidespackfarewelldside_moonberrysection_lastroom_deathmessage_d=Гора:Неактивно:Mountain:Idle:Position:  -15.030, 10.532, 21.854 Target:  -13.930, 10.489, 20.184 Select:Position:  -14.479, 10.349, 19.110 Target:  -12.877, 10.058, 17.949 Zoom:Position:  -5.938, 3.430, 6.965 Target:  -4.810, 2.385, 5.686 Cursor:  -0.2239623, 14.5, -0.6094461
+
+monikadsidespackfarewelldside_moonberrysection_lastroom_deathmessage_e=ПОДОЖДИТЕ... ПОДОЖДИТЕ... ПО################ Космическая станция около Зе---.-.....--
+
+monikadsidespackfarewelldside_moonberrysection_lastroom_deathmessage_f=ИЩИ НО НИКОГДА НЕ НАЙДЕШЬ НО НИКОГДА НЕ ИЩИ НО НИКОГДА НЕ НАЙДЕШЬ НО НИКОГДА НЕ ИЩИ НО НИКОГДА НЕ НАЙДЕШЬ НО НИКОГДА НЕ ИЩИ НО НИКОГДА НЕ НАЙДЕШЬ НО НИКОГДА НЕ ИЩИ НО НИКОГДА НЕ НАЙДЕШЬ НО НИКОГДА НЕ ИЩИ НО НИКОГДА НЕ НАЙДЕШЬ НО НИКОГДА НЕ ИЩИ НО НИКОГДА НЕ НАЙДЕШЬ НО НИКОГДА НЕ ИЩИ НО НИКОГДА НЕ НАЙДЕШЬ НО НИКОГДА НЕ ИЩИ НО НИКОГДА НЕ НАЙДЕШЬ НО НИКОГДА НЕ ИЩИ НО НИКОГДА НЕ НАЙДЕШЬ НО НИКОГДА НЕ ИЩИ НО НИКОГДА НЕ НАЙДЕШЬ НО НИКОГДА НЕ ИЩИ НО НИКОГДА НЕ НАЙДЕШЬ 
+
+monikadsidespackfarewelldside_moonberrysection_lastroom_deathmessage_g=СЛЕДУЙ ЕЁ ПУТЕМ. ОН ПРИВЕДЁТ ТЕБЯ К ИСТИНЕ. БЕГИ. НЕ ОСТАНАВЛИВАЙСЯ. ТЫ НАЙДЕШЬ... ОТВЕТЫ... на ваше СОВМЕСТНОЕ ПУТЕШЕСТВИЕ.
+
+monikadsidespackfarewelldside_moonberrysection_randomglitchtext_a=SSSSSS'S S-SSSSS SSSS SS.S SSS SSSSSSSSSS SSSSS SS SSSSSSSS SSS SSSSSS
+
+monikadsidespackfarewelldside_moonberrysection_randomglitchtext_b=?я отэ едГ
+
+monikadsidespackfarewelldside_moonberrysection_randomglitchtext_c=hhHh
+
+monikadsidespackfarewelldside_moonberrysection_randomglitchtext_d=СогласПрощаПредаЗолотойКрУтёсПроща||||||||||||
+
+monikadsidespackfarewelldside_moonberrysection_randomglitchtext_e=ОШИБКА: СТРОКА "monikadsidespackfarewelldside_madeline_and||||||||||||||||" NOT FOUND IN "MO||||'||||||||||||||||||||"
+
+monikadsidespackfarewelldside_moonberrysection_randomglitchtext_f=будинок	
+
+monikadsidespackfarewelldside_moonberrysection_randomglitchtext_g=001101 101001 000000 MADELINE 001201 110920
+
+monikadsidespackfarewelldside_moonberrysection_randomglitchtext_h=-ooRm hhgiet msut be 40 tseli. -suMt hvae the "Scape" falg tenrud on in Room Segnitts. -ihTs falg aslo tnrus on ftaoly phisycs for tihs rmoo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##### Post-Epilogue ~ The Ending of the D-Sides #####
+
+nameguysdsidespack_0_11_SecondEpilogue=Пост-Эпилог
+
+
+
+monikadsidespackfarewelldside_thesecondepilogue_comfspot_a=[MADELINE left peaceful] Так уютно... мне нравится.
+monikadsidespackfarewelldside_thesecondepilogue_comfspot_b=[MADELINE left distracted] Надеюсь, {+THEO} не слишком волнуется обо мне....
+monikadsidespackfarewelldside_thesecondepilogue_comfspot_c=[MADELINE left peaceful] Я могу стоять здесь вечно, будто становясь единой со снегом...
+monikadsidespackfarewelldside_thesecondepilogue_comfspot_d=[MADELINE left normal] Уиии! ... ... ...на самом деле, это довольно холодно.
+
+
+
+### Post-Epilogue - Slideshow Cutscene
+## Translator Note: slideshow_a to slideshow_am need to be kept concise. Must be tested in-game if even slightly longer than the original text.
+
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_a=
+	*кликкликклик... бип, буп...*
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_b=
+	*ба-дуп*
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_c=
+	[MADELINE left sad] Хей, {+THEO}...
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_d=
+	[THEO right serious] {+MADELINE}... {0.1}мне вернуться и забрать тебя?
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_e=
+	[MADELINE left sad] ...
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_f=
+	[THEO right serious] Ты говорила, что хочешь остаться на {+MOUNTAIN} подольше, но..
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_g=
+	[THEO right worried] Ты точно справишься сама?
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_h=
+	[MADELINE left normal] Да. Я буду в порядке.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_i=
+	[THEO right serious] Выглядишь очень уверенно.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_j=
+	[MADELINE left normal] Да! Можешь довериться мне.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_k=
+	[MADELINE left normal] На самом деле...
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_l=
+	[MADELINE left sad] Я нашла записку от {+GRANNY}. В её маленькой комнате.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_m=
+	[MADELINE left sad] И она адресована мне.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_n=
+	[THEO right worried] Чт-
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_n2=
+	[THEO right worried] {big}Чтооооо!?{/big}
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_o=
+	[THEO right worried] И что она сказала!?
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_p=
+	[MADELINE left sad] Она сказала...
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_q=
+	"Для тебя, моя дорогая {savedata Name},{n}в случае если ты вообще получила это сообщение:
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_r=
+	Я должна поблагодарить тебя от всего своего сердца за то, что оставалась самой собой, тем самым показав, кем на самом деле была я сама.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_s=
+	Но ради твоего же блага, {n}я не буду сильно бередить эти старые раны.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_t=
+	Беги с этой чёртовой Горы и никогда не оглядывайся.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_u=
+	Проживи свою жизнь самым честным и искренним способом. {n}Это моя единственная просьба.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_v=
+	Прощай, моя дорогая.     -Celia"
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_w=
+	[THEO right serious] ...
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_x=	
+	[THEO right serious] Я не верю.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_y=
+	[MADELINE left sad] Мне тоже было трудно в это поверить.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_z=
+	[THEO right worried] И что за чертовщина про "бередить эти старые раны"?!
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_aa=
+	[THEO right wtf] Я думал, вы едва знаете друг друга?
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_ab=
+	[MADELINE left sad] Да, меня тоже это беспокоит.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_ac=
+	[MADELINE left sad] Мы виделись только когда я впервые поднималась на {+MOUNTAIN}... 
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_ad=
+	[THEO right wtf] Но тогда почему она написала всё это?
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_ae=
+	[THEO right serious] Что-то успело произойти между вами?
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_af=
+	[MADELINE left sad] Не совсем, нет.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_ag=
+	[MADELINE left normal] И это то, что я хочу выяснить.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_ah=
+	[MADELINE left determined] Хочу узнать, что же она имела ввиду.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_ai=
+	[THEO right wtf] А ты уверена, что она просто не сошла..?
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_aj=
+	[MADELINE left angry] {+THEO}!
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_ak=
+	[THEO right worried] Прости.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_al=
+	[THEO right serious] Видимо, ты всё же намного ближе с ней, чем я думаю.
+monikadsidespackfarewelldside_thesecondepilogue_slideshow_am=
+	[MADELINE left sad] Да, возможно...
+
+
+
+monikadsidespackfarewelldside_thesecondepilogue_endingcutscene=
+	[] {>> 0.3}{#b198b8}Это было странное ощущение,{n}{0.5}состоящее из множества различных начал.
+	[] Спокойствие, которое она испытала, было превосходным,{0.5} даже запредельным.
+	[] Однако оно не будет длиться вечно,{0.5} как и осознание того, что это лишь первый шаг в её путешествии, которое, в итоге...
+	[] ...изменит всё её существо,{0.5} снова,{0.5} оставаясь таким же на протяжении всего времени.
+	[] {#f7ff85}В итоге,{0.5} они нашли свои собственные пути.
+	[]  {#d3d3d3}{big}Celeste D-Sides{0.5} -{0.5} КОНЕЦ{/big}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#				D-SIDE MUSEUM				
+# ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### In-game Campaign Title ~ The D-Sides Museum
+nameguysdsidespack_1=Celeste D-Sides IV - Музей
+
+
+
+### Prologue with Dash
+nameguysdsidespack_1_0_PrologueWithDash=Пролог (с рывками)
+
+
+
+
+
+### Old Core D-Side Mashup 
+### Note for translating: "Incerno" = "Cold Inferno"
+nameguysdsidespack_1_1_CoreOldMashup=Старый 8D ремикс
+nameguysdsidespack_1_1_CoreOldMashup_b_00=Ледяной ад
+nameguysdsidespack_1_1_CoreOldMashup_c_01=Переполнение
+nameguysdsidespack_1_1_CoreOldMashup_c_05=Двойное дно
+poem_nameguysdsidespack_1_1_CoreOldMashup_A=Ядро (Старый 8D ремикс)
+
+
+
+
+
+### Core E-Side (Old Core D-Side Mashup [B-Side])
+poem_nameguysdsidespack_1_1_CoreOldMashup_B=Скажи пока (8E)
+nameguysdsidespack_1_1_CoreOldMashup_remix=| 8E - Средоточие E-Side
+nameguysdsidespack_1_1_CoreOldMashup_remix_artist=Matthew Seiji; Глава от Monika523
+
+
+
+
+
+### Old Old Summit D-Side
+nameguysdsidespack_1_2_SummitOldOld=Очень старая Вершина D-Side
+nameguysdsidespack_1_2_SummitOldOld_b_01=439M
+nameguysdsidespack_1_2_SummitOldOld_c_01=1026M
+nameguysdsidespack_1_2_SummitOldOld_d_01=1764M
+nameguysdsidespack_1_2_SummitOldOld_e_01=2667M
+nameguysdsidespack_1_2_SummitOldOld_f_01=3018M
+nameguysdsidespack_1_2_SummitOldOld_g_01=3440M
+nameguysdsidespack_1_2_SummitOldOld_h_01=3999M
+nameguysdsidespack_1_2_SummitOldOld_j_01=4000M
+poem_nameguysdsidespack_1_2_SummitOldOld_A=Любовь (очень старый 7D)
+
+
+
+
+
+### Summit E-Side (Old Old Summit D-Side [B-Side])
+poem_nameguysdsidespack_1_2_SummitOldOld_B=Конец (7E)
+nameguysdsidespack_1_2_SummitOldOld_remix=| 7E - Вершина E-Side
+nameguysdsidespack_1_2_SummitOldOld_remix_artist=Kuraine; Глава от Monika523
+
+
+
+
+
+### Old Summit D-Side
+nameguysdsidespack_1_3_SummitOld=Старая Вершина D-Side
+nameguysdsidespack_1_3_SummitOld_b_01=500M
+nameguysdsidespack_1_3_SummitOld_d_01=1500M
+nameguysdsidespack_1_3_SummitOld_e_01=2000M
+nameguysdsidespack_1_3_SummitOld_c_01=1000M
+nameguysdsidespack_1_3_SummitOld_f_01=2500M
+nameguysdsidespack_1_3_SummitOld_h_01=3000M
+poem_nameguysdsidespack_1_3_SummitOld_a=Любовь (Старый 7D)
+
+
+
+
+
+### 7D Blades Edition (Old Summit D-Side [B-Side])
+nameguysdsidespack_1_3_SummitOld_b_01_blades=500B
+nameguysdsidespack_1_3_SummitOld_c_01_blades=1000B
+nameguysdsidespack_1_3_SummitOld_d_01_blades=1500B
+nameguysdsidespack_1_3_SummitOld_e_01n_blades=2000B
+nameguysdsidespack_1_3_SummitOld_f_01_blades=2500B
+nameguysdsidespack_1_3_SummitOld_g_01_blades=3000B
+poem_nameguysdsidespack_1_3_SummitOld_B=funny blades :3 (5bfv)
+nameguysdsidespack_1_3_SummitOld_remix=| 5bfv - 5b funny version
+nameguysdsidespack_1_3_SummitOld_remix_artist=Kuraine; Chapter by Monika523
+
+
+
+
+
+### Old Reflection D-Side
+nameguysdsidespack_1_4_ReflectionOld=Старое Отражение D-Side
+nameguysdsidespack_1_4_ReflectionOld_b_01=Спуск
+nameguysdsidespack_1_4_ReflectionOld_c_01=Инициатива
+nameguysdsidespack_1_4_ReflectionOld_d_01=Центр
+poem_nameguysdsidespack_1_4_ReflectionOld_A=Хейя (Старый 6D)
+monikadsidespackmuseum_oldreflection_badeline_a=[BADELINE right yell]{+MADELINE}! Остановись!!!
+monikadsidespackmuseum_oldreflection_badeline_b=[BADELINE right angry]Если ты продолжишь в том же духе...
+monikadsidespackmuseum_oldreflection_badeline_c=[BADELINE right scoff]Ты затащишь нас в {# ff4242}настоящий{#d3d3d3} Центр Земли!
+monikadsidespackmuseum_oldreflection_badeline_d=[BADELINE right sad]Нееет!!!
+
+
+
+
+
+### Old Old Resort D-Side
+nameguysdsidespack_1_5_ResortOld=Old Old Resort D-Side
+nameguysdsidespack_1_5_ResortOld_b_01=Стой-иди
+nameguysdsidespack_1_5_ResortOld_b_07=Крыша
+poem_nameguysdsidespack_1_5_ResortOld_A=Выселение (Old Old 3D)
+
+
+
+
+
+### Old Final Goodbye
+### Note for translating: You can treat "X's and Circles" as "Crosses and Circles"
+
+nameguysdsidespack_1_6_FinalGoodbyeOld=Старое Финальное Прощание
+poem_nameguysdsidespack_1_6_FinalGoodbyeOld_A=Крестики-Нолики
+
+nameguysdsidespack_1_6_FinalGoodbyeOld_aa_00_lobby=Тихое одиночество
+nameguysdsidespack_1_6_FinalGoodbyeOld_b_01=Проблеск свободы
+nameguysdsidespack_1_6_FinalGoodbyeOld_c_02=Любопытство
+nameguysdsidespack_1_6_FinalGoodbyeOld_d_01=Преданность
+nameguysdsidespack_1_6_FinalGoodbyeOld_d_10=Воспоминания
+nameguysdsidespack_1_6_FinalGoodbyeOld_dd_00_lobby=Создание
+nameguysdsidespack_1_6_FinalGoodbyeOld_f_01=Исследование
+nameguysdsidespack_1_6_FinalGoodbyeOld_g_01=Депрессия
+nameguysdsidespack_1_6_FinalGoodbyeOld_h_08=Доверие
+nameguysdsidespack_1_6_FinalGoodbyeOld_i_01=Безмятежность
+nameguysdsidespack_1_6_FinalGoodbyeOld_j_00=Повторная встреча
+nameguysdsidespack_1_6_FinalGoodbyeOld_l_01=Плохая карма
+nameguysdsidespack_1_6_FinalGoodbyeOld_m_13=Разбитое зеркало шторма
+nameguysdsidespack_1_6_FinalGoodbyeOld_p_01=Восходящее солнце
+nameguysdsidespack_1_6_FinalGoodbyeOld_q_01=Прощание с горой
+nameguysdsidespack_1_6_FinalGoodbyeOld_r_01=Сердцебиение
+nameguysdsidespack_1_6_FinalGoodbyeOld_s_01=Осознание
+nameguysdsidespack_1_6_FinalGoodbyeOld_t_01=Расставание
+nameguysdsidespack_1_6_FinalGoodbyeOld_t_03=Множество
+nameguysdsidespack_1_6_FinalGoodbyeOld_u_01=Настоящая любовь
+nameguysdsidespack_1_6_FinalGoodbyeOld_v_00_lobby=Воссоединение
+nameguysdsidespack_1_6_FinalGoodbyeOld_w_00=Точка невозврата
+nameguysdsidespack_1_6_FinalGoodbyeOld_w_08=Край вселенной
+nameguysdsidespack_1_6_FinalGoodbyeOld_x_01=Бездна
+nameguysdsidespack_1_6_FinalGoodbyeOld_x_99_final_goodbye=Финальное Прощание
+nameguysdsidespack_1_6_FinalGoodbyeOld_y_04=Прочь
+nameguysdsidespack_1_6_FinalGoodbyeOld_z_00=Бесконечность
+
+
+
+# Old 9D - Light-years display stuff
+
+monikadsidespack_museum_oldfinalgoodbye_SummitSectionMeterCount=0.0000000000000((count))ly
+monikadsidespack_museum_oldfinalgoodbye_SummitSectionMeterCountTwelveZeroes=0.000000000000((count))ly
+monikadsidespack_museum_oldfinalgoodbye_SummitSectionMeterCountTwelveZeroesSpace=0.000000000000 ((count)) ly
+monikadsidespack_museum_oldfinalgoodbye_SummitSectionMeterCountFourZeroesSpace=0.0000 ((count))ly
+monikadsidespack_museum_oldfinalgoodbye_PinkSectionLightYearsCount=((count)) ly
+monikadsidespack_museum_oldfinalgoodbye_MoomSectionMeterCount=((count))
+
+
+
+# Old 9D - Fastbubble Tutorial
+
+monikadsidespack_museum_oldfinalgoodbye_fastbubble1=
+		Не {0.4}можете {0.4}сделать {0.42}bubble {0.02}hyper?
+		-Факты: {0.4}Пузыри довольно просты в использовании.
+		-Они очень медленные{0.6}{n}-Довольно скучно
+		-И не быстрые
+		-Что делать?
+		Предстваляем{0.05}.{0.05}.{0.05}.{0.05} {#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t{#d3ff9e}b{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#d3d3d3}!!!
+		[MADELINE left normal]С {#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t {#d3ff9e}B{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#d3d3d3}, {0.08}ты можешь быть быстрее {0.02} и менее медленным{~} одновременно!{/~}
+		[THEO_MIRROR right excited]Это {0.05}"нереально сложно! Никто никогда{n}не будет {~}способен {/~}сделать это!"
+		[]-Как это сделать-
+		Как только ты {>> 0.34}попадаешь в {>> 0.27}мистическое {>> 0.25}летающее {>> 0.22}сферическое {>> 0.19}проявление водички{0.05} - {>>}{1.0}{#59193e}сделай рывок.{#d3d3d3}{>>}
+		{~}Ты сделал это! {/~}{0.8}(вперёд) {0.85}(прекрасная работа, {0.16}вау){1.5} {n}(ты лучший) {1.4}(ну ладно, {0.1}второй лучший) {n}{1.9}(но всё ещё неплохо, верно?)
+		Проблемы с нажатием кнопки рывка?
+		{#ffa8cf}Если пузырь не становится быстрее{#d3d3d3},{n}{0.5}Ты уже летишь.{0.6} Хорошая работа.
+		{#ff9eca}Если ты сделал {~}обычный рывок{/~}{#d3d3d3},{0.6} ты ещё не в пузыре.{1.4} Дурачок.
+		На самом деле сказать больше нечего. {n}Как ты забрался так далеко, если ты{n}всё ещё не знаешь этого?
+		{#9eabff}У{#c59eff}д{#ea9eff}а{#ff9ef4}ч{#ff9ec8}и с {#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t{#d3ff9e}b{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#e49eff}!{#d3d3d3}
+	
+	
+
+# Old 9D - Fastbubble Tutorial - Bubble Hypers
+	
+monikadsidespack_museum_oldfinalgoodbye_fastbubble_bubblehypers=
+		{#00ff84}~Как bubble hyper~{#d3d3d3}
+		-{#ff836e}Пока вы на земле{#d3d3d3}, сделайте {#ff836e}прямой рывок{#d3d3d3} в направлении пузыря.
+		-Как только {#ff836e}вы попадёте в пузырь{#d3d3d3}, {#ff8975}может быть даже чуточку заранее{#d3d3d3}, {#e8fffe}{~}крайне быстро{/~}{#d3d3d3} сделайте рывок {#ff8975}по диагонали вниз{#d3d3d3} и {#ff8975}прыгните{#d3d3d3}.
+		
+### Bubble Hyper Tutorial (no intro text)
+monikadsidespack_museum_oldfinalgoodbye_fastbubble_bubblehypers_shorter=
+		-{#ff836e}Пока вы на земле{#d3d3d3}, сделайте {#ff836e}прямой рывок{#d3d3d3} в направлении пузыря.
+		-Как только {#ff836e}вы попадёте в пузырь{#d3d3d3}, {#ff8975}может быть даже чуточку заранее{#d3d3d3}, {#e8fffe}{~}крайне быстро{/~}{#d3d3d3} сделайте рывок {#ff8975}по диагонали вниз{#d3d3d3} и {#ff8975}прыгните{#d3d3d3}.
+		
+		
+		
+# Old 9D - Trust Intro 
+
+monikadsidespack_museum_oldfinalgoodbye_trust_intro=
+	[MADELINE left sadder]{>> 0.15}...{>>}
+	[MADELINE left sadder]Ну почему я такая.
+	[MADELINE left panic]Я не способна сделать буквально {*}ничего{/*} более.
+	[MADELINE left panic]Как я вообще должна{n}справиться со всем этим?
+	[]...
+	[]Эй.
+	[]Ты как, в порядке?
+	[MADELINE left sad] Эмм... {0.3}Нет. {0.1}Вообще нет.
+	[]Всё хорошо. {0.1}Иди сюда. {0.1}Давай я обниму тебя.
+	[MADELINE left sad]{0.4}.{0.4}.{0.4}.
+	[]{0.4}.{0.4}.{0.4}.
+	[MADELINE left peaceful]{0.38}.{0.3}.{0.29}.
+	[MADELINE left peaceful]Спасибо.
+	[]Теперь,{0.3} давай пройдем через это вместе.
+	[MADELINE left sad]...{0.05}хорошо.
+	[]Я знаю что сейчас ты в довольно тёмном месте,{n}но я постараюсь помочь тебе.
+	[]Так что, эээ... {0.1}попробуй идти вправо.
+	
+	
+	
+# Old 9D - Trust - Bubbles Room #1
+
+monikadsidespack_museum_oldfinalgoodbye_trust_bubbles_intro=
+	[]Хорошо. {0.1}Просто будь спокойна.{n}{0.05}Вместе мы всё преодолеем.
+	
+monikadsidespack_museum_oldfinalgoodbye_trust_bubbles_tutorial=
+	[]Прямо перед тобой есть несколько {#00ff66}пузырей{#d3d3d3}.
+	[]Ты должна двигаться {#ff8f93}вправо{#d3d3d3} пока не достигнешь четвёртого, на котором поверни {#b3fcff}вверх{#d3d3d3}, а затем снова двигайся {#ff8f93}вправо{#d3d3d3}.
+	
+monikadsidespack_museum_oldfinalgoodbye_trust_bubbles_end=
+	[]Вот. Мы успешно справились!
+	[MADELINE left normal] Да!
+	[MADELINE left sad]Но я всё ещё немного напугана...
+	[]Не волнуйся. {0.1}Я здесь, с тобой.
+	[]Теперь просто иди вправо и не споткнись хаха.{0.4}{n}Там есть небольшой выступ.
+
+
+
+# Old 9D - Trust - Bubbles Room #2
+
+monikadsidespack_museum_oldfinalgoodbye_trust_morebubbles_intro=
+	[]Хорошо, так, выглядит как ещё больше {#00ff66}пузырей{#d3d3d3}.
+	
+monikadsidespack_museum_oldfinalgoodbye_trust_morebubbles_tutorial=
+	[]И первый прямо {#b3fcff}над{#d3d3d3} тобой.
+	[]Затем двигайся {#ff8f93}вправо{#d3d3d3}, {#b3fcff}два раза вверх{#d3d3d3}, {#ff8f93}вправо{#d3d3d3},{n}{#db99ff}вниз{#d3d3d3}, и ещё раз {#ff8f93}вправо{#d3d3d3}.
+	[]Затем сразу {#ff8f93}справа{#d3d3d3} будет стена.{n}{0.1}Если {#b3fcff}заберёшься{#d3d3d3} по ней и прыгнешь вверх, то будет ещё несколько пузырей, которые ведут {#ff8f93}вправо{#d3d3d3}.
+	
+monikadsidespack_museum_oldfinalgoodbye_trust_morebubbles_ondeath=
+	[MADELINE left sad]Кажется это будет довольно сложно.
+	[]Хаха,{0.07} возможно из-за меня это действительно звучит плохо, но поверь мне, это довольно просто.
+	
+monikadsidespack_museum_oldfinalgoodbye_trust_morebubbles_end=
+	[]Видишь? Я же говорил тебе, что не всё так плохо.
+	[MADELINE left upset]Нет. {0.1}Я не вижу. {0.22}Ведь я не вижу вообще ничего.
+	[MADELINE left normal]В любом случае, идём дальше.
+
+
+
+# Old 9D - Trust - Move Block Timing Room
+
+monikadsidespack_museum_oldfinalgoodbye_trust_moveblocks_intro=
+	[]Хорошо, так, если ты пройдёшь ещё чуточку вперед,{n}то наступишь на один из {#a386d1}движущихся блоков{#d3d3d3}. 
+	[]Просто стой на нём, где-то {#c7ff45}1{#d3d3d3}-{#c7ff45}2{#d3d3d3} секунды.
+	[]Затем будет {#a386d1}ещё один{#d3d3d3} {#ddff9e}сверху слева от тебя{#d3d3d3}.{n}Если ты сделаешь рывок вверх и повернёшься влево,{n}то зацепишься за него.
+	[]На глаз расстояние примерно одинаковое, так что подожди ещё столько же, а затем просто {#db99ff}спрыгни вниз{#d3d3d3}.
+	
+monikadsidespack_museum_oldfinalgoodbye_trust_moveblocks_end=
+	[]Отлично! {0.1}Теперь просто иди вправо.
+
+
+
+# Old 9D - Trust - Core Blocks Room
+
+monikadsidespack_museum_oldfinalgoodbye_trust_coreblocks_intro=
+	[]Хорошо. Выглядит не так уж и страшно.
+	
+monikadsidespack_museum_oldfinalgoodbye_trust_coreblocks_tutorial=
+	[]Здесь два странных {#ff3d4d}блока магмы{#d3d3d3}.{n}Один {#ede9e6}прямо перед тобой{#d3d3d3}, а другой {#ede9e6}немного подальше{#d3d3d3}.
+	[]{#ffbdbf}Ещё дальше{#d3d3d3} небольшая платформа, с высокой стеной, по которой просто нужно {#b3fcff}забраться{#d3d3d3}.
+
+
+	
+# Old 9D - Trust - Refill + Swap Block Room
+
+monikadsidespack_museum_oldfinalgoodbye_trust_coreblocks_end=
+	[]Хорошая работа. У тебя неплохо получается!	
+	[MADELINE left sad]Прости, что я так долго с этим вожусь.{n}Ты и правда меня очень выручаешь,{n}но не чувствуется, чтобы мы продвинулись.
+	[]Всё нормально.{n}Я буду с тобой столько, сколько нужно.
+	
+monikadsidespack_museum_oldfinalgoodbye_trust_refillandswapblock_tutorial_a=
+	[]Довольно далеко, справа от тебя, есть {#eb7cdd}кристалл рывка{#d3d3d3}. 
+	[]Используй его чтобы зацепиться за стену,{n}которая находится {#ffee80}высоко{#d3d3d3} справа.
+
+monikadsidespack_museum_oldfinalgoodbye_trust_refillandswapblock_tutorial_b=
+	[]Пройди немного вперёд и сделай рывок {#db99ff}вниз{#d3d3d3}.{n}{0.1}Это заставит {#87bbff}блок{#d3d3d3} двигаться{n}и докинет тебя на другую сторону.
+	
+	
+
+# Old 9D - Trust - Countdown Room
+
+monikadsidespack_museum_oldfinalgoodbye_trust_countdownroom_intro=
+	[]И снова {#a386d1}движущиеся блоки{#d3d3d3}.
+	[]На этот раз они довольно далеко друг от друга.
+	[]Так что... пройди {#ff8f93}вправо{#d3d3d3} пока не окажешься на {#a386d1}блоке{#d3d3d3},{n}а потом подожди примерно... {#c7ff45}8{#d3d3d3} секу-
+	[MADELINE left upset]Это никогда не сработает.{n}{0.6}Я вообще без понятия,{n}когда мне нужно будет прыгать.
+	[]...Ты {#ff8f93}права{#d3d3d3}.
+	[MADELINE left upset]...
+	[]{>>0.5}Хммм...{>>}
+	[]Ладно. У меня есть идея.
+	[MADELINE left sad] О нет.
+	[]Потерпи здесь немножко. {0.1}Мы справимся.
+
+monikadsidespack_museum_oldfinalgoodbye_trust_countdownroom_tutorial_a=
+	[]В общем. {0.2}Встань на {#a386d1}блок{#d3d3d3},{n}а там я тебе скажу когда прыгать.
+	
+monikadsidespack_museum_oldfinalgoodbye_trust_countdownroom_tutorial_b=Так...
+monikadsidespack_museum_oldfinalgoodbye_trust_countdownroom_three=3...
+monikadsidespack_museum_oldfinalgoodbye_trust_countdownroom_two=2...
+monikadsidespack_museum_oldfinalgoodbye_trust_countdownroom_one=1...
+monikadsidespack_museum_oldfinalgoodbye_trust_countdownroom_zero=0...
+monikadsidespack_museum_oldfinalgoodbye_trust_countdownroom_minuszero=-0...
+monikadsidespack_museum_oldfinalgoodbye_trust_countdownroom_jump=Прыгай!!!
+monikadsidespack_museum_oldfinalgoodbye_trust_countdownroom_go=Давай!!!
+
+monikadsidespack_museum_oldfinalgoodbye_trust_countdownroom_tutorial_c=Вау! Хорошая работа. Ой э ПРЫГАЙ
+
+monikadsidespack_museum_oldfinalgoodbye_trust_countdownroom_tutorial_d=А ещё ПРИГНИСЬ
+
+monikadsidespack_museum_oldfinalgoodbye_trust_countdownroom_tutorial_e=Прости за это хаха. Ладно,когда я скажу "давай",{n} прыгни и сделай рывок вверх, хорошо?
+
+monikadsidespack_museum_oldfinalgoodbye_trust_countdownroom_end=
+	[MADELINE left upset]Всё дурачишься?
+	[]Ахаха, прости.
+	
+
+
+# Old 9D - Trust - Outro Room
+
+monikadsidespack_museum_oldfinalgoodbye_trust_outroroom_tutorial_a=
+	[]Хм. Аккуратно пройди ещё немного вправо.
+	
+monikadsidespack_museum_oldfinalgoodbye_trust_outroroom_tutorial_b=
+	Хорошо, стой.{n} Думаю, если ты просто сделаешь рывок отсюда, то пройдешь.
+
+monikadsidespack_museum_oldfinalgoodbye_trust_outroroom_tutorial_c=
+	[]Отлично.{n}Теперь стена справа.{n}Просто сделай рывок на нее и заберись.
+	
+monikadsidespack_museum_oldfinalgoodbye_trust_outroroom_tutorial_d=
+	Теперь сделай высокий прыжок вправо!
+
+monikadsidespack_museum_oldfinalgoodbye_trust_outroroom_tutorial_e=Стой. Теперь... {0.1}эээ.{0.05}{n}Сделай {#00d5ff}вот {#61e5ff}этот {#80eaff}очень {#adf2ff}быстрый {#bff5ff}и {#d4f8ff}широкий {#fbb3ff}рывок{#d3d3d3}.
+
+monikadsidespack_museum_oldfinalgoodbye_trust_outroroom_end=
+	[]Хорошо, теперь прос-
+	[MADELINE left normal]Спасибо, но, кажется, теперь{n}я смогу двигаться сама.
+	[]Оу, отлично! Давай.
+	
+	
+	
+# Old 9D - Serenity - Intro
+
+monikadsidespack_museum_oldfinalgoodbye_serenity_intro_a=
+	[MADELINE left sad]Дорогой, прости за весь этот бардак.
+	[MADELINE left normal]Спасибо, что помог мне справиться со всем этим.{n}Теперь я чувствую себя намного лучше.
+	[]Да без проблем хаха.{0.3} Люблю тебя.
+	[MADELINE left peaceful] Я тоже тебя люблю.
+	
+monikadsidespack_museum_oldfinalgoodbye_serenity_intro_b=
+	[]Ты должна немного поспать, это пойдет тебе на пользу.
+	[MADELINE left sad]Нет. Сначала мне нужно кое-что закончить.
+	[MADELINE left normal]Если хочешь, можешь идти.
+	[]Уверена?
+	[MADELINE left normal]Да. Я буду в порядке.
+	[]Хорошо, потому что на самом деле{n}я довольно устал хаха.
+	[MADELINE left sad]Прости, не думала, что это займёт так много времени.
+	[]Да всё нормально.{n}И хватит уже извиняться за всё подряд.
+	[MADELINE left peaceful] Прости.
+	[]Помолчи.
+	[]В общем, я пойду спать.{n}Удачи тебе закончить всё это.
+	[MADELINE left normal]Спасибо. Спокойной ночи. {0.2}{#d996ff}<3{#d3d3d3}
+	
+	
+	
+# Old 9D - Serenity - End
+
+monikadsidespack_museum_oldfinalgoodbye_serenity_end_a=
+	[BADELINE right concerned]{+MADELINE}. {0.1}Сколько ещё это будет продолжаться?
+	[BADELINE right upset]Рано или поздно тебе придётся двигаться дальше.
+	[MADELINE left distracted]Да. {0.1}Я знаю.{0.2}{n}И я буду.
+	[MADELINE left sad]Но сначала я должна закончить начатое. 
+	[MADELINE left sad]В конце концов это последний раз, когда мы можем сделать это.
+	[MADELINE left sad]Так что, давай поработаем вместе?
+	[MADELINE left upset]Не похоже, чтобы ты помогала мне{n}до этого момента.
+	[BADELINE right sigh]Прости.{1.0}{n}Ты права.
+
+monikadsidespack_museum_oldfinalgoodbye_serenity_end_b=
+	[BADELINE right worried]Ладно.
+	[BADELINE right worried]Давай сделаем это...
+	[MADELINE left normal]В последний раз.
+	
+	
+	
+# Old 9D - Cassette CPs - Floating Text
+
+monikadsidespack_museum_oldfinalgoodbye_cassettecps_a=После всего, через что мы прошли,
+monikadsidespack_museum_oldfinalgoodbye_cassettecps_b=Почему я не нужна ему?
+monikadsidespack_museum_oldfinalgoodbye_cassettecps_c=Я сделала всё что могла.
+monikadsidespack_museum_oldfinalgoodbye_cassettecps_d=Что я сделала не так?
+monikadsidespack_museum_oldfinalgoodbye_cassettecps_e=Это невыносимо.
+monikadsidespack_museum_oldfinalgoodbye_cassettecps_f=Это слишком больно.
+monikadsidespack_museum_oldfinalgoodbye_cassettecps_g=Пожалуйста, остановите это
+monikadsidespack_museum_oldfinalgoodbye_cassettecps_h=А знаешь...
+monikadsidespack_museum_oldfinalgoodbye_cassettecps_i=Может... это и не моя вина.
+monikadsidespack_museum_oldfinalgoodbye_cassettecps_j=Может...
+monikadsidespack_museum_oldfinalgoodbye_cassettecps_k=...Я не нужна ему...
+
+
+
+# Old 9D - Cassette CPs - End
+
+monikadsidespack_museum_oldfinalgoodbye_cassettecps_end=
+	[MADELINE left normal]Мне никто не нужен, чтобы я могла быть собой!
+
+
+
+# Old 9D - Golden Section
+
+monikadsidespack_museum_oldfinalgoodbye_goldensection_meeting_theo=
+	[THEO left excited]{+MADELINE}!
+	[THEO left wtf]...Подожди. {0.6}Нет.
+	[THEO left wtf]Ты...{0.4} Ты не настоящая.
+	[THEO left thinking]Я что, схожу с ума?
+	[MADELINE right normal]Думаю {~}я{/~} единственная, кто здесь сходит с ума.
+	[MADELINE right distracted]Я не совсем помню, как оказалась здесь.
+	[MADELINE right sad]Всё, что я помню, это {n}желтый крест движущийся вокруг {n}и множество разноцветных блоков. 
+	[MADELINE right sad]...
+	[THEO left wtf]...{1.0}Страшно.
+	[THEO left normal]В любом случае, раз ты здесь, не могла бы ты по-
+	[MADELINE right upset]Да, да.{0.4} Я позабочусь о тебе.
+	[MADELINE right upset]Есть у меня предчуствие, что я в любом случае буду магическим образом заблокирована невидимой силой в правой части экрана, если не сделаю этого.
+	[THEO left wtf]Ну раз ты так говоришь...
+
+
+
+
+
+### Old Resort D-Side
+
+nameguysdsidespack_1_7_ResortNew=Alte Resort D-Seite
+
+nameguysdsidespack_1_7_ResortNew_b_00=Генеральная уборка
+nameguysdsidespack_1_7_ResortNew_c_01=Лифтовой зал
+nameguysdsidespack_1_7_ResortNew_d_00=Руины
+
+poem_nameguysdsidespack_1_7_ResortNew_A=Восстать из пепла (Old 3D)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### RANDOMIZER STUFF
+
+RANDO_nameguy_temple_text1=
+
+  [THEO left excited]
+  (RANDO:THEO)
+
+RANDO_nameguy_temple_text2=
+  [THEO left worried]
+  (RANDO:THEO)
+  
+RANDO_nameguy_temple_text3=
+  [THEO left thinking]
+  (RANDO:THEO)
+
+RANDO_nameguy_temple_text4=
+  [THEO left wtf]
+  (RANDO:THEO)
+
+RANDO_nameguy_temple_text6=
+  [THEO left thinking]
+  (RANDO:THEO)
+
+RANDO_nameguy_temple_text7=
+  [THEO left wtf]
+  (RANDO:THEO)
+
+RANDO_nameguy_temple_text8=
+  [THEO left thinking]
+  (RANDO:THEO)
+
+RANDO_nameguysdsidespack_reflectiondside_text1=
+  [BADELINE right yell]
+  {*}(RANDO:BADELINE1:5){/*}
+  
+RANDO_nameguysdsidespack_reflectiondside_text2=
+  [BADELINE right angry]
+  (RANDO:BADELINE2:5)
+  
+RANDO_nameguysdsidespack_reflectiondside_text3=
+  [BADELINE right scoff]
+  (RANDO:BADELINE3:5)
+
+
+
+
+
+	
+	

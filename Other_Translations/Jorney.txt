@@ -1,0 +1,483 @@
+﻿### Monika's Journey - Russian by GarretShadow ###
+
+# Campaign Title
+monika523_journey=Journey by Monika
+
+
+
+# Chapter Complete Screen Text
+monika523_journey_chaptercomplete_a=Глава завершена!
+monika523_journey_chaptercomplete_b=Сторона Б завершена!
+monika523_journey_chaptercomplete_c=Сторона В завершена!
+monika523_journey_chaptercomplete_fc=Глава полностью пройдена!
+
+
+
+# Chapter Titles
+monika523_journey_0_Tutorial=Туториал
+monika523_journey_1_Caves=Местная Система Пещер
+
+
+
+# Checkpoints
+monika523_journey_0_tutorial_a_02=Чекпоинт
+monika523_journey_1_caves_a_05=Основная Западная Пещера
+monika523_journey_1_caves_a_21_gate=Перепутье
+monika523_journey_1_caves_a_09=Находки
+monika523_journey_1_caves_a_39=Пещера Мечтаний
+monika523_journey_1_caves_a_49=Восточная Шахта
+monika523_journey_1_caves_a_59=Северный Проход
+monika523_journey_1_caves_b_01=Наружа
+monika523_journey_1_caves_c_02=Её Мир
+monika523_journey_1_caves_c_07=Её Мир, Пещера
+monika523_journey_1_caves_c_13=Её Мир, Финал
+monika523_journey_1_caves_d_02=Путь
+monika523_journey_1_caves_d_07=Дом
+monika523_journey_1_caves_d_13=Дом, Верхняя Зона
+monika523_journey_1_caves_d_16=Загадочные Руины
+monika523_journey_1_caves_a_32=Забытая Пещера
+
+# Crystal Hearts
+poem_monika523_journey_1_caves_a=Пустота Под Тобою
+
+
+
+
+
+
+
+
+##### Generic Dialog
+
+monika523journey_note=
+Небольшая записка лежащая на земле...
+
+monika523journey_newpathopened=
+Слабым эхом до вас доносится треск камней... {n}Может быть где-то открылся новый путь?
+
+monika523journey_newpathopened_beneath=
+Недалеко от вас раздался треск камней... {n}Может быть где-то открылся новый путь?
+
+
+
+
+
+##### Speedrun Challenges
+
+monika523journey_timerchallenge_a=
+Испытание на скорость!
+Местная Система Пещер - Восточный Путь
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Dialog - Tutorial Chapter
+
+# Introduction (Room Entry)
+
+monika523journey_chtutorial_a=
+{#000000}
+[TUTORIAL right normal]Добро пожаловать в Journey!
+[TUTORIAL right normal]Прежде чем вы начнёте своё путешествие,{n}будет полезно узнать несколько вещей.
+[TUTORIAL right normal]Пройдите вправо, чтобы узнать основы,{n}а чтобы пропустить их, поверните налево.
+
+
+
+# Introduction (Book NPC)
+
+monika523journey_chtutorial_a_left=
+{#000000}
+[TUTORIAL right normal]Этот путь завершит обучение и начнёт путешествие.
+
+monika523journey_chtutorial_a_right=
+{#000000}
+[TUTORIAL right normal]Этот путь начнёт обучение.
+
+
+
+
+
+# Tutorial - Strawberries (Room entry)
+
+monika523journey_chtutorial_b=
+{#000000}
+[TUTORIAL right normal]В ходе этого путешествия вы вольны идти куда угодно и собирать клубнички.
+[TUTORIAL right normal]Но привычный процесс немного изменён:{n}{0.5}У вас {#61c1ff}нет дэшей{#000000}{0.5} и вы{#61c1ff}не можете прыгать по стенам{#000000},{n}{0.5}однако у вас немного {#61c1ff}больше выносливости{#000000}.
+[TUTORIAL right normal]Теперь, коснитесь знака с клубничкой.
+
+monika523journey_chtutorial_ba=
+{#000000}
+[TUTORIAL right normal]Ура!{0.5} ...просто притворитесь, будто вы собрали клубничку.
+[TUTORIAL right normal]В отличие от основной игры, вы {#ff6161}не можете{#000000} полностью игнорировать клубнички.
+[TUTORIAL right normal]Здесь они необходимы, чтобы открывать новые маршруты, так что собирайте все, до каких дотянетесь!
+
+
+
+# Tutorial - Strawberries (Book NPC)
+
+monika523journey_chtutorial_b_alt=
+{#000000}
+[TUTORIAL right normal]В ходе этого путешествия вы вольны забираться куда угодно и собирать клубнички.
+[TUTORIAL right normal]Но привычный процесс немного изменён:{0.5} У вас {#61c1ff}нет рывков{#000000}{0.5} и вы {#61c1ff}не можете прыгать по стенам{#000000}, {0.5}однако у вас немного {#61c1ff}больше выносливости{#000000}.
+[TUTORIAL right normal]Для продолжения, коснитесь знака с клубничкой.
+
+monika523journey_chtutorial_ba_alt=
+{#000000}
+[TUTORIAL right normal]В отличие от основной игры, вы {#ff6161}не можете{#000000} полностью игнорировать клубнички.
+[TUTORIAL right normal]Здесь они необходимы, чтобы открывать новые маршруты, так что собирайте все, до каких дотянетесь!
+
+
+
+
+
+# Tutorial - Checkpoints and Returning to Map (Room Entry)
+
+monika523journey_chtutorial_c=
+{#000000}
+[TUTORIAL right normal]Это {#67aaaa}:checkpoint: Чекпоинт{#000000}.
+[TUTORIAL right normal]Теперь, когда вы разблокировали его, вы сможете вернуться сюда в любой момент.
+[TUTORIAL right normal]Это одна из ключевых механик этого путешествия, не забывайте о ней!
+[TUTORIAL right normal]Теперь опустимся чуть ниже.
+
+monika523journey_chtutorial_d=
+{anchor bottom}
+{#000000}
+[TUTORIAL right normal]Вау, новая зона!
+[TUTORIAL right normal]Давай выполним её, "собрав" нашу любимую клубничку.
+
+monika523journey_chtutorial_e=
+{#000000}
+[TUTORIAL right normal]Отлично!{n}Теперь тут больше нечего делать, так что давай вернёмся на {#67aaaa}:checkpoint: Чекпоинт{#000000} в прошлой комнате.
+[TUTORIAL right normal]Чтобы сделать это, нажми на {#ff6161}\[Паузу\]{#000000} и выбери "{#ff6161}Вернуться к карте{#000000}".
+[TUTORIAL right normal]When you're back at the map and have the chapter selected, select "{#ff6161}НАЧАТЬ{#000000}" / "{#ff6161}CLIMB{#000000}" to see all possible places to travel to.
+[TUTORIAL right normal]From the {#67aaaa}:checkpoint: Checkpoint{#000000}, head right to continue the tutorial.
+	
+	
+	
+# Tutorial - Checkpoints and Returning to Map (Book NPC)
+
+monika523journey_chtutorial_c_alt=
+{#000000}
+[TUTORIAL right normal]This is a {#67aaaa}:checkpoint: Checkpoint{#000000}.
+[TUTORIAL right normal]Now that you've unlocked it, you can enter the level from this location at any time.
+[TUTORIAL right normal]This is a key mechanic in this campaign, so keep it in mind!
+
+monika523journey_chtutorial_ca_alt=
+{#000000}
+[TUTORIAL right normal]Head downwards to continue.	
+
+monika523journey_chtutorial_d_alt=
+{#000000}
+[TUTORIAL right normal]Complete this area by touching the cutout berry.
+
+monika523journey_chtutorial_e_alt=
+{#000000}
+[TUTORIAL right normal]Now that there's nothing left to do in this area, head back to the {#67aaaa}:checkpoint: Checkpoint{#000000} in the previous room.
+[TUTORIAL right normal]To do this, press {#ff6161}\[Pause\]{#000000} and select "{#ff6161}Return to Map{#000000}".
+[TUTORIAL right normal]When you're back at the map and have the chapter selected, select "{#ff6161}BEGIN{#000000}" / "{#ff6161}CLIMB{#000000}" to see all possible places to travel to.
+[TUTORIAL right normal]From the {#67aaaa}:checkpoint: Checkpoint{#000000}, head right to continue the tutorial.
+	
+	
+	
+	
+	
+# Tutorial End (Room Entry)
+
+monika523journey_chtutorial_end=
+{#000000}
+[TUTORIAL right normal]That's basically it!
+[TUTORIAL right normal]You may have this cardboard cutout of a cookie as a prize for going through the tutorial.
+[TUTORIAL right normal]Once you're done admiring it, make use of {#ff6161}Return to Map{#000000} and travel to the Start of this chapter. Head left from there to finish the tutorial.
+
+
+
+# Tutorial End (Book NPC)
+
+monika523journey_chtutorial_end_alt=
+{#000000}
+[TUTORIAL right normal]Make use of {#ff6161}Return to Map{#000000} and travel to the Start of this chapter. Head left from there to finish the tutorial.
+
+monika523journey_chtutorial_end_alt_b=
+{#000000}
+[TUTORIAL right normal]You may admire the cookie. {0.5}Please do not eat it.
+
+
+
+
+# Tutorial End - Cookie (Minitextbox)
+
+monika523journey_chtutorial_cookie=
+[MADELINE left distracted] What do i do with this...
+
+
+
+# Tutorial Exit - Book NPC
+
+monika523journey_chtutorial_exit_alt=
+{#000000}
+[TUTORIAL right normal]Step onto the podium to end the tutorial and start the campaign.
+
+
+
+
+
+
+
+
+
+
+### Dialog - Chapter 1
+
+# Tutorial - Checkpoints (textbox appears at top)
+monika523journey_ch1_checkpoints_tutorial=
+[MADELINE left normal] Hey, look! We got a {#b2ffff}:checkpoint: {#91ff85}Checkpoint{#D3D3D3}!
+[BADELINE right concerned] Uhm, what does that mean again?
+[MADELINE left normal] It means we can return here at any point, from the chapter's checkpoint selection!
+[BADELINE right concerned] Oh, that sounds useful. We should keep that in mind.
+
+# Tutorial - Checkpoints (textbox appears at middle)
+monika523journey_ch1_checkpoints_tutorial_middle=
+{anchor middle}
+[MADELINE left normal] Hey, look! We got a {#b2ffff}:checkpoint: {#91ff85}Checkpoint{#D3D3D3}!
+[BADELINE right concerned] Uhm, what does that mean again?
+[MADELINE left normal] It means we can return here at any point, from the chapter's checkpoint selection!
+[BADELINE right concerned] Oh, that sounds useful. We should keep that in mind.
+
+# Tutorial - Checkpoints (textbox appears at bottom)
+monika523journey_ch1_checkpoints_tutorial_bottom=
+{anchor bottom}
+[MADELINE left normal] Hey, look! We got a {#b2ffff}:checkpoint: {#91ff85}Checkpoint{#D3D3D3}!
+[BADELINE right concerned] Uhm, what does that mean again?
+[MADELINE left normal] It means we can return here at any point, from the chapter's checkpoint selection!
+[BADELINE right concerned] Oh, that sounds useful. We should keep that in mind.
+
+# Tutorial - Return to Map and warping to Checkpoints
+monika523journey_ch1_returntomap_tutorial=
+[BADELINE right worried] It doesn't look like this path goes on much further...
+[MADELINE left normal] Yeah. Let's head back when we're done exploring here.
+[] -If you want to visit another area or head back to the start of the chapter,{n}open the menu and select '{#b2ffff}Return to Map{#000000}'.
+[] -From there, select 'CLIMB' to see the list of possible places to travel to. 
+
+# Tutorial for Fall-Throughs in Her Space in case the player didn't discover it before this point
+monika523journey_ch1_room_c04_fallthroughexplainer=
+[] Tutorial: Falling through platforms
+[] By holding down on a wooden platform like the one here, you can drop through it!
+
+
+
+
+
+
+# Forbidden Cave Intro Dialogue
+monika523journey_ch1_paincaves=
+[MADELINE left sad] I don't like it here...
+[BADELINE right concerned] Yeah, this is not a good place to be.
+[BADELINE right worried] We shouldn't stay longer than we absolutely have to.
+[MADELINE left sad] Agreed.
+
+# Required activatable cutscene at mineshaft right of the spawn
+monika523journey_ch1_rightpath_mineshaft=
+[MADELINE left normal] So we've finally started our exploration, huh?
+[BADELINE right concerned] Yeah...
+[BADELINE right worried] I'm still not sure what you're trying to get out of this, but...
+[BADELINE right concerned] I trust you have something in mind.
+[MADELINE left normal] Well, we've gotta find out what {#a5ba59}Granny{#} meant with what she wrote in her letter...
+[MADELINE left determined] There has to be {~}something{/~} to it, right?
+[BADELINE right concerned] I suppose it's possible.
+[BADELINE right upset] You have a penchant for getting us into precarious adventures, you know?
+[MADELINE left normal] Yeah, but it's been going well for us so far, right?
+[BADELINE right upset] ...
+[BADELINE right worried] I'm just asking you to take this carefully.
+[BADELINE right worriedAlt] You remember, right?
+[MADELINE left deadpan] ...
+[MADELINE left sad] We'll be careful.{0.5} I promise you that.
+[BADELINE right worriedAlt] Alright. Let's move on then.
+
+# Cutscene before exiting cave (either left or right path)
+monika523journey_ch1_caves_left_exit=
+[MADELINE left normal] Do you smell that?
+[BADELINE right concerned] *sniff, sniff*
+[BADELINE right concerned] The air's getting clearer, i think.
+[MADELINE left normal] Yeah. We must be close to the outside!
+[BADELINE right concerned] That would be nice. It was getting pretty stuffy down there...
+[BADELINE right concerned] Although... did you actually find what you were looking for?
+[MADELINE left normal] Not really, but that's okay!
+[BADELINE right concerned] Wh- ... You're really okay with that?
+[BADELINE right concerned] I thought the whole point of this little trip was to find out clues about {#99a355}Granny{#}?
+[MADELINE left sad] Well yeah, but this was just the first day...
+[MADELINE left normal] If we look around enough i'm sure we can find something!
+[BADELINE right sigh] I suppose we'll see how this turns out... 
+
+# Cutscene after exiting cave
+monika523journey_ch1_after_exiting_caves=
+[MADELINE left peaceful] Ahh... the forest air is so fresh. It's lovely.
+[MADELINE left normal] That was a fun little adventure!
+[BADELINE right concerned] Maddy...
+[BADELINE right concerned] It's night-time already...
+[MADELINE left sad] Oh jeez, you're right.
+[MADELINE left sad] We should head home, like, right now.
+[BADELINE right angry] We should've been home hours ago.
+[BADELINE right angryAlt] This is terrible. And dangerous.
+[MADELINE left determinedclosed] Do you want to spend the night in the caves?
+[BADELINE right angry] Obviously not.
+[BADELINE right angryAlt] Still, this is a bad idea.
+[MADELINE left normal] Eh, we'll get through it.
+[MADELINE left normal] We've got eachother, right?
+[BADELINE right angryAlt] Right...
+
+# Outside forest section - Encounter
+monika523journey_ch1_encounter=
+[ENTITY right normal]Halt.
+[ENTITY right normal]Madeline and Co.
+[ENTITY right normal]You will go no further.
+[BADELINE right worried] I told you this was a bad idea.
+[MADELINE left sad] {#ECEFF0}Who is this?
+[MADELINE left determined] {#ECEFF0}Show yourself!
+[ENTITY right normal]...
+[ENTITY right normal]I will not.
+[ENTITY right normal]But i will show you something else...
+[ENTITY right normal]My {big}POWER{/big}...
+[ENTITY right normal]The {big}POWER{/big} of {big}PERFECTION{/big}.
+[ENTITY right normal]My {big}PERFECT POWER in my {big}PERFECT WORLD{/big}.
+[ENTITY right normal]MADELINE.
+[ENTITY right normal]AND THE OTHER ONE.
+[BADELINE right angryAlt] I have a name, you know...
+[ENTITY right normal]You will be the WITNESSES to my {big}PERFECTION{/big}.
+[ENTITY right normal]Now...
+[ENTITY right normal]Behold... my {big}POWER{/big}!
+
+# Boss Fight - End of first room
+monika523journey_ch1_b05_completed=
+[MADELINE left surprised] What the heck?!
+[MADELINE left determined] {#ECEFF0}Stop messing with me right now.
+[ENTITY right normal]No way. I'm only getting started!
+
+# Boss Fight - End of wooden corridor room A
+monika523journey_ch1_b08_end=
+[MADELINE left panic] What's happening?
+[MADELINE left panic] Things keep changing around me and it's getting hard to keep walking...
+[ENTITY right normal]Hahaha! Are you scared yet?
+[ENTITY right normal]I've watched you while you were in that cave.
+[ENTITY right normal]Your form is so unnatural. It has no style.
+[ENTITY right normal]So many times you screwed up even the simplest challenges.
+[ENTITY right normal]And there was this one strawberry you missed, even though it was {*}right there{/*}.
+[ENTITY right normal]...
+[ENTITY right normal]If {#99a355}Granny{#} saw you right now, she'd be ashamed.
+[MADELINE left sadder] What are you talking about?
+[BADELINE right yell] That's enough.
+[BADELINE right angryAlt] Madeline doesn't have to listen to any more of this drivel.
+[MADELINE left sadder] ...
+[BADELINE right angry] Let's get out of here.
+[BADELINE right yell]{#a348b9}{big}{~}\[PRISON SLICE\]{/~}{/big}
+
+# Boss Fight - End of wooden corridor room A
+monika523journey_ch1_b08_end2=
+{anchor bottom} 
+[MADELINE left sadder] Whoa, when did you learn to do that?
+[BADELINE right angry] I can tell you later... let's just focus on getting back home for now.
+[MADELINE left sadder] Okay...
+
+# Badeline's Spell Card A
+monika523journey_ch1_b09_badelinehelpspell=
+[BADELINE right yell]{#a348b9}{big}{~}\[PRISON SLICE\]{/~}{/big}
+
+# Boss Fight - Final cutscene
+monika523journey_ch1_b09_treetop=
+[ENTITY right normal]What?!
+[ENTITY right normal]How dare you mess with my perfect obstacles?!
+[ENTITY right normal]You are truly disgusting.
+[MADELINE left panic] Why are you so mean? We just want to go home, nothing more...
+[ENTITY right normal]"Nothing more"? Really?
+[ENTITY right normal]As if you wouldn't sully this beautiful landscape with your hideous movements again the very next day.
+[ENTITY right normal]This pointless search for those phantom clues will-
+[BADELINE right angryAlt] Cut the crap.
+[BADELINE right yell] If this landscape is so beautiful, why do you keep changing it?
+[ENTITY right normal]To at least require a little bit of elegance of this mediocre hiker girl.
+[ENTITY right normal]She must learn that {#99a355}Celia{#} would've never accepted her. 
+[ENTITY right normal]Not when she's this... clumsy.
+[MADELINE left panic] ...
+[BADELINE right worried] Maddy?
+[BADELINE right worried] Are you alright?
+[MADELINE left panic] I-... i-... i-...
+[BADELINE right angryAlt] That's quite enough now.
+[BADELINE right yell] Stop messing with us or you'll regret it!
+[ENTITY right normal]Heh heh heh... 
+[ENTITY right normal]You cannot hurt me. I am an entirely nonphysical being.
+[ENTITY right normal]Or did you happen to bring some ghost-hunting equipment?
+[BADELINE right angryAlt] No...
+[BADELINE right angryAlt] But i have brought this
+[BADELINE right angry] ...
+
+# Badeline's Spell Card B
+monika523journey_ch1_b09_badelinehelpspell_b=
+[BADELINE right yell] {#a348b9}{big}{~}\[CREATION {0.5}~ {0.5}ALTERNATE SPACE\]{/~}{/big}
+
+# After teleporting to Her Space
+monika523journey_ch1_room_alt01=
+[MADELINE left surprised] What?! Where are we?
+[BADELINE right angry] Difficult to put into words...
+[BADELINE right concerned] I'll explain later. For now, we can make use of this space to return home.
+[MADELINE left sadder] ...
+[MADELINE left determined] {#ECEFF0}Alright.
+
+# Her Space - Final Room intro
+monika523journey_ch1_room_alt16=
+[BADELINE right concerned] Okay, i think we're almost there.
+[MADELINE left sad] Where?
+[BADELINE right concerned] I mean that we've almost gone far enough that whoever that was couldn't find us anymore.
+[BADELINE right concerned] ...and we should be out of the forest soon as well.
+[MADELINE left sad] Okay... that's good, i suppose.
+[BADELINE right concerned] Yeah. We'll be home soon.
+
+# Her Space - Minitextbox before getting teleported to Road
+monika523journey_ch1_room_alt17_teleport=
+[BADELINE right upset] Okay, back we go...
+
+# After getting teleported to Road
+monika523journey_ch1_room_d01=
+[MADELINE left peaceful] We've made it...
+[BADELINE right concerned] Yeah. Let's hurry on home.
+
+# Returned Home - Ending Cutscene
+monika523journey_ch1_ending=
+[MADELINE left sad] Home at last...
+[BADELINE right concerned] Yeah.
+[MADELINE left sadder] I can't wait until we're in bed. I'm sooo tired...
+[MADELINE left determinedclosed] I'm already falling asleep, look.
+[BADELINE right upset] I can tell, yeah.
+[MADELINE left sad] ...
+[MADELINE left sad] Let's eat something first though.
+[BADELINE right normal] Hey, good thing we brought so many strawberries.
+[BADELINE right normal] Let's snack on those.
+[MADELINE left sad] Hmm...
+[]...
+[]...
+[]...
+[MADELINE left distracted] Isn't it {0.5}{~}*monch* {/~}{0.5}bad to eat fruits before {0.5}{~}*monch* {0.5}{/~}going to bed?
+[BADELINE right normal] Well, {0.5}{~}*monch* {/~}{0.5}perhaps... but is that going to stop us?
+[MADELINE left normal] {#e8d3dd}...Absolutely not.
+[MADELINE left normal] {#e8d3dd} {~}*mounchy* {/~}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
