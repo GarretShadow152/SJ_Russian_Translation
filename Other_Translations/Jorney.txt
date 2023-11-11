@@ -15,7 +15,7 @@ monika523_journey_chaptercomplete_fc=Глава полностью пройде�
 
 # Chapter Titles
 monika523_journey_0_Tutorial=Туториал
-monika523_journey_1_Caves=Местная Система Пещер
+monika523_journey_1_Caves=Местные Пещеры
 
 
 
@@ -35,7 +35,7 @@ monika523_journey_1_caves_d_02=Путь
 monika523_journey_1_caves_d_07=Дом
 monika523_journey_1_caves_d_13=Дом, Верхняя Зона
 monika523_journey_1_caves_d_16=Загадочные Руины
-monika523_journey_1_caves_a_32=Забытая Пещера
+monika523_journey_1_caves_a_32=Проклятая Пещера
 
 # Crystal Hearts
 poem_monika523_journey_1_caves_a=Пустота Под Тобою
@@ -49,8 +49,7 @@ poem_monika523_journey_1_caves_a=Пустота Под Тобою
 
 ##### Generic Dialog
 
-monika523journey_note=
-Небольшая записка лежащая на земле...
+monika523journey_note=Небольшая записка лежащая на земле...
 
 monika523journey_newpathopened=
 Слабым эхом до вас доносится треск камней... {n}Может быть где-то открылся новый путь?
@@ -88,8 +87,8 @@ monika523journey_timerchallenge_a=
 monika523journey_chtutorial_a=
 {#000000}
 [TUTORIAL right normal]Добро пожаловать в Journey!
-[TUTORIAL right normal]Прежде чем вы начнёте своё путешествие,{n}будет полезно узнать несколько вещей.
-[TUTORIAL right normal]Пройдите вправо, чтобы узнать основы,{n}а чтобы пропустить их, поверните налево.
+[TUTORIAL right normal]Прежде чем ты начнёшь своё путешествие,{n}будет полезно узнать несколько вещей.
+[TUTORIAL right normal]Пройди направо, чтобы узнать основы,{n}а чтобы пропустить их, поверни налево.
 
 
 
@@ -111,15 +110,15 @@ monika523journey_chtutorial_a_right=
 
 monika523journey_chtutorial_b=
 {#000000}
-[TUTORIAL right normal]В ходе этого путешествия вы вольны идти куда угодно и собирать клубнички.
-[TUTORIAL right normal]Но привычный процесс немного изменён:{n}{0.5}У вас {#61c1ff}нет дэшей{#000000}{0.5} и вы{#61c1ff}не можете прыгать по стенам{#000000},{n}{0.5}однако у вас немного {#61c1ff}больше выносливости{#000000}.
-[TUTORIAL right normal]Теперь, коснитесь знака с клубничкой.
+[TUTORIAL right normal]В ходе этого путешествия ты вольна идти куда угодно и собирать клубнички.
+[TUTORIAL right normal]Но привычный процесс немного изменён:{n}{0.5}У тебя {#61c1ff}нет дэшей{#000000}{0.5} и ты {#61c1ff}не можешь прыгать по стенам{#000000}, {0.5}однако у тебя {#61c1ff}больше выносливости{#000000}.
+[TUTORIAL right normal]Теперь, коснись картонной клубнички.
 
 monika523journey_chtutorial_ba=
 {#000000}
-[TUTORIAL right normal]Ура!{0.5} ...просто притворитесь, будто вы собрали клубничку.
-[TUTORIAL right normal]В отличие от основной игры, вы {#ff6161}не можете{#000000} полностью игнорировать клубнички.
-[TUTORIAL right normal]Здесь они необходимы, чтобы открывать новые маршруты, так что собирайте все, до каких дотянетесь!
+[TUTORIAL right normal]Ура!{0.5} ...просто притворись, будто ты собрала клубничку.
+[TUTORIAL right normal]В отличие от основной игры, ты {#ff6161}не можешь{#000000} пропускать все клубнички.
+[TUTORIAL right normal]Здесь они нужны, чтобы открывать новые маршруты, так что собирай все, до каких дотянешься!
 
 
 
@@ -128,13 +127,13 @@ monika523journey_chtutorial_ba=
 monika523journey_chtutorial_b_alt=
 {#000000}
 [TUTORIAL right normal]В ходе этого путешествия вы вольны забираться куда угодно и собирать клубнички.
-[TUTORIAL right normal]Но привычный процесс немного изменён:{0.5} У вас {#61c1ff}нет рывков{#000000}{0.5} и вы {#61c1ff}не можете прыгать по стенам{#000000}, {0.5}однако у вас немного {#61c1ff}больше выносливости{#000000}.
-[TUTORIAL right normal]Для продолжения, коснитесь знака с клубничкой.
+[TUTORIAL right normal]Но привычный процесс немного изменён:{n}{0.5}У вас {#61c1ff}нет рывков{#000000}{0.5} и вы {#61c1ff}не можете прыгать по стенам{#000000}, {0.5}однако у вас {#61c1ff}больше выносливости{#000000}.
+[TUTORIAL right normal]Для продолжения, коснитесь картонной клубнички.
 
 monika523journey_chtutorial_ba_alt=
 {#000000}
 [TUTORIAL right normal]В отличие от основной игры, вы {#ff6161}не можете{#000000} полностью игнорировать клубнички.
-[TUTORIAL right normal]Здесь они необходимы, чтобы открывать новые маршруты, так что собирайте все, до каких дотянетесь!
+[TUTORIAL right normal]Здесь они необходимы, чтобы открывать новые маршруты, так что собирайте все, какие сможете.
 
 
 
@@ -145,9 +144,9 @@ monika523journey_chtutorial_ba_alt=
 monika523journey_chtutorial_c=
 {#000000}
 [TUTORIAL right normal]Это {#67aaaa}:checkpoint: Чекпоинт{#000000}.
-[TUTORIAL right normal]Теперь, когда вы разблокировали его, вы сможете вернуться сюда в любой момент.
-[TUTORIAL right normal]Это одна из ключевых механик этого путешествия, не забывайте о ней!
-[TUTORIAL right normal]Теперь опустимся чуть ниже.
+[TUTORIAL right normal]Теперь, когда ты разблокировала его, ты сможешь вернуться сюда в любой момент.
+[TUTORIAL right normal]Это одна из ключевых механик путешествия, не забывай о ней!
+[TUTORIAL right normal]А продолжим пожалуй внизу.
 
 monika523journey_chtutorial_d=
 {anchor bottom}
@@ -158,9 +157,9 @@ monika523journey_chtutorial_d=
 monika523journey_chtutorial_e=
 {#000000}
 [TUTORIAL right normal]Отлично!{n}Теперь тут больше нечего делать, так что давай вернёмся на {#67aaaa}:checkpoint: Чекпоинт{#000000} в прошлой комнате.
-[TUTORIAL right normal]Чтобы сделать это, нажми на {#ff6161}\[Паузу\]{#000000} и выбери "{#ff6161}Вернуться к карте{#000000}".
-[TUTORIAL right normal]When you're back at the map and have the chapter selected, select "{#ff6161}НАЧАТЬ{#000000}" / "{#ff6161}CLIMB{#000000}" to see all possible places to travel to.
-[TUTORIAL right normal]From the {#67aaaa}:checkpoint: Checkpoint{#000000}, head right to continue the tutorial.
+[TUTORIAL right normal]Чтобы сделать это, нажми на {#ff6161}\[Паузу\]{#000000} и выбери{n}"{#ff6161}Вернуться к карте{#000000}".
+[TUTORIAL right normal]Когда выбрешь главу, нажми "{#ff6161}НАЧАТЬ{#000000}" или{n} "{#ff6161}ПОДЪЕМ{#000000}", чтобы увидеть все доступные точки, с которых ты можешь начать.
+[TUTORIAL right normal]Когда зайдёшь на {#67aaaa}:checkpoint: Чекпоинт{#000000}, сразу иди направо.
 	
 	
 	
@@ -168,25 +167,24 @@ monika523journey_chtutorial_e=
 
 monika523journey_chtutorial_c_alt=
 {#000000}
-[TUTORIAL right normal]This is a {#67aaaa}:checkpoint: Checkpoint{#000000}.
-[TUTORIAL right normal]Now that you've unlocked it, you can enter the level from this location at any time.
-[TUTORIAL right normal]This is a key mechanic in this campaign, so keep it in mind!
+[TUTORIAL right normal]Это {#67aaaa}:checkpoint: Чекпоинт{#000000}.
+[TUTORIAL right normal]Теперь, когда вы разблокировали его, вы сможете вернуться сюда в любой момент.
+[TUTORIAL right normal]Это одна из ключевых механик путешествия, не забывайте о ней!
 
 monika523journey_chtutorial_ca_alt=
 {#000000}
-[TUTORIAL right normal]Head downwards to continue.	
+[TUTORIAL right normal]Для продолжения спуститесь вниз.
 
 monika523journey_chtutorial_d_alt=
 {#000000}
-[TUTORIAL right normal]Complete this area by touching the cutout berry.
+[TUTORIAL right normal]Выполните зону, коснувшись знака клубнички.
 
 monika523journey_chtutorial_e_alt=
 {#000000}
-[TUTORIAL right normal]Now that there's nothing left to do in this area, head back to the {#67aaaa}:checkpoint: Checkpoint{#000000} in the previous room.
-[TUTORIAL right normal]To do this, press {#ff6161}\[Pause\]{#000000} and select "{#ff6161}Return to Map{#000000}".
-[TUTORIAL right normal]When you're back at the map and have the chapter selected, select "{#ff6161}BEGIN{#000000}" / "{#ff6161}CLIMB{#000000}" to see all possible places to travel to.
-[TUTORIAL right normal]From the {#67aaaa}:checkpoint: Checkpoint{#000000}, head right to continue the tutorial.
-	
+[TUTORIAL right normal]Теперь тут больше нечего делать, поэтому вернитесь на {#67aaaa}:checkpoint: Чекпоинт{#000000} в прошлой комнате.
+[TUTORIAL right normal]Чтобы сделать это, нажмите на {#ff6161}\[Паузу\]{#000000} и выберите{n}"{#ff6161}Вернуться к карте{#000000}".
+[TUTORIAL right normal]Когда выбрете главу, нажмите "{#ff6161}НАЧАТЬ{#000000}" или{n} "{#ff6161}ПОДЪЕМ{#000000}", чтобы увидеть все доступные точки, с которых вы можете начать.
+[TUTORIAL right normal]Когда зайдёте на {#67aaaa}:checkpoint: Чекпоинт{#000000} поверните направо.	
 	
 	
 	
@@ -195,9 +193,9 @@ monika523journey_chtutorial_e_alt=
 
 monika523journey_chtutorial_end=
 {#000000}
-[TUTORIAL right normal]That's basically it!
-[TUTORIAL right normal]You may have this cardboard cutout of a cookie as a prize for going through the tutorial.
-[TUTORIAL right normal]Once you're done admiring it, make use of {#ff6161}Return to Map{#000000} and travel to the Start of this chapter. Head left from there to finish the tutorial.
+[TUTORIAL right normal]Вот как-то так!
+[TUTORIAL right normal]Можешь взять эту картонную печеньку в качестве награды.
+[TUTORIAL right normal]Как только вдоволь насладишься ею, нажми {#ff6161}Вернуться к карте{#000000} и перейди в начало этой главы.{n}А там поверни налево, чтобы закончить туториал.
 
 
 
@@ -205,11 +203,11 @@ monika523journey_chtutorial_end=
 
 monika523journey_chtutorial_end_alt=
 {#000000}
-[TUTORIAL right normal]Make use of {#ff6161}Return to Map{#000000} and travel to the Start of this chapter. Head left from there to finish the tutorial.
+[TUTORIAL right normal]Воспользуйтесь {#ff6161}Вернуться к карте{#000000} для перехода в начало этой главы. Поверни налево, чтобы закончить туториал.
 
 monika523journey_chtutorial_end_alt_b=
 {#000000}
-[TUTORIAL right normal]You may admire the cookie. {0.5}Please do not eat it.
+[TUTORIAL right normal]Вот, можешь полюбоваться печенькой.{n}{0.5}Только не ешь её!
 
 
 
@@ -217,7 +215,7 @@ monika523journey_chtutorial_end_alt_b=
 # Tutorial End - Cookie (Minitextbox)
 
 monika523journey_chtutorial_cookie=
-[MADELINE left distracted] What do i do with this...
+[MADELINE left distracted] И что мне с ней делать...
 
 
 
@@ -225,7 +223,7 @@ monika523journey_chtutorial_cookie=
 
 monika523journey_chtutorial_exit_alt=
 {#000000}
-[TUTORIAL right normal]Step onto the podium to end the tutorial and start the campaign.
+[TUTORIAL right normal]Встаньте на возвышение, чтобы закончить обучение и начать компанию.
 
 
 
@@ -240,26 +238,26 @@ monika523journey_chtutorial_exit_alt=
 
 # Tutorial - Checkpoints (textbox appears at top)
 monika523journey_ch1_checkpoints_tutorial=
-[MADELINE left normal] Hey, look! We got a {#b2ffff}:checkpoint: {#91ff85}Checkpoint{#D3D3D3}!
-[BADELINE right concerned] Uhm, what does that mean again?
-[MADELINE left normal] It means we can return here at any point, from the chapter's checkpoint selection!
-[BADELINE right concerned] Oh, that sounds useful. We should keep that in mind.
+[MADELINE left normal] О, смотри! Мы нашли {#b2ffff}:checkpoint: {#91ff85}Чекпоинт{#D3D3D3}!
+[BADELINE right concerned] Эмм, а напомни, что это значит?
+[MADELINE left normal] Это значит, что мы в любой момент сможем вернуться сюда, из меню выбора чекпоинтов!
+[BADELINE right concerned] Да, звучит полезно. Стоит помнить об этом.
 
 # Tutorial - Checkpoints (textbox appears at middle)
 monika523journey_ch1_checkpoints_tutorial_middle=
 {anchor middle}
-[MADELINE left normal] Hey, look! We got a {#b2ffff}:checkpoint: {#91ff85}Checkpoint{#D3D3D3}!
-[BADELINE right concerned] Uhm, what does that mean again?
-[MADELINE left normal] It means we can return here at any point, from the chapter's checkpoint selection!
-[BADELINE right concerned] Oh, that sounds useful. We should keep that in mind.
+[MADELINE left normal] О, смотри! Мы нашли {#b2ffff}:checkpoint: {#91ff85}Чекпоинт{#D3D3D3}!
+[BADELINE right concerned] Эмм, а напомни, что это значит?
+[MADELINE left normal] Это значит, что мы в любой момент сможем вернуться сюда, из меню выбора чекпоинтов!
+[BADELINE right concerned] Да, звучит полезно. Стоит помнить об этом.
 
 # Tutorial - Checkpoints (textbox appears at bottom)
 monika523journey_ch1_checkpoints_tutorial_bottom=
 {anchor bottom}
-[MADELINE left normal] Hey, look! We got a {#b2ffff}:checkpoint: {#91ff85}Checkpoint{#D3D3D3}!
-[BADELINE right concerned] Uhm, what does that mean again?
-[MADELINE left normal] It means we can return here at any point, from the chapter's checkpoint selection!
-[BADELINE right concerned] Oh, that sounds useful. We should keep that in mind.
+[MADELINE left normal] О, смотри! Мы нашли {#b2ffff}:checkpoint: {#91ff85}Чекпоинт{#D3D3D3}!
+[BADELINE right concerned] Эмм, а напомни, что это значит?
+[MADELINE left normal] Это значит, что мы в любой момент сможем вернуться сюда, из меню выбора чекпоинтов!
+[BADELINE right concerned] Да, звучит полезно. Стоит помнить об этом.
 
 # Tutorial - Return to Map and warping to Checkpoints
 monika523journey_ch1_returntomap_tutorial=
