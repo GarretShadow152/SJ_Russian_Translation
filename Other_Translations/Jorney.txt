@@ -187,6 +187,7 @@ monika523journey_chtutorial_e_alt=
 [TUTORIAL right normal]Когда зайдёте на {#67aaaa}:checkpoint: Чекпоинт{#000000} поверните направо.	
 	
 	
+    
 	
 	
 # Tutorial End (Room Entry)
